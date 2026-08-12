@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Explore recurring software requests and find practical open-source project ideas.">
+  <title>Missing App Radar</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#">Missing App <span>Radar</span></a>
+    <a class="github-link" href="https://github.com/IAmZeCarrot/missing-app-radar">View on GitHub ↗</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Open-source opportunity intelligence</p>
+      <h1>Find the software people<br><em>keep asking for.</em></h1>
+      <p class="lede">A transparent, evidence-backed radar for recurring pain points hiding in developer communities.</p>
+      <div class="hero-actions">
+        <button id="explore-button" class="primary">Explore opportunities</button>
+        <button id="method-button" class="secondary">How scoring works</button>
+      </div>
+      <div class="stats" aria-label="Dataset summary">
+        <div><strong id="request-count">0</strong><span>requests analyzed</span></div>
+        <div><strong id="idea-count">0</strong><span>opportunity clusters</span></div>
+        <div><strong id="source-count">0</strong><span>communities</span></div>
+      </div>
+    </section>
+
+    <section id="radar" class="radar-section">
+      <div class="section-heading">
+        <div><p class="eyebrow">Opportunity feed</p><h2>What should we build next?</h2></div>
+        <div class="export-menu">
+          <button id="export-json" class="compact">Export JSON</button>
+          <button id="export-csv" class="compact">Export CSV</button>
+        </div>
+      </div>
+
+      <div class="controls">
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search ideas, problems, or tags…"></label>
+        <label>Category<select id="category"><option value="all">All categories</option></select></label>
+        <label>Effort<select id="effort"><option value="all">Any effort</option><option>Small</option><option>Medium</option><option>Large</option></select></label>
+        <label>Sort<select id="sort"><option value="score">Highest score</option><option value="requests">Most requested</option><option value="recent">Most recent</option><option value="effort">Lowest effort</option></select></label>
+      </div>
+
+      <div id="active-filters" class="active-filters" aria-live="polite"></div>
+      <div id="idea-grid" class="idea-grid" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state" hidden><h3>No signals found</h3><p>Try broadening the filters or using a different search.</p></div>
+    </section>
+
+    <dialog id="detail-dialog">
+      <button class="close" aria-label="Close">×</button>
+      <div id="dialog-content"></div>
+    </dialog>
+
+    <dialog id="method-dialog">
+      <button class="close" aria-label="Close">×</button>
+      <p class="eyebrow">Transparent by design</p>
+      <h2>How the score works</h2>
+      <p>Every opportunity receives a score from 0–100. No mysterious black box:</p>
+      <div class="formula"><span>40%</span> request volume + <span>25%</span> recency + <span>20%</span> pain intensity + <span>15%</span> whitespace</div>
+      <p class="muted">The included dataset is a curated demonstration. Evidence links remain attached so every conclusion can be checked. Future collectors can replace this seed data without changing the interface.</p>
+    </dialog>
+  </main>
+
+  <footer><span>Built in the open.</span><span>Evidence over hype.</span></footer>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
