@@ -36,6 +36,8 @@ npm run collect:hn
 
 This queries the Hacker News Algolia Search API for recent software requests, writes a deduplicated inbox to `data/hn-requests.json`, and builds scored clusters in `data/emerging-signals.json`. The website displays the strongest emerging clusters. A scheduled GitHub Actions workflow refreshes both files daily.
 
+Collection sources and search phrases live in `config/sources.json`, so new queries can be added without changing collector code. The refresh also searches public GitHub issues using the workflow's built-in `GITHUB_TOKEN`.
+
 ## Scoring
 
 The score is deliberately simple and auditable:
@@ -52,10 +54,10 @@ The included dataset is curated seed data for demonstrating the workflow, not a 
 ## Roadmap
 
 - Improve clustering with semantic embeddings and human review controls
-- Add GitHub issue and discussion collector
+- Add GitHub Discussions GraphQL collection
 - Introduce duplicate detection and semantic clustering
 - Store snapshots in SQLite
-- Add user-supplied source adapters
+- Add import adapters for RSS and user-supplied JSON
 - Publish a static demo with GitHub Pages
 
 ## Contributing

@@ -1,0 +1,11 @@
+{
+  "hackerNews": {
+    "enabled": true,
+    "days": 30,
+    "queries": ["Ask HN app for", "Ask HN tool for", "Ask HN software for", "wish there was an app", "looking for an app"]
+  },
+  "github": {
+    "enabled": true,
+    "queries": ["\"feature request\" app", "\"would be useful\" tool", "\"wish there was\" software"]
+  }
+}
