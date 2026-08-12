@@ -6,6 +6,7 @@
   <meta name="description" content="Explore recurring software requests and find practical open-source project ideas.">
   <title>Missing App Radar</title>
   <link rel="stylesheet" href="src/styles.css">
+  <link rel="stylesheet" href="src/emerging.css">
 </head>
 <body>
   <header class="site-header">
@@ -48,6 +49,15 @@
       <div id="active-filters" class="active-filters" aria-live="polite"></div>
       <div id="idea-grid" class="idea-grid" aria-live="polite"></div>
       <div id="empty-state" class="empty-state" hidden><h3>No signals found</h3><p>Try broadening the filters or using a different search.</p></div>
+    </section>
+
+    <section id="emerging" class="emerging-section">
+      <div class="section-heading">
+        <div><p class="eyebrow">Fresh from Hacker News</p><h2>Emerging requests</h2></div>
+        <p id="emerging-updated" class="muted"></p>
+      </div>
+      <p class="lede-small">Automatically grouped request patterns. Treat these as leads to investigate, not finished market conclusions.</p>
+      <div id="emerging-grid" class="emerging-grid" aria-live="polite"></div>
     </section>
 
     <dialog id="detail-dialog">

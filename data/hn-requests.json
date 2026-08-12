@@ -1,7 +1,55 @@
 {
-  "collectedAt": "2026-08-12T21:54:19.087Z",
+  "collectedAt": "2026-08-12T22:06:54.252Z",
   "source": "Hacker News Algolia Search API",
   "items": [
+    {
+      "id": "hn-49279185",
+      "source": "Hacker News",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "excerpt": "&gt; Eventually, this arms race ends with a computer vision model that looks at the screen, classifies visual elements as ads, and draws a rectangle over anything that looks like an ad. Surely a better way to think of this is that a person&#x27;s AI agent will simply find, via wh",
+      "author": "tshaddox",
+      "createdAt": "2026-08-12T22:00:35Z",
+      "points": 0,
+      "comments": 0,
+      "matchedQuery": "wish there was an app",
+      "url": "https://news.ycombinator.com/item?id=49270726"
+    },
+    {
+      "id": "hn-49279183",
+      "source": "Hacker News",
+      "title": "AI is removing the middle class of software engineering?",
+      "excerpt": "There was a time before &quot;learn to code&quot; when it was even more wide open. My mom taught programming at a community college in the early 80s, after learning it herself a year prior. Many of her students were working manufacturing or clerical jobs. They were able to get pr",
+      "author": "analog31",
+      "createdAt": "2026-08-12T22:00:33Z",
+      "points": 0,
+      "comments": 0,
+      "matchedQuery": "looking for an app",
+      "url": "https://news.ycombinator.com/item?id=49271994"
+    },
+    {
+      "id": "hn-49279160",
+      "source": "Hacker News",
+      "title": "France to ban unsolicited telemarketing calls",
+      "excerpt": "There are features available for most phone types &#x2F; plans, with varying levels of effectiveness. For old-school landline phones, look for &quot;Smart Call Block&quot; or a similar feature. These direct all unknown numbers to voicemail, with numbers in your contacts or allow ",
+      "author": "dredmorbius",
+      "createdAt": "2026-08-12T21:57:56Z",
+      "points": 0,
+      "comments": 0,
+      "matchedQuery": "looking for an app",
+      "url": "https://news.ycombinator.com/item?id=49254880"
+    },
+    {
+      "id": "hn-49279128",
+      "source": "Hacker News",
+      "title": "What sort of maths are LLMs good at?",
+      "excerpt": "You’re correct that those things are also what mathematics is about — but they’re less constrained, hence current LLMs aren’t as good at them. However, your last question is incorrect: people are working on that, but there haven’t been hugely useful results. But as an example, I’",
+      "author": "zmgsabst",
+      "createdAt": "2026-08-12T21:55:12Z",
+      "points": 0,
+      "comments": 0,
+      "matchedQuery": "looking for an app",
+      "url": "https://news.ycombinator.com/item?id=49270022"
+    },
     {
       "id": "hn-49278873",
       "source": "Hacker News",
@@ -22,7 +70,7 @@
       "author": "ripe",
       "createdAt": "2026-08-12T21:24:22Z",
       "points": 2,
-      "comments": 2,
+      "comments": 3,
       "matchedQuery": "Ask HN software for",
       "url": "https://news.ycombinator.com/item?id=49278761"
     },
@@ -599,7 +647,7 @@
       "createdAt": "2026-08-12T18:10:36Z",
       "points": 1,
       "comments": 0,
-      "matchedQuery": "wish there was an app",
+      "matchedQuery": "Ask HN software for",
       "url": "https://news.ycombinator.com/item?id=49276457"
     },
     {
@@ -613,18 +661,6 @@
       "comments": 0,
       "matchedQuery": "looking for an app",
       "url": "https://news.ycombinator.com/item?id=49271994"
-    },
-    {
-      "id": "hn-49276390",
-      "source": "Hacker News",
-      "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
-      "excerpt": "&#x27;show more&#x2F;less like this&#x27; should work[0] with cowboy&#x27;s for you feed. &#x27;more&#x2F;less&#x27; was proprietary for discover but they&#x27;ve rolled it out to other feeds now[1]. I think it&#x27;s part of an interactions object passed to the feed operator. Yo",
-      "author": "big_toast",
-      "createdAt": "2026-08-12T18:05:19Z",
-      "points": 0,
-      "comments": 0,
-      "matchedQuery": "wish there was an app",
-      "url": "https://news.ycombinator.com/item?id=49263461"
     },
     {
       "id": "hn-49276195",
@@ -1069,42 +1105,6 @@
       "comments": 0,
       "matchedQuery": "looking for an app",
       "url": "https://news.ycombinator.com/item?id=49271994"
-    },
-    {
-      "id": "hn-49272033",
-      "source": "Hacker News",
-      "title": "What sort of maths are LLMs good at?",
-      "excerpt": "I&#x27;m not sure why exactly, but I&#x27;ve heard the same from every single person using LLMs for anything related to jobs. The posting says it needs at least a B.S., and the LLM denies an applicant because they have an M.S. The posting thinks it needs 3yrs of work experience i",
-      "author": "hansvm",
-      "createdAt": "2026-08-12T13:22:47Z",
-      "points": 0,
-      "comments": 0,
-      "matchedQuery": "looking for an app",
-      "url": "https://news.ycombinator.com/item?id=49270022"
-    },
-    {
-      "id": "hn-49271753",
-      "source": "Hacker News",
-      "title": "LinkedIn CringeBot 3000",
-      "excerpt": "I don&#x27;t know which bubble you&#x27;re in, but since Elon took over, Twitter became absolutely unusable. The decline happened with bots flooding the platform, with the &quot;creator reward&quot; program rewarding meaningless engagement bait, and with people who I respect in t",
-      "author": "purerandomness",
-      "createdAt": "2026-08-12T13:00:48Z",
-      "points": 0,
-      "comments": 0,
-      "matchedQuery": "looking for an app",
-      "url": "https://news.ycombinator.com/item?id=49268564"
-    },
-    {
-      "id": "hn-49271739",
-      "source": "Hacker News",
-      "title": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
-      "excerpt": "HN is centered around venture capital, which in college terms is the subtopic of branch Finance under Business Administration. SJSU, a top business school half an hour south of YC Palo Alto, has an intensely competitive Investment program that admits very few applicants for which",
-      "author": "altairprime",
-      "createdAt": "2026-08-12T12:59:30Z",
-      "points": 0,
-      "comments": 0,
-      "matchedQuery": "looking for an app",
-      "url": "https://news.ycombinator.com/item?id=49260250"
     },
     {
       "id": "hn-49271564",
