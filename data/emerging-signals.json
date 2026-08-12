@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-08-12T22:06:54.952Z",
+  "generatedAt": "2026-08-12T22:12:07.667Z",
   "clusters": [
+    {
+      "id": "emerging-img-width-height",
+      "title": "Higher quality cover for SLUS-00055",
+      "summary": "<img width=\"623\" height=\"900\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/63e0f39d-a139-4a25-80ac-271a6cdc3c37\" /> My own scan for SLUS-00055.",
+      "score": 100,
+      "requests": 3,
+      "latestSignal": "2026-06-29T03:58:00Z",
+      "keywords": [
+        "img",
+        "width",
+        "height",
+        "alt",
+        "image"
+      ],
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Higher quality cover for SLUS-00055",
+          "url": "https://github.com/xlenore/psx-covers/issues/153",
+          "createdAt": "2026-06-29T03:58:00Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Energy Sensors not working",
+          "url": "https://github.com/TEJ4321/qcells_ha/issues/8",
+          "createdAt": "2026-03-25T13:44:36Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Heavy Truck Mode",
+          "url": "https://github.com/kgmonteith/BonusFFB/issues/12",
+          "createdAt": "2026-02-26T05:12:50Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-self-checks-read",
+      "title": "referencing #40671",
+      "summary": "### Self Checks - [x] I have read the [Contributing Guide](https://github.com/langgenius/dify/blob/main/CONTRIBUTING.md) and [Language Policy](https://github.com/langgenius/dify/issues/1542). - [x] I have searched for existing issues [search for existing issues](https://github.co",
+      "score": 72,
+      "requests": 2,
+      "latestSignal": "2026-08-12T21:20:10Z",
+      "keywords": [
+        "self",
+        "checks",
+        "read",
+        "contributing",
+        "guide"
+      ],
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "referencing #40671",
+          "url": "https://github.com/langgenius/dify/issues/40674",
+          "createdAt": "2026-08-12T21:20:10Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Agent (FunctionCalling strategy) fabricates tool-call success without executing the tool — correlated with semantic proximity between input data and the Agent's own instruction vocabulary",
+          "url": "https://github.com/langgenius/dify/issues/40671",
+          "createdAt": "2026-08-12T19:25:16Z"
+        }
+      ]
+    },
     {
       "id": "emerging-html-over-websockets",
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
@@ -143,6 +207,35 @@
           "label": "Ask HN: Who wants to be hired? (August 2026)",
           "url": "https://news.ycombinator.com/item?id=49156682",
           "createdAt": "2026-08-05T01:59:33Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-not-independent-preflight",
+      "title": "[BUG] Cowork: resumed session reasons from the conversation's original date, not the correct current `<env>` date — 8 independent occurrences in one day",
+      "summary": "### Preflight Checklist - [x] I have searched [existing issues](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug) and this hasn't been reported yet - [x] This is a single bug report (please file separate reports for different bugs) - [x] ",
+      "score": 50,
+      "requests": 2,
+      "latestSignal": "2026-08-12T21:26:03Z",
+      "keywords": [
+        "not",
+        "independent",
+        "preflight",
+        "checklist",
+        "searched"
+      ],
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[BUG] Cowork: resumed session reasons from the conversation's original date, not the correct current `<env>` date — 8 independent occurrences in one day",
+          "url": "https://github.com/anthropics/claude-code/issues/86219",
+          "createdAt": "2026-08-12T21:26:03Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add font size setting for Claude Code panel, independent of VS Code zoom",
+          "url": "https://github.com/anthropics/claude-code/issues/86216",
+          "createdAt": "2026-08-12T21:19:41Z"
         }
       ]
     }
