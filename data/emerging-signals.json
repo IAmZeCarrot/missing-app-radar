@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-08-12T22:06:54.952Z",
+  "clusters": [
+    {
+      "id": "emerging-html-over-websockets",
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "summary": "Sure, but SSE connections in the browser - the typical use case - are persistent, so there shouldn&#x27;t be frequent re-connecting. Unlike WebSockets, browser SSE also has a built-in recovery mechanism so you don&#x27;t miss events across reconnects (`Last-Event-ID` header), alt",
+      "score": 50,
+      "requests": 2,
+      "latestSignal": "2026-08-12T20:25:12Z",
+      "keywords": [
+        "html",
+        "over",
+        "websockets",
+        "real",
+        "time"
+      ],
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+          "url": "https://news.ycombinator.com/item?id=49275335",
+          "createdAt": "2026-08-12T20:25:12Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+          "url": "https://news.ycombinator.com/item?id=49275335",
+          "createdAt": "2026-08-12T18:55:54Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-removing-middle-class",
+      "title": "AI is removing the middle class of software engineering",
+      "summary": "&gt;, but lines-of-business supported by CRUD apps are rarely simple from an engineering perspective. You misread my comment as some dig at CRUD LOB enterprise coders. I used to work on enterprise ERP code with 20000+ tables. Yes, I agree it definitely wasn&#x27;t simple. Instead",
+      "score": 50,
+      "requests": 2,
+      "latestSignal": "2026-08-12T18:57:27Z",
+      "keywords": [
+        "removing",
+        "middle",
+        "class",
+        "software",
+        "engineering"
+      ],
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "AI is removing the middle class of software engineering",
+          "url": "https://news.ycombinator.com/item?id=49271994",
+          "createdAt": "2026-08-12T18:57:27Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "AI is removing the middle class of software engineering",
+          "url": "https://news.ycombinator.com/item?id=49271994",
+          "createdAt": "2026-08-12T18:24:52Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-license-plate-reader",
+      "title": "License plate reader searches should require a warrant",
+      "summary": "I think the operative difference here is that in the case of the little league photography, the cameras are not fixed in place, are temporary, and are not set up with the intent to capture the identity and actions of everyone in the background. Fixed-installation cameras are perm",
+      "score": 50,
+      "requests": 2,
+      "latestSignal": "2026-08-12T18:20:29Z",
+      "keywords": [
+        "license",
+        "plate",
+        "reader",
+        "searches",
+        "should"
+      ],
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "License plate reader searches should require a warrant",
+          "url": "https://news.ycombinator.com/item?id=49273165",
+          "createdAt": "2026-08-12T18:20:29Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "License plate reader searches should require a warrant",
+          "url": "https://news.ycombinator.com/item?id=49273165",
+          "createdAt": "2026-08-12T17:10:23Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-removing-middle-class",
+      "title": "AI is removing the middle class of software engineering?",
+      "summary": "Interesting article, and it makes a lot of salient points. I think I can agree with most of it while also arguing that I don&#x27;t think good code has ever had an honest measurement of quality. From an end user perspective, the end product either works or doesn&#x27;t. Working t",
+      "score": 50,
+      "requests": 2,
+      "latestSignal": "2026-08-12T18:06:19Z",
+      "keywords": [
+        "removing",
+        "middle",
+        "class",
+        "software",
+        "engineering"
+      ],
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "AI is removing the middle class of software engineering?",
+          "url": "https://news.ycombinator.com/item?id=49271994",
+          "createdAt": "2026-08-12T18:06:19Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "AI is removing the middle class of software engineering?",
+          "url": "https://news.ycombinator.com/item?id=49271994",
+          "createdAt": "2026-08-12T14:51:43Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-ask-wants-hired",
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "summary": "Location: New York City Remote: Yes (Remote or hybrid&#x2F;in-person in NYC) Willing to relocate: Maybe (FLA or TX) Technologies: Python, JavaScript, Node.js, Go, PostgreSQL, Redis, OpenLDAP, OIDC, Docker, ZFS, Linux, Proxmox VE, Git, AWS, GCP, OpenAPI, local LLM deployment (Olla",
+      "score": 50,
+      "requests": 2,
+      "latestSignal": "2026-08-07T02:11:32Z",
+      "keywords": [
+        "ask",
+        "wants",
+        "hired",
+        "august",
+        "2026"
+      ],
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Ask HN: Who wants to be hired? (August 2026)",
+          "url": "https://news.ycombinator.com/item?id=49156682",
+          "createdAt": "2026-08-07T02:11:32Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "Ask HN: Who wants to be hired? (August 2026)",
+          "url": "https://news.ycombinator.com/item?id=49156682",
+          "createdAt": "2026-08-05T01:59:33Z"
+        }
+      ]
+    }
+  ]
+}

@@ -34,7 +34,7 @@ npm test
 npm run collect:hn
 ```
 
-This queries the Hacker News Algolia Search API for recent software requests and writes a deduplicated, source-linked inbox to `data/hn-requests.json`. A scheduled GitHub Actions workflow refreshes the file daily, and it can also be run manually from the Actions tab.
+This queries the Hacker News Algolia Search API for recent software requests, writes a deduplicated inbox to `data/hn-requests.json`, and builds scored clusters in `data/emerging-signals.json`. The website displays the strongest emerging clusters. A scheduled GitHub Actions workflow refreshes both files daily.
 
 ## Scoring
 
@@ -51,7 +51,7 @@ The included dataset is curated seed data for demonstrating the workflow, not a 
 
 ## Roadmap
 
-- Turn the Hacker News request inbox into scored opportunity clusters
+- Improve clustering with semantic embeddings and human review controls
 - Add GitHub issue and discussion collector
 - Introduce duplicate detection and semantic clustering
 - Store snapshots in SQLite

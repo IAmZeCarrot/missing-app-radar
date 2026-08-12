@@ -1,11 +1,18 @@
 import { calculateScore, filterSignals, sortSignals, toCsv } from './radar.js';
 
 const $ = (selector) => document.querySelector(selector);
-const state = { signals: [], visible: [] };
+const state = { signals: [], visible: [], emerging: [] };
 
 async function init() {
   const response = await fetch('./data/signals.json');
   state.signals = await response.json();
+  const emergingResponse = await fetch('./data/emerging-signals.json');
+  if (emergingResponse.ok) {
+    const emerging = await emergingResponse.json();
+    state.emerging = emerging.clusters || [];
+    renderEmerging();
+    $('#emerging-updated').textContent = `Updated ${new Date(emerging.generatedAt).toLocaleDateString()}`;
+  }
   const categories = [...new Set(state.signals.map((s) => s.category))].sort();
   categories.forEach((category) => $('#category').insertAdjacentHTML('beforeend', `<option>${category}</option>`));
   const sources = new Set(state.signals.flatMap((s) => s.evidence.map((e) => e.source)));
@@ -13,6 +20,14 @@ async function init() {
   animateNumber($('#idea-count'), state.signals.length);
   animateNumber($('#source-count'), sources.size);
   render();
+}
+
+function renderEmerging() {
+  $('#emerging-grid').innerHTML = state.emerging.slice(0, 8).map((cluster) => `<article class="emerging-card"><div class="card-top"><span class="category">Live signal</span><strong>${cluster.score}/100</strong></div><h3>${escapeHtml(cluster.title)}</h3><p>${escapeHtml(cluster.summary)}</p><div class="tags">${cluster.keywords.map((word) => `<span>${escapeHtml(word)}</span>`).join('')}</div><div class="card-bottom"><span>${cluster.requests} related requests</span><a href="${cluster.evidence[0].url}" target="_blank" rel="noopener">Check evidence →</a></div></article>`).join('') || '<p class="muted">The first automatic refresh is still being prepared.</p>';
+}
+
+function escapeHtml(value) {
+  return String(value).replace(/[&<>'"]/g, (character) => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#39;', '"':'&quot;' })[character]);
 }
 
 function render() {
