@@ -28,6 +28,14 @@ Open <http://localhost:4173>. No installation or build step is required.
 npm test
 ```
 
+## Refresh Hacker News requests
+
+```bash
+npm run collect:hn
+```
+
+This queries the Hacker News Algolia Search API for recent software requests and writes a deduplicated, source-linked inbox to `data/hn-requests.json`. A scheduled GitHub Actions workflow refreshes the file daily, and it can also be run manually from the Actions tab.
+
 ## Scoring
 
 The score is deliberately simple and auditable:
@@ -43,7 +51,7 @@ The included dataset is curated seed data for demonstrating the workflow, not a 
 
 ## Roadmap
 
-- Add Hacker News Algolia collector
+- Turn the Hacker News request inbox into scored opportunity clusters
 - Add GitHub issue and discussion collector
 - Introduce duplicate detection and semantic clustering
 - Store snapshots in SQLite
