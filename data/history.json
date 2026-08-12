@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "snapshots": [
+    {
+      "date": "2026-08-12",
+      "clusters": 4,
+      "requests": 10,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-ask-some-currently",
+          "score": 75,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 72,
+          "requests": 4
+        },
+        {
+          "id": "emerging-claude-code-feature",
+          "score": 66,
+          "requests": 2
+        },
+        {
+          "id": "emerging-first-all-like",
+          "score": 50,
+          "requests": 2
+        }
+      ]
+    }
+  ]
+}
