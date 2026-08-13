@@ -1,12 +1,17 @@
 export const effortRank = { Small: 1, Medium: 2, Large: 3 };
 
 export function calculateScore(signal) {
+  return calculateScoreBreakdown(signal).total;
+}
+
+export function calculateScoreBreakdown(signal, now = Date.now()) {
   const volume = Math.min(signal.requests / 40, 1) * 40;
-  const ageDays = Math.max(0, (Date.now() - new Date(signal.latestSignal)) / 86400000);
+  const ageDays = Math.max(0, (now - new Date(signal.latestSignal)) / 86400000);
   const recency = Math.max(0, 1 - ageDays / 730) * 25;
   const pain = (signal.pain / 5) * 20;
   const whitespace = (signal.whitespace / 5) * 15;
-  return Math.round(volume + recency + pain + whitespace);
+  const components = { volume:Math.round(volume), recency:Math.round(recency), pain:Math.round(pain), whitespace:Math.round(whitespace) };
+  return { ...components, total:Object.values(components).reduce((sum, value) => sum + value, 0), weights:{ volume:40, recency:25, pain:20, whitespace:15 } };
 }
 
 export function filterSignals(signals, filters) {
