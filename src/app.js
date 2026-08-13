@@ -1,4 +1,4 @@
-import { calculateScore, filterSignals, sortSignals, toCsv } from './radar.js';
+import { calculateScore, calculateScoreBreakdown, filterSignals, sortSignals, toCsv } from './radar.js';
 
 const $ = (selector) => document.querySelector(selector);
 const state = { signals: [], visible: [], emerging: [] };
@@ -23,7 +23,7 @@ async function init() {
 }
 
 function renderEmerging() {
-  $('#emerging-grid').innerHTML = state.emerging.slice(0, 8).map((cluster) => `<article class="emerging-card"><div class="card-top"><span class="category">Live signal</span><strong>${cluster.score}/100</strong></div><h3>${escapeHtml(cluster.title)}</h3><p>${escapeHtml(cluster.summary)}</p><div class="tags">${cluster.keywords.map((word) => `<span>${escapeHtml(word)}</span>`).join('')}</div><div class="card-bottom"><span>${cluster.requests} related requests</span><a href="${cluster.evidence[0].url}" target="_blank" rel="noopener">Check evidence →</a></div></article>`).join('') || '<p class="muted">The first automatic refresh is still being prepared.</p>';
+  $('#emerging-grid').innerHTML = state.emerging.slice(0, 8).map((cluster) => `<article class="emerging-card"><div class="card-top"><span class="category">${cluster.reviewStatus === 'reviewed' ? 'Human reviewed' : 'Automatic lead'}</span><strong>${cluster.score}/100</strong></div><h3>${escapeHtml(cluster.title)}</h3><p>${escapeHtml(cluster.summary)}</p><div class="tags">${cluster.keywords.map((word) => `<span>${escapeHtml(word)}</span>`).join('')}</div><p class="score-note">Score: ${cluster.scoreComponents?.base ?? '—'} base + ${cluster.scoreComponents?.volume ?? '—'} volume + ${cluster.scoreComponents?.engagement ?? '—'} engagement</p><div class="card-bottom"><span>${cluster.requests} requests · ${new Set(cluster.evidence.map((item) => item.source)).size} source(s)</span><a href="${cluster.evidence[0].url}" target="_blank" rel="noopener">Check evidence →</a></div></article>`).join('') || '<p class="muted">The first automatic refresh is still being prepared.</p>';
 }
 
 function escapeHtml(value) {
@@ -44,15 +44,16 @@ function card(signal, index) {
   const score = calculateScore(signal);
   return `<article class="idea-card" style="--delay:${index * 45}ms">
     <div class="card-top"><span class="category">${signal.category}</span><span class="effort ${signal.effort.toLowerCase()}">${signal.effort}</span></div>
-    <h3>${signal.title}</h3><p>${signal.summary}</p>
-    <div class="tags">${signal.tags.map((tag) => `<span>${tag}</span>`).join('')}</div>
+    <h3>${escapeHtml(signal.title)}</h3><p>${escapeHtml(signal.summary)}</p>
+    <div class="tags">${signal.tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}</div>
     <div class="card-bottom"><div class="score"><strong>${score}</strong><span>signal score</span></div><div class="request-total"><strong>${signal.requests}</strong><span>requests</span></div><button data-id="${signal.id}">View evidence →</button></div>
   </article>`;
 }
 
 function openDetail(id) {
   const signal = state.signals.find((item) => item.id === id);
-  $('#dialog-content').innerHTML = `<p class="eyebrow">${signal.category} · ${signal.effort} effort</p><h2>${signal.title}</h2><p class="dialog-summary">${signal.summary}</p><h3>Suggested MVP</h3><ul>${signal.mvp.map((item) => `<li>${item}</li>`).join('')}</ul><h3>Evidence</h3><div class="evidence">${signal.evidence.map((item) => `<a href="${item.url}" target="_blank" rel="noopener"><span>${item.source}</span>${item.label}<b>↗</b></a>`).join('')}</div>`;
+  const score = calculateScoreBreakdown(signal);
+  $('#dialog-content').innerHTML = `<p class="eyebrow">${escapeHtml(signal.category)} · ${escapeHtml(signal.effort)} effort</p><h2>${escapeHtml(signal.title)}</h2><p class="dialog-summary">${escapeHtml(signal.summary)}</p><h3>Why it scored ${score.total}</h3><div class="score-breakdown"><span>Volume <b>${score.volume}/40</b></span><span>Recency <b>${score.recency}/25</b></span><span>Pain <b>${score.pain}/20</b></span><span>Whitespace <b>${score.whitespace}/15</b></span></div><h3>Suggested MVP</h3><ul>${signal.mvp.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul><h3>Evidence</h3><div class="evidence">${signal.evidence.map((item) => `<a href="${item.url}" target="_blank" rel="noopener"><span>${escapeHtml(item.source)}</span>${escapeHtml(item.label)}<b>↗</b></a>`).join('')}</div>`;
   $('#detail-dialog').showModal();
 }
 
