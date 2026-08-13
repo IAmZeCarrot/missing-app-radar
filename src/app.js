@@ -4,15 +4,16 @@ const $ = (selector) => document.querySelector(selector);
 const state = { signals: [], visible: [], emerging: [] };
 
 async function init() {
+  $('#load-error').hidden = true;
   const response = await fetch('./data/signals.json');
+  if (!response.ok) throw new Error(`Signal dataset returned HTTP ${response.status}`);
   state.signals = await response.json();
   const emergingResponse = await fetch('./data/emerging-signals.json');
-  if (emergingResponse.ok) {
-    const emerging = await emergingResponse.json();
-    state.emerging = emerging.clusters || [];
-    renderEmerging();
-    $('#emerging-updated').textContent = `Updated ${new Date(emerging.generatedAt).toLocaleDateString()}`;
-  }
+  if (!emergingResponse.ok) throw new Error(`Collected dataset returned HTTP ${emergingResponse.status}`);
+  const emerging = await emergingResponse.json();
+  state.emerging = emerging.clusters || [];
+  renderEmerging();
+  renderFreshness(emerging.generatedAt);
   const categories = [...new Set(state.signals.map((s) => s.category))].sort();
   categories.forEach((category) => $('#category').insertAdjacentHTML('beforeend', `<option>${category}</option>`));
   const sources = new Set(state.signals.flatMap((s) => s.evidence.map((e) => e.source)));
@@ -20,6 +21,24 @@ async function init() {
   animateNumber($('#idea-count'), state.signals.length);
   animateNumber($('#source-count'), sources.size);
   render();
+}
+
+function renderFreshness(generatedAt) {
+  const generated = new Date(generatedAt);
+  if (Number.isNaN(generated.getTime())) {
+    $('#data-status').textContent = 'Freshness unknown';
+    $('#data-status-detail').textContent = 'The collected dataset has no valid generation date.';
+    $('#emerging-updated').textContent = 'Update date unavailable';
+    return;
+  }
+  const ageDays = Math.max(0, Math.floor((Date.now() - generated.getTime()) / 86400000));
+  const stale = ageDays > 7;
+  $('#data-status').textContent = stale ? 'Data may be stale' : 'Recently refreshed';
+  $('#data-status').classList.toggle('stale', stale);
+  $('#data-status-detail').textContent = stale
+    ? `Last collection was ${ageDays} days ago. Verify sources before acting.`
+    : `Collected ${ageDays === 0 ? 'today' : `${ageDays} day${ageDays === 1 ? '' : 's'} ago`}.`;
+  $('#emerging-updated').textContent = `Updated ${generated.toLocaleDateString()}`;
 }
 
 function renderEmerging() {
@@ -76,4 +95,14 @@ document.querySelectorAll('dialog .close').forEach((button) => button.addEventLi
 document.querySelectorAll('dialog').forEach((dialog) => dialog.addEventListener('click', (event) => { if (event.target === dialog) dialog.close(); }));
 $('#export-json').addEventListener('click', () => download('missing-app-signals.json', JSON.stringify(state.visible, null, 2), 'application/json'));
 $('#export-csv').addEventListener('click', () => download('missing-app-signals.csv', toCsv(state.visible), 'text/csv'));
-init().catch(() => { $('#idea-grid').innerHTML = '<p>Could not load the signal dataset. Serve this directory over HTTP and try again.</p>'; });
+$('#retry-button').addEventListener('click', () => init().catch(showLoadError));
+
+function showLoadError(error) {
+  $('#load-error').hidden = false;
+  $('#load-error-detail').textContent = `${error.message}. Refresh the page or check the project status on GitHub.`;
+  $('#data-status').textContent = 'Data unavailable';
+  $('#data-status').classList.add('stale');
+  $('#data-status-detail').textContent = 'No scores are being presented as current.';
+}
+
+init().catch(showLoadError);

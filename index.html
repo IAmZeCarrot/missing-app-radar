@@ -30,6 +30,18 @@
       </div>
     </section>
 
+    <section class="trust-strip" aria-label="About this dataset">
+      <div><strong>Evidence-linked</strong><span>Open every source behind a signal.</span></div>
+      <div><strong>Heuristic, not prophecy</strong><span>Scores help compare leads, not guarantee demand.</span></div>
+      <div><strong id="data-status">Checking freshness…</strong><span id="data-status-detail" aria-live="polite">Loading collected-data metadata.</span></div>
+    </section>
+
+    <section id="load-error" class="load-error" role="alert" hidden>
+      <h2>The radar data could not be loaded</h2>
+      <p id="load-error-detail">Refresh the page or check the project status on GitHub.</p>
+      <button id="retry-button" class="primary">Try again</button>
+    </section>
+
     <section id="radar" class="radar-section">
       <div class="section-heading">
         <div><p class="eyebrow">Opportunity feed</p><h2>What should we build next?</h2></div>

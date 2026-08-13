@@ -4,6 +4,12 @@ An evidence-backed dashboard for finding recurring software requests worth build
 
 Missing App Radar turns scattered “I wish this existed” discussions into comparable opportunity clusters. Every idea keeps its evidence links and receives a transparent score based on request volume, recency, pain intensity, and whitespace.
 
+## Try it
+
+Open the [live Missing App Radar](https://iamzecarrot.github.io/missing-app-radar/) in any modern browser. No installation, account, backend, telemetry, or paid service is required.
+
+The interface labels automated clusters as leads, links every displayed signal to its evidence, and warns when collected data is stale or unavailable.
+
 ## Features
 
 - Search and filter opportunity clusters
@@ -92,7 +98,7 @@ Emerging cluster scores use a separate heuristic displayed on every card: a 28-p
 - Introduce duplicate detection and semantic clustering
 - Store snapshots in SQLite
 - Add import adapters for RSS and user-supplied JSON
-- Publish a static demo with GitHub Pages
+- Add confidence-aware semantic clustering
 
 ## Data limitations
 
@@ -101,6 +107,10 @@ Emerging cluster scores use a separate heuristic displayed on every card: a 28-p
 - Engagement is community-specific and is not normalized across sources.
 - Historical snapshots begin when this release is first run; the project does not invent backfilled history.
 - GitHub API rate limits still apply. The scheduled workflow uses its standard repository token; local collection can use `GITHUB_TOKEN`.
+
+## Deployment
+
+Changes merged into `main` are verified and deployed through GitHub Actions. In repository settings, GitHub Pages must use **GitHub Actions** as its source.
 
 ## Contributing
 
