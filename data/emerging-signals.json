@@ -1,357 +1,151 @@
 {
-  "generatedAt": "2026-08-13T09:33:24.118Z",
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-14T09:20:32.205Z",
   "clusters": [
     {
-      "id": "emerging-img-width-height",
-      "title": "Higher quality cover for SLUS-00055",
-      "summary": "<img width=\"623\" height=\"900\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/63e0f39d-a139-4a25-80ac-271a6cdc3c37\" /> My own scan for SLUS-00055.",
-      "score": 100,
+      "id": "emerging-ask-x27-but",
+      "title": "Ask HN: What do you use for budgeting in the business?",
+      "summary": "My wife and I use one app for personal and she now uses it for her business. I&#x27;m incubating a business and using that personal budgeting app is plenty for now, from the family perspective, it&#x27;s basically a hobby. But we&#x27;re going to build some app store apps that ne",
+      "score": 88,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 27
+      },
       "requests": 3,
-      "latestSignal": "2026-06-29T03:58:00Z",
+      "latestSignal": "2026-08-13T23:51:29Z",
       "keywords": [
-        "img",
-        "width",
-        "height",
-        "alt",
-        "image"
+        "ask",
+        "x27",
+        "but",
+        "some",
+        "use"
       ],
+      "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "GitHub",
-          "label": "Higher quality cover for SLUS-00055",
-          "url": "https://github.com/xlenore/psx-covers/issues/153",
-          "createdAt": "2026-06-29T03:58:00Z"
+          "source": "Hacker News",
+          "label": "Ask HN: What do you use for budgeting in the business?",
+          "url": "https://news.ycombinator.com/item?id=49293175",
+          "createdAt": "2026-08-13T23:51:29Z"
         },
         {
-          "source": "GitHub",
-          "label": "Energy Sensors not working",
-          "url": "https://github.com/TEJ4321/qcells_ha/issues/8",
-          "createdAt": "2026-03-25T13:44:36Z"
+          "source": "Hacker News",
+          "label": "Ask HN: What is some software that you wish existed?",
+          "url": "https://news.ycombinator.com/item?id=49259602",
+          "createdAt": "2026-08-11T15:09:11Z"
         },
         {
-          "source": "GitHub",
-          "label": "Heavy Truck Mode",
-          "url": "https://github.com/kgmonteith/BonusFFB/issues/12",
-          "createdAt": "2026-02-26T05:12:50Z"
+          "source": "Hacker News",
+          "label": "ask HN: How do I run Android 15 on a system with Andr 12 vendors?",
+          "url": "https://news.ycombinator.com/item?id=49141723",
+          "createdAt": "2026-08-02T06:36:20Z"
         }
       ]
     },
     {
       "id": "emerging-feature-request-related",
-      "title": "### Feature: Interactive Weather Polygon Map Overlay",
-      "summary": "**Is your feature request related to a problem?** Drivers look at a weather app, see a storm in \"Colorado,\" but struggle to visualize if their specific highway route intersects with the severe weather. **Describe the solution you'd like** Fetch National Weather Service API data a",
-      "score": 66,
-      "requests": 2,
-      "latestSignal": "2026-08-13T09:05:49Z",
+      "title": "[Feature] Desktop/Studio: Export and import downloaded models (.unsloth portable archive) for backup or transfer between computers",
+      "summary": "### Feature Request: Export/Import downloaded models — portable backup for reuse or transfer between computers **Is your feature request related to a problem? Please describe.** Every time I switch computers, reinstall my OS, or clean my disk, I have to re-download every model I",
+      "score": 79,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 7
+      },
+      "requests": 8,
+      "latestSignal": "2026-08-14T09:18:59Z",
       "keywords": [
         "feature",
         "request",
         "related",
         "problem",
-        "drivers"
+        "please"
       ],
+      "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "### Feature: Interactive Weather Polygon Map Overlay",
-          "url": "https://github.com/KanishJebaMathewM/Truxify/issues/11932",
-          "createdAt": "2026-08-13T09:05:49Z"
+          "label": "[Feature] Desktop/Studio: Export and import downloaded models (.unsloth portable archive) for backup or transfer between computers",
+          "url": "https://github.com/unslothai/unsloth/issues/8798",
+          "createdAt": "2026-08-14T09:18:59Z"
         },
         {
           "source": "GitHub",
-          "label": "### Feature: Offline-First Document OCR Processor",
-          "url": "https://github.com/KanishJebaMathewM/Truxify/issues/11917",
-          "createdAt": "2026-08-13T08:59:10Z"
+          "label": "Feature Request: Add \"Duplicate Event\" functionality",
+          "url": "https://github.com/SoluceTechnologies/nextcloud-calendar-mobile/issues/175",
+          "createdAt": "2026-08-14T08:44:14Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Option to toggle 24-hour time format regardless of app language",
+          "url": "https://github.com/SoluceTechnologies/nextcloud-calendar-mobile/issues/174",
+          "createdAt": "2026-08-14T08:41:51Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[milestone] Application patterns",
+          "url": "https://github.com/swisspost/design-system/issues/8309",
+          "createdAt": "2026-08-14T08:07:58Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Auto Frame Rate (AFR) matching in Fullscreen Video",
+          "url": "https://github.com/truefedex/tv-bro/issues/266",
+          "createdAt": "2026-08-14T07:48:23Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Support External Gamepad Gyroscope on Android",
+          "url": "https://github.com/eden-emulator/Issue-Reports/issues/611",
+          "createdAt": "2026-08-14T07:29:56Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Pre-flight verification layer for intent-bound external evidence before tool execution",
+          "url": "https://github.com/ag2ai/ag2/issues/3156",
+          "createdAt": "2026-08-14T02:01:44Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
         }
       ]
     },
     {
-      "id": "emerging-image-feature-request",
-      "title": "Image alignment in image galleries",
-      "summary": "### Is your feature request related to a problem? Please describe. When I add one image in a post or page it is centralised, I noticed that for a gallery of 2 images they are aligned on the left, see this example: https://dariah-website-beta.vercel.app/about/impact-case-studies/b",
-      "score": 61,
+      "id": "emerging-feature-request-command",
+      "title": "Calculator CLI feature request",
+      "summary": "## Feature Description Build a Node.js CLI calculator app that supports basic arithmetic operations. ## Use Case Developers and learners need a simple command-line calculator to quickly perform arithmetic without opening a GUI app. This would also serve as a minimal example of pa",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
       "requests": 2,
-      "latestSignal": "2026-08-13T08:04:43Z",
+      "latestSignal": "2026-08-14T08:25:58Z",
       "keywords": [
-        "image",
         "feature",
         "request",
-        "related",
-        "problem"
+        "command",
+        "line",
+        "gui"
       ],
+      "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Image alignment in image galleries",
-          "url": "https://github.com/DARIAH-ERIC/dariah-website/issues/423",
-          "createdAt": "2026-08-13T08:04:43Z"
+          "label": "Calculator CLI feature request",
+          "url": "https://github.com/trcat/skills-create-applications-with-the-copilot-cli/issues/2",
+          "createdAt": "2026-08-14T08:25:58Z"
         },
         {
           "source": "GitHub",
-          "label": "Add Recent Tools in Share Sheet",
-          "url": "https://github.com/T8RIN/ImageToolbox/issues/3054",
-          "createdAt": "2026-08-13T07:33:41Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-why-target-common",
-      "title": "Why Target Common Lisp for Code Generation?",
-      "summary": "My gut feeling is, this post is 180° wrong. LLMs are the exact opposite of &quot;elite coders&quot;, they&#x27;re perfect StackOverflow users: * they memorize adapt and write back small-scale patterns very efficiently; * they know widespread libraries inside out, and can learn ot",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-13T09:10:30Z",
-      "keywords": [
-        "why",
-        "target",
-        "common",
-        "lisp",
-        "code"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Why Target Common Lisp for Code Generation?",
-          "url": "https://news.ycombinator.com/item?id=49269429",
-          "createdAt": "2026-08-13T09:10:30Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Why Target Common Lisp for Code Generation?",
-          "url": "https://news.ycombinator.com/item?id=49269429",
-          "createdAt": "2026-08-13T06:05:53Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-michigan-drops-first",
-      "title": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
-      "summary": "&gt; Grinding grades and academics is absolutely a path the top tier universities like Berkeley or UCLA, even if you won&#x27;t get in the S tier private schools. Yeah. We are talking about different types of schools. For one, Cal and UCLA both admit a lot of students. It’s just ",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-13T08:53:18Z",
-      "keywords": [
-        "michigan",
-        "drops",
-        "first",
-        "semester",
-        "grades"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
-          "url": "https://news.ycombinator.com/item?id=49260250",
-          "createdAt": "2026-08-13T08:53:18Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
-          "url": "https://news.ycombinator.com/item?id=49260250",
-          "createdAt": "2026-08-12T22:06:49Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-ublock-origin-giving",
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "summary": "Just because some people are more resilient to opium, and some people can have a good time on it, doesn&#x27;t mean you should get an opium injection when you&#x27;re going for a regularly scheduled doctor&#x27;s appointment. Ads are being forced on you when you&#x27;re trying to",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-13T08:30:02Z",
-      "keywords": [
-        "ublock",
-        "origin",
-        "giving",
-        "fight",
-        "keep"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-          "url": "https://news.ycombinator.com/item?id=49270726",
-          "createdAt": "2026-08-13T08:30:02Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-          "url": "https://news.ycombinator.com/item?id=49270726",
-          "createdAt": "2026-08-13T00:41:41Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-removing-middle-class",
-      "title": "AI is removing the middle class of software engineering?",
-      "summary": "&gt; If you think A is not happening for a software engineer&#x27;s role, then you are mistaken. En masse, I argue not. More productivity for engineers would not be met with mass layoffs if engineering production was why value was being added. On the contrary, other industries ha",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-13T08:09:04Z",
-      "keywords": [
-        "removing",
-        "middle",
-        "class",
-        "software",
-        "engineering"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "createdAt": "2026-08-13T08:09:04Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "createdAt": "2026-08-12T14:51:43Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-ublock-origin-giving",
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "summary": "&gt; Eventually, this arms race ends with a computer vision model that looks at the screen, classifies visual elements as ads, and draws a rectangle over anything that looks like an ad. I think fandom wikis appear to have surpassed even this level of bad which I thought was the f",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-13T04:22:18Z",
-      "keywords": [
-        "ublock",
-        "origin",
-        "giving",
-        "fight",
-        "keep"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-          "url": "https://news.ycombinator.com/item?id=49270726",
-          "createdAt": "2026-08-13T04:22:18Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-          "url": "https://news.ycombinator.com/item?id=49270726",
-          "createdAt": "2026-08-13T00:55:58Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-removing-middle-class",
-      "title": "AI is removing the middle class of software engineering?",
-      "summary": "&gt; Current timelines I&#x27;m facing are to be going from &quot;thought&quot;, through customer trials and being fully live in the product and ready for sales in ~3 weeks (from kick off to live in app is a bit more than a week). This is for a full product feature that could eas",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-13T03:12:19Z",
-      "keywords": [
-        "removing",
-        "middle",
-        "class",
-        "software",
-        "engineering"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "createdAt": "2026-08-13T03:12:19Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "createdAt": "2026-08-13T02:24:18Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-people-grew-high",
-      "title": "People who grew up with high economic connectedness earn more",
-      "summary": "&gt; Education powerfully influences lifetime earnings Based on what? There is positive correlation between educational attainment and lifetime earnings, but that does not imply that education is an influencer. One reasonable explanation for that correlation is that one who has q",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-12T22:10:25Z",
-      "keywords": [
-        "people",
-        "grew",
-        "high",
-        "economic",
-        "connectedness"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "People who grew up with high economic connectedness earn more",
-          "url": "https://news.ycombinator.com/item?id=49276534",
-          "createdAt": "2026-08-12T22:10:25Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "People who grew up with high economic connectedness earn more",
-          "url": "https://news.ycombinator.com/item?id=49276534",
-          "createdAt": "2026-08-12T22:09:02Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-bluesky-active-user",
-      "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
-      "summary": "&gt;Thanks to those lists I am blocked by 165 people. I don&#x27;t insult anyone, I don&#x27;t even swear. I suspect I get on these lists simply by being a white male (which is I guess obvious from my posts). The reason is obviously not being a &quot;white male&quot; - because th",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-12T22:09:05Z",
-      "keywords": [
-        "bluesky",
-        "active",
-        "user",
-        "base",
-        "shrinking"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Bluesky's active user base is shrinking as its focus expands beyond the app",
-          "url": "https://news.ycombinator.com/item?id=49263461",
-          "createdAt": "2026-08-12T22:09:05Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Bluesky's active user base is shrinking as its focus expands beyond the app",
-          "url": "https://news.ycombinator.com/item?id=49263461",
-          "createdAt": "2026-08-11T21:18:09Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-ask-wants-hired",
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
-      "summary": "Location: New York City Remote: Yes (Remote or hybrid&#x2F;in-person in NYC) Willing to relocate: Maybe (FLA or TX) Technologies: Python, JavaScript, Node.js, Go, PostgreSQL, Redis, OpenLDAP, OIDC, Docker, ZFS, Linux, Proxmox VE, Git, AWS, GCP, OpenAPI, local LLM deployment (Olla",
-      "score": 50,
-      "requests": 2,
-      "latestSignal": "2026-08-07T02:11:32Z",
-      "keywords": [
-        "ask",
-        "wants",
-        "hired",
-        "august",
-        "2026"
-      ],
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: Who wants to be hired? (August 2026)",
-          "url": "https://news.ycombinator.com/item?id=49156682",
-          "createdAt": "2026-08-07T02:11:32Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: Who wants to be hired? (August 2026)",
-          "url": "https://news.ycombinator.com/item?id=49156682",
-          "createdAt": "2026-08-05T01:59:33Z"
+          "label": "Feature Request: Command Line Interface",
+          "url": "https://github.com/SlavomirDurej/DVConverter/issues/9",
+          "createdAt": "2026-08-14T05:41:30Z"
         }
       ]
     }

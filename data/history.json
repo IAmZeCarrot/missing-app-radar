@@ -28,6 +28,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "clusters": 3,
+      "requests": 13,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-ask-x27-but",
+          "score": 88,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 79,
+          "requests": 8
+        },
+        {
+          "id": "emerging-feature-request-command",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
