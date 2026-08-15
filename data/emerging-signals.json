@@ -1,110 +1,98 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-14T09:20:32.205Z",
+  "generatedAt": "2026-08-15T08:45:09.598Z",
   "clusters": [
     {
-      "id": "emerging-ask-x27-but",
-      "title": "Ask HN: What do you use for budgeting in the business?",
-      "summary": "My wife and I use one app for personal and she now uses it for her business. I&#x27;m incubating a business and using that personal budgeting app is plenty for now, from the family perspective, it&#x27;s basically a hobby. But we&#x27;re going to build some app store apps that ne",
-      "score": 88,
+      "id": "emerging-feature-first-thanks",
+      "title": "Feature request",
+      "summary": "First thanks a lot for this amazing piece of software, simple, work out of the box, and straight to the point. However only one simple basic thing **the font is too small on my screen**, I wish if there was a way to change font size or font to fix that issue, maybe pick a specifi",
+      "score": 78,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 27
+        "volume": 22,
+        "engagement": 28
       },
-      "requests": 3,
-      "latestSignal": "2026-08-13T23:51:29Z",
+      "requests": 2,
+      "latestSignal": "2026-05-25T14:37:31Z",
       "keywords": [
-        "ask",
-        "x27",
-        "but",
-        "some",
-        "use"
+        "feature",
+        "first",
+        "thanks",
+        "however",
+        "wish"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "Hacker News",
-          "label": "Ask HN: What do you use for budgeting in the business?",
-          "url": "https://news.ycombinator.com/item?id=49293175",
-          "createdAt": "2026-08-13T23:51:29Z"
+          "source": "GitHub",
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
         },
         {
-          "source": "Hacker News",
-          "label": "Ask HN: What is some software that you wish existed?",
-          "url": "https://news.ycombinator.com/item?id=49259602",
-          "createdAt": "2026-08-11T15:09:11Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "ask HN: How do I run Android 15 on a system with Andr 12 vendors?",
-          "url": "https://news.ycombinator.com/item?id=49141723",
-          "createdAt": "2026-08-02T06:36:20Z"
+          "source": "GitHub",
+          "label": "Time Schedule",
+          "url": "https://github.com/rstrouse/ESPSomfy-RTS/issues/634",
+          "createdAt": "2026-01-29T19:22:36Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-related",
-      "title": "[Feature] Desktop/Studio: Export and import downloaded models (.unsloth portable archive) for backup or transfer between computers",
-      "summary": "### Feature Request: Export/Import downloaded models — portable backup for reuse or transfer between computers **Is your feature request related to a problem? Please describe.** Every time I switch computers, reinstall my OS, or clean my disk, I have to re-download every model I",
-      "score": 79,
+      "id": "emerging-feature-request-problem",
+      "title": "Add end-to-end simulation examples using modern Gazebo",
+      "summary": "### Is your feature request related to a problem? Please describe. Tesseract provides useful examples for motion planning, collision checking, and visualization, but there are relatively few examples showing how Tesseract can be used as part of a complete simulation workflow. For",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 0
       },
-      "requests": 8,
-      "latestSignal": "2026-08-14T09:18:59Z",
+      "requests": 7,
+      "latestSignal": "2026-08-15T08:44:23Z",
       "keywords": [
         "feature",
         "request",
-        "related",
         "problem",
-        "please"
+        "related",
+        "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature] Desktop/Studio: Export and import downloaded models (.unsloth portable archive) for backup or transfer between computers",
-          "url": "https://github.com/unslothai/unsloth/issues/8798",
-          "createdAt": "2026-08-14T09:18:59Z"
+          "label": "Add end-to-end simulation examples using modern Gazebo",
+          "url": "https://github.com/tesseract-robotics/tesseract/issues/1336",
+          "createdAt": "2026-08-15T08:44:23Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add \"Duplicate Event\" functionality",
-          "url": "https://github.com/SoluceTechnologies/nextcloud-calendar-mobile/issues/175",
-          "createdAt": "2026-08-14T08:44:14Z"
+          "label": "Feature Request: Add AI Text-to-Speech (TTS) Support",
+          "url": "https://github.com/newo-ether/Agora/issues/93",
+          "createdAt": "2026-08-15T08:33:46Z"
         },
         {
           "source": "GitHub",
-          "label": "Option to toggle 24-hour time format regardless of app language",
-          "url": "https://github.com/SoluceTechnologies/nextcloud-calendar-mobile/issues/174",
-          "createdAt": "2026-08-14T08:41:51Z"
+          "label": "User Interface custimization",
+          "url": "https://github.com/Futsch1/medTimer/issues/1658",
+          "createdAt": "2026-08-15T08:04:31Z"
         },
         {
           "source": "GitHub",
-          "label": "[milestone] Application patterns",
-          "url": "https://github.com/swisspost/design-system/issues/8309",
-          "createdAt": "2026-08-14T08:07:58Z"
+          "label": "Gadgetbridge support",
+          "url": "https://github.com/dreeveapp/dreeve/issues/2511",
+          "createdAt": "2026-08-15T06:25:47Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Auto Frame Rate (AFR) matching in Fullscreen Video",
-          "url": "https://github.com/truefedex/tv-bro/issues/266",
-          "createdAt": "2026-08-14T07:48:23Z"
+          "label": "[Feature Request]: Add /account-sync-push API endpoint for 2-way cloud synchronization",
+          "url": "https://github.com/ProdigyV21/ARVIO/issues/571",
+          "createdAt": "2026-08-15T06:18:30Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Support External Gamepad Gyroscope on Android",
-          "url": "https://github.com/eden-emulator/Issue-Reports/issues/611",
-          "createdAt": "2026-08-14T07:29:56Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request]: Pre-flight verification layer for intent-bound external evidence before tool execution",
-          "url": "https://github.com/ag2ai/ag2/issues/3156",
-          "createdAt": "2026-08-14T02:01:44Z"
+          "label": "Show message timestamps in agent conversations",
+          "url": "https://github.com/nimbalyst/nimbalyst/issues/1264",
+          "createdAt": "2026-08-14T22:42:28Z"
         },
         {
           "source": "GitHub",
@@ -115,37 +103,37 @@
       ]
     },
     {
-      "id": "emerging-feature-request-command",
-      "title": "Calculator CLI feature request",
-      "summary": "## Feature Description Build a Node.js CLI calculator app that supports basic arithmetic operations. ## Use Case Developers and learners need a simple command-line calculator to quickly perform arithmetic without opening a GUI app. This would also serve as a minimal example of pa",
-      "score": 50,
+      "id": "emerging-feature-request-open",
+      "title": "Feature request: Ability to compress the audio as downloading happens",
+      "summary": "### Checklist - [x] I have used the search function for [**OPEN**](https://github.com/AntennaPod/AntennaPod/issues) issues to see if someone else has already submitted the same feature request. - [x] I have **also** used the search function for [**CLOSED**](https://github.com/Ant",
+      "score": 66,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 16
       },
       "requests": 2,
-      "latestSignal": "2026-08-14T08:25:58Z",
+      "latestSignal": "2026-08-15T07:54:31Z",
       "keywords": [
         "feature",
         "request",
-        "command",
-        "line",
-        "gui"
+        "open",
+        "issues",
+        "closed"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Calculator CLI feature request",
-          "url": "https://github.com/trcat/skills-create-applications-with-the-copilot-cli/issues/2",
-          "createdAt": "2026-08-14T08:25:58Z"
+          "label": "Feature request: Ability to compress the audio as downloading happens",
+          "url": "https://github.com/AntennaPod/AntennaPod/issues/8658",
+          "createdAt": "2026-08-15T07:54:31Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Command Line Interface",
-          "url": "https://github.com/SlavomirDurej/DVConverter/issues/9",
-          "createdAt": "2026-08-14T05:41:30Z"
+          "label": "Moving the Tab Bar to the Top Title Bar",
+          "url": "https://github.com/OpenTubeX/OpenTubeX/issues/779",
+          "createdAt": "2026-08-15T07:37:27Z"
         }
       ]
     }

@@ -51,6 +51,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-15",
+      "clusters": 3,
+      "requests": 11,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-first-thanks",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-problem",
+          "score": 72,
+          "requests": 7
+        },
+        {
+          "id": "emerging-feature-request-open",
+          "score": 66,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
