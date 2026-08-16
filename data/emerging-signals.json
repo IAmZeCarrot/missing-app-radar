@@ -1,98 +1,86 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-15T08:45:09.598Z",
+  "generatedAt": "2026-08-16T08:47:06.638Z",
   "clusters": [
     {
-      "id": "emerging-feature-first-thanks",
-      "title": "Feature request",
-      "summary": "First thanks a lot for this amazing piece of software, simple, work out of the box, and straight to the point. However only one simple basic thing **the font is too small on my screen**, I wish if there was a way to change font size or font to fix that issue, maybe pick a specifi",
-      "score": 78,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 28
-      },
-      "requests": 2,
-      "latestSignal": "2026-05-25T14:37:31Z",
-      "keywords": [
-        "feature",
-        "first",
-        "thanks",
-        "however",
-        "wish"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Time Schedule",
-          "url": "https://github.com/rstrouse/ESPSomfy-RTS/issues/634",
-          "createdAt": "2026-01-29T19:22:36Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-problem",
-      "title": "Add end-to-end simulation examples using modern Gazebo",
-      "summary": "### Is your feature request related to a problem? Please describe. Tesseract provides useful examples for motion planning, collision checking, and visualization, but there are relatively few examples showing how Tesseract can be used as part of a complete simulation workflow. For",
+      "id": "emerging-feature-request-currently",
+      "title": "Feature request: add a close (✕) button to the session panel — dismiss in place (patch included)",
+      "summary": "## Motivation The session panel dock currently has only a collapse/expand toggle. The only way to actually dismiss it is the `/panel clear` command, which is undiscoverable for GUI users. Real user feedback from a dsh web deployment: the panel \"sits there\" with no obvious way to",
       "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
         "engagement": 0
       },
-      "requests": 7,
-      "latestSignal": "2026-08-15T08:44:23Z",
+      "requests": 4,
+      "latestSignal": "2026-08-16T08:26:09Z",
       "keywords": [
         "feature",
         "request",
-        "problem",
-        "related",
-        "describe"
+        "currently",
+        "way",
+        "there"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Add end-to-end simulation examples using modern Gazebo",
-          "url": "https://github.com/tesseract-robotics/tesseract/issues/1336",
-          "createdAt": "2026-08-15T08:44:23Z"
+          "label": "Feature request: add a close (✕) button to the session panel — dismiss in place (patch included)",
+          "url": "https://github.com/omdsh-dev/dsh-genui/issues/23",
+          "createdAt": "2026-08-16T08:26:09Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add AI Text-to-Speech (TTS) Support",
-          "url": "https://github.com/newo-ether/Agora/issues/93",
-          "createdAt": "2026-08-15T08:33:46Z"
+          "label": "Feature request: user-adjustable UI scale / font size in Settings",
+          "url": "https://github.com/0xsline/OpenChatCut/issues/85",
+          "createdAt": "2026-08-16T07:42:28Z"
         },
         {
           "source": "GitHub",
-          "label": "User Interface custimization",
-          "url": "https://github.com/Futsch1/medTimer/issues/1658",
-          "createdAt": "2026-08-15T08:04:31Z"
+          "label": "Feature Request: Per-Profile App Filter / Per-Configuration Application Routing",
+          "url": "https://github.com/2dust/v2rayNG/issues/6090",
+          "createdAt": "2026-08-16T06:55:32Z"
         },
         {
           "source": "GitHub",
-          "label": "Gadgetbridge support",
-          "url": "https://github.com/dreeveapp/dreeve/issues/2511",
-          "createdAt": "2026-08-15T06:25:47Z"
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "[mwan4] wish: Develop luci-app-mwan4 as the official LuCI interface",
+      "summary": "Is your feature request related to a problem? Please describe. Currently, mwan4 lacks a dedicated LuCI web interface, requiring users to manually edit the /etc/config/mwan4 file via SSH. This presents a significant usability barrier, especially for users transitioning from mwan3",
+      "score": 68,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 7
+      },
+      "requests": 3,
+      "latestSignal": "2026-08-16T07:54:40Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "users"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[mwan4] wish: Develop luci-app-mwan4 as the official LuCI interface",
+          "url": "https://github.com/mossdef-org/mwan4/issues/9",
+          "createdAt": "2026-08-16T07:54:40Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Add /account-sync-push API endpoint for 2-way cloud synchronization",
-          "url": "https://github.com/ProdigyV21/ARVIO/issues/571",
-          "createdAt": "2026-08-15T06:18:30Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Show message timestamps in agent conversations",
-          "url": "https://github.com/nimbalyst/nimbalyst/issues/1264",
-          "createdAt": "2026-08-14T22:42:28Z"
+          "label": "[FEATURE]: Add Reduced-Motion Accessibility Setting",
+          "url": "https://github.com/Khushi1310-nayak/SkillVerse/issues/248",
+          "createdAt": "2026-08-16T07:42:33Z"
         },
         {
           "source": "GitHub",
@@ -103,37 +91,78 @@
       ]
     },
     {
-      "id": "emerging-feature-request-open",
-      "title": "Feature request: Ability to compress the audio as downloading happens",
-      "summary": "### Checklist - [x] I have used the search function for [**OPEN**](https://github.com/AntennaPod/AntennaPod/issues) issues to see if someone else has already submitted the same feature request. - [x] I have **also** used the search function for [**CLOSED**](https://github.com/Ant",
-      "score": 66,
+      "id": "emerging-mn4-tracked-local",
+      "title": "[MN4][P2] Research and implement a Realm live-data adapter",
+      "summary": "Tracked by #10. Local plan: `docs/roadmap/marginnote-4.md`. **Goal (中文):** 先调研 MN4 Realm schema、版本兼容、锁文件和只读安全。没有合法样本和可重复测试环境时保持 BLOCKED，UI 不展示 Realm 选项。默认严格只读。 ### Do you need to file a feature request? - [x] I have searched the existing feature requests and this feature request",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 16
+        "volume": 33,
+        "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-08-15T07:54:31Z",
+      "requests": 3,
+      "latestSignal": "2026-08-16T07:22:39Z",
       "keywords": [
-        "feature",
-        "request",
-        "open",
-        "issues",
-        "closed"
+        "mn4",
+        "tracked",
+        "local",
+        "plan",
+        "docs"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Ability to compress the audio as downloading happens",
-          "url": "https://github.com/AntennaPod/AntennaPod/issues/8658",
-          "createdAt": "2026-08-15T07:54:31Z"
+          "label": "[MN4][P2] Research and implement a Realm live-data adapter",
+          "url": "https://github.com/evan188199-tech/DeepTutor/issues/9",
+          "createdAt": "2026-08-16T07:22:39Z"
         },
         {
           "source": "GitHub",
-          "label": "Moving the Tab Bar to the Top Title Bar",
-          "url": "https://github.com/OpenTubeX/OpenTubeX/issues/779",
-          "createdAt": "2026-08-15T07:37:27Z"
+          "label": "[MN4][P1] Complete the writeback and re-import workflow",
+          "url": "https://github.com/evan188199-tech/DeepTutor/issues/5",
+          "createdAt": "2026-08-16T07:22:35Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[MN4][P0] Add connection diagnostics and export preview",
+          "url": "https://github.com/evan188199-tech/DeepTutor/issues/2",
+          "createdAt": "2026-08-16T07:22:32Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-section",
+      "title": "[Feature Request] - Including Lightshot in the apps section",
+      "summary": "### 💡 Describe the solution you'd like I wanted re-addition of lightshot in the utilities section for the apps installation tab",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-16T08:39:19Z",
+      "keywords": [
+        "feature",
+        "request",
+        "section",
+        "describe",
+        "solution"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] - Including Lightshot in the apps section",
+          "url": "https://github.com/ChrisTitusTech/winutil/issues/4986",
+          "createdAt": "2026-08-16T08:39:19Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Randomizer Support",
+          "url": "https://github.com/rommapp/romm/issues/4205",
+          "createdAt": "2026-08-15T22:42:16Z"
         }
       ]
     }
