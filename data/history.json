@@ -102,6 +102,39 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "clusters": 5,
+      "requests": 15,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 72,
+          "requests": 6
+        },
+        {
+          "id": "emerging-feature-request-community",
+          "score": 64,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-searched-existing",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-drafting-note",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-agent",
+          "score": 57,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

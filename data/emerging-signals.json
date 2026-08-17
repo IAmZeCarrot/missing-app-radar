@@ -1,86 +1,57 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-16T08:47:06.638Z",
+  "generatedAt": "2026-08-17T09:00:55.739Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-currently",
-      "title": "Feature request: add a close (✕) button to the session panel — dismiss in place (patch included)",
-      "summary": "## Motivation The session panel dock currently has only a collapse/expand toggle. The only way to actually dismiss it is the `/panel clear` command, which is undiscoverable for GUI users. Real user feedback from a dsh web deployment: the panel \"sits there\" with no obvious way to",
+      "id": "emerging-feature-request-related",
+      "title": "Replace description fields with NcRichtext",
+      "summary": "**Is your feature request related to a problem? Please describe.** Currently we're using a custom textarea with markdown-it for allowing Markdown in descriptions. **Describe the solution you'd like** Use a default field type from nextcloud-vue library to reduce (direct) external",
       "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
         "engagement": 0
       },
-      "requests": 4,
-      "latestSignal": "2026-08-16T08:26:09Z",
-      "keywords": [
-        "feature",
-        "request",
-        "currently",
-        "way",
-        "there"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: add a close (✕) button to the session panel — dismiss in place (patch included)",
-          "url": "https://github.com/omdsh-dev/dsh-genui/issues/23",
-          "createdAt": "2026-08-16T08:26:09Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: user-adjustable UI scale / font size in Settings",
-          "url": "https://github.com/0xsline/OpenChatCut/issues/85",
-          "createdAt": "2026-08-16T07:42:28Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Per-Profile App Filter / Per-Configuration Application Routing",
-          "url": "https://github.com/2dust/v2rayNG/issues/6090",
-          "createdAt": "2026-08-16T06:55:32Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "[mwan4] wish: Develop luci-app-mwan4 as the official LuCI interface",
-      "summary": "Is your feature request related to a problem? Please describe. Currently, mwan4 lacks a dedicated LuCI web interface, requiring users to manually edit the /etc/config/mwan4 file via SSH. This presents a significant usability barrier, especially for users transitioning from mwan3",
-      "score": 68,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 7
-      },
-      "requests": 3,
-      "latestSignal": "2026-08-16T07:54:40Z",
+      "requests": 6,
+      "latestSignal": "2026-08-17T08:20:57Z",
       "keywords": [
         "feature",
         "request",
         "related",
         "problem",
-        "users"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[mwan4] wish: Develop luci-app-mwan4 as the official LuCI interface",
-          "url": "https://github.com/mossdef-org/mwan4/issues/9",
-          "createdAt": "2026-08-16T07:54:40Z"
+          "label": "Replace description fields with NcRichtext",
+          "url": "https://github.com/nextcloud/forms/issues/3587",
+          "createdAt": "2026-08-17T08:20:57Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE]: Add Reduced-Motion Accessibility Setting",
-          "url": "https://github.com/Khushi1310-nayak/SkillVerse/issues/248",
-          "createdAt": "2026-08-16T07:42:33Z"
+          "label": "Sleep timer restart",
+          "url": "https://github.com/SoundLeaf/SoundLeafApp/issues/67",
+          "createdAt": "2026-08-17T07:47:55Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Sleep time fade out",
+          "url": "https://github.com/SoundLeaf/SoundLeafApp/issues/66",
+          "createdAt": "2026-08-17T07:44:39Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Tools > Retranscode Media only supports video: add a media type selector before Fetch Media",
+          "url": "https://github.com/rtCamp/godam/issues/2082",
+          "createdAt": "2026-08-17T07:24:32Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add a stable server-side MCP Task execution extension point",
+          "url": "https://github.com/modelcontextprotocol/csharp-sdk/issues/1820",
+          "createdAt": "2026-08-16T20:53:42Z"
         },
         {
           "source": "GitHub",
@@ -91,9 +62,79 @@
       ]
     },
     {
-      "id": "emerging-mn4-tracked-local",
-      "title": "[MN4][P2] Research and implement a Realm live-data adapter",
-      "summary": "Tracked by #10. Local plan: `docs/roadmap/marginnote-4.md`. **Goal (中文):** 先调研 MN4 Realm schema、版本兼容、锁文件和只读安全。没有合法样本和可重复测试环境时保持 BLOCKED，UI 不展示 Realm 选项。默认严格只读。 ### Do you need to file a feature request? - [x] I have searched the existing feature requests and this feature request",
+      "id": "emerging-feature-request-community",
+      "title": "Feature Request: Set up a localization platform (e.g., Crowdin) for community translations",
+      "summary": "### Description Thank you for building CodexBar! As the project grows, managing translations via PRs can create friction for both maintainers and contributors. To make localization more accessible, I suggest using a dedicated platform. ### Proposed Solution I recommend setting up",
+      "score": 64,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 14
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-17T07:31:39Z",
+      "keywords": [
+        "feature",
+        "request",
+        "community",
+        "translations",
+        "project"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Set up a localization platform (e.g., Crowdin) for community translations",
+          "url": "https://github.com/steipete/CodexBar/issues/3008",
+          "createdAt": "2026-08-17T07:31:39Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Internationalization (i18n) and community translations",
+          "url": "https://github.com/lissy93/personal-security-checklist/issues/335",
+          "createdAt": "2026-08-16T19:09:50Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-searched-existing",
+      "title": "[FEATURE] On-demand screen sharing in voice mode on iOS",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement V",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-17T08:26:13Z",
+      "keywords": [
+        "feature",
+        "searched",
+        "existing",
+        "requested",
+        "not"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] On-demand screen sharing in voice mode on iOS",
+          "url": "https://github.com/anthropics/claude-code/issues/87294",
+          "createdAt": "2026-08-17T08:26:13Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add CSV imports",
+          "url": "https://github.com/gokadzev/Musify/issues/914",
+          "createdAt": "2026-08-16T23:33:41Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-drafting-note",
+      "title": "[FEATURE] Auto-submit the 2FA form on the last digit",
+      "summary": "_Drafting note: filed from the Milestone 3 backlog (row `M3-047`) and the 1 Aug 2026 planning notes, drafted with AI assistance (Claude, Anthropic). File and line references come from an earlier read of `main` — re-verify before starting work._ **Is your feature request related t",
       "score": 61,
       "scoreComponents": {
         "base": 28,
@@ -101,68 +142,68 @@
         "engagement": 0
       },
       "requests": 3,
-      "latestSignal": "2026-08-16T07:22:39Z",
+      "latestSignal": "2026-08-17T07:41:08Z",
       "keywords": [
-        "mn4",
-        "tracked",
-        "local",
-        "plan",
-        "docs"
+        "feature",
+        "drafting",
+        "note",
+        "filed",
+        "milestone"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[MN4][P2] Research and implement a Realm live-data adapter",
-          "url": "https://github.com/evan188199-tech/DeepTutor/issues/9",
-          "createdAt": "2026-08-16T07:22:39Z"
+          "label": "[FEATURE] Auto-submit the 2FA form on the last digit",
+          "url": "https://github.com/EngageMedia-video/cinematacms/issues/889",
+          "createdAt": "2026-08-17T07:41:08Z"
         },
         {
           "source": "GitHub",
-          "label": "[MN4][P1] Complete the writeback and re-import workflow",
-          "url": "https://github.com/evan188199-tech/DeepTutor/issues/5",
-          "createdAt": "2026-08-16T07:22:35Z"
+          "label": "[FEATURE] Warn before discarding unsaved changes on the edit page",
+          "url": "https://github.com/EngageMedia-video/cinematacms/issues/881",
+          "createdAt": "2026-08-17T07:40:43Z"
         },
         {
           "source": "GitHub",
-          "label": "[MN4][P0] Add connection diagnostics and export preview",
-          "url": "https://github.com/evan188199-tech/DeepTutor/issues/2",
-          "createdAt": "2026-08-16T07:22:32Z"
+          "label": "[FEATURE] Manage Uploads: migrate off the legacy track to React 19 / Vite and redesign",
+          "url": "https://github.com/EngageMedia-video/cinematacms/issues/871",
+          "createdAt": "2026-08-17T07:40:11Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-section",
-      "title": "[Feature Request] - Including Lightshot in the apps section",
-      "summary": "### 💡 Describe the solution you'd like I wanted re-addition of lightshot in the utilities section for the apps installation tab",
-      "score": 50,
+      "id": "emerging-feature-request-agent",
+      "title": "[Feature Request] Custom User-Agent option for the Browser panel",
+      "summary": "### What should we add/change? Some sites block or serve degraded content to the embedded browser based on its User-Agent (auth providers, bot protection). The device size switcher changes the viewport but not the UA, so I have to copy the URL into an external browser. Could we g",
+      "score": 57,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-08-16T08:39:19Z",
+      "latestSignal": "2026-08-17T08:26:20Z",
       "keywords": [
         "feature",
         "request",
-        "section",
-        "describe",
-        "solution"
+        "agent",
+        "content",
+        "but"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] - Including Lightshot in the apps section",
-          "url": "https://github.com/ChrisTitusTech/winutil/issues/4986",
-          "createdAt": "2026-08-16T08:39:19Z"
+          "label": "[Feature Request] Custom User-Agent option for the Browser panel",
+          "url": "https://github.com/openchamber/openchamber/issues/2961",
+          "createdAt": "2026-08-17T08:26:20Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Randomizer Support",
-          "url": "https://github.com/rommapp/romm/issues/4205",
-          "createdAt": "2026-08-15T22:42:16Z"
+          "label": "Feature Request: Fine-Grained Context Cost Attribution",
+          "url": "https://github.com/kenn-io/agentsview/issues/1441",
+          "createdAt": "2026-08-17T06:27:33Z"
         }
       ]
     }
