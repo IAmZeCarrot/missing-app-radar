@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-17T09:00:55.739Z",
+  "generatedAt": "2026-08-18T08:54:00.578Z",
   "clusters": [
     {
       "id": "emerging-feature-request-related",
-      "title": "Replace description fields with NcRichtext",
-      "summary": "**Is your feature request related to a problem? Please describe.** Currently we're using a custom textarea with markdown-it for allowing Markdown in descriptions. **Describe the solution you'd like** Use a default field type from nextcloud-vue library to reduce (direct) external",
-      "score": 72,
+      "title": "Button-first Telegram bot UI for installation management",
+      "summary": "**Is your feature request related to a problem? Please describe.** Yes. Nuecagram currently relies on slash commands in Telegram (`/setup`, `/manage`, `/status`, `/mute`, `/unmute`, `/rotate`, etc.). That works as a fallback, but it is not the default UX we want. Problems with th",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 7
       },
-      "requests": 6,
-      "latestSignal": "2026-08-17T08:20:57Z",
+      "requests": 5,
+      "latestSignal": "2026-08-18T08:50:15Z",
       "keywords": [
         "feature",
         "request",
@@ -25,33 +25,179 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Replace description fields with NcRichtext",
-          "url": "https://github.com/nextcloud/forms/issues/3587",
-          "createdAt": "2026-08-17T08:20:57Z"
+          "label": "Button-first Telegram bot UI for installation management",
+          "url": "https://github.com/raquezha/nuecagram/issues/100",
+          "createdAt": "2026-08-18T08:50:15Z"
         },
         {
           "source": "GitHub",
-          "label": "Sleep timer restart",
-          "url": "https://github.com/SoundLeaf/SoundLeafApp/issues/67",
-          "createdAt": "2026-08-17T07:47:55Z"
+          "label": "Add BagIt Archive Download Link to Public Sample Page",
+          "url": "https://github.com/NFDI4Chem/nmrxiv/issues/1521",
+          "createdAt": "2026-08-18T08:03:24Z"
         },
         {
           "source": "GitHub",
-          "label": "Sleep time fade out",
-          "url": "https://github.com/SoundLeaf/SoundLeafApp/issues/66",
-          "createdAt": "2026-08-17T07:44:39Z"
+          "label": "Feature Request: Add persistent database storage",
+          "url": "https://github.com/chantelnyamuramba/task-manager-flask/issues/1",
+          "createdAt": "2026-08-18T07:44:03Z"
         },
         {
           "source": "GitHub",
-          "label": "Tools > Retranscode Media only supports video: add a media type selector before Fetch Media",
-          "url": "https://github.com/rtCamp/godam/issues/2082",
-          "createdAt": "2026-08-17T07:24:32Z"
+          "label": "[FEATURE REQUEST] detect fake/transcoded lossless files (upscaled mp3-to-flac)",
+          "url": "https://github.com/namidaco/namida/issues/1153",
+          "createdAt": "2026-08-18T04:03:57Z"
         },
         {
           "source": "GitHub",
-          "label": "Add a stable server-side MCP Task execution extension point",
-          "url": "https://github.com/modelcontextprotocol/csharp-sdk/issues/1820",
-          "createdAt": "2026-08-16T20:53:42Z"
+          "label": "[Feature] Model Roth pre-59½ earnings as taxable + penalized (introduce Roth basis tracking)",
+          "url": "https://github.com/cassandra/ucfp/issues/185",
+          "createdAt": "2026-08-17T22:04:07Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-requests",
+      "title": "Feature request: expose Battery SOC (%) sensor",
+      "summary": "### Checklist - [x] I have filled out the template to the best of my ability. - [x] This only contains 1 feature request (if you have multiple feature requests, open one feature request for each feature request). - [x] This issue is not a duplicate feature request of previous fea",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 0
+      },
+      "requests": 4,
+      "latestSignal": "2026-08-18T08:00:06Z",
+      "keywords": [
+        "feature",
+        "request",
+        "requests",
+        "not",
+        "checklist"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: expose Battery SOC (%) sensor",
+          "url": "https://github.com/JortvanSchijndel/FusionSolarPlus/issues/122",
+          "createdAt": "2026-08-18T08:00:06Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] improved totp \"copied\" label",
+          "url": "https://github.com/aliasvault/aliasvault/issues/2355",
+          "createdAt": "2026-08-18T07:28:51Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Add voice/audio output for Claude's responses in Claude Code",
+          "url": "https://github.com/anthropics/claude-code/issues/87559",
+          "createdAt": "2026-08-18T07:26:55Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-not-existing-issues",
+      "title": "feat: reject oversized file and audio uploads before storing/processing them, not after",
+      "summary": "### Check Existing Issues - [x] I have searched all existing **open AND closed** issues and discussions and found none comparable to my request. ### Verify Feature Scope - [x] I believe this feature request is appropriately scoped for the Issues section as described above. ### Pr",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-18T07:37:19Z",
+      "keywords": [
+        "not",
+        "existing",
+        "issues",
+        "searched",
+        "feature"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "feat: reject oversized file and audio uploads before storing/processing them, not after",
+          "url": "https://github.com/open-webui/open-webui/issues/28735",
+          "createdAt": "2026-08-18T07:37:19Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Import Wavelet GraphicEQ TXT profiles for accurate headphone AutoEq",
+          "url": "https://github.com/gokadzev/Musify/issues/917",
+          "createdAt": "2026-08-17T23:57:52Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-code",
+      "title": "[Feature Request]: ENABLED_SERVICES allow restricting individual note types (text/password/code/sshkey)",
+      "summary": "### SkySend Version v2.12.0 ### Instance Type Self-hosted instance ### Component Web UI ### Bug Description `ENABLED_SERVICES` is documented as controlling which services are active (\"Set to `file` for file sharing only, `note` for notes only, or `file,note` for both\"). I expecte",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-18T08:37:20Z",
+      "keywords": [
+        "feature",
+        "request",
+        "code",
+        "bug",
+        "description"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: ENABLED_SERVICES allow restricting individual note types (text/password/code/sshkey)",
+          "url": "https://github.com/Skyfay/SkySend/issues/71",
+          "createdAt": "2026-08-18T08:37:20Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add `multiClickDebounceTime` to `CytoscapeOptions` (typescript)",
+          "url": "https://github.com/cytoscape/cytoscape.js/issues/3514",
+          "createdAt": "2026-08-18T07:32:18Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-configuration-feature-request",
+      "title": "## Feedback: Subagent Configuration & LaTeX Rendering Support",
+      "summary": "## Feedback: Subagent Configuration & LaTeX Rendering Support ### Feature Request 1: Subagent Configuration **Current limitation:** The subagent system (explore, task, general-purpose, etc.) operates with fixed default behaviors and model selections. There is no way for users to",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-18T08:23:47Z",
+      "keywords": [
+        "configuration",
+        "feature",
+        "request",
+        "current",
+        "system"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "## Feedback: Subagent Configuration & LaTeX Rendering Support",
+          "url": "https://github.com/github/app/issues/2935",
+          "createdAt": "2026-08-18T08:23:47Z"
         },
         {
           "source": "GitHub",
@@ -62,148 +208,37 @@
       ]
     },
     {
-      "id": "emerging-feature-request-community",
-      "title": "Feature Request: Set up a localization platform (e.g., Crowdin) for community translations",
-      "summary": "### Description Thank you for building CodexBar! As the project grows, managing translations via PRs can create friction for both maintainers and contributors. To make localization more accessible, I suggest using a dedicated platform. ### Proposed Solution I recommend setting up",
-      "score": 64,
+      "id": "emerging-feature-request-support",
+      "title": "Feature Request: Internationalization (i18n) / Translation Support",
+      "summary": "Hi! I was wondering if there are any plans to add internationalization (i18n) or some kind of translation system to Liftosaur. I'm a Spanish speaker, and while I can use the app in English, having no content available in my native language makes it a little harder to learn and un",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 14
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-17T07:31:39Z",
-      "keywords": [
-        "feature",
-        "request",
-        "community",
-        "translations",
-        "project"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Set up a localization platform (e.g., Crowdin) for community translations",
-          "url": "https://github.com/steipete/CodexBar/issues/3008",
-          "createdAt": "2026-08-17T07:31:39Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Internationalization (i18n) and community translations",
-          "url": "https://github.com/lissy93/personal-security-checklist/issues/335",
-          "createdAt": "2026-08-16T19:09:50Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-searched-existing",
-      "title": "[FEATURE] On-demand screen sharing in voice mode on iOS",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement V",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-17T08:26:13Z",
-      "keywords": [
-        "feature",
-        "searched",
-        "existing",
-        "requested",
-        "not"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] On-demand screen sharing in voice mode on iOS",
-          "url": "https://github.com/anthropics/claude-code/issues/87294",
-          "createdAt": "2026-08-17T08:26:13Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add CSV imports",
-          "url": "https://github.com/gokadzev/Musify/issues/914",
-          "createdAt": "2026-08-16T23:33:41Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-drafting-note",
-      "title": "[FEATURE] Auto-submit the 2FA form on the last digit",
-      "summary": "_Drafting note: filed from the Milestone 3 backlog (row `M3-047`) and the 1 Aug 2026 planning notes, drafted with AI assistance (Claude, Anthropic). File and line references come from an earlier read of `main` — re-verify before starting work._ **Is your feature request related t",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
         "engagement": 0
       },
-      "requests": 3,
-      "latestSignal": "2026-08-17T07:41:08Z",
-      "keywords": [
-        "feature",
-        "drafting",
-        "note",
-        "filed",
-        "milestone"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Auto-submit the 2FA form on the last digit",
-          "url": "https://github.com/EngageMedia-video/cinematacms/issues/889",
-          "createdAt": "2026-08-17T07:41:08Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Warn before discarding unsaved changes on the edit page",
-          "url": "https://github.com/EngageMedia-video/cinematacms/issues/881",
-          "createdAt": "2026-08-17T07:40:43Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Manage Uploads: migrate off the legacy track to React 19 / Vite and redesign",
-          "url": "https://github.com/EngageMedia-video/cinematacms/issues/871",
-          "createdAt": "2026-08-17T07:40:11Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-agent",
-      "title": "[Feature Request] Custom User-Agent option for the Browser panel",
-      "summary": "### What should we add/change? Some sites block or serve degraded content to the embedded browser based on its User-Agent (auth providers, bot protection). The device size switcher changes the viewport but not the UA, so I have to copy the URL into an external browser. Could we g",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
       "requests": 2,
-      "latestSignal": "2026-08-17T08:26:20Z",
+      "latestSignal": "2026-08-18T08:13:24Z",
       "keywords": [
         "feature",
         "request",
-        "agent",
-        "content",
-        "but"
+        "support",
+        "there",
+        "while"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Custom User-Agent option for the Browser panel",
-          "url": "https://github.com/openchamber/openchamber/issues/2961",
-          "createdAt": "2026-08-17T08:26:20Z"
+          "label": "Feature Request: Internationalization (i18n) / Translation Support",
+          "url": "https://github.com/astashov/liftosaur/issues/637",
+          "createdAt": "2026-08-18T08:13:24Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Fine-Grained Context Cost Attribution",
-          "url": "https://github.com/kenn-io/agentsview/issues/1441",
-          "createdAt": "2026-08-17T06:27:33Z"
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         }
       ]
     }
