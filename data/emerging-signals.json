@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-18T08:54:00.578Z",
+  "generatedAt": "2026-08-19T08:54:29.948Z",
   "clusters": [
     {
       "id": "emerging-feature-request-related",
-      "title": "Button-first Telegram bot UI for installation management",
-      "summary": "**Is your feature request related to a problem? Please describe.** Yes. Nuecagram currently relies on slash commands in Telegram (`/setup`, `/manage`, `/status`, `/mute`, `/unmute`, `/rotate`, etc.). That works as a fallback, but it is not the default UX we want. Problems with th",
+      "title": "iOS Contacts integration: link mxid to system contact for calling/messaging from Contacts app & Spotlight",
+      "summary": "**Is your feature request related to a problem? Please describe.** On iOS, the system Contacts app supports adding a \"Profile in social apps\" entry (CNContactSocialProfile) to a contact card, and Element X is recognized as one of these apps. This lets me manually add a Matrix use",
       "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
         "engagement": 7
       },
-      "requests": 5,
-      "latestSignal": "2026-08-18T08:50:15Z",
+      "requests": 4,
+      "latestSignal": "2026-08-19T08:28:10Z",
       "keywords": [
         "feature",
         "request",
@@ -25,179 +25,21 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Button-first Telegram bot UI for installation management",
-          "url": "https://github.com/raquezha/nuecagram/issues/100",
-          "createdAt": "2026-08-18T08:50:15Z"
+          "label": "iOS Contacts integration: link mxid to system contact for calling/messaging from Contacts app & Spotlight",
+          "url": "https://github.com/element-hq/element-x-ios/issues/6046",
+          "createdAt": "2026-08-19T08:28:10Z"
         },
         {
           "source": "GitHub",
-          "label": "Add BagIt Archive Download Link to Public Sample Page",
-          "url": "https://github.com/NFDI4Chem/nmrxiv/issues/1521",
-          "createdAt": "2026-08-18T08:03:24Z"
+          "label": "[Feature Request] Rounded corners for Chat Header (iOS/macOS style)",
+          "url": "https://github.com/UnigramDev/Unigram/issues/3382",
+          "createdAt": "2026-08-19T08:12:46Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add persistent database storage",
-          "url": "https://github.com/chantelnyamuramba/task-manager-flask/issues/1",
-          "createdAt": "2026-08-18T07:44:03Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] detect fake/transcoded lossless files (upscaled mp3-to-flac)",
-          "url": "https://github.com/namidaco/namida/issues/1153",
-          "createdAt": "2026-08-18T04:03:57Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature] Model Roth pre-59½ earnings as taxable + penalized (introduce Roth basis tracking)",
-          "url": "https://github.com/cassandra/ucfp/issues/185",
-          "createdAt": "2026-08-17T22:04:07Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-requests",
-      "title": "Feature request: expose Battery SOC (%) sensor",
-      "summary": "### Checklist - [x] I have filled out the template to the best of my ability. - [x] This only contains 1 feature request (if you have multiple feature requests, open one feature request for each feature request). - [x] This issue is not a duplicate feature request of previous fea",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 0
-      },
-      "requests": 4,
-      "latestSignal": "2026-08-18T08:00:06Z",
-      "keywords": [
-        "feature",
-        "request",
-        "requests",
-        "not",
-        "checklist"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: expose Battery SOC (%) sensor",
-          "url": "https://github.com/JortvanSchijndel/FusionSolarPlus/issues/122",
-          "createdAt": "2026-08-18T08:00:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] improved totp \"copied\" label",
-          "url": "https://github.com/aliasvault/aliasvault/issues/2355",
-          "createdAt": "2026-08-18T07:28:51Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Add voice/audio output for Claude's responses in Claude Code",
-          "url": "https://github.com/anthropics/claude-code/issues/87559",
-          "createdAt": "2026-08-18T07:26:55Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-not-existing-issues",
-      "title": "feat: reject oversized file and audio uploads before storing/processing them, not after",
-      "summary": "### Check Existing Issues - [x] I have searched all existing **open AND closed** issues and discussions and found none comparable to my request. ### Verify Feature Scope - [x] I believe this feature request is appropriately scoped for the Issues section as described above. ### Pr",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-18T07:37:19Z",
-      "keywords": [
-        "not",
-        "existing",
-        "issues",
-        "searched",
-        "feature"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "feat: reject oversized file and audio uploads before storing/processing them, not after",
-          "url": "https://github.com/open-webui/open-webui/issues/28735",
-          "createdAt": "2026-08-18T07:37:19Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature] Import Wavelet GraphicEQ TXT profiles for accurate headphone AutoEq",
-          "url": "https://github.com/gokadzev/Musify/issues/917",
-          "createdAt": "2026-08-17T23:57:52Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-code",
-      "title": "[Feature Request]: ENABLED_SERVICES allow restricting individual note types (text/password/code/sshkey)",
-      "summary": "### SkySend Version v2.12.0 ### Instance Type Self-hosted instance ### Component Web UI ### Bug Description `ENABLED_SERVICES` is documented as controlling which services are active (\"Set to `file` for file sharing only, `note` for notes only, or `file,note` for both\"). I expecte",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-18T08:37:20Z",
-      "keywords": [
-        "feature",
-        "request",
-        "code",
-        "bug",
-        "description"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request]: ENABLED_SERVICES allow restricting individual note types (text/password/code/sshkey)",
-          "url": "https://github.com/Skyfay/SkySend/issues/71",
-          "createdAt": "2026-08-18T08:37:20Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add `multiClickDebounceTime` to `CytoscapeOptions` (typescript)",
-          "url": "https://github.com/cytoscape/cytoscape.js/issues/3514",
-          "createdAt": "2026-08-18T07:32:18Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-configuration-feature-request",
-      "title": "## Feedback: Subagent Configuration & LaTeX Rendering Support",
-      "summary": "## Feedback: Subagent Configuration & LaTeX Rendering Support ### Feature Request 1: Subagent Configuration **Current limitation:** The subagent system (explore, task, general-purpose, etc.) operates with fixed default behaviors and model selections. There is no way for users to",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-18T08:23:47Z",
-      "keywords": [
-        "configuration",
-        "feature",
-        "request",
-        "current",
-        "system"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "## Feedback: Subagent Configuration & LaTeX Rendering Support",
-          "url": "https://github.com/github/app/issues/2935",
-          "createdAt": "2026-08-18T08:23:47Z"
+          "label": "[Feature] Parts-Mode",
+          "url": "https://github.com/Edirom/Cartographer-App/issues/193",
+          "createdAt": "2026-08-19T06:55:25Z"
         },
         {
           "source": "GitHub",
@@ -208,9 +50,44 @@
       ]
     },
     {
-      "id": "emerging-feature-request-support",
-      "title": "Feature Request: Internationalization (i18n) / Translation Support",
-      "summary": "Hi! I was wondering if there are any plans to add internationalization (i18n) or some kind of translation system to Liftosaur. I'm a Spanish speaker, and while I can use the app in English, having no content available in my native language makes it a little harder to learn and un",
+      "id": "emerging-about-not-site",
+      "title": "Ask HN: Slightly Strange LinkedIn Survey",
+      "summary": "I got an email about a survey from LinkedIn. I&#x27;m not fond of the site but I was curious what they&#x27;d ask and I kinda wanted to say &quot;I loathe my feed.&quot; But it went in a direction I didn&#x27;t expect. It started with basic &quot;Are you looking for a job right n",
+      "score": 64,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 14
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-18T22:44:49Z",
+      "keywords": [
+        "about",
+        "not",
+        "site",
+        "but",
+        "curious"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Ask HN: Slightly Strange LinkedIn Survey",
+          "url": "https://news.ycombinator.com/item?id=49353865",
+          "createdAt": "2026-08-18T22:44:49Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "Show HN: Embassia – LLM Search Console – Web crawlers talk to your site's agent",
+          "url": "https://news.ycombinator.com/item?id=49304982",
+          "createdAt": "2026-08-14T21:48:09Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-checklist-searched",
+      "title": "[FEATURE] Add Czech (cs-CZ) UI localization to Claude Desktop (Windows) and claude.ai",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement C",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -218,27 +95,132 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-08-18T08:13:24Z",
+      "latestSignal": "2026-08-19T08:45:01Z",
       "keywords": [
         "feature",
-        "request",
-        "support",
-        "there",
-        "while"
+        "checklist",
+        "searched",
+        "existing",
+        "requests"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Internationalization (i18n) / Translation Support",
-          "url": "https://github.com/astashov/liftosaur/issues/637",
-          "createdAt": "2026-08-18T08:13:24Z"
+          "label": "[FEATURE] Add Czech (cs-CZ) UI localization to Claude Desktop (Windows) and claude.ai",
+          "url": "https://github.com/anthropics/claude-code/issues/87887",
+          "createdAt": "2026-08-19T08:45:01Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
+          "label": "[FEATURE] Feature request: configurable keybind to cycle the Launcher category tabs",
+          "url": "https://github.com/noctalia-dev/noctalia/issues/4015",
+          "createdAt": "2026-08-19T08:15:03Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request] Add option to configure security checks behavior in Claude Code CLI",
+      "summary": "**Bug Description** I am implementing application for digital signage and trying to have it as secure as possible but the checks of security of app are constantly downgrading the model... so instead of having app as secure as possible I end up in troubles... would be nice to have",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-19T08:44:59Z",
+      "keywords": [
+        "feature",
+        "request",
+        "add",
+        "description",
+        "but"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Add option to configure security checks behavior in Claude Code CLI",
+          "url": "https://github.com/anthropics/claude-code/issues/87886",
+          "createdAt": "2026-08-19T08:44:59Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Haptic feedback for MX Master 4 gesture swipes",
+          "url": "https://github.com/TomBadash/Mouser/issues/283",
+          "createdAt": "2026-08-19T07:52:12Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-img",
+      "title": "Feature request about mightygrep",
+      "summary": "Hi there, Just bought it and I love it. It helps me a lot when trying looking for clues and references inside a project. If possible I would like to request a bit update on the app. Like this <img width=\"1043\" height=\"869\" alt=\"Image\" src=\"https://github.com/user-attachments/asse",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-19T07:58:13Z",
+      "keywords": [
+        "feature",
+        "request",
+        "img",
+        "width",
+        "height"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request about mightygrep",
+          "url": "https://github.com/kyle-sylvestre/mightygrep-misc/issues/5",
+          "createdAt": "2026-08-19T07:58:13Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "New feature request",
+          "url": "https://github.com/xLexip/Adaptive-Theme/issues/198",
+          "createdAt": "2026-08-19T07:19:27Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feat-build-map",
+      "title": "[FEAT] Build the map-independent unified search surface",
+      "summary": "## Summary Build the unified, map-independent search surface that merges CoffeeMode cafes, stored POIs, and optional live external results. ## Category enhancement (feature request) ## Priority P2 — the list/search surface can ship independently; only the later map binding depend",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-19T07:52:27Z",
+      "keywords": [
+        "feat",
+        "build",
+        "map",
+        "surface",
+        "summary"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FEAT] Build the map-independent unified search surface",
+          "url": "https://github.com/lyuzizheng/coffeemode/issues/135",
+          "createdAt": "2026-08-19T07:52:27Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEAT] Build the Apple MapKit map-home surface",
+          "url": "https://github.com/lyuzizheng/coffeemode/issues/132",
+          "createdAt": "2026-08-19T07:51:52Z"
         }
       ]
     }

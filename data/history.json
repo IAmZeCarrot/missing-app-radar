@@ -168,6 +168,39 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-19",
+      "clusters": 6,
+      "requests": 14,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 79,
+          "requests": 4
+        },
+        {
+          "id": "emerging-about-not-site",
+          "score": 64,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-checklist-searched",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-add",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-img",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
