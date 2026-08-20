@@ -1,45 +1,127 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-19T08:54:29.948Z",
+  "generatedAt": "2026-08-20T08:56:54.722Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "iOS Contacts integration: link mxid to system contact for calling/messaging from Contacts app & Spotlight",
-      "summary": "**Is your feature request related to a problem? Please describe.** On iOS, the system Contacts app supports adding a \"Profile in social apps\" entry (CNContactSocialProfile) to a contact card, and Element X is recognized as one of these apps. This lets me manually add a Matrix use",
-      "score": 79,
+      "id": "emerging-tsun-field-testing",
+      "title": "TSUN GEN3 Plus 4-in-1 field testing — MS1600 / MS1800 / MS2000 / MX2250",
+      "summary": "## TSUN GEN3 Plus 4-in-1 field testing — testers wanted I’m looking for owners of these TSUN 4-in-1 microinverters to validate **TSUN Local** support across different hardware and firmware revisions: - TSOL-MS1600 - TSOL-MS1800 - TSOL-MS2000 - TSOL-MX2250 ### What I need Please p",
+      "score": 77,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 7
+        "volume": 33,
+        "engagement": 16
       },
-      "requests": 4,
-      "latestSignal": "2026-08-19T08:28:10Z",
+      "requests": 3,
+      "latestSignal": "2026-08-19T23:16:20Z",
       "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "please"
+        "tsun",
+        "field",
+        "testing",
+        "looking",
+        "microinverters"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "iOS Contacts integration: link mxid to system contact for calling/messaging from Contacts app & Spotlight",
-          "url": "https://github.com/element-hq/element-x-ios/issues/6046",
-          "createdAt": "2026-08-19T08:28:10Z"
+          "label": "TSUN GEN3 Plus 4-in-1 field testing — MS1600 / MS1800 / MS2000 / MX2250",
+          "url": "https://github.com/jptstar/tsun-local/issues/41",
+          "createdAt": "2026-08-19T23:16:20Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Rounded corners for Chat Header (iOS/macOS style)",
-          "url": "https://github.com/UnigramDev/Unigram/issues/3382",
-          "createdAt": "2026-08-19T08:12:46Z"
+          "label": "TSUN TITAN field testing — TSOL-MP2250 / TSOL-MP3000",
+          "url": "https://github.com/jptstar/tsun-local/issues/40",
+          "createdAt": "2026-08-19T22:58:47Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Parts-Mode",
-          "url": "https://github.com/Edirom/Cartographer-App/issues/193",
-          "createdAt": "2026-08-19T06:55:25Z"
+          "label": "TSUN 1097 field testing — MX3000D / MX3000 / GEN3 Plus",
+          "url": "https://github.com/jptstar/tsun-local/issues/39",
+          "createdAt": "2026-08-19T22:35:34Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-support-feature-request",
+      "title": "DM: support task-scoped labels for tenant metrics",
+      "summary": "## Feature Request Support attaching trusted, task-scoped labels to DM metrics so a shared DM cluster can route each task's metrics to the correct tenant monitoring project. ### Background DM task metrics currently expose labels such as `task`, `source_id`, and `worker`, but do n",
+      "score": 75,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 14
+      },
+      "requests": 3,
+      "latestSignal": "2026-08-20T07:59:55Z",
+      "keywords": [
+        "support",
+        "feature",
+        "request",
+        "expose",
+        "such"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "DM: support task-scoped labels for tenant metrics",
+          "url": "https://github.com/pingcap/tiflow/issues/12830",
+          "createdAt": "2026-08-20T07:59:55Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Support configurable reasoning effort for custom models",
+          "url": "https://github.com/zai-org/feedback/issues/319",
+          "createdAt": "2026-08-20T03:18:27Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: support / expose OpenAI-compatible reasoning_effort",
+          "url": "https://github.com/Neroued/ninfer/issues/60",
+          "createdAt": "2026-08-20T00:54:42Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-problem",
+      "title": "No way to reverse/undo an expense when a purchase is refunded",
+      "summary": "**Is your feature request related to a problem? Please describe.** Yes. When a noted expense gets refunded or reversed (e.g., a return within the typical 7-day window), there's no way to reflect that in the app. Since the original expense entry stays as-is, my only workaround is",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 0
+      },
+      "requests": 4,
+      "latestSignal": "2026-08-20T08:40:09Z",
+      "keywords": [
+        "feature",
+        "request",
+        "problem",
+        "describe",
+        "related"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "No way to reverse/undo an expense when a purchase is refunded",
+          "url": "https://github.com/danilkinkin/buckwheat/issues/170",
+          "createdAt": "2026-08-20T08:40:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Display estimated completion wall-clock time on the main screen",
+          "url": "https://github.com/taylormadearmy/u1-slicer-for-android/issues/187",
+          "createdAt": "2026-08-20T08:15:55Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature]: manual-only / disable auto-update-check mode",
+          "url": "https://github.com/nimbalyst/nimbalyst/issues/1339",
+          "createdAt": "2026-08-20T07:08:23Z"
         },
         {
           "source": "GitHub",
@@ -50,114 +132,50 @@
       ]
     },
     {
-      "id": "emerging-about-not-site",
-      "title": "Ask HN: Slightly Strange LinkedIn Survey",
-      "summary": "I got an email about a survey from LinkedIn. I&#x27;m not fond of the site but I was curious what they&#x27;d ask and I kinda wanted to say &quot;I loathe my feed.&quot; But it went in a direction I didn&#x27;t expect. It started with basic &quot;Are you looking for a job right n",
-      "score": 64,
+      "id": "emerging-feature-request-use",
+      "title": "Feature Request: Chat and Use Agent Commands in Wake",
+      "summary": "Ability to chat with agents and run agent commands directly within the Wake app instead of using the terminal.",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 14
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-18T22:44:49Z",
-      "keywords": [
-        "about",
-        "not",
-        "site",
-        "but",
-        "curious"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: Slightly Strange LinkedIn Survey",
-          "url": "https://news.ycombinator.com/item?id=49353865",
-          "createdAt": "2026-08-18T22:44:49Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Embassia – LLM Search Console – Web crawlers talk to your site's agent",
-          "url": "https://news.ycombinator.com/item?id=49304982",
-          "createdAt": "2026-08-14T21:48:09Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-checklist-searched",
-      "title": "[FEATURE] Add Czech (cs-CZ) UI localization to Claude Desktop (Windows) and claude.ai",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement C",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-08-19T08:45:01Z",
-      "keywords": [
-        "feature",
-        "checklist",
-        "searched",
-        "existing",
-        "requests"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Add Czech (cs-CZ) UI localization to Claude Desktop (Windows) and claude.ai",
-          "url": "https://github.com/anthropics/claude-code/issues/87887",
-          "createdAt": "2026-08-19T08:45:01Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Feature request: configurable keybind to cycle the Launcher category tabs",
-          "url": "https://github.com/noctalia-dev/noctalia/issues/4015",
-          "createdAt": "2026-08-19T08:15:03Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Add option to configure security checks behavior in Claude Code CLI",
-      "summary": "**Bug Description** I am implementing application for digital signage and trying to have it as secure as possible but the checks of security of app are constantly downgrading the model... so instead of having app as secure as possible I end up in troubles... would be nice to have",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-19T08:44:59Z",
+      "requests": 3,
+      "latestSignal": "2026-08-20T08:32:52Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "description",
-        "but"
+        "use",
+        "agent",
+        "ability"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add option to configure security checks behavior in Claude Code CLI",
-          "url": "https://github.com/anthropics/claude-code/issues/87886",
-          "createdAt": "2026-08-19T08:44:59Z"
+          "label": "Feature Request: Chat and Use Agent Commands in Wake",
+          "url": "https://github.com/iAmCorey/Wake/issues/4",
+          "createdAt": "2026-08-20T08:32:52Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Haptic feedback for MX Master 4 gesture swipes",
-          "url": "https://github.com/TomBadash/Mouser/issues/283",
-          "createdAt": "2026-08-19T07:52:12Z"
+          "label": "[Feature Request] 希望支持 Windows 原生桌面端",
+          "url": "https://github.com/RealZST/HarnessKit/issues/122",
+          "createdAt": "2026-08-20T08:12:38Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Optional tick marks and discrete values for Slider",
+          "url": "https://github.com/stretched-out-software/buoy-releases/issues/96",
+          "createdAt": "2026-08-20T07:19:39Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-img",
-      "title": "Feature request about mightygrep",
-      "summary": "Hi there, Just bought it and I love it. It helps me a lot when trying looking for clues and references inside a project. If possible I would like to request a bit update on the app. Like this <img width=\"1043\" height=\"869\" alt=\"Image\" src=\"https://github.com/user-attachments/asse",
+      "id": "emerging-feature-request-related",
+      "title": "Public Recipe Library",
+      "summary": "### Platform Both ### Is your feature request related to a problem? Why import, search, tidy-up and get frustrated about bad recipes online when every user already has a big (or small) list of good recipes on hand ### Describe the solution you'd like Add a simple shared recipe li",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -165,62 +183,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-08-19T07:58:13Z",
+      "latestSignal": "2026-08-20T08:08:13Z",
       "keywords": [
         "feature",
         "request",
-        "img",
-        "width",
-        "height"
+        "related",
+        "problem",
+        "already"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request about mightygrep",
-          "url": "https://github.com/kyle-sylvestre/mightygrep-misc/issues/5",
-          "createdAt": "2026-08-19T07:58:13Z"
+          "label": "Public Recipe Library",
+          "url": "https://github.com/norish-recipes/norish/issues/530",
+          "createdAt": "2026-08-20T08:08:13Z"
         },
         {
           "source": "GitHub",
-          "label": "New feature request",
-          "url": "https://github.com/xLexip/Adaptive-Theme/issues/198",
-          "createdAt": "2026-08-19T07:19:27Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feat-build-map",
-      "title": "[FEAT] Build the map-independent unified search surface",
-      "summary": "## Summary Build the unified, map-independent search surface that merges CoffeeMode cafes, stored POIs, and optional live external results. ## Category enhancement (feature request) ## Priority P2 — the list/search surface can ship independently; only the later map binding depend",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-19T07:52:27Z",
-      "keywords": [
-        "feat",
-        "build",
-        "map",
-        "surface",
-        "summary"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEAT] Build the map-independent unified search surface",
-          "url": "https://github.com/lyuzizheng/coffeemode/issues/135",
-          "createdAt": "2026-08-19T07:52:27Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEAT] Build the Apple MapKit map-home surface",
-          "url": "https://github.com/lyuzizheng/coffeemode/issues/132",
-          "createdAt": "2026-08-19T07:51:52Z"
+          "label": "[FEATURE] Responsive image delivery for mobile — DPR-aware thumbnail + preview tiers with srcset",
+          "url": "https://github.com/PicPeak/picpeak/issues/1095",
+          "createdAt": "2026-08-20T07:23:25Z"
         }
       ]
     }

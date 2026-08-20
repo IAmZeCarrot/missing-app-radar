@@ -201,6 +201,39 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "clusters": 5,
+      "requests": 15,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-tsun-field-testing",
+          "score": 77,
+          "requests": 3
+        },
+        {
+          "id": "emerging-support-feature-request",
+          "score": 75,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-problem",
+          "score": 72,
+          "requests": 4
+        },
+        {
+          "id": "emerging-feature-request-use",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
