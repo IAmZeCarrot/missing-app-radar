@@ -1,181 +1,82 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-20T08:56:54.722Z",
+  "generatedAt": "2026-08-21T08:58:12.608Z",
   "clusters": [
     {
-      "id": "emerging-tsun-field-testing",
-      "title": "TSUN GEN3 Plus 4-in-1 field testing — MS1600 / MS1800 / MS2000 / MX2250",
-      "summary": "## TSUN GEN3 Plus 4-in-1 field testing — testers wanted I’m looking for owners of these TSUN 4-in-1 microinverters to validate **TSUN Local** support across different hardware and firmware revisions: - TSOL-MS1600 - TSOL-MS1800 - TSOL-MS2000 - TSOL-MX2250 ### What I need Please p",
-      "score": 77,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 16
-      },
-      "requests": 3,
-      "latestSignal": "2026-08-19T23:16:20Z",
-      "keywords": [
-        "tsun",
-        "field",
-        "testing",
-        "looking",
-        "microinverters"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "TSUN GEN3 Plus 4-in-1 field testing — MS1600 / MS1800 / MS2000 / MX2250",
-          "url": "https://github.com/jptstar/tsun-local/issues/41",
-          "createdAt": "2026-08-19T23:16:20Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "TSUN TITAN field testing — TSOL-MP2250 / TSOL-MP3000",
-          "url": "https://github.com/jptstar/tsun-local/issues/40",
-          "createdAt": "2026-08-19T22:58:47Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "TSUN 1097 field testing — MX3000D / MX3000 / GEN3 Plus",
-          "url": "https://github.com/jptstar/tsun-local/issues/39",
-          "createdAt": "2026-08-19T22:35:34Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-support-feature-request",
-      "title": "DM: support task-scoped labels for tenant metrics",
-      "summary": "## Feature Request Support attaching trusted, task-scoped labels to DM metrics so a shared DM cluster can route each task's metrics to the correct tenant monitoring project. ### Background DM task metrics currently expose labels such as `task`, `source_id`, and `worker`, but do n",
-      "score": 75,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 14
-      },
-      "requests": 3,
-      "latestSignal": "2026-08-20T07:59:55Z",
-      "keywords": [
-        "support",
-        "feature",
-        "request",
-        "expose",
-        "such"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "DM: support task-scoped labels for tenant metrics",
-          "url": "https://github.com/pingcap/tiflow/issues/12830",
-          "createdAt": "2026-08-20T07:59:55Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Support configurable reasoning effort for custom models",
-          "url": "https://github.com/zai-org/feedback/issues/319",
-          "createdAt": "2026-08-20T03:18:27Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: support / expose OpenAI-compatible reasoning_effort",
-          "url": "https://github.com/Neroued/ninfer/issues/60",
-          "createdAt": "2026-08-20T00:54:42Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-problem",
-      "title": "No way to reverse/undo an expense when a purchase is refunded",
-      "summary": "**Is your feature request related to a problem? Please describe.** Yes. When a noted expense gets refunded or reversed (e.g., a return within the typical 7-day window), there's no way to reflect that in the app. Since the original expense entry stays as-is, my only workaround is",
-      "score": 72,
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request] Add option to disable the \"All Channels\" tab in the group to fix guide lag",
+      "summary": "### App Version 0.4.20 ### Device / Environment Android TV ### Detailed Description ### Is your feature request related to a problem? Yes. Currently, in the AerioTV group list, users can enable or disable individual groups tab, but it is impossible to disable the tab that shows a",
+      "score": 86,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 14
       },
-      "requests": 4,
-      "latestSignal": "2026-08-20T08:40:09Z",
+      "requests": 10,
+      "latestSignal": "2026-08-21T08:39:46Z",
       "keywords": [
         "feature",
         "request",
-        "problem",
-        "describe",
+        "add",
+        "app",
         "related"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "No way to reverse/undo an expense when a purchase is refunded",
-          "url": "https://github.com/danilkinkin/buckwheat/issues/170",
-          "createdAt": "2026-08-20T08:40:09Z"
+          "label": "[Feature Request] Add option to disable the \"All Channels\" tab in the group to fix guide lag",
+          "url": "https://github.com/jonzey231/AerioTV-Android/issues/80",
+          "createdAt": "2026-08-21T08:39:46Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Display estimated completion wall-clock time on the main screen",
-          "url": "https://github.com/taylormadearmy/u1-slicer-for-android/issues/187",
-          "createdAt": "2026-08-20T08:15:55Z"
+          "label": "Feature Request: Add Simplified Chinese (zh-CN) language support for the app interface",
+          "url": "https://github.com/dom-53/Inkita/issues/51",
+          "createdAt": "2026-08-21T08:32:04Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: manual-only / disable auto-update-check mode",
-          "url": "https://github.com/nimbalyst/nimbalyst/issues/1339",
-          "createdAt": "2026-08-20T07:08:23Z"
+          "label": "FEAT: Add \"New Window\" to the macOS Dock right-click menu",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/issues/4677",
+          "createdAt": "2026-08-21T08:30:52Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "Feature request / roadmap question: Android support for remote MCP via Streamable HTTP",
+          "url": "https://github.com/google/adk-kotlin/issues/363",
+          "createdAt": "2026-08-21T08:13:01Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] caching of Netflix content",
+          "url": "https://github.com/CastagnaIT/plugin.video.netflix/issues/1801",
+          "createdAt": "2026-08-21T08:11:21Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "chore(tooling): add knip configuration to detect unused files, dependencies and exports across the monorepo",
+          "url": "https://github.com/databuddy-analytics/Databuddy/issues/645",
+          "createdAt": "2026-08-21T07:57:32Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature request] Assistant: Assistant Agent settings should persist across session",
+          "url": "https://github.com/tonythethompson/Olive-Studio/issues/390",
+          "createdAt": "2026-08-21T07:55:42Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add TOTP and WebAuthn multi-factor authentication",
+          "url": "https://github.com/halfsend/eval-006-not-planned-guardrail-b636c028/issues/1",
+          "createdAt": "2026-08-21T07:36:06Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-use",
-      "title": "Feature Request: Chat and Use Agent Commands in Wake",
-      "summary": "Ability to chat with agents and run agent commands directly within the Wake app instead of using the terminal.",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-08-20T08:32:52Z",
-      "keywords": [
-        "feature",
-        "request",
-        "use",
-        "agent",
-        "ability"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Chat and Use Agent Commands in Wake",
-          "url": "https://github.com/iAmCorey/Wake/issues/4",
-          "createdAt": "2026-08-20T08:32:52Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] 希望支持 Windows 原生桌面端",
-          "url": "https://github.com/RealZST/HarnessKit/issues/122",
-          "createdAt": "2026-08-20T08:12:38Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Optional tick marks and discrete values for Slider",
-          "url": "https://github.com/stretched-out-software/buoy-releases/issues/96",
-          "createdAt": "2026-08-20T07:19:39Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "Public Recipe Library",
-      "summary": "### Platform Both ### Is your feature request related to a problem? Why import, search, tidy-up and get frustrated about bad recipes online when every user already has a big (or small) list of good recipes on hand ### Describe the solution you'd like Add a simple shared recipe li",
+      "id": "emerging-feature-request-support",
+      "title": "[feature request] Support sentry_sdk.profiling",
+      "summary": "### What problem does this solve? App profiling would be great ### Proposed solution Support sentry_sdk profiling ### Alternatives you've considered Sentry ### Would you be willing to open a PR for this? No",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -183,27 +84,62 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-08-20T08:08:13Z",
+      "latestSignal": "2026-08-21T08:56:19Z",
       "keywords": [
         "feature",
         "request",
-        "related",
-        "problem",
-        "already"
+        "support",
+        "sdk",
+        "problem"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Public Recipe Library",
-          "url": "https://github.com/norish-recipes/norish/issues/530",
-          "createdAt": "2026-08-20T08:08:13Z"
+          "label": "[feature request] Support sentry_sdk.profiling",
+          "url": "https://github.com/blendbyte/tindra/issues/16",
+          "createdAt": "2026-08-21T08:56:19Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Responsive image delivery for mobile — DPR-aware thumbnail + preview tiers with srcset",
-          "url": "https://github.com/PicPeak/picpeak/issues/1095",
-          "createdAt": "2026-08-20T07:23:25Z"
+          "label": "Feat: Experimental support for Kinds via grafana-app-sdk",
+          "url": "https://github.com/grafana/plugin-tools/issues/2842",
+          "createdAt": "2026-08-21T07:51:52Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-font",
+      "title": "Feature request: Ctrl + / Ctrl - / Ctrl 0 zoom (font size) for the embedded DSH webchat",
+      "summary": "### Problem The desktop shell embeds the DSH web UI in an <iframe> (http://127.0.0.1:3080/). Because focus usually lives inside the iframe and the shell does not implement zoom, the standard web shortcuts (Ctrl + / Ctrl - / Ctrl 0) do nothing. There is no way to enlarge text/UI f",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-21T07:26:30Z",
+      "keywords": [
+        "feature",
+        "request",
+        "font",
+        "size",
+        "there"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: Ctrl + / Ctrl - / Ctrl 0 zoom (font size) for the embedded DSH webchat",
+          "url": "https://github.com/RAFOLIE/dsh-desktop-windowos/issues/5",
+          "createdAt": "2026-08-21T07:26:30Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
         }
       ]
     }

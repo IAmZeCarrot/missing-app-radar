@@ -234,6 +234,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-21",
+      "clusters": 3,
+      "requests": 14,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-add",
+          "score": 86,
+          "requests": 10
+        },
+        {
+          "id": "emerging-feature-request-support",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-font",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
