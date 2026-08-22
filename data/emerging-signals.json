@@ -1,145 +1,162 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-21T08:58:12.608Z",
+  "generatedAt": "2026-08-22T08:47:52.136Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Add option to disable the \"All Channels\" tab in the group to fix guide lag",
-      "summary": "### App Version 0.4.20 ### Device / Environment Android TV ### Detailed Description ### Is your feature request related to a problem? Yes. Currently, in the AerioTV group list, users can enable or disable individual groups tab, but it is impossible to disable the tab that shows a",
-      "score": 86,
+      "id": "emerging-feature-request-first",
+      "title": "Feature request: Support \"pick from contact\" for contacts with multiple numbers",
+      "summary": "First of all, thank you! Been waiting for such an app literally for years! 😃 If there's a way to support the project, please update the readme :) # Use case A contact has multiple phone numbers, f.e. work & private or redundant emergency system, and I would like to add all those",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 14
-      },
-      "requests": 10,
-      "latestSignal": "2026-08-21T08:39:46Z",
-      "keywords": [
-        "feature",
-        "request",
-        "add",
-        "app",
-        "related"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Add option to disable the \"All Channels\" tab in the group to fix guide lag",
-          "url": "https://github.com/jonzey231/AerioTV-Android/issues/80",
-          "createdAt": "2026-08-21T08:39:46Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Add Simplified Chinese (zh-CN) language support for the app interface",
-          "url": "https://github.com/dom-53/Inkita/issues/51",
-          "createdAt": "2026-08-21T08:32:04Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "FEAT: Add \"New Window\" to the macOS Dock right-click menu",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/issues/4677",
-          "createdAt": "2026-08-21T08:30:52Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request / roadmap question: Android support for remote MCP via Streamable HTTP",
-          "url": "https://github.com/google/adk-kotlin/issues/363",
-          "createdAt": "2026-08-21T08:13:01Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] caching of Netflix content",
-          "url": "https://github.com/CastagnaIT/plugin.video.netflix/issues/1801",
-          "createdAt": "2026-08-21T08:11:21Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "chore(tooling): add knip configuration to detect unused files, dependencies and exports across the monorepo",
-          "url": "https://github.com/databuddy-analytics/Databuddy/issues/645",
-          "createdAt": "2026-08-21T07:57:32Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature request] Assistant: Assistant Agent settings should persist across session",
-          "url": "https://github.com/tonythethompson/Olive-Studio/issues/390",
-          "createdAt": "2026-08-21T07:55:42Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add TOTP and WebAuthn multi-factor authentication",
-          "url": "https://github.com/halfsend/eval-006-not-planned-guardrail-b636c028/issues/1",
-          "createdAt": "2026-08-21T07:36:06Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-support",
-      "title": "[feature request] Support sentry_sdk.profiling",
-      "summary": "### What problem does this solve? App profiling would be great ### Proposed solution Support sentry_sdk profiling ### Alternatives you've considered Sentry ### Would you be willing to open a PR for this? No",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-08-21T08:56:19Z",
+      "requests": 4,
+      "latestSignal": "2026-08-22T08:23:41Z",
       "keywords": [
         "feature",
         "request",
-        "support",
-        "sdk",
-        "problem"
+        "first",
+        "thank",
+        "app"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[feature request] Support sentry_sdk.profiling",
-          "url": "https://github.com/blendbyte/tindra/issues/16",
-          "createdAt": "2026-08-21T08:56:19Z"
+          "label": "Feature request: Support \"pick from contact\" for contacts with multiple numbers",
+          "url": "https://github.com/JackRushante/SOSRing/issues/9",
+          "createdAt": "2026-08-22T08:23:41Z"
         },
         {
           "source": "GitHub",
-          "label": "Feat: Experimental support for Kinds via grafana-app-sdk",
-          "url": "https://github.com/grafana/plugin-tools/issues/2842",
-          "createdAt": "2026-08-21T07:51:52Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-font",
-      "title": "Feature request: Ctrl + / Ctrl - / Ctrl 0 zoom (font size) for the embedded DSH webchat",
-      "summary": "### Problem The desktop shell embeds the DSH web UI in an <iframe> (http://127.0.0.1:3080/). Because focus usually lives inside the iframe and the shell does not implement zoom, the standard web shortcuts (Ctrl + / Ctrl - / Ctrl 0) do nothing. There is no way to enlarge text/UI f",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-21T07:26:30Z",
-      "keywords": [
-        "feature",
-        "request",
-        "font",
-        "size",
-        "there"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Ctrl + / Ctrl - / Ctrl 0 zoom (font size) for the embedded DSH webchat",
-          "url": "https://github.com/RAFOLIE/dsh-desktop-windowos/issues/5",
-          "createdAt": "2026-08-21T07:26:30Z"
+          "label": "Feature Request: Russian Language Support",
+          "url": "https://github.com/jizhi0v0/duo-updater/issues/39",
+          "createdAt": "2026-08-22T07:06:36Z"
         },
         {
           "source": "GitHub",
           "label": "Feature request",
           "url": "https://github.com/sidhu1512/doing-it/issues/1",
           "createdAt": "2026-05-25T14:37:31Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Widget Add-On and Widget Color Re-Vamp",
+          "url": "https://github.com/creewick/uWidgets/issues/92",
+          "createdAt": "2026-02-05T02:14:30Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-notifications",
+      "title": "Calendar and Notifications System.",
+      "summary": "markdown_content = \"\"\"## Feature Request: Calendar Overhaul and Notification System Integration ### Description The current application features a static calendar and completely lacks a notification system. This update will overhaul the scheduling architecture to create a dynamic",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-08-22T08:10:48Z",
+      "keywords": [
+        "feature",
+        "request",
+        "notifications",
+        "system",
+        "notification"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Calendar and Notifications System.",
+          "url": "https://github.com/ArceasCalzada/Digital-Ophthalmology-Clinical-Record-System/issues/1",
+          "createdAt": "2026-08-22T08:10:48Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External notifications for support tickets and media issue reports",
+          "url": "https://github.com/jl94x4/Server-Manager-Portal/issues/173",
+          "createdAt": "2026-08-22T07:46:40Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "Pass the injected flag to the decide_handleRawKey extension point",
+      "summary": "### Is your feature request related to a problem? Please describe When caps lock is an NVDA modifier key and a full screen Remote Desktop session has focus, quickly repeated caps lock presses toggle the local caps lock state unintentionally. When the remote session also runs NVD",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-22T08:14:14Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Pass the injected flag to the decide_handleRawKey extension point",
+          "url": "https://github.com/nvaccess/nvda/issues/20714",
+          "createdAt": "2026-08-22T08:14:14Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-implementation",
+      "title": "Feature Request: Toast popup notifications support (Dashboard and Screensaver overlay)",
+      "summary": "### Describe the feature I would like to request the implementation of \"toast\" or overlay notifications, similar to the functionality provided by Fully Kiosk Browser (showToast command). Detailed behavior: 1. **Trigger Mechanism**: The app should listen for incoming notifications",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-22T07:51:03Z",
+      "keywords": [
+        "feature",
+        "request",
+        "implementation",
+        "similar",
+        "browser"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Toast popup notifications support (Dashboard and Screensaver overlay)",
+          "url": "https://github.com/jxlarrea/kiosk-satellite/issues/269",
+          "createdAt": "2026-08-22T07:51:03Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Add built-in Chromium DevTools",
+          "url": "https://github.com/jqssun/android-titanium-browser/issues/246",
+          "createdAt": "2026-08-21T20:58:56Z"
         }
       ]
     }
