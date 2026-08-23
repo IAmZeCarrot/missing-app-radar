@@ -1,121 +1,63 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T08:47:52.136Z",
+  "generatedAt": "2026-08-23T08:48:28.344Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-first",
-      "title": "Feature request: Support \"pick from contact\" for contacts with multiple numbers",
-      "summary": "First of all, thank you! Been waiting for such an app literally for years! 😃 If there's a way to support the project, please update the readme :) # Use case A contact has multiple phone numbers, f.e. work & private or redundant emergency system, and I would like to add all those",
-      "score": 72,
+      "id": "emerging-feature-request-add",
+      "title": "FR: Right-click drag to pan — add a click/pan movement threshold, and make the context-menu key configurable",
+      "summary": "### Is your feature request related to a problem? Please describe. I turned on the new **Right-click drag to pan** setting (2.26.4) because the Miro-style navigation is genuinely better for large canvases — I keep a ~6700 × 4000 reference canvas and right-drag panning plus wheel",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 11
       },
-      "requests": 4,
-      "latestSignal": "2026-08-22T08:23:41Z",
+      "requests": 7,
+      "latestSignal": "2026-08-23T07:57:47Z",
       "keywords": [
         "feature",
         "request",
-        "first",
-        "thank",
-        "app"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Support \"pick from contact\" for contacts with multiple numbers",
-          "url": "https://github.com/JackRushante/SOSRing/issues/9",
-          "createdAt": "2026-08-22T08:23:41Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Russian Language Support",
-          "url": "https://github.com/jizhi0v0/duo-updater/issues/39",
-          "createdAt": "2026-08-22T07:06:36Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Widget Add-On and Widget Color Re-Vamp",
-          "url": "https://github.com/creewick/uWidgets/issues/92",
-          "createdAt": "2026-02-05T02:14:30Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-notifications",
-      "title": "Calendar and Notifications System.",
-      "summary": "markdown_content = \"\"\"## Feature Request: Calendar Overhaul and Notification System Integration ### Description The current application features a static calendar and completely lacks a notification system. This update will overhaul the scheduling architecture to create a dynamic",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-08-22T08:10:48Z",
-      "keywords": [
-        "feature",
-        "request",
-        "notifications",
-        "system",
-        "notification"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Calendar and Notifications System.",
-          "url": "https://github.com/ArceasCalzada/Digital-Ophthalmology-Clinical-Record-System/issues/1",
-          "createdAt": "2026-08-22T08:10:48Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: External notifications for support tickets and media issue reports",
-          "url": "https://github.com/jl94x4/Server-Manager-Portal/issues/173",
-          "createdAt": "2026-08-22T07:46:40Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "Pass the injected flag to the decide_handleRawKey extension point",
-      "summary": "### Is your feature request related to a problem? Please describe When caps lock is an NVDA modifier key and a full screen Remote Desktop session has focus, quickly repeated caps lock presses toggle the local caps lock state unintentionally. When the remote session also runs NVD",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-22T08:14:14Z",
-      "keywords": [
-        "feature",
-        "request",
-        "related",
+        "add",
         "problem",
-        "please"
+        "related"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Pass the injected flag to the decide_handleRawKey extension point",
-          "url": "https://github.com/nvaccess/nvda/issues/20714",
-          "createdAt": "2026-08-22T08:14:14Z"
+          "label": "FR: Right-click drag to pan — add a click/pan movement threshold, and make the context-menu key configurable",
+          "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2904",
+          "createdAt": "2026-08-23T07:57:47Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature]: Video Music",
+          "url": "https://github.com/PixelPlayerHQ/PixelPlayer/issues/2764",
+          "createdAt": "2026-08-23T06:42:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Add a wake word",
+          "url": "https://github.com/knoop7/Ava/issues/192",
+          "createdAt": "2026-08-23T06:33:10Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE]: Add Visual Learning Roadmap",
+          "url": "https://github.com/Khushi1310-nayak/SkillVerse/issues/281",
+          "createdAt": "2026-08-23T06:31:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Add compressed SAV writer support",
+          "url": "https://github.com/jrothbaum/polars_readstat/issues/55",
+          "createdAt": "2026-08-23T04:21:08Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Add pluggable learning resource providers with explicit enable/disable controls",
+          "url": "https://github.com/HKUDS/DeepTutor/issues/961",
+          "createdAt": "2026-08-23T02:32:32Z"
         },
         {
           "source": "GitHub",
@@ -126,9 +68,44 @@
       ]
     },
     {
-      "id": "emerging-feature-request-implementation",
-      "title": "Feature Request: Toast popup notifications support (Dashboard and Screensaver overlay)",
-      "summary": "### Describe the feature I would like to request the implementation of \"toast\" or overlay notifications, similar to the functionality provided by Fully Kiosk Browser (showToast command). Detailed behavior: 1. **Trigger Mechanism**: The app should listen for incoming notifications",
+      "id": "emerging-feature-request-currently",
+      "title": "[Feature Request]: Make the phone location update interval configurable (currently hardcoded to 30 s)",
+      "summary": "### Checklist - [x] I have used the search function for **OPEN ISSUES** to see if someone else has already submitted the same feature request. - [x] I have **also** used the search function for **CLOSED ISSUES** to see if the feature was already implemented and is just waiting to",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-23T08:42:09Z",
+      "keywords": [
+        "feature",
+        "request",
+        "currently",
+        "used",
+        "see"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Make the phone location update interval configurable (currently hardcoded to 30 s)",
+          "url": "https://github.com/meshtastic/Meshtastic-Android/issues/6831",
+          "createdAt": "2026-08-23T08:42:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Layer / Sprite Analyzer(?)",
+          "url": "https://github.com/mstan/MegaManXSNESRecomp/issues/33",
+          "createdAt": "2026-08-22T20:38:41Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-app-feature-request",
+      "title": "Shifted punctuation is delivered to panes without its character when the pane app enables the kitty keyboard protocol",
+      "summary": "### Is this a reproducible bug? - [x] I confirm this is a reproducible bug, not a feature request, idea, question, contribution proposal, or direction check. - [x] I reproduced this bug on the version and environment reported below using the exact steps provided. ### Current beha",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -136,27 +113,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-08-22T07:51:03Z",
+      "latestSignal": "2026-08-23T07:09:12Z",
       "keywords": [
+        "app",
         "feature",
         "request",
-        "implementation",
-        "similar",
-        "browser"
+        "proposal",
+        "version"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Toast popup notifications support (Dashboard and Screensaver overlay)",
-          "url": "https://github.com/jxlarrea/kiosk-satellite/issues/269",
-          "createdAt": "2026-08-22T07:51:03Z"
+          "label": "Shifted punctuation is delivered to panes without its character when the pane app enables the kitty keyboard protocol",
+          "url": "https://github.com/herdrdev/herdr/issues/3146",
+          "createdAt": "2026-08-23T07:09:12Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add built-in Chromium DevTools",
-          "url": "https://github.com/jqssun/android-titanium-browser/issues/246",
-          "createdAt": "2026-08-21T20:58:56Z"
+          "label": "✨ [App Feedback] 浏览器插件(下载显示)",
+          "url": "https://github.com/zerx-lab/FluxDown/issues/526",
+          "createdAt": "2026-08-23T06:52:27Z"
         }
       ]
     }

@@ -285,6 +285,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-23",
+      "clusters": 3,
+      "requests": 11,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-add",
+          "score": 83,
+          "requests": 7
+        },
+        {
+          "id": "emerging-feature-request-currently",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-app-feature-request",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
