@@ -1,139 +1,75 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-23T08:48:28.344Z",
+  "generatedAt": "2026-08-24T09:04:35.393Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-add",
-      "title": "FR: Right-click drag to pan — add a click/pan movement threshold, and make the context-menu key configurable",
-      "summary": "### Is your feature request related to a problem? Please describe. I turned on the new **Right-click drag to pan** setting (2.26.4) because the Miro-style navigation is genuinely better for large canvases — I keep a ~6700 × 4000 reference canvas and right-drag panning plus wheel",
-      "score": 83,
+      "id": "emerging-feature-request-problem",
+      "title": "feat(config): System environment variables should take priority over app-config.json values",
+      "summary": "**Is your feature request related to a problem? Please describe.** When using `addEnvVar()` during deployment (via a CLI deploy command), the values are written to `app-config.json`. However, if the committed `app-config.json` already contains env-var entries (e.g., from a develo",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 0
       },
-      "requests": 7,
-      "latestSignal": "2026-08-23T07:57:47Z",
+      "requests": 9,
+      "latestSignal": "2026-08-24T08:47:04Z",
       "keywords": [
         "feature",
         "request",
-        "add",
         "problem",
-        "related"
+        "related",
+        "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "FR: Right-click drag to pan — add a click/pan movement threshold, and make the context-menu key configurable",
-          "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2904",
-          "createdAt": "2026-08-23T07:57:47Z"
+          "label": "feat(config): System environment variables should take priority over app-config.json values",
+          "url": "https://github.com/WebFiori/framework/issues/408",
+          "createdAt": "2026-08-24T08:47:04Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Video Music",
-          "url": "https://github.com/PixelPlayerHQ/PixelPlayer/issues/2764",
-          "createdAt": "2026-08-23T06:42:16Z"
+          "label": "[Feature]: theme",
+          "url": "https://github.com/PixelPlayerHQ/PixelPlayer/issues/2770",
+          "createdAt": "2026-08-24T08:45:36Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Add a wake word",
-          "url": "https://github.com/knoop7/Ava/issues/192",
-          "createdAt": "2026-08-23T06:33:10Z"
+          "label": "refactor: ♻️ simplify campaign rate update responsibilities",
+          "url": "https://github.com/globe-and-citizen/cnc-portal/issues/2572",
+          "createdAt": "2026-08-24T08:39:26Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE]: Add Visual Learning Roadmap",
-          "url": "https://github.com/Khushi1310-nayak/SkillVerse/issues/281",
-          "createdAt": "2026-08-23T06:31:43Z"
+          "label": "refactor: ♻️ simplify Accounting date picker responsibilities",
+          "url": "https://github.com/globe-and-citizen/cnc-portal/issues/2571",
+          "createdAt": "2026-08-24T08:32:50Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add compressed SAV writer support",
-          "url": "https://github.com/jrothbaum/polars_readstat/issues/55",
-          "createdAt": "2026-08-23T04:21:08Z"
+          "label": "[Feature] 建议 Android 端增加“协议抓取范围”控制面板，并支持 TCP/UDP 旁路导出 (.pcap)",
+          "url": "https://github.com/reqable/reqable-app/issues/2897",
+          "createdAt": "2026-08-24T08:26:51Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Add pluggable learning resource providers with explicit enable/disable controls",
-          "url": "https://github.com/HKUDS/DeepTutor/issues/961",
-          "createdAt": "2026-08-23T02:32:32Z"
+          "label": "[Feature request]: Date Range Picker",
+          "url": "https://github.com/sbb-design-systems/lyne-components/issues/5192",
+          "createdAt": "2026-08-24T08:06:05Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add Terminal / Command-Line (Shell) Tool",
+          "url": "https://github.com/TecnicalBot/mobile-agent/issues/5",
+          "createdAt": "2026-08-24T08:00:58Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-currently",
-      "title": "[Feature Request]: Make the phone location update interval configurable (currently hardcoded to 30 s)",
-      "summary": "### Checklist - [x] I have used the search function for **OPEN ISSUES** to see if someone else has already submitted the same feature request. - [x] I have **also** used the search function for **CLOSED ISSUES** to see if the feature was already implemented and is just waiting to",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-23T08:42:09Z",
-      "keywords": [
-        "feature",
-        "request",
-        "currently",
-        "used",
-        "see"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request]: Make the phone location update interval configurable (currently hardcoded to 30 s)",
-          "url": "https://github.com/meshtastic/Meshtastic-Android/issues/6831",
-          "createdAt": "2026-08-23T08:42:09Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Layer / Sprite Analyzer(?)",
-          "url": "https://github.com/mstan/MegaManXSNESRecomp/issues/33",
-          "createdAt": "2026-08-22T20:38:41Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-app-feature-request",
-      "title": "Shifted punctuation is delivered to panes without its character when the pane app enables the kitty keyboard protocol",
-      "summary": "### Is this a reproducible bug? - [x] I confirm this is a reproducible bug, not a feature request, idea, question, contribution proposal, or direction check. - [x] I reproduced this bug on the version and environment reported below using the exact steps provided. ### Current beha",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-23T07:09:12Z",
-      "keywords": [
-        "app",
-        "feature",
-        "request",
-        "proposal",
-        "version"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Shifted punctuation is delivered to panes without its character when the pane app enables the kitty keyboard protocol",
-          "url": "https://github.com/herdrdev/herdr/issues/3146",
-          "createdAt": "2026-08-23T07:09:12Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "✨ [App Feedback] 浏览器插件(下载显示)",
-          "url": "https://github.com/zerx-lab/FluxDown/issues/526",
-          "createdAt": "2026-08-23T06:52:27Z"
         }
       ]
     }
