@@ -1,75 +1,157 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-24T09:04:35.393Z",
+  "generatedAt": "2026-08-25T09:00:17.521Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "feat(config): System environment variables should take priority over app-config.json values",
-      "summary": "**Is your feature request related to a problem? Please describe.** When using `addEnvVar()` during deployment (via a CLI deploy command), the values are written to `app-config.json`. However, if the committed `app-config.json` already contains env-var entries (e.g., from a develo",
-      "score": 72,
+      "id": "emerging-feature-request-desktop",
+      "title": "[FEATURE] Desktop sidebar: group sessions by working directory, not only by repository root",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement T",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 7
       },
-      "requests": 9,
-      "latestSignal": "2026-08-24T08:47:04Z",
+      "requests": 4,
+      "latestSignal": "2026-08-25T08:40:53Z",
       "keywords": [
         "feature",
         "request",
+        "desktop",
         "problem",
-        "related",
-        "describe"
+        "use"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "feat(config): System environment variables should take priority over app-config.json values",
-          "url": "https://github.com/WebFiori/framework/issues/408",
-          "createdAt": "2026-08-24T08:47:04Z"
+          "label": "[FEATURE] Desktop sidebar: group sessions by working directory, not only by repository root",
+          "url": "https://github.com/anthropics/claude-code/issues/89468",
+          "createdAt": "2026-08-25T08:40:53Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: theme",
-          "url": "https://github.com/PixelPlayerHQ/PixelPlayer/issues/2770",
-          "createdAt": "2026-08-24T08:45:36Z"
+          "label": "[Feature Request] Changelogs are unreadable",
+          "url": "https://github.com/thaw-app/Thaw/issues/975",
+          "createdAt": "2026-08-25T08:00:10Z"
         },
         {
           "source": "GitHub",
-          "label": "refactor: ♻️ simplify campaign rate update responsibilities",
-          "url": "https://github.com/globe-and-citizen/cnc-portal/issues/2572",
-          "createdAt": "2026-08-24T08:39:26Z"
+          "label": "Desktop: group chat Activity bar — add a Stop button to interrupt all bot turns",
+          "url": "https://github.com/NousResearch/hermes-agent/issues/94569",
+          "createdAt": "2026-08-25T07:58:08Z"
         },
         {
           "source": "GitHub",
-          "label": "refactor: ♻️ simplify Accounting date picker responsibilities",
-          "url": "https://github.com/globe-and-citizen/cnc-portal/issues/2571",
-          "createdAt": "2026-08-24T08:32:50Z"
+          "label": "Feature request: Import research/chat sessions from ChatGPT / Claude Desktop into project memory",
+          "url": "https://github.com/akitaonrails/ai-memory/issues/483",
+          "createdAt": "2026-08-25T02:09:48Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "[FEATURE] Improve DJI FlightRecord parsing for missing/corrupted data, including AirSense/ADS-B",
+      "summary": "**Is your feature request related to a problem? Please describe.** I would like Open DroneLog to preserve and correctly decode all information contained in DJI FlightRecord message/event records, including data that is currently missing or displayed as corrupted characters. This",
+      "score": 79,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 7
+      },
+      "requests": 7,
+      "latestSignal": "2026-08-25T08:14:21Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Improve DJI FlightRecord parsing for missing/corrupted data, including AirSense/ADS-B",
+          "url": "https://github.com/arpanghosh8453/open-dronelog/issues/220",
+          "createdAt": "2026-08-25T08:14:21Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] 建议 Android 端增加“协议抓取范围”控制面板，并支持 TCP/UDP 旁路导出 (.pcap)",
-          "url": "https://github.com/reqable/reqable-app/issues/2897",
-          "createdAt": "2026-08-24T08:26:51Z"
+          "label": "git finish: pre-merge check that a CHANGELOG.md was touched (feature/bugfix branches)",
+          "url": "https://github.com/iamantoniodinuzzo/git-flow/issues/15",
+          "createdAt": "2026-08-25T07:28:34Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature request]: Date Range Picker",
-          "url": "https://github.com/sbb-design-systems/lyne-components/issues/5192",
-          "createdAt": "2026-08-24T08:06:05Z"
+          "label": "Allow API Users to use X-Another-User",
+          "url": "https://github.com/espocrm/espocrm/issues/3766",
+          "createdAt": "2026-08-25T07:23:10Z"
         },
         {
           "source": "GitHub",
-          "label": "Add Terminal / Command-Line (Shell) Tool",
-          "url": "https://github.com/TecnicalBot/mobile-agent/issues/5",
-          "createdAt": "2026-08-24T08:00:58Z"
+          "label": "Enhancement: Persist Active Persona Across Page Refresh",
+          "url": "https://github.com/open-metadata/OpenMetadata/issues/32002",
+          "createdAt": "2026-08-25T07:13:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Add \"Workweek\" view (Monday to Friday)",
+          "url": "https://github.com/SoluceTechnologies/nextcloud-calendar-mobile/issues/198",
+          "createdAt": "2026-08-25T07:13:32Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Restore saved workspace window layouts, including tile order and floating geometry",
+          "url": "https://github.com/pop-os/cosmic-epoch/issues/3833",
+          "createdAt": "2026-08-24T22:50:52Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-app-feature-request",
+      "title": "Feature request: change widget's color and police",
+      "summary": "hi i like to personnalize my phone. It would great to have an option to choose differents colors to the widget ( like in the app) your app is very useful. thank you 🙏",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-08-25T08:54:48Z",
+      "keywords": [
+        "app",
+        "feature",
+        "request",
+        "widget",
+        "color"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: change widget's color and police",
+          "url": "https://github.com/m-i-n-a-r/birday/issues/441",
+          "createdAt": "2026-08-25T08:54:48Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request – Native mouse button mapping (left/right/middle) for Android navigation in Tango",
+          "url": "https://github.com/yume-chan/ya-webadb/issues/866",
+          "createdAt": "2026-08-25T07:10:13Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Widget Add-On and Widget Color Re-Vamp",
+          "url": "https://github.com/creewick/uWidgets/issues/92",
+          "createdAt": "2026-02-05T02:14:30Z"
         }
       ]
     }
