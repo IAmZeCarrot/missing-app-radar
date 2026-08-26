@@ -1,110 +1,63 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-25T09:00:17.521Z",
+  "generatedAt": "2026-08-26T09:02:32.234Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-desktop",
-      "title": "[FEATURE] Desktop sidebar: group sessions by working directory, not only by repository root",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement T",
-      "score": 79,
+      "id": "emerging-feature-request-problem",
+      "title": "[FEAT]Support for Windows Hello / Biometric & PIN unlock on Desktop (Windows/Linux)",
+      "summary": "### Is your feature request related to a problem? Please describe. Currently, the Desktop version of Keyguard requires entering the full Master Password every time the vault locks or the application restarts. Unlike the Android app (which leverages Android Biometrics) or the offi",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
-      },
-      "requests": 4,
-      "latestSignal": "2026-08-25T08:40:53Z",
-      "keywords": [
-        "feature",
-        "request",
-        "desktop",
-        "problem",
-        "use"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Desktop sidebar: group sessions by working directory, not only by repository root",
-          "url": "https://github.com/anthropics/claude-code/issues/89468",
-          "createdAt": "2026-08-25T08:40:53Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Changelogs are unreadable",
-          "url": "https://github.com/thaw-app/Thaw/issues/975",
-          "createdAt": "2026-08-25T08:00:10Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Desktop: group chat Activity bar — add a Stop button to interrupt all bot turns",
-          "url": "https://github.com/NousResearch/hermes-agent/issues/94569",
-          "createdAt": "2026-08-25T07:58:08Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Import research/chat sessions from ChatGPT / Claude Desktop into project memory",
-          "url": "https://github.com/akitaonrails/ai-memory/issues/483",
-          "createdAt": "2026-08-25T02:09:48Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "[FEATURE] Improve DJI FlightRecord parsing for missing/corrupted data, including AirSense/ADS-B",
-      "summary": "**Is your feature request related to a problem? Please describe.** I would like Open DroneLog to preserve and correctly decode all information contained in DJI FlightRecord message/event records, including data that is currently missing or displayed as corrupted characters. This",
-      "score": 79,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 7
+        "engagement": 11
       },
       "requests": 7,
-      "latestSignal": "2026-08-25T08:14:21Z",
+      "latestSignal": "2026-08-26T08:54:47Z",
       "keywords": [
         "feature",
         "request",
-        "related",
         "problem",
-        "please"
+        "please",
+        "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Improve DJI FlightRecord parsing for missing/corrupted data, including AirSense/ADS-B",
-          "url": "https://github.com/arpanghosh8453/open-dronelog/issues/220",
-          "createdAt": "2026-08-25T08:14:21Z"
+          "label": "[FEAT]Support for Windows Hello / Biometric & PIN unlock on Desktop (Windows/Linux)",
+          "url": "https://github.com/AChep/keyguard-app/issues/1550",
+          "createdAt": "2026-08-26T08:54:47Z"
         },
         {
           "source": "GitHub",
-          "label": "git finish: pre-merge check that a CHANGELOG.md was touched (feature/bugfix branches)",
-          "url": "https://github.com/iamantoniodinuzzo/git-flow/issues/15",
-          "createdAt": "2026-08-25T07:28:34Z"
+          "label": "Allow lxd_instance to leave instance power state unmanaged",
+          "url": "https://github.com/terraform-lxd/terraform-provider-lxd/issues/769",
+          "createdAt": "2026-08-26T08:45:37Z"
         },
         {
           "source": "GitHub",
-          "label": "Allow API Users to use X-Another-User",
-          "url": "https://github.com/espocrm/espocrm/issues/3766",
-          "createdAt": "2026-08-25T07:23:10Z"
+          "label": "[Feat] 멀티모듈 · 아키텍처 도입 (chatsea-android 참고)",
+          "url": "https://github.com/hyunjine/linker/issues/96",
+          "createdAt": "2026-08-26T08:30:56Z"
         },
         {
           "source": "GitHub",
-          "label": "Enhancement: Persist Active Persona Across Page Refresh",
-          "url": "https://github.com/open-metadata/OpenMetadata/issues/32002",
-          "createdAt": "2026-08-25T07:13:53Z"
+          "label": "Remember window size across launches",
+          "url": "https://github.com/nolight132/sonora/issues/232",
+          "createdAt": "2026-08-26T08:09:59Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add \"Workweek\" view (Monday to Friday)",
-          "url": "https://github.com/SoluceTechnologies/nextcloud-calendar-mobile/issues/198",
-          "createdAt": "2026-08-25T07:13:32Z"
+          "label": "Feature Request: 支持动态窗口规则设置浮动状态",
+          "url": "https://github.com/Asthestarsfalll/piri/issues/34",
+          "createdAt": "2026-08-26T08:05:28Z"
         },
         {
           "source": "GitHub",
-          "label": "Restore saved workspace window layouts, including tile order and floating geometry",
-          "url": "https://github.com/pop-os/cosmic-epoch/issues/3833",
-          "createdAt": "2026-08-24T22:50:52Z"
+          "label": "Librarification",
+          "url": "https://github.com/mtrojnar/osslsigncode/issues/502",
+          "createdAt": "2026-08-26T01:07:45Z"
         },
         {
           "source": "GitHub",
@@ -115,43 +68,72 @@
       ]
     },
     {
-      "id": "emerging-app-feature-request",
-      "title": "Feature request: change widget's color and police",
-      "summary": "hi i like to personnalize my phone. It would great to have an option to choose differents colors to the widget ( like in the app) your app is very useful. thank you 🙏",
-      "score": 61,
+      "id": "emerging-feature-request-suggest",
+      "title": "[Feature request] Turn off by default the Highlighted mode in custom code section",
+      "summary": "### Describe your suggested feature The highlighted mode of custom code section, turn it off by default. the mode has three steps, OFF, semi-on (idk), and On Semi-on and ON makethe editor typing just slow, it is very bad. So i suggest to keep it off by default, so the first impre",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
+        "volume": 22,
         "engagement": 0
       },
-      "requests": 3,
-      "latestSignal": "2026-08-25T08:54:48Z",
+      "requests": 2,
+      "latestSignal": "2026-08-26T08:16:21Z",
       "keywords": [
-        "app",
         "feature",
         "request",
-        "widget",
-        "color"
+        "suggest",
+        "first",
+        "turn"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: change widget's color and police",
-          "url": "https://github.com/m-i-n-a-r/birday/issues/441",
-          "createdAt": "2026-08-25T08:54:48Z"
+          "label": "[Feature request] Turn off by default the Highlighted mode in custom code section",
+          "url": "https://github.com/lnreader/lnreader/issues/2017",
+          "createdAt": "2026-08-26T08:16:21Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request – Native mouse button mapping (left/right/middle) for Android navigation in Tango",
-          "url": "https://github.com/yume-chan/ya-webadb/issues/866",
-          "createdAt": "2026-08-25T07:10:13Z"
+          "label": "feat: add oh-my-pi (omp) as a supported agent in setup and docs",
+          "url": "https://github.com/yvgude/lean-ctx/issues/1549",
+          "createdAt": "2026-08-25T22:58:43Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-like-request",
+      "title": "Integrate TADShop/ConsensusTAD for bulk Hi-C TAD calling in ov.epi",
+      "summary": "### What kind of feature would you like to request? New analysis tool: A simple analysis tool you have been using and are missing in `ov.tools`? ### Please describe your wishes **What kind of feature would you like to request?** New analysis tool for the Epigenetics module (ov.ep",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-08-26T07:37:23Z",
+      "keywords": [
+        "feature",
+        "like",
+        "request",
+        "new",
+        "simple"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Integrate TADShop/ConsensusTAD for bulk Hi-C TAD calling in ov.epi",
+          "url": "https://github.com/omicverse/omicverse/issues/959",
+          "createdAt": "2026-08-26T07:37:23Z"
         },
         {
           "source": "GitHub",
-          "label": "Widget Add-On and Widget Color Re-Vamp",
-          "url": "https://github.com/creewick/uWidgets/issues/92",
-          "createdAt": "2026-02-05T02:14:30Z"
+          "label": "Feature request: Numbered annotations / step markers",
+          "url": "https://github.com/recursivecodes/grabbit/issues/18",
+          "createdAt": "2026-08-26T01:51:44Z"
         }
       ]
     }

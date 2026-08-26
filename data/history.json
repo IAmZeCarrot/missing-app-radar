@@ -344,6 +344,29 @@
           "requests": 3
         }
       ]
+    },
+    {
+      "date": "2026-08-26",
+      "clusters": 3,
+      "requests": 11,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-problem",
+          "score": 83,
+          "requests": 7
+        },
+        {
+          "id": "emerging-feature-request-suggest",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-like-request",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
