@@ -1,63 +1,45 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-26T09:02:32.234Z",
+  "generatedAt": "2026-08-27T19:04:23.143Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "[FEAT]Support for Windows Hello / Biometric & PIN unlock on Desktop (Windows/Linux)",
-      "summary": "### Is your feature request related to a problem? Please describe. Currently, the Desktop version of Keyguard requires entering the full Master Password every time the vault locks or the application restarts. Unlike the Android app (which leverages Android Biometrics) or the offi",
-      "score": 83,
+      "id": "emerging-feature-request-related",
+      "title": "extend handling property \"numberOfGears\"",
+      "summary": "### Is your feature request related to a problem? Please describe. 5 gears aren't enough for modern cars (some sports cars have 7 gears, and trucks can have even more) ### Describe the solution you'd like add support for more than 5 gears ### Describe alternatives you've consider",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 7
       },
-      "requests": 7,
-      "latestSignal": "2026-08-26T08:54:47Z",
+      "requests": 4,
+      "latestSignal": "2026-08-27T19:01:29Z",
       "keywords": [
         "feature",
         "request",
+        "related",
         "problem",
-        "please",
-        "describe"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEAT]Support for Windows Hello / Biometric & PIN unlock on Desktop (Windows/Linux)",
-          "url": "https://github.com/AChep/keyguard-app/issues/1550",
-          "createdAt": "2026-08-26T08:54:47Z"
+          "label": "extend handling property \"numberOfGears\"",
+          "url": "https://github.com/Dryxio/mtasa-neon/issues/87",
+          "createdAt": "2026-08-27T19:01:29Z"
         },
         {
           "source": "GitHub",
-          "label": "Allow lxd_instance to leave instance power state unmanaged",
-          "url": "https://github.com/terraform-lxd/terraform-provider-lxd/issues/769",
-          "createdAt": "2026-08-26T08:45:37Z"
+          "label": "DMX format Flex Rules decompile",
+          "url": "https://github.com/ValveResourceFormat/ValveResourceFormat/issues/1330",
+          "createdAt": "2026-08-27T18:43:38Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feat] 멀티모듈 · 아키텍처 도입 (chatsea-android 참고)",
-          "url": "https://github.com/hyunjine/linker/issues/96",
-          "createdAt": "2026-08-26T08:30:56Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Remember window size across launches",
-          "url": "https://github.com/nolight132/sonora/issues/232",
-          "createdAt": "2026-08-26T08:09:59Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: 支持动态窗口规则设置浮动状态",
-          "url": "https://github.com/Asthestarsfalll/piri/issues/34",
-          "createdAt": "2026-08-26T08:05:28Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Librarification",
-          "url": "https://github.com/mtrojnar/osslsigncode/issues/502",
-          "createdAt": "2026-08-26T01:07:45Z"
+          "label": "Feature Request: Drag and drop reordering of changesets",
+          "url": "https://github.com/kkkev/jj-idea/issues/93",
+          "createdAt": "2026-08-27T11:08:46Z"
         },
         {
           "source": "GitHub",
@@ -68,72 +50,43 @@
       ]
     },
     {
-      "id": "emerging-feature-request-suggest",
-      "title": "[Feature request] Turn off by default the Highlighted mode in custom code section",
-      "summary": "### Describe your suggested feature The highlighted mode of custom code section, turn it off by default. the mode has three steps, OFF, semi-on (idk), and On Semi-on and ON makethe editor typing just slow, it is very bad. So i suggest to keep it off by default, so the first impre",
-      "score": 50,
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request] Add ability to enable/disable MCPs at tool level and MCP server level",
+      "summary": "## Summary Currently there is no way to toggle individual MCP tools or entire MCP servers on/off. It would be useful to add enable/disable functionality at both levels: - **MCP server level**: allow enabling or disabling an entire MCP server, so all of its tools can be turned off",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-08-26T08:16:21Z",
+      "requests": 3,
+      "latestSignal": "2026-08-27T14:41:12Z",
       "keywords": [
         "feature",
         "request",
-        "suggest",
-        "first",
-        "turn"
+        "add",
+        "ability",
+        "mcp"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature request] Turn off by default the Highlighted mode in custom code section",
-          "url": "https://github.com/lnreader/lnreader/issues/2017",
-          "createdAt": "2026-08-26T08:16:21Z"
+          "label": "[Feature Request] Add ability to enable/disable MCPs at tool level and MCP server level",
+          "url": "https://github.com/phoson-lat/phoson-engine-minimal/issues/100",
+          "createdAt": "2026-08-27T14:41:12Z"
         },
         {
           "source": "GitHub",
-          "label": "feat: add oh-my-pi (omp) as a supported agent in setup and docs",
-          "url": "https://github.com/yvgude/lean-ctx/issues/1549",
-          "createdAt": "2026-08-25T22:58:43Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-like-request",
-      "title": "Integrate TADShop/ConsensusTAD for bulk Hi-C TAD calling in ov.epi",
-      "summary": "### What kind of feature would you like to request? New analysis tool: A simple analysis tool you have been using and are missing in `ov.tools`? ### Please describe your wishes **What kind of feature would you like to request?** New analysis tool for the Epigenetics module (ov.ep",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-26T07:37:23Z",
-      "keywords": [
-        "feature",
-        "like",
-        "request",
-        "new",
-        "simple"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Integrate TADShop/ConsensusTAD for bulk Hi-C TAD calling in ov.epi",
-          "url": "https://github.com/omicverse/omicverse/issues/959",
-          "createdAt": "2026-08-26T07:37:23Z"
+          "label": "Add configurable default MCP tools after vector-based tool retrieval",
+          "url": "https://github.com/goruck/home-generative-agent/issues/579",
+          "createdAt": "2026-08-27T13:08:21Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Numbered annotations / step markers",
-          "url": "https://github.com/recursivecodes/grabbit/issues/18",
-          "createdAt": "2026-08-26T01:51:44Z"
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
         }
       ]
     }
