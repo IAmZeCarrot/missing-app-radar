@@ -385,6 +385,24 @@
           "requests": 3
         }
       ]
+    },
+    {
+      "date": "2026-08-28",
+      "clusters": 2,
+      "requests": 4,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-open-source-don",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-support-github-environment",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

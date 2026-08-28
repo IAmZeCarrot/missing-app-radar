@@ -1,92 +1,74 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-27T19:04:23.143Z",
+  "generatedAt": "2026-08-28T20:12:00.751Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "extend handling property \"numberOfGears\"",
-      "summary": "### Is your feature request related to a problem? Please describe. 5 gears aren't enough for modern cars (some sports cars have 7 gears, and trucks can have even more) ### Describe the solution you'd like add support for more than 5 gears ### Describe alternatives you've consider",
-      "score": 79,
+      "id": "emerging-open-source-don",
+      "title": "Show HN: Sesame - a local-first, open-source password manager",
+      "summary": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don&#x27;t need an account to create or use a vault, and the hosted service never receives the vault itself. It&#x27;s still early software and the independent security revi",
+      "score": 78,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 7
+        "volume": 22,
+        "engagement": 28
       },
-      "requests": 4,
-      "latestSignal": "2026-08-27T19:01:29Z",
+      "requests": 2,
+      "latestSignal": "2026-08-28T19:14:14Z",
       "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "please"
+        "open",
+        "source",
+        "don",
+        "x27",
+        "use"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "GitHub",
-          "label": "extend handling property \"numberOfGears\"",
-          "url": "https://github.com/Dryxio/mtasa-neon/issues/87",
-          "createdAt": "2026-08-27T19:01:29Z"
+          "source": "Hacker News",
+          "label": "Show HN: Sesame - a local-first, open-source password manager",
+          "url": "https://news.ycombinator.com/item?id=49483038",
+          "createdAt": "2026-08-28T19:14:14Z"
         },
         {
-          "source": "GitHub",
-          "label": "DMX format Flex Rules decompile",
-          "url": "https://github.com/ValveResourceFormat/ValveResourceFormat/issues/1330",
-          "createdAt": "2026-08-27T18:43:38Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Drag and drop reordering of changesets",
-          "url": "https://github.com/kkkev/jj-idea/issues/93",
-          "createdAt": "2026-08-27T11:08:46Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "source": "Hacker News",
+          "label": "Ask HN: Would you pay for an AI API that guarantees zero prompt retention?",
+          "url": "https://news.ycombinator.com/item?id=49459973",
+          "createdAt": "2026-08-27T05:03:02Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Add ability to enable/disable MCPs at tool level and MCP server level",
-      "summary": "## Summary Currently there is no way to toggle individual MCP tools or entire MCP servers on/off. It would be useful to add enable/disable functionality at both levels: - **MCP server level**: allow enabling or disabling an entire MCP server, so all of its tools can be turned off",
-      "score": 61,
+      "id": "emerging-support-github-environment",
+      "title": "[FEATURE] Support multiple GitHub repos in one broker deployment",
+      "summary": "The current broker manifest hardcodes a single owner/repo pair via environment variables. For organizations with many repositories, it would be useful to support multiple repos in one broker deployment. Proposed approach: - Accept a list of repos in the manifest - Pass owner/repo",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
+        "volume": 22,
         "engagement": 0
       },
-      "requests": 3,
-      "latestSignal": "2026-08-27T14:41:12Z",
+      "requests": 2,
+      "latestSignal": "2026-08-28T20:02:30Z",
       "keywords": [
-        "feature",
-        "request",
-        "add",
-        "ability",
-        "mcp"
+        "support",
+        "github",
+        "environment",
+        "variables",
+        "useful"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add ability to enable/disable MCPs at tool level and MCP server level",
-          "url": "https://github.com/phoson-lat/phoson-engine-minimal/issues/100",
-          "createdAt": "2026-08-27T14:41:12Z"
+          "label": "[FEATURE] Support multiple GitHub repos in one broker deployment",
+          "url": "https://github.com/lf-sa-demo/safe-triage-demo/issues/5",
+          "createdAt": "2026-08-28T20:02:30Z"
         },
         {
           "source": "GitHub",
-          "label": "Add configurable default MCP tools after vector-based tool retrieval",
-          "url": "https://github.com/goruck/home-generative-agent/issues/579",
-          "createdAt": "2026-08-27T13:08:21Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
+          "label": "Support OS keychain secret references in CLI configuration",
+          "url": "https://github.com/mcpjungle/MCPJungle/issues/299",
+          "createdAt": "2026-08-28T15:20:14Z"
         }
       ]
     }
