@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-28T20:12:00.751Z",
+  "generatedAt": "2026-08-29T13:49:58.452Z",
   "clusters": [
     {
       "id": "emerging-open-source-don",
@@ -38,37 +38,37 @@
       ]
     },
     {
-      "id": "emerging-support-github-environment",
-      "title": "[FEATURE] Support multiple GitHub repos in one broker deployment",
-      "summary": "The current broker manifest hardcodes a single owner/repo pair via environment variables. For organizations with many repositories, it would be useful to support multiple repos in one broker deployment. Proposed approach: - Accept a list of repos in the manifest - Pass owner/repo",
-      "score": 50,
+      "id": "emerging-feature-request-other",
+      "title": "[Feature Request] 是否允许第三方开源私有部署？",
+      "summary": "### Affected area Other open-source component ### Problem or workflow pressure 我个人正在独立使用和开发自己的 https://github.com/klarkxy/nekonest ，今天看到了Lody，发现完成度更高、打算放弃自己的开发，转向适配Lody。 ### Desired outcome 我注意到Lody只开源了local相关的代码，并没有开源cloud或者云端私有部署相关的代码。 PS：我觉得这也不是应该拿出来开源的，毕竟有商业需求。 ### Proposed s",
+      "score": 57,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-08-28T20:02:30Z",
+      "latestSignal": "2026-08-29T13:28:44Z",
       "keywords": [
-        "support",
-        "github",
-        "environment",
-        "variables",
-        "useful"
+        "feature",
+        "request",
+        "other",
+        "component",
+        "problem"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Support multiple GitHub repos in one broker deployment",
-          "url": "https://github.com/lf-sa-demo/safe-triage-demo/issues/5",
-          "createdAt": "2026-08-28T20:02:30Z"
+          "label": "[Feature Request] 是否允许第三方开源私有部署？",
+          "url": "https://github.com/LodyAI/Lody/issues/157",
+          "createdAt": "2026-08-29T13:28:44Z"
         },
         {
           "source": "GitHub",
-          "label": "Support OS keychain secret references in CLI configuration",
-          "url": "https://github.com/mcpjungle/MCPJungle/issues/299",
-          "createdAt": "2026-08-28T15:20:14Z"
+          "label": "[FEAT]:- Stack the Info and Redirect URI on top of each other in the Bento",
+          "url": "https://github.com/elixpo/accounts.elixpo/issues/141",
+          "createdAt": "2026-08-29T13:24:12Z"
         }
       ]
     }

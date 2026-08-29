@@ -403,6 +403,24 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-29",
+      "clusters": 2,
+      "requests": 4,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-open-source-don",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-other",
+          "score": 57,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
