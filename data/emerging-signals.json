@@ -1,74 +1,39 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-29T13:49:58.452Z",
+  "generatedAt": "2026-08-30T13:48:01.861Z",
   "clusters": [
     {
-      "id": "emerging-open-source-don",
-      "title": "Show HN: Sesame - a local-first, open-source password manager",
-      "summary": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don&#x27;t need an account to create or use a vault, and the hosted service never receives the vault itself. It&#x27;s still early software and the independent security revi",
-      "score": 78,
+      "id": "emerging-feature-add-macos",
+      "title": "[Feature]: Add direct shortcuts to macOS system panels and utilities",
+      "summary": "### Problem or Motivation ## Feature request Many macOS system controls require opening System Settings or navigating through multiple menus. Vorssaint already provides quick actions and Command Bar access, so it would be useful to open specific macOS system panels directly. ###",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 28
+        "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-08-28T19:14:14Z",
-      "keywords": [
-        "open",
-        "source",
-        "don",
-        "x27",
-        "use"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Sesame - a local-first, open-source password manager",
-          "url": "https://news.ycombinator.com/item?id=49483038",
-          "createdAt": "2026-08-28T19:14:14Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: Would you pay for an AI API that guarantees zero prompt retention?",
-          "url": "https://news.ycombinator.com/item?id=49459973",
-          "createdAt": "2026-08-27T05:03:02Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-other",
-      "title": "[Feature Request] 是否允许第三方开源私有部署？",
-      "summary": "### Affected area Other open-source component ### Problem or workflow pressure 我个人正在独立使用和开发自己的 https://github.com/klarkxy/nekonest ，今天看到了Lody，发现完成度更高、打算放弃自己的开发，转向适配Lody。 ### Desired outcome 我注意到Lody只开源了local相关的代码，并没有开源cloud或者云端私有部署相关的代码。 PS：我觉得这也不是应该拿出来开源的，毕竟有商业需求。 ### Proposed s",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-08-29T13:28:44Z",
+      "latestSignal": "2026-08-30T13:22:34Z",
       "keywords": [
         "feature",
-        "request",
-        "other",
-        "component",
-        "problem"
+        "add",
+        "macos",
+        "problem",
+        "motivation"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] 是否允许第三方开源私有部署？",
-          "url": "https://github.com/LodyAI/Lody/issues/157",
-          "createdAt": "2026-08-29T13:28:44Z"
+          "label": "[Feature]: Add direct shortcuts to macOS system panels and utilities",
+          "url": "https://github.com/vorssaintapp/vorssaint-utils/issues/1163",
+          "createdAt": "2026-08-30T13:22:34Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEAT]:- Stack the Info and Redirect URI on top of each other in the Bento",
-          "url": "https://github.com/elixpo/accounts.elixpo/issues/141",
-          "createdAt": "2026-08-29T13:24:12Z"
+          "label": "[Feature]: Add instant macOS Space switching without transition animation",
+          "url": "https://github.com/vorssaintapp/vorssaint-utils/issues/1159",
+          "createdAt": "2026-08-30T13:21:24Z"
         }
       ]
     }

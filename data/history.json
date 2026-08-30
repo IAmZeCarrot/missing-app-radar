@@ -421,6 +421,19 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-08-30",
+      "clusters": 1,
+      "requests": 2,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-add-macos",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
