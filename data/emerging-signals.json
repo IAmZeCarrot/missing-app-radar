@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-30T13:48:01.861Z",
+  "generatedAt": "2026-08-31T16:09:41.725Z",
   "clusters": [
     {
-      "id": "emerging-feature-add-macos",
-      "title": "[Feature]: Add direct shortcuts to macOS system panels and utilities",
-      "summary": "### Problem or Motivation ## Feature request Many macOS system controls require opening System Settings or navigating through multiple menus. Vorssaint already provides quick actions and Command Bar access, so it would be useful to open specific macOS system panels directly. ###",
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request] Add Volume Boost (up to 200%) and Option to Disable Station Thumbnails",
+      "summary": "First of all, thank you for developing this amazing app! I've recently started using **InternetRadio** and I'm really enjoying the experience. To make the app even better, I'd like to suggest two features/enhancements: ### 1. Volume Boost (Up to 200%) * **Problem:** Some radio st",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -13,27 +13,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-08-30T13:22:34Z",
+      "latestSignal": "2026-08-31T16:00:55Z",
       "keywords": [
         "feature",
+        "request",
         "add",
-        "macos",
-        "problem",
-        "motivation"
+        "all",
+        "thank"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature]: Add direct shortcuts to macOS system panels and utilities",
-          "url": "https://github.com/vorssaintapp/vorssaint-utils/issues/1163",
-          "createdAt": "2026-08-30T13:22:34Z"
+          "label": "[Feature Request] Add Volume Boost (up to 200%) and Option to Disable Station Thumbnails",
+          "url": "https://github.com/armanmaurya/InternetRadio/issues/189",
+          "createdAt": "2026-08-31T16:00:55Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Add instant macOS Space switching without transition animation",
-          "url": "https://github.com/vorssaintapp/vorssaint-utils/issues/1159",
-          "createdAt": "2026-08-30T13:21:24Z"
+          "label": "(Feature Request) Add Select All Button",
+          "url": "https://github.com/tryptz/Force165hz-Oneplus-15-NoRoot/issues/6",
+          "createdAt": "2026-08-31T15:52:45Z"
         }
       ]
     }
