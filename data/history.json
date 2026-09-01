@@ -447,6 +447,34 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-01",
+      "clusters": 4,
+      "requests": 12,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-problem",
+          "score": 79,
+          "requests": 5
+        },
+        {
+          "id": "emerging-calculator-add-cli",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-app-x27-found",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-out-only-feature",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
