@@ -1,105 +1,46 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-01T13:29:58.169Z",
+  "generatedAt": "2026-09-02T12:46:20.420Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "New 512-byte JQ query limit breaks Garmin app",
-      "summary": "**Is your feature request related to a problem? Please describe.** It seems that with evcc v0.315.0 a limit for the size of the `jq` query parameter was introduced. I tested the endpoint with queries of different lengths and found the limit to be exactly 512 bytes: a 512-byte que",
-      "score": 79,
+      "id": "emerging-feature-request-pre",
+      "title": "🚀 Feature Request: Upload attachments concurrently (configurable `maxConcurrentUploads`)",
+      "summary": "### Pre-flight Checklist - [x] I have searched existing issues, and this hasn't been requested yet. ### Problem or Motivation `useAttachments` uploads a multi-file selection one file at a time. `processFiles` walks the valid files in a `for` loop and awaits each upload inside it,",
+      "score": 57,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
+        "volume": 22,
         "engagement": 7
       },
-      "requests": 5,
-      "latestSignal": "2026-09-01T13:14:32Z",
+      "requests": 2,
+      "latestSignal": "2026-09-02T12:44:26Z",
       "keywords": [
         "feature",
         "request",
-        "problem",
-        "describe",
-        "related"
+        "pre",
+        "checklist",
+        "searched"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "New 512-byte JQ query limit breaks Garmin app",
-          "url": "https://github.com/evcc-io/evcc/issues/33387",
-          "createdAt": "2026-09-01T13:14:32Z"
+          "label": "🚀 Feature Request: Upload attachments concurrently (configurable `maxConcurrentUploads`)",
+          "url": "https://github.com/CopilotKit/CopilotKit/issues/6843",
+          "createdAt": "2026-09-02T12:44:26Z"
         },
         {
           "source": "GitHub",
-          "label": "Create Windows signed builds to avoid Smart App Block control",
-          "url": "https://github.com/ynput/ayon-launcher/issues/328",
-          "createdAt": "2026-09-01T12:40:15Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request]: pull_latest_lesson_versions.yml should verify conversion compatibility before pinning lesson versions",
-          "url": "https://github.com/oppia/oppia-android/issues/6414",
-          "createdAt": "2026-09-01T12:24:18Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Reload open text files when they change on disk (or offer a manual reload shortcut)",
-          "url": "https://github.com/nimbalyst/nimbalyst/issues/1416",
-          "createdAt": "2026-09-01T12:20:11Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "Ordering of songs on local file albums based on metadata",
+          "url": "https://github.com/rukamori/ArchiveTune/issues/1258",
+          "createdAt": "2026-09-02T12:05:59Z"
         }
       ]
     },
     {
-      "id": "emerging-calculator-add-cli",
-      "title": "calculator: Add CLI calculator with basic arithmetic operations",
-      "summary": "## Feature Description Add a Node.js CLI calculator app that supports basic arithmetic operations and can be run from the command line. ## Use Case Users need a simple way to perform quick calculations from the terminal without using a browser or external tool. This would be usef",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-09-01T07:08:15Z",
-      "keywords": [
-        "calculator",
-        "add",
-        "cli",
-        "basic",
-        "arithmetic"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "calculator: Add CLI calculator with basic arithmetic operations",
-          "url": "https://github.com/Rush-K/skills-create-applications-with-the-copilot-cli/issues/2",
-          "createdAt": "2026-09-01T07:08:15Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: calculator CLI app",
-          "url": "https://github.com/mrtaeyunkim-Git/skills-create-applications-with-the-copilot-cli/issues/2",
-          "createdAt": "2026-09-01T07:05:44Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: calculator CLI for basic arithmetic operations",
-          "url": "https://github.com/gyeolse/skills-create-applications-with-the-copilot-cli/issues/2",
-          "createdAt": "2026-09-01T07:00:56Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-app-x27-found",
-      "title": "Open Source Budget App for Personal and Business",
-      "summary": "Hey all, just wanted to post this project here. I&#x27;ve often found it really hard to find a budgeting app that&#x27;s actually really easy to use. I think it&#x27;s just one of the most table-stakes apps you can have, but companies always try to sell you things, or they just m",
+      "id": "emerging-feature-request-app",
+      "title": "[Feature Request] Add Built-in Ad Blocking to the In-App Browser",
+      "summary": "### Is your feature request related to a problem? It's not related to a problem. ### Describe the solution you'd like Greetings, I would like to request a built-in **ad-blocking option for the in-app browser**. Advertisements can make webpages slower to load, consume additional d",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -107,34 +48,34 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-08-31T21:31:31Z",
+      "latestSignal": "2026-09-02T12:37:13Z",
       "keywords": [
+        "feature",
+        "request",
         "app",
-        "x27",
-        "found",
-        "really",
-        "think"
+        "related",
+        "like"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "Hacker News",
-          "label": "Open Source Budget App for Personal and Business",
-          "url": "https://news.ycombinator.com/item?id=49515057",
-          "createdAt": "2026-08-31T21:31:31Z"
+          "source": "GitHub",
+          "label": "[Feature Request] Add Built-in Ad Blocking to the In-App Browser",
+          "url": "https://github.com/Nekogram/Nekogram/issues/368",
+          "createdAt": "2026-09-02T12:37:13Z"
         },
         {
-          "source": "Hacker News",
-          "label": "Monzo Stand-In",
-          "url": "https://news.ycombinator.com/item?id=49417298",
-          "createdAt": "2026-08-29T18:22:39Z"
+          "source": "GitHub",
+          "label": "Show agent-started dev servers and background processes in Codex Desktop",
+          "url": "https://github.com/openai/codex/issues/42244",
+          "createdAt": "2026-09-02T08:46:03Z"
         }
       ]
     },
     {
-      "id": "emerging-out-only-feature",
-      "title": "for 714S (DR-HSH034S) presets are missing in ventilation mode",
-      "summary": "### Checklist - [x] I have filled out the template to the best of my ability. - [x] This only contains 1 feature request (if you have multiple feature requests, open one feature request for each feature request). - [x] This issue is not a duplicate feature request of [previous fe",
+      "id": "emerging-there-issue-feature",
+      "title": "Blocked AI music and Indian Music.",
+      "summary": "### Checklist - [x] I've checked that there is no other issue about this feature request. - [x] This issue contains only one feature request. - [x] The title of this issue accurately describes the feature request. ### Feature description A feature in Setting where you can block c",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -142,27 +83,62 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-01T13:23:04Z",
+      "latestSignal": "2026-09-02T12:24:20Z",
       "keywords": [
-        "out",
-        "only",
+        "there",
+        "issue",
         "feature",
         "request",
-        "one"
+        "only"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "for 714S (DR-HSH034S) presets are missing in ventilation mode",
-          "url": "https://github.com/dreo-team/hass-dreoverse/issues/164",
-          "createdAt": "2026-09-01T13:23:04Z"
+          "label": "Blocked AI music and Indian Music.",
+          "url": "https://github.com/MetrolistGroup/Metrolist/issues/4336",
+          "createdAt": "2026-09-02T12:24:20Z"
         },
         {
           "source": "GitHub",
           "label": "Feature request",
           "url": "https://github.com/sidhu1512/doing-it/issues/1",
           "createdAt": "2026-05-25T14:37:31Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "Accessibility feature - Input type text: placeholder",
+      "summary": "### Is your feature request related to a problem? The current version of colour doesn't pass AA accessibility standards for commercial apps which means it has poor visibility for users leading to slowing down the experience / difficulty in reading / challenges to visual impairmen",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-02T12:10:19Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "current"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Accessibility feature - Input type text: placeholder",
+          "url": "https://github.com/Flagsmith/flagsmith/issues/8441",
+          "createdAt": "2026-09-02T12:10:19Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
         }
       ]
     }
