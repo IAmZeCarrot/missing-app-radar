@@ -1,81 +1,81 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-02T12:46:20.420Z",
+  "generatedAt": "2026-09-03T12:49:35.707Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-pre",
-      "title": "🚀 Feature Request: Upload attachments concurrently (configurable `maxConcurrentUploads`)",
-      "summary": "### Pre-flight Checklist - [x] I have searched existing issues, and this hasn't been requested yet. ### Problem or Motivation `useAttachments` uploads a multi-file selection one file at a time. `processFiles` walks the valid files in a `for` loop and awaits each upload inside it,",
-      "score": 57,
+      "id": "emerging-launch-s26-founders",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https:&#x2F;&#x2F;ronanrx.com&#x2F; ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.",
+      "score": 78,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 7
+        "engagement": 28
       },
       "requests": 2,
-      "latestSignal": "2026-09-02T12:44:26Z",
+      "latestSignal": "2026-09-02T22:36:04Z",
       "keywords": [
-        "feature",
-        "request",
-        "pre",
-        "checklist",
-        "searched"
+        "launch",
+        "s26",
+        "founders",
+        "https",
+        "x2f"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "GitHub",
-          "label": "🚀 Feature Request: Upload attachments concurrently (configurable `maxConcurrentUploads`)",
-          "url": "https://github.com/CopilotKit/CopilotKit/issues/6843",
-          "createdAt": "2026-09-02T12:44:26Z"
+          "source": "Hacker News",
+          "label": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+          "url": "https://news.ycombinator.com/item?id=49543530",
+          "createdAt": "2026-09-02T22:36:04Z"
         },
         {
-          "source": "GitHub",
-          "label": "Ordering of songs on local file albums based on metadata",
-          "url": "https://github.com/rukamori/ArchiveTune/issues/1258",
-          "createdAt": "2026-09-02T12:05:59Z"
+          "source": "Hacker News",
+          "label": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+          "url": "https://news.ycombinator.com/item?id=49466715",
+          "createdAt": "2026-08-27T15:46:04Z"
         }
       ]
     },
     {
       "id": "emerging-feature-request-app",
-      "title": "[Feature Request] Add Built-in Ad Blocking to the In-App Browser",
-      "summary": "### Is your feature request related to a problem? It's not related to a problem. ### Describe the solution you'd like Greetings, I would like to request a built-in **ad-blocking option for the in-app browser**. Advertisements can make webpages slower to load, consume additional d",
-      "score": 50,
+      "title": "Import Android-SimpleTimeTracker backup",
+      "summary": "## Feature request I'm using the original [Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) app on my phone and would like to migrate my data into this Python web app by importing an Android backup file. ## Current state The app already has a back",
+      "score": 64,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 14
       },
       "requests": 2,
-      "latestSignal": "2026-09-02T12:37:13Z",
+      "latestSignal": "2026-09-03T11:38:20Z",
       "keywords": [
         "feature",
         "request",
         "app",
-        "related",
-        "like"
+        "like",
+        "state"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add Built-in Ad Blocking to the In-App Browser",
-          "url": "https://github.com/Nekogram/Nekogram/issues/368",
-          "createdAt": "2026-09-02T12:37:13Z"
+          "label": "Import Android-SimpleTimeTracker backup",
+          "url": "https://github.com/exdatic/timetracker/issues/17",
+          "createdAt": "2026-09-03T11:38:20Z"
         },
         {
           "source": "GitHub",
-          "label": "Show agent-started dev servers and background processes in Codex Desktop",
-          "url": "https://github.com/openai/codex/issues/42244",
-          "createdAt": "2026-09-02T08:46:03Z"
+          "label": "Star Filter and Alphabetical Sort",
+          "url": "https://github.com/bikram-agarwal/Remember/issues/60",
+          "createdAt": "2026-09-03T11:31:29Z"
         }
       ]
     },
     {
-      "id": "emerging-there-issue-feature",
-      "title": "Blocked AI music and Indian Music.",
-      "summary": "### Checklist - [x] I've checked that there is no other issue about this feature request. - [x] This issue contains only one feature request. - [x] The title of this issue accurately describes the feature request. ### Feature description A feature in Setting where you can block c",
+      "id": "emerging-feature-request-workspace",
+      "title": "Feature request: prune workspace records for worktrees deleted on disk (1,213 orphans here) (v0.308.0)",
+      "summary": "## Summary atrium never prunes workspace records for worktrees whose directory has been deleted. On this install 1,213 of 1,269 worktree workspaces point at a `projectDir` that no longer exists. There is no UI or CLI to review or remove them. ## Impact Agents create and destroy w",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -83,34 +83,34 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-02T12:24:20Z",
+      "latestSignal": "2026-09-03T12:46:03Z",
       "keywords": [
-        "there",
-        "issue",
         "feature",
         "request",
-        "only"
+        "workspace",
+        "worktrees",
+        "308"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Blocked AI music and Indian Music.",
-          "url": "https://github.com/MetrolistGroup/Metrolist/issues/4336",
-          "createdAt": "2026-09-02T12:24:20Z"
+          "label": "Feature request: prune workspace records for worktrees deleted on disk (1,213 orphans here) (v0.308.0)",
+          "url": "https://github.com/jonnyasmar/atrium-issues/issues/81",
+          "createdAt": "2026-09-03T12:46:03Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
+          "label": "Feature request: a global worktree visibility filter, not per-collection (v0.308.0)",
+          "url": "https://github.com/jonnyasmar/atrium-issues/issues/80",
+          "createdAt": "2026-09-03T12:22:10Z"
         }
       ]
     },
     {
       "id": "emerging-feature-request-related",
-      "title": "Accessibility feature - Input type text: placeholder",
-      "summary": "### Is your feature request related to a problem? The current version of colour doesn't pass AA accessibility standards for commercial apps which means it has poor visibility for users leading to slowing down the experience / difficulty in reading / challenges to visual impairmen",
+      "title": "[RFE] Custom nodePort definitions in Helm chart service template",
+      "summary": "**Is your feature request related to a problem? Please describe.** We don't have ability to define specific port numbers for Rancher web UI services. Usually we need to define exact port numbers explicitly and don't depend on random port numbers that cluster decides. current port",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -118,21 +118,21 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-02T12:10:19Z",
+      "latestSignal": "2026-09-03T11:59:43Z",
       "keywords": [
         "feature",
         "request",
         "related",
         "problem",
-        "current"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Accessibility feature - Input type text: placeholder",
-          "url": "https://github.com/Flagsmith/flagsmith/issues/8441",
-          "createdAt": "2026-09-02T12:10:19Z"
+          "label": "[RFE] Custom nodePort definitions in Helm chart service template",
+          "url": "https://github.com/rancher/rancher/issues/57045",
+          "createdAt": "2026-09-03T11:59:43Z"
         },
         {
           "source": "GitHub",

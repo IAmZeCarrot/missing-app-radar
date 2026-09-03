@@ -503,6 +503,34 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-03",
+      "clusters": 4,
+      "requests": 8,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-launch-s26-founders",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-app",
+          "score": 64,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-workspace",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
