@@ -1,124 +1,101 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-03T12:49:35.707Z",
+  "generatedAt": "2026-09-04T12:43:30.552Z",
   "clusters": [
     {
-      "id": "emerging-launch-s26-founders",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https:&#x2F;&#x2F;ronanrx.com&#x2F; ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.",
-      "score": 78,
+      "id": "emerging-useful-feature-request",
+      "title": "[Feature Request] Save certain settings and scheduler",
+      "summary": "Hey, i just started using lancache-manager on unraid and so far it seems really useful. I can see there are schedules in the management settings i can configure and while they are great, it would be cool if this was presented more prominently. But the real \"problem\" i have is tha",
+      "score": 75,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 28
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-02T22:36:04Z",
-      "keywords": [
-        "launch",
-        "s26",
-        "founders",
-        "https",
-        "x2f"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-          "url": "https://news.ycombinator.com/item?id=49543530",
-          "createdAt": "2026-09-02T22:36:04Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
-          "url": "https://news.ycombinator.com/item?id=49466715",
-          "createdAt": "2026-08-27T15:46:04Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-app",
-      "title": "Import Android-SimpleTimeTracker backup",
-      "summary": "## Feature request I'm using the original [Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) app on my phone and would like to migrate my data into this Python web app by importing an Android backup file. ## Current state The app already has a back",
-      "score": 64,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 14
       },
-      "requests": 2,
-      "latestSignal": "2026-09-03T11:38:20Z",
+      "requests": 3,
+      "latestSignal": "2026-09-04T11:10:07Z",
       "keywords": [
+        "useful",
         "feature",
         "request",
-        "app",
-        "like",
-        "state"
+        "presented",
+        "but"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Import Android-SimpleTimeTracker backup",
-          "url": "https://github.com/exdatic/timetracker/issues/17",
-          "createdAt": "2026-09-03T11:38:20Z"
+          "label": "[Feature Request] Save certain settings and scheduler",
+          "url": "https://github.com/regix1/lancache-manager/issues/33",
+          "createdAt": "2026-09-04T11:10:07Z"
         },
         {
           "source": "GitHub",
-          "label": "Star Filter and Alphabetical Sort",
-          "url": "https://github.com/bikram-agarwal/Remember/issues/60",
-          "createdAt": "2026-09-03T11:31:29Z"
+          "label": "Add JSON output support for security scan results",
+          "url": "https://github.com/Tencent/AI-Infra-Guard/issues/636",
+          "createdAt": "2026-09-04T07:32:40Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add a --json flag to the stats output",
+          "url": "https://github.com/mesthiri/sandbox/issues/2",
+          "createdAt": "2026-09-04T04:42:43Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-workspace",
-      "title": "Feature request: prune workspace records for worktrees deleted on disk (1,213 orphans here) (v0.308.0)",
-      "summary": "## Summary atrium never prunes workspace records for worktrees whose directory has been deleted. On this install 1,213 of 1,269 worktree workspaces point at a `projectDir` that no longer exists. There is no UI or CLI to review or remove them. ## Impact Agents create and destroy w",
-      "score": 50,
+      "id": "emerging-feature-request-checklist",
+      "title": "Sidebar enhancements",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement A",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-09-03T12:46:03Z",
+      "requests": 3,
+      "latestSignal": "2026-09-04T12:24:08Z",
       "keywords": [
         "feature",
         "request",
-        "workspace",
-        "worktrees",
-        "308"
+        "checklist",
+        "searched",
+        "existing"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: prune workspace records for worktrees deleted on disk (1,213 orphans here) (v0.308.0)",
-          "url": "https://github.com/jonnyasmar/atrium-issues/issues/81",
-          "createdAt": "2026-09-03T12:46:03Z"
+          "label": "Sidebar enhancements",
+          "url": "https://github.com/anthropics/claude-code/issues/92075",
+          "createdAt": "2026-09-04T12:24:08Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: a global worktree visibility filter, not per-collection (v0.308.0)",
-          "url": "https://github.com/jonnyasmar/atrium-issues/issues/80",
-          "createdAt": "2026-09-03T12:22:10Z"
+          "label": "[Feature Request] Setup a framework for translators",
+          "url": "https://github.com/wealthfolio/wealthfolio/issues/1638",
+          "createdAt": "2026-09-04T12:14:10Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Setting to stop music when exiting the application.",
+          "url": "https://github.com/MuwMx/YumaPlayer/issues/19",
+          "createdAt": "2026-09-04T11:49:29Z"
         }
       ]
     },
     {
       "id": "emerging-feature-request-related",
-      "title": "[RFE] Custom nodePort definitions in Helm chart service template",
-      "summary": "**Is your feature request related to a problem? Please describe.** We don't have ability to define specific port numbers for Rancher web UI services. Usually we need to define exact port numbers explicitly and don't depend on random port numbers that cluster decides. current port",
-      "score": 50,
+      "title": "[FR] Tinder-style swipe screen for fast bulk-adding watched movies/shows",
+      "summary": "**Is your feature request related to a problem? Please describe.** When someone starts using ShowCase, they usually already have a large backlog of movies/series they've watched in the past but don't remember well enough to search for and add one by one. Going through the existin",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-09-03T11:59:43Z",
+      "requests": 3,
+      "latestSignal": "2026-09-04T11:30:24Z",
       "keywords": [
         "feature",
         "request",
@@ -130,9 +107,15 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[RFE] Custom nodePort definitions in Helm chart service template",
-          "url": "https://github.com/rancher/rancher/issues/57045",
-          "createdAt": "2026-09-03T11:59:43Z"
+          "label": "[FR] Tinder-style swipe screen for fast bulk-adding watched movies/shows",
+          "url": "https://github.com/WirelessAlien/MovieDB/issues/193",
+          "createdAt": "2026-09-04T11:30:24Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Authenticode-sign release binaries",
+          "url": "https://github.com/QuestPDF/QuestPDF/issues/1475",
+          "createdAt": "2026-09-04T11:05:36Z"
         },
         {
           "source": "GitHub",
