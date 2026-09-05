@@ -554,6 +554,39 @@
           "requests": 3
         }
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "clusters": 5,
+      "requests": 17,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 83,
+          "requests": 8
+        },
+        {
+          "id": "emerging-launch-s26-founders",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-app-every-many",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-app",
+          "score": 75,
+          "requests": 3
+        },
+        {
+          "id": "emerging-there-trying-software",
+          "score": 61,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

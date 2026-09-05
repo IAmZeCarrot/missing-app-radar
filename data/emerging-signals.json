@@ -1,101 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-04T12:43:30.552Z",
+  "generatedAt": "2026-09-05T11:49:57.266Z",
   "clusters": [
     {
-      "id": "emerging-useful-feature-request",
-      "title": "[Feature Request] Save certain settings and scheduler",
-      "summary": "Hey, i just started using lancache-manager on unraid and so far it seems really useful. I can see there are schedules in the management settings i can configure and while they are great, it would be cool if this was presented more prominently. But the real \"problem\" i have is tha",
-      "score": 75,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 14
-      },
-      "requests": 3,
-      "latestSignal": "2026-09-04T11:10:07Z",
-      "keywords": [
-        "useful",
-        "feature",
-        "request",
-        "presented",
-        "but"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Save certain settings and scheduler",
-          "url": "https://github.com/regix1/lancache-manager/issues/33",
-          "createdAt": "2026-09-04T11:10:07Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add JSON output support for security scan results",
-          "url": "https://github.com/Tencent/AI-Infra-Guard/issues/636",
-          "createdAt": "2026-09-04T07:32:40Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add a --json flag to the stats output",
-          "url": "https://github.com/mesthiri/sandbox/issues/2",
-          "createdAt": "2026-09-04T04:42:43Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-checklist",
-      "title": "Sidebar enhancements",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement A",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-09-04T12:24:08Z",
-      "keywords": [
-        "feature",
-        "request",
-        "checklist",
-        "searched",
-        "existing"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Sidebar enhancements",
-          "url": "https://github.com/anthropics/claude-code/issues/92075",
-          "createdAt": "2026-09-04T12:24:08Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Setup a framework for translators",
-          "url": "https://github.com/wealthfolio/wealthfolio/issues/1638",
-          "createdAt": "2026-09-04T12:14:10Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Setting to stop music when exiting the application.",
-          "url": "https://github.com/MuwMx/YumaPlayer/issues/19",
-          "createdAt": "2026-09-04T11:49:29Z"
-        }
-      ]
-    },
-    {
       "id": "emerging-feature-request-related",
-      "title": "[FR] Tinder-style swipe screen for fast bulk-adding watched movies/shows",
-      "summary": "**Is your feature request related to a problem? Please describe.** When someone starts using ShowCase, they usually already have a large backlog of movies/series they've watched in the past but don't remember well enough to search for and add one by one. Going through the existin",
-      "score": 61,
+      "title": "[Feature] Add a selectable Codex app-server runtime",
+      "summary": "**Is your feature request related to a problem? Please describe.** CloudCLI currently runs regular Codex chat turns through `@openai/codex-sdk`. The app-server integration introduced for Codex thread forking and message editing is started separately for those operations. This mea",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 0
+        "volume": 44,
+        "engagement": 11
       },
-      "requests": 3,
-      "latestSignal": "2026-09-04T11:30:24Z",
+      "requests": 8,
+      "latestSignal": "2026-09-05T11:47:37Z",
       "keywords": [
         "feature",
         "request",
@@ -107,21 +25,197 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FR] Tinder-style swipe screen for fast bulk-adding watched movies/shows",
-          "url": "https://github.com/WirelessAlien/MovieDB/issues/193",
-          "createdAt": "2026-09-04T11:30:24Z"
+          "label": "[Feature] Add a selectable Codex app-server runtime",
+          "url": "https://github.com/siteboon/claudecodeui/issues/1261",
+          "createdAt": "2026-09-05T11:47:37Z"
         },
         {
           "source": "GitHub",
-          "label": "Authenticode-sign release binaries",
-          "url": "https://github.com/QuestPDF/QuestPDF/issues/1475",
-          "createdAt": "2026-09-04T11:05:36Z"
+          "label": "Add Ukrainian (uk) to the Crowdin project",
+          "url": "https://github.com/frappe/frappe/issues/42525",
+          "createdAt": "2026-09-05T11:25:00Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEAT] Windows : Auto-start in System Tray on Login",
+          "url": "https://github.com/AChep/keyguard-app/issues/1575",
+          "createdAt": "2026-09-05T11:13:38Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature]: Client Self-Service HWID Removal Web UI",
+          "url": "https://github.com/MHSanaei/3x-ui/issues/6422",
+          "createdAt": "2026-09-05T10:55:45Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add resource-based week and day views",
+          "url": "https://github.com/mattlewis92/angular-calendar/issues/1798",
+          "createdAt": "2026-09-05T09:58:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Allow disabling the Pro advertisement and respect `log: false`",
+          "url": "https://github.com/javascript-obfuscator/javascript-obfuscator/issues/1448",
+          "createdAt": "2026-09-05T06:18:28Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-launch-s26-founders",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https:&#x2F;&#x2F;ronanrx.com&#x2F; ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.",
+      "score": 78,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 28
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-02T22:36:04Z",
+      "keywords": [
+        "launch",
+        "s26",
+        "founders",
+        "https",
+        "x2f"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+          "url": "https://news.ycombinator.com/item?id=49543530",
+          "createdAt": "2026-09-02T22:36:04Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+          "url": "https://news.ycombinator.com/item?id=49466715",
+          "createdAt": "2026-08-27T15:46:04Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-app-every-many",
+      "title": "Open headunit as launcher(Feature request)",
+      "summary": "Hi, With a fully functioning open headunit, I have little use for the rest of the apps.. Can you enable Open headunit as a launcher? This would avoid the need to launch he app every time (automated in many scenarios but doesn't work in all). May be save some resources as well",
+      "score": 78,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 28
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-05T11:29:47Z",
+      "keywords": [
+        "app",
+        "every",
+        "many",
+        "save",
+        "but"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing",
+          "url": "https://news.ycombinator.com/item?id=49507806",
+          "createdAt": "2026-08-31T09:56:22Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Open headunit as launcher(Feature request)",
+          "url": "https://github.com/andreknieriem/open-headunit/issues/937",
+          "createdAt": "2026-09-05T11:29:47Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-app",
+      "title": "Presentación Hom",
+      "summary": "### Have you checked if an issue already exists for this feature request? - [x] Nobody else has requested this feature before ### What feature would you like added? Hom ### App version _No response_ ### Device model and manufacturer _No response_ ### Extra info - [x] My device is",
+      "score": 75,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 14
+      },
+      "requests": 3,
+      "latestSignal": "2026-09-05T11:36:01Z",
+      "keywords": [
+        "feature",
+        "request",
+        "app",
+        "version",
+        "issue"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Presentación Hom",
+          "url": "https://github.com/keymapperorg/KeyMapper/issues/2224",
+          "createdAt": "2026-09-05T11:36:01Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Bug Report + Feature Request v1.5.1",
+          "url": "https://github.com/kushagrasinghx/BitChord/issues/189",
+          "createdAt": "2026-09-05T11:10:18Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: as a MCP server to attach to Claude Desktop",
+          "url": "https://github.com/PierrunoYT/patch/issues/570",
+          "createdAt": "2026-09-05T09:54:29Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-there-trying-software",
+      "title": "can't get this whole thing to work on windows via virtualbox..",
+      "summary": "i have been spending a few days now trying eveyrthing. i feel like i have to be doing some things wrong but i followed the written windows install guide and no matter what my controller doesn't show up at all. i wish there was a video guide made about this software as i learn a l",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-05T05:04:54Z",
+      "keywords": [
+        "there",
+        "trying",
+        "software",
+        "now",
+        "but"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+          "url": "https://news.ycombinator.com/item?id=49424263",
+          "createdAt": "2026-08-24T18:53:14Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "can't get this whole thing to work on windows via virtualbox..",
+          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
+          "createdAt": "2026-09-05T05:04:54Z"
         }
       ]
     }
