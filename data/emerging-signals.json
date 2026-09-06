@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-05T11:49:57.266Z",
+  "generatedAt": "2026-09-06T12:08:39.024Z",
   "clusters": [
     {
       "id": "emerging-feature-request-related",
-      "title": "[Feature] Add a selectable Codex app-server runtime",
-      "summary": "**Is your feature request related to a problem? Please describe.** CloudCLI currently runs regular Codex chat turns through `@openai/codex-sdk`. The app-server integration introduced for Codex thread forking and message editing is started separately for those operations. This mea",
-      "score": 83,
+      "title": "Feature request: Publish the Azure Bicep visualizer as a canvas app in GitHub Copilot App",
+      "summary": "**Is your feature request related to a problem? Please describe.** No. **Describe the solution you'd like** @shenglol I frequently use the new Azure Bicep visualizer in Visual Studio Code, and I have also been using the GitHub Copilot App extensively in my workflow for the past f",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 7
       },
-      "requests": 8,
-      "latestSignal": "2026-09-05T11:47:37Z",
+      "requests": 4,
+      "latestSignal": "2026-09-06T11:45:30Z",
       "keywords": [
         "feature",
         "request",
@@ -25,162 +25,27 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature] Add a selectable Codex app-server runtime",
-          "url": "https://github.com/siteboon/claudecodeui/issues/1261",
-          "createdAt": "2026-09-05T11:47:37Z"
+          "label": "Feature request: Publish the Azure Bicep visualizer as a canvas app in GitHub Copilot App",
+          "url": "https://github.com/Azure/bicep/issues/20270",
+          "createdAt": "2026-09-06T11:45:30Z"
         },
         {
           "source": "GitHub",
-          "label": "Add Ukrainian (uk) to the Crowdin project",
-          "url": "https://github.com/frappe/frappe/issues/42525",
-          "createdAt": "2026-09-05T11:25:00Z"
+          "label": "Add support for GitHub-style alert blocks -- `> [!TIP]` and its siblings",
+          "url": "https://github.com/forem/forem/issues/23820",
+          "createdAt": "2026-09-06T11:20:30Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEAT] Windows : Auto-start in System Tray on Login",
-          "url": "https://github.com/AChep/keyguard-app/issues/1575",
-          "createdAt": "2026-09-05T11:13:38Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature]: Client Self-Service HWID Removal Web UI",
-          "url": "https://github.com/MHSanaei/3x-ui/issues/6422",
-          "createdAt": "2026-09-05T10:55:45Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add resource-based week and day views",
-          "url": "https://github.com/mattlewis92/angular-calendar/issues/1798",
-          "createdAt": "2026-09-05T09:58:43Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Allow disabling the Pro advertisement and respect `log: false`",
-          "url": "https://github.com/javascript-obfuscator/javascript-obfuscator/issues/1448",
-          "createdAt": "2026-09-05T06:18:28Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
+          "label": "No way to audit how a session reached its result: reasoning and graph changes per thread",
+          "url": "https://github.com/nowledge-co/community/issues/586",
+          "createdAt": "2026-09-06T11:17:16Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-launch-s26-founders",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https:&#x2F;&#x2F;ronanrx.com&#x2F; ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.",
-      "score": 78,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 28
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-02T22:36:04Z",
-      "keywords": [
-        "launch",
-        "s26",
-        "founders",
-        "https",
-        "x2f"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-          "url": "https://news.ycombinator.com/item?id=49543530",
-          "createdAt": "2026-09-02T22:36:04Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
-          "url": "https://news.ycombinator.com/item?id=49466715",
-          "createdAt": "2026-08-27T15:46:04Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-app-every-many",
-      "title": "Open headunit as launcher(Feature request)",
-      "summary": "Hi, With a fully functioning open headunit, I have little use for the rest of the apps.. Can you enable Open headunit as a launcher? This would avoid the need to launch he app every time (automated in many scenarios but doesn't work in all). May be save some resources as well",
-      "score": 78,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 28
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-05T11:29:47Z",
-      "keywords": [
-        "app",
-        "every",
-        "many",
-        "save",
-        "but"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing",
-          "url": "https://news.ycombinator.com/item?id=49507806",
-          "createdAt": "2026-08-31T09:56:22Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Open headunit as launcher(Feature request)",
-          "url": "https://github.com/andreknieriem/open-headunit/issues/937",
-          "createdAt": "2026-09-05T11:29:47Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-app",
-      "title": "Presentación Hom",
-      "summary": "### Have you checked if an issue already exists for this feature request? - [x] Nobody else has requested this feature before ### What feature would you like added? Hom ### App version _No response_ ### Device model and manufacturer _No response_ ### Extra info - [x] My device is",
-      "score": 75,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 14
-      },
-      "requests": 3,
-      "latestSignal": "2026-09-05T11:36:01Z",
-      "keywords": [
-        "feature",
-        "request",
-        "app",
-        "version",
-        "issue"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Presentación Hom",
-          "url": "https://github.com/keymapperorg/KeyMapper/issues/2224",
-          "createdAt": "2026-09-05T11:36:01Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Bug Report + Feature Request v1.5.1",
-          "url": "https://github.com/kushagrasinghx/BitChord/issues/189",
-          "createdAt": "2026-09-05T11:10:18Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: as a MCP server to attach to Claude Desktop",
-          "url": "https://github.com/PierrunoYT/patch/issues/570",
-          "createdAt": "2026-09-05T09:54:29Z"
         }
       ]
     },
@@ -216,6 +81,111 @@
           "label": "can't get this whole thing to work on windows via virtualbox..",
           "url": "https://github.com/hannahbee91/nuxbt/issues/76",
           "createdAt": "2026-09-05T05:04:54Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-web",
+      "title": "Feature request: web bookmarks (NIP-B0)",
+      "summary": "## Summary Split out of #21. That issue is now scoped to in-app bookmarks (NIP-51, kinds `10003`/`30003` — saving notes/articles). This issue covers the other half of the original feedback: bookmarking arbitrary **web pages**, per [NIP-B0](https://github.com/nostr-protocol/nips/b",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-06T11:27:37Z",
+      "keywords": [
+        "feature",
+        "request",
+        "web",
+        "bookmarks",
+        "summary"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: web bookmarks (NIP-B0)",
+          "url": "https://github.com/layer-systems/website/issues/25",
+          "createdAt": "2026-09-06T11:27:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: \"grimoire\" / spells",
+          "url": "https://github.com/layer-systems/website/issues/24",
+          "createdAt": "2026-09-06T11:14:39Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-add",
+      "title": "Feature Request: Add Face Similarity / Face Analysis scoring (like ComfyUI_FaceAnalysis)",
+      "summary": "### Feature Request It would be very useful to have **Face Similarity / Face Analysis** as a scoring option inside Crucible (similar to the ComfyUI_FaceAnalysis node by cubiq). #### Why this would be useful: - Currently many people have to switch to ComfyUI just to filter images",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-06T11:09:04Z",
+      "keywords": [
+        "feature",
+        "request",
+        "add",
+        "like",
+        "useful"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Add Face Similarity / Face Analysis scoring (like ComfyUI_FaceAnalysis)",
+          "url": "https://github.com/Blandmarrow/Crucible/issues/90",
+          "createdAt": "2026-09-06T11:09:04Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Add scratchpad support",
+          "url": "https://github.com/imRYiUK/omarchy-workspace-profiles/issues/10",
+          "createdAt": "2026-09-06T07:01:41Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-runtime",
+      "title": "Feature request: runtime-native agent telemetry / OpenTelemetry export",
+      "summary": "## Short version We have been doing a small public field study around MarcoPolo Skills, operational cookbooks, routing, memory-provider experiments, and agent execution. A recurring problem became visible very quickly: > **MarcoPolo already sits at the runtime boundary where agen",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-06T10:46:56Z",
+      "keywords": [
+        "feature",
+        "request",
+        "runtime",
+        "around",
+        "problem"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: runtime-native agent telemetry / OpenTelemetry export",
+          "url": "https://github.com/immersa-co/marcopolo-plugin/issues/19",
+          "createdAt": "2026-09-06T10:46:56Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature: external controller API for persistent worker conversations",
+          "url": "https://github.com/totec448-spec/chat-on-steroids/issues/82",
+          "createdAt": "2026-09-06T06:08:26Z"
         }
       ]
     }

@@ -587,6 +587,39 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-06",
+      "clusters": 5,
+      "requests": 12,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 79,
+          "requests": 4
+        },
+        {
+          "id": "emerging-there-trying-software",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-web",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-add",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-runtime",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
