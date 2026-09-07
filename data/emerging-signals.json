@@ -1,45 +1,110 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-06T12:08:39.024Z",
+  "generatedAt": "2026-09-07T14:15:11.542Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "Feature request: Publish the Azure Bicep visualizer as a canvas app in GitHub Copilot App",
-      "summary": "**Is your feature request related to a problem? Please describe.** No. **Describe the solution you'd like** @shenglol I frequently use the new Azure Bicep visualizer in Visual Studio Code, and I have also been using the GitHub Copilot App extensively in my workflow for the past f",
-      "score": 79,
+      "id": "emerging-feature-request-summary",
+      "title": "Feature request: Project-level progress dashboard (Windows Codex app)",
+      "summary": "## Summary I’d like a project-level “Development Progress Dashboard” in the Codex app for Windows to track long-running (weeks/months) development beyond individual tasks. ## Problem Today I can see per-task progress, but it’s hard to understand overall project status: - what’s d",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 11
       },
-      "requests": 4,
-      "latestSignal": "2026-09-06T11:45:30Z",
+      "requests": 5,
+      "latestSignal": "2026-09-07T13:51:28Z",
       "keywords": [
         "feature",
         "request",
-        "related",
-        "problem",
-        "please"
+        "summary",
+        "like",
+        "support"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Publish the Azure Bicep visualizer as a canvas app in GitHub Copilot App",
-          "url": "https://github.com/Azure/bicep/issues/20270",
-          "createdAt": "2026-09-06T11:45:30Z"
+          "label": "Feature request: Project-level progress dashboard (Windows Codex app)",
+          "url": "https://github.com/openai/codex/issues/43477",
+          "createdAt": "2026-09-07T13:51:28Z"
         },
         {
           "source": "GitHub",
-          "label": "Add support for GitHub-style alert blocks -- `> [!TIP]` and its siblings",
-          "url": "https://github.com/forem/forem/issues/23820",
-          "createdAt": "2026-09-06T11:20:30Z"
+          "label": "Feature request: Official Java SDK for Codex",
+          "url": "https://github.com/openai/codex/issues/43469",
+          "createdAt": "2026-09-07T13:26:39Z"
         },
         {
           "source": "GitHub",
-          "label": "No way to audit how a session reached its result: reasoning and graph changes per thread",
-          "url": "https://github.com/nowledge-co/community/issues/586",
-          "createdAt": "2026-09-06T11:17:16Z"
+          "label": "Feature Request",
+          "url": "https://github.com/dmi3dmi3/saywhen/issues/1",
+          "createdAt": "2026-09-07T13:15:29Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "feature request: add support for wsl processes",
+          "url": "https://github.com/psmux/pstop/issues/14",
+          "createdAt": "2026-09-07T04:54:48Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Multi-GPU offloading / coprocessor support for DLSS 5 neural pass",
+          "url": "https://github.com/faisalkindi/DLSS5oneclick/issues/52",
+          "createdAt": "2026-09-07T03:03:32Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-problem",
+      "title": "[FEATURE] Import screenshots from Preview through a macOS Share Extension",
+      "summary": "## Is your feature request related to a problem? Please describe. When viewing a screenshot in macOS Preview, users should be able to send it directly to Sumika for discussion. Currently, they must switch to Sumika and paste the image, drag a file into the composer, or select it",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 0
+      },
+      "requests": 6,
+      "latestSignal": "2026-09-07T12:55:48Z",
+      "keywords": [
+        "feature",
+        "request",
+        "problem",
+        "please",
+        "related"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Import screenshots from Preview through a macOS Share Extension",
+          "url": "https://github.com/ngutech21/sumika-chat/issues/249",
+          "createdAt": "2026-09-07T12:55:48Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Mention / Link Seal for Windows (Desktop Port)",
+          "url": "https://github.com/JunkFood02/Seal/issues/2632",
+          "createdAt": "2026-09-07T12:44:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Panorama stitching support for multiple images with blending",
+          "url": "https://github.com/T8RIN/ImageToolbox/issues/3127",
+          "createdAt": "2026-09-07T12:40:27Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Create a tool for prototyping levels",
+          "url": "https://github.com/Quaint-Studios/Reia/issues/53",
+          "createdAt": "2026-09-07T09:36:07Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Apple Foundation Models as an on-device AI provider",
+          "url": "https://github.com/OpenMinis/OpenMinis/issues/320",
+          "createdAt": "2026-09-07T07:22:34Z"
         },
         {
           "source": "GitHub",
@@ -50,79 +115,9 @@
       ]
     },
     {
-      "id": "emerging-there-trying-software",
-      "title": "can't get this whole thing to work on windows via virtualbox..",
-      "summary": "i have been spending a few days now trying eveyrthing. i feel like i have to be doing some things wrong but i followed the written windows install guide and no matter what my controller doesn't show up at all. i wish there was a video guide made about this software as i learn a l",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-05T05:04:54Z",
-      "keywords": [
-        "there",
-        "trying",
-        "software",
-        "now",
-        "but"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
-          "url": "https://news.ycombinator.com/item?id=49424263",
-          "createdAt": "2026-08-24T18:53:14Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "can't get this whole thing to work on windows via virtualbox..",
-          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
-          "createdAt": "2026-09-05T05:04:54Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-web",
-      "title": "Feature request: web bookmarks (NIP-B0)",
-      "summary": "## Summary Split out of #21. That issue is now scoped to in-app bookmarks (NIP-51, kinds `10003`/`30003` — saving notes/articles). This issue covers the other half of the original feedback: bookmarking arbitrary **web pages**, per [NIP-B0](https://github.com/nostr-protocol/nips/b",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-06T11:27:37Z",
-      "keywords": [
-        "feature",
-        "request",
-        "web",
-        "bookmarks",
-        "summary"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: web bookmarks (NIP-B0)",
-          "url": "https://github.com/layer-systems/website/issues/25",
-          "createdAt": "2026-09-06T11:27:37Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: \"grimoire\" / spells",
-          "url": "https://github.com/layer-systems/website/issues/24",
-          "createdAt": "2026-09-06T11:14:39Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-add",
-      "title": "Feature Request: Add Face Similarity / Face Analysis scoring (like ComfyUI_FaceAnalysis)",
-      "summary": "### Feature Request It would be very useful to have **Face Similarity / Face Analysis** as a scoring option inside Crucible (similar to the ComfyUI_FaceAnalysis node by cubiq). #### Why this would be useful: - Currently many people have to switch to ComfyUI just to filter images",
+      "id": "emerging-feature-request-description",
+      "title": "[Feature Request] The Display Settings found while reading the Bible should be...",
+      "summary": "## Feature Request ### Description The Display Settings found while reading the Bible should be in the main settings. The mode for dark, light, warm, and auto are application wide. Having settings in multiple places causes confusion. ### Submitted From | Property | Value | |-----",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -130,62 +125,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-06T11:09:04Z",
+      "latestSignal": "2026-09-07T13:59:23Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "like",
-        "useful"
+        "description",
+        "multiple",
+        "submitted"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Add Face Similarity / Face Analysis scoring (like ComfyUI_FaceAnalysis)",
-          "url": "https://github.com/Blandmarrow/Crucible/issues/90",
-          "createdAt": "2026-09-06T11:09:04Z"
+          "label": "[Feature Request] The Display Settings found while reading the Bible should be...",
+          "url": "https://github.com/LegacyCo/unfold-resources/issues/101",
+          "createdAt": "2026-09-07T13:59:23Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Add scratchpad support",
-          "url": "https://github.com/imRYiUK/omarchy-workspace-profiles/issues/10",
-          "createdAt": "2026-09-06T07:01:41Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-runtime",
-      "title": "Feature request: runtime-native agent telemetry / OpenTelemetry export",
-      "summary": "## Short version We have been doing a small public field study around MarcoPolo Skills, operational cookbooks, routing, memory-provider experiments, and agent execution. A recurring problem became visible very quickly: > **MarcoPolo already sits at the runtime boundary where agen",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-06T10:46:56Z",
-      "keywords": [
-        "feature",
-        "request",
-        "runtime",
-        "around",
-        "problem"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: runtime-native agent telemetry / OpenTelemetry export",
-          "url": "https://github.com/immersa-co/marcopolo-plugin/issues/19",
-          "createdAt": "2026-09-06T10:46:56Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature: external controller API for persistent worker conversations",
-          "url": "https://github.com/totec448-spec/chat-on-steroids/issues/82",
-          "createdAt": "2026-09-06T06:08:26Z"
+          "label": "[Feature Request] I would like to be able to add multiple screenshots when sub...",
+          "url": "https://github.com/LegacyCo/unfold-resources/issues/99",
+          "createdAt": "2026-09-07T13:08:43Z"
         }
       ]
     }
