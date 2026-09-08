@@ -1,110 +1,51 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-07T14:15:11.542Z",
+  "generatedAt": "2026-09-08T12:52:18.130Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-summary",
-      "title": "Feature request: Project-level progress dashboard (Windows Codex app)",
-      "summary": "## Summary I’d like a project-level “Development Progress Dashboard” in the Codex app for Windows to track long-running (weeks/months) development beyond individual tasks. ## Problem Today I can see per-task progress, but it’s hard to understand overall project status: - what’s d",
-      "score": 83,
+      "id": "emerging-feature-request-related",
+      "title": "[FEATURE] iOS Shortcuts",
+      "summary": "**Is your feature request related to a problem? Please describe.** I can't automate video conversion (ideally in the background) so that I don't have to periodically open minimo to convert latest videos. **Describe the solution you'd like** Having iOS shortcuts for compressing vi",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 7
       },
       "requests": 5,
-      "latestSignal": "2026-09-07T13:51:28Z",
+      "latestSignal": "2026-09-08T12:39:37Z",
       "keywords": [
         "feature",
         "request",
-        "summary",
-        "like",
-        "support"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Project-level progress dashboard (Windows Codex app)",
-          "url": "https://github.com/openai/codex/issues/43477",
-          "createdAt": "2026-09-07T13:51:28Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Official Java SDK for Codex",
-          "url": "https://github.com/openai/codex/issues/43469",
-          "createdAt": "2026-09-07T13:26:39Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request",
-          "url": "https://github.com/dmi3dmi3/saywhen/issues/1",
-          "createdAt": "2026-09-07T13:15:29Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "feature request: add support for wsl processes",
-          "url": "https://github.com/psmux/pstop/issues/14",
-          "createdAt": "2026-09-07T04:54:48Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Multi-GPU offloading / coprocessor support for DLSS 5 neural pass",
-          "url": "https://github.com/faisalkindi/DLSS5oneclick/issues/52",
-          "createdAt": "2026-09-07T03:03:32Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-problem",
-      "title": "[FEATURE] Import screenshots from Preview through a macOS Share Extension",
-      "summary": "## Is your feature request related to a problem? Please describe. When viewing a screenshot in macOS Preview, users should be able to send it directly to Sumika for discussion. Currently, they must switch to Sumika and paste the image, drag a file into the composer, or select it",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 0
-      },
-      "requests": 6,
-      "latestSignal": "2026-09-07T12:55:48Z",
-      "keywords": [
-        "feature",
-        "request",
+        "related",
         "problem",
-        "please",
-        "related"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Import screenshots from Preview through a macOS Share Extension",
-          "url": "https://github.com/ngutech21/sumika-chat/issues/249",
-          "createdAt": "2026-09-07T12:55:48Z"
+          "label": "[FEATURE] iOS Shortcuts",
+          "url": "https://github.com/minimo-pro/minimo_video/issues/36",
+          "createdAt": "2026-09-08T12:39:37Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Mention / Link Seal for Windows (Desktop Port)",
-          "url": "https://github.com/JunkFood02/Seal/issues/2632",
-          "createdAt": "2026-09-07T12:44:43Z"
+          "label": "Implement storage pool / quota per group",
+          "url": "https://github.com/nextcloud/circles/issues/2896",
+          "createdAt": "2026-09-08T12:27:32Z"
         },
         {
           "source": "GitHub",
-          "label": "Panorama stitching support for multiple images with blending",
-          "url": "https://github.com/T8RIN/ImageToolbox/issues/3127",
-          "createdAt": "2026-09-07T12:40:27Z"
+          "label": "Zoom functionality",
+          "url": "https://github.com/akozma89/pr-flow-releases/issues/1",
+          "createdAt": "2026-09-08T11:58:44Z"
         },
         {
           "source": "GitHub",
-          "label": "Create a tool for prototyping levels",
-          "url": "https://github.com/Quaint-Studios/Reia/issues/53",
-          "createdAt": "2026-09-07T09:36:07Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Apple Foundation Models as an on-device AI provider",
-          "url": "https://github.com/OpenMinis/OpenMinis/issues/320",
-          "createdAt": "2026-09-07T07:22:34Z"
+          "label": "Disabling the analytics",
+          "url": "https://github.com/quertenmont/django-mail-analytics/issues/133",
+          "createdAt": "2026-09-08T11:55:06Z"
         },
         {
           "source": "GitHub",
@@ -115,37 +56,107 @@
       ]
     },
     {
-      "id": "emerging-feature-request-description",
-      "title": "[Feature Request] The Display Settings found while reading the Bible should be...",
-      "summary": "## Feature Request ### Description The Display Settings found while reading the Bible should be in the main settings. The mode for dark, light, warm, and auto are application wide. Having settings in multiple places causes confusion. ### Submitted From | Property | Value | |-----",
-      "score": 50,
+      "id": "emerging-there-trying-software",
+      "title": "can't get this whole thing to work on windows via virtualbox..",
+      "summary": "i have been spending a few days now trying eveyrthing. i feel like i have to be doing some things wrong but i followed the written windows install guide and no matter what my controller doesn't show up at all. i wish there was a video guide made about this software as i learn a l",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 11
       },
       "requests": 2,
-      "latestSignal": "2026-09-07T13:59:23Z",
+      "latestSignal": "2026-09-05T05:04:54Z",
+      "keywords": [
+        "there",
+        "trying",
+        "software",
+        "now",
+        "but"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+          "url": "https://news.ycombinator.com/item?id=49424263",
+          "createdAt": "2026-08-24T18:53:14Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "can't get this whole thing to work on windows via virtualbox..",
+          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
+          "createdAt": "2026-09-05T05:04:54Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-existing",
+      "title": "Feature request: edit the icon of an existing developer-mode MCP app in ChatGPT Pro",
+      "summary": "## Request Please let the owner add or replace the icon of an existing developer-mode MCP app from its Manage menu in ChatGPT, including on a personal Pro account, without deleting and recreating the connection. This concerns the ChatGPT app/connector management UI. If this belon",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-08T12:07:43Z",
       "keywords": [
         "feature",
         "request",
-        "description",
-        "multiple",
-        "submitted"
+        "existing",
+        "its",
+        "connection"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] The Display Settings found while reading the Bible should be...",
-          "url": "https://github.com/LegacyCo/unfold-resources/issues/101",
-          "createdAt": "2026-09-07T13:59:23Z"
+          "label": "Feature request: edit the icon of an existing developer-mode MCP app in ChatGPT Pro",
+          "url": "https://github.com/openai/openai-apps-sdk-examples/issues/232",
+          "createdAt": "2026-09-08T12:07:43Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] I would like to be able to add multiple screenshots when sub...",
-          "url": "https://github.com/LegacyCo/unfold-resources/issues/99",
-          "createdAt": "2026-09-07T13:08:43Z"
+          "label": "Feature request: Sync SSH profiles with ~/.ssh/config",
+          "url": "https://github.com/0fuz/ssh-tunnel-manager/issues/21",
+          "createdAt": "2026-09-08T07:15:32Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-add-support-feature",
+      "title": "Add blacklist/exclusion support for remote interpreter @INC paths during library indexing",
+      "summary": "### Feature request It would be useful to have a way to blacklist or exclude specific paths discovered from a Perl interpreter environment, especially when using Docker / Docker Compose remote interpreters. ### Use case I am using the Perl plugin with a Docker-based interpreter.",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-08T10:59:29Z",
+      "keywords": [
+        "add",
+        "support",
+        "feature",
+        "request",
+        "especially"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Add blacklist/exclusion support for remote interpreter @INC paths during library indexing",
+          "url": "https://github.com/Camelcade/Perl5-IDEA/issues/3268",
+          "createdAt": "2026-09-08T10:59:29Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature request] Add bcachefs support as an optional storage driver/plugin",
+          "url": "https://github.com/mos-nas/mos-releases/issues/61",
+          "createdAt": "2026-09-08T07:52:45Z"
         }
       ]
     }
