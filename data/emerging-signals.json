@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-08T12:52:18.130Z",
+  "generatedAt": "2026-09-09T12:58:19.776Z",
   "clusters": [
     {
       "id": "emerging-feature-request-related",
-      "title": "[FEATURE] iOS Shortcuts",
-      "summary": "**Is your feature request related to a problem? Please describe.** I can't automate video conversion (ideally in the background) so that I don't have to periodically open minimo to convert latest videos. **Describe the solution you'd like** Having iOS shortcuts for compressing vi",
-      "score": 79,
+      "title": "feat: introduce top-level DTO layer to separate YAML configuration schema from domain models",
+      "summary": "**Is your feature request related to a problem? Please describe.** Currently, Viper unmarshals YAML configuration files directly into our internal application domain struct `config_domain.GDGAppConfiguration`. Because the external file schema is tightly coupled to our internal do",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 11
       },
-      "requests": 5,
-      "latestSignal": "2026-09-08T12:39:37Z",
+      "requests": 6,
+      "latestSignal": "2026-09-09T12:02:26Z",
       "keywords": [
         "feature",
         "request",
@@ -25,27 +25,33 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] iOS Shortcuts",
-          "url": "https://github.com/minimo-pro/minimo_video/issues/36",
-          "createdAt": "2026-09-08T12:39:37Z"
+          "label": "feat: introduce top-level DTO layer to separate YAML configuration schema from domain models",
+          "url": "https://github.com/esnet/gdg/issues/641",
+          "createdAt": "2026-09-09T12:02:26Z"
         },
         {
           "source": "GitHub",
-          "label": "Implement storage pool / quota per group",
-          "url": "https://github.com/nextcloud/circles/issues/2896",
-          "createdAt": "2026-09-08T12:27:32Z"
+          "label": "[FEATURE] - Add the possibility to activate car notification zone",
+          "url": "https://github.com/dan-r/HomeAssistant-NissanConnect/issues/128",
+          "createdAt": "2026-09-09T11:49:18Z"
         },
         {
           "source": "GitHub",
-          "label": "Zoom functionality",
-          "url": "https://github.com/akozma89/pr-flow-releases/issues/1",
-          "createdAt": "2026-09-08T11:58:44Z"
+          "label": "Request for changing the charging max amps in HA",
+          "url": "https://github.com/Fryyyyy/zeekr_homeassistant/issues/155",
+          "createdAt": "2026-09-09T11:47:23Z"
         },
         {
           "source": "GitHub",
-          "label": "Disabling the analytics",
-          "url": "https://github.com/quertenmont/django-mail-analytics/issues/133",
-          "createdAt": "2026-09-08T11:55:06Z"
+          "label": "Homepage privacy slide links to the app directory instead of the privacy hub",
+          "url": "https://github.com/ethereum/ethereum-org-website/issues/19249",
+          "createdAt": "2026-09-09T11:38:36Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "REQ - guidance for managing Shiny app performance",
+          "url": "https://github.com/Public-Health-Scotland/technical-docs/issues/175",
+          "createdAt": "2026-09-09T11:37:15Z"
         },
         {
           "source": "GitHub",
@@ -56,107 +62,37 @@
       ]
     },
     {
-      "id": "emerging-there-trying-software",
-      "title": "can't get this whole thing to work on windows via virtualbox..",
-      "summary": "i have been spending a few days now trying eveyrthing. i feel like i have to be doing some things wrong but i followed the written windows install guide and no matter what my controller doesn't show up at all. i wish there was a video guide made about this software as i learn a l",
-      "score": 61,
+      "id": "emerging-context-not-feature",
+      "title": "\"Copy Link” option missing from context menu on dropdown links",
+      "summary": "### Pre-checks - [x] This is not a feature request. Existing functionality does not work as intended, **not** missing functionality. I will request features via [discussions](https://github.com/tutao/tutanota/discussions/), [reddit](https://www.reddit.com/r/tutanota/) or [support",
+      "score": 64,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 11
+        "engagement": 14
       },
       "requests": 2,
-      "latestSignal": "2026-09-05T05:04:54Z",
+      "latestSignal": "2026-09-09T11:47:15Z",
       "keywords": [
-        "there",
-        "trying",
-        "software",
-        "now",
-        "but"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
-          "url": "https://news.ycombinator.com/item?id=49424263",
-          "createdAt": "2026-08-24T18:53:14Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "can't get this whole thing to work on windows via virtualbox..",
-          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
-          "createdAt": "2026-09-05T05:04:54Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-existing",
-      "title": "Feature request: edit the icon of an existing developer-mode MCP app in ChatGPT Pro",
-      "summary": "## Request Please let the owner add or replace the icon of an existing developer-mode MCP app from its Manage menu in ChatGPT, including on a personal Pro account, without deleting and recreating the connection. This concerns the ChatGPT app/connector management UI. If this belon",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-08T12:07:43Z",
-      "keywords": [
+        "context",
+        "not",
         "feature",
         "request",
-        "existing",
-        "its",
-        "connection"
+        "existing"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: edit the icon of an existing developer-mode MCP app in ChatGPT Pro",
-          "url": "https://github.com/openai/openai-apps-sdk-examples/issues/232",
-          "createdAt": "2026-09-08T12:07:43Z"
+          "label": "\"Copy Link” option missing from context menu on dropdown links",
+          "url": "https://github.com/tutao/tutanota/issues/11473",
+          "createdAt": "2026-09-09T11:47:15Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Sync SSH profiles with ~/.ssh/config",
-          "url": "https://github.com/0fuz/ssh-tunnel-manager/issues/21",
-          "createdAt": "2026-09-08T07:15:32Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-add-support-feature",
-      "title": "Add blacklist/exclusion support for remote interpreter @INC paths during library indexing",
-      "summary": "### Feature request It would be useful to have a way to blacklist or exclude specific paths discovered from a Perl interpreter environment, especially when using Docker / Docker Compose remote interpreters. ### Use case I am using the Perl plugin with a Docker-based interpreter.",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-08T10:59:29Z",
-      "keywords": [
-        "add",
-        "support",
-        "feature",
-        "request",
-        "especially"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Add blacklist/exclusion support for remote interpreter @INC paths during library indexing",
-          "url": "https://github.com/Camelcade/Perl5-IDEA/issues/3268",
-          "createdAt": "2026-09-08T10:59:29Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature request] Add bcachefs support as an optional storage driver/plugin",
-          "url": "https://github.com/mos-nas/mos-releases/issues/61",
-          "createdAt": "2026-09-08T07:52:45Z"
+          "label": "[FEATURE] Make the context-usage indicator's 50% visibility threshold configurable in the VS Code extension",
+          "url": "https://github.com/anthropics/claude-code/issues/93036",
+          "createdAt": "2026-09-09T09:06:03Z"
         }
       ]
     }
