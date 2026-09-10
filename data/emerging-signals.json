@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T12:58:19.776Z",
+  "generatedAt": "2026-09-10T12:55:14.741Z",
   "clusters": [
     {
       "id": "emerging-feature-request-related",
-      "title": "feat: introduce top-level DTO layer to separate YAML configuration schema from domain models",
-      "summary": "**Is your feature request related to a problem? Please describe.** Currently, Viper unmarshals YAML configuration files directly into our internal application domain struct `config_domain.GDGAppConfiguration`. Because the external file schema is tightly coupled to our internal do",
-      "score": 83,
+      "title": "Feature request: hide notification when EQ is off",
+      "summary": "Normally, the notification would not be necessary at all but as this app is in an early state of development, i sometimes want to see what is going on, e.g. if the device-assigned preset change did work or not. For this i need to enable the notification and it will always show ev",
+      "score": 90,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 18
       },
       "requests": 6,
-      "latestSignal": "2026-09-09T12:02:26Z",
+      "latestSignal": "2026-09-10T12:47:20Z",
       "keywords": [
         "feature",
         "request",
@@ -25,33 +25,33 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "feat: introduce top-level DTO layer to separate YAML configuration schema from domain models",
-          "url": "https://github.com/esnet/gdg/issues/641",
-          "createdAt": "2026-09-09T12:02:26Z"
+          "label": "Feature request: hide notification when EQ is off",
+          "url": "https://github.com/bearinmindcat/Equalizer314/issues/98",
+          "createdAt": "2026-09-10T12:47:20Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] - Add the possibility to activate car notification zone",
-          "url": "https://github.com/dan-r/HomeAssistant-NissanConnect/issues/128",
-          "createdAt": "2026-09-09T11:49:18Z"
+          "label": "[Feature] Show which device a save came from and where it's synced",
+          "url": "https://github.com/rommapp/romm/issues/4420",
+          "createdAt": "2026-09-10T12:29:38Z"
         },
         {
           "source": "GitHub",
-          "label": "Request for changing the charging max amps in HA",
-          "url": "https://github.com/Fryyyyy/zeekr_homeassistant/issues/155",
-          "createdAt": "2026-09-09T11:47:23Z"
+          "label": "[FEATURE] A document overview panel (minimap) of the open document like Kate/VSCode have it",
+          "url": "https://github.com/pbek/QOwnNotes/issues/3730",
+          "createdAt": "2026-09-10T12:06:29Z"
         },
         {
           "source": "GitHub",
-          "label": "Homepage privacy slide links to the app directory instead of the privacy hub",
-          "url": "https://github.com/ethereum/ethereum-org-website/issues/19249",
-          "createdAt": "2026-09-09T11:38:36Z"
+          "label": "Feature request: Automatically disable selected monitors when Fullscreen Experience starts",
+          "url": "https://github.com/ashpynov/AnyFSE/issues/109",
+          "createdAt": "2026-09-10T06:24:46Z"
         },
         {
           "source": "GitHub",
-          "label": "REQ - guidance for managing Shiny app performance",
-          "url": "https://github.com/Public-Health-Scotland/technical-docs/issues/175",
-          "createdAt": "2026-09-09T11:37:15Z"
+          "label": "[Feature]: CLI/cron-capable version of the fix_subcontent content-upgrade tool",
+          "url": "https://github.com/h5p/moodle-mod_hvp/issues/660",
+          "createdAt": "2026-09-10T05:28:59Z"
         },
         {
           "source": "GitHub",
@@ -62,37 +62,119 @@
       ]
     },
     {
-      "id": "emerging-context-not-feature",
-      "title": "\"Copy Link” option missing from context menu on dropdown links",
-      "summary": "### Pre-checks - [x] This is not a feature request. Existing functionality does not work as intended, **not** missing functionality. I will request features via [discussions](https://github.com/tutao/tutanota/discussions/), [reddit](https://www.reddit.com/r/tutanota/) or [support",
-      "score": 64,
+      "id": "emerging-feature-request-add",
+      "title": "Feature Request \\ Multi-Pass",
+      "summary": "please add a multip pass support to the app to do a second and third pass to the neural render like the alex addon to double or triple the effect strength",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 14
+        "volume": 44,
+        "engagement": 7
       },
-      "requests": 2,
-      "latestSignal": "2026-09-09T11:47:15Z",
+      "requests": 4,
+      "latestSignal": "2026-09-10T12:54:22Z",
       "keywords": [
-        "context",
-        "not",
         "feature",
         "request",
-        "existing"
+        "add",
+        "app",
+        "like"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "\"Copy Link” option missing from context menu on dropdown links",
-          "url": "https://github.com/tutao/tutanota/issues/11473",
-          "createdAt": "2026-09-09T11:47:15Z"
+          "label": "Feature Request \\ Multi-Pass",
+          "url": "https://github.com/perseval-BLR/DLSS5-NeuralScreen/issues/23",
+          "createdAt": "2026-09-10T12:54:22Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Make the context-usage indicator's 50% visibility threshold configurable in the VS Code extension",
-          "url": "https://github.com/anthropics/claude-code/issues/93036",
-          "createdAt": "2026-09-09T09:06:03Z"
+          "label": "Feature Request: Add English translation in all parts of the app.",
+          "url": "https://github.com/ChaoMixian/vFlow/issues/131",
+          "createdAt": "2026-09-10T12:32:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Android Auto Screen Button Position for Left/Right-Hand Drive",
+          "url": "https://github.com/slzn/ScreenOnAuto-releases/issues/17",
+          "createdAt": "2026-09-10T12:02:08Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-there-trying-software",
+      "title": "can't get this whole thing to work on windows via virtualbox..",
+      "summary": "i have been spending a few days now trying eveyrthing. i feel like i have to be doing some things wrong but i followed the written windows install guide and no matter what my controller doesn't show up at all. i wish there was a video guide made about this software as i learn a l",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-05T05:04:54Z",
+      "keywords": [
+        "there",
+        "trying",
+        "software",
+        "now",
+        "but"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+          "url": "https://news.ycombinator.com/item?id=49424263",
+          "createdAt": "2026-08-24T18:53:14Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "can't get this whole thing to work on windows via virtualbox..",
+          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
+          "createdAt": "2026-09-05T05:04:54Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-before-issues-not",
+      "title": "Connecting to CalDAV only show one calendar",
+      "summary": "### Before submitting - [x] I've searched existing issues and this isn't a duplicate. - [x] This is a reproducible bug in Calnode — not a configuration/setup question or a feature request. ### What's the bug? I'm using Calendar app with Synology. When I connect to it through Caln",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-10T12:25:51Z",
+      "keywords": [
+        "before",
+        "issues",
+        "not",
+        "feature",
+        "request"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Connecting to CalDAV only show one calendar",
+          "url": "https://github.com/Calnode/calnode/issues/42",
+          "createdAt": "2026-09-10T12:25:51Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "fr: Better handling of large folders (50GB+) and failed files",
+          "url": "https://github.com/localsend/localsend/issues/3418",
+          "createdAt": "2026-09-10T12:12:07Z"
         }
       ]
     }
