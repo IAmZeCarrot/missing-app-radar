@@ -1,57 +1,69 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-10T12:55:14.741Z",
+  "generatedAt": "2026-09-11T12:49:32.778Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "Feature request: hide notification when EQ is off",
-      "summary": "Normally, the notification would not be necessary at all but as this app is in an early state of development, i sometimes want to see what is going on, e.g. if the device-assigned preset change did work or not. For this i need to enable the notification and it will always show ev",
-      "score": 90,
+      "id": "emerging-feature-request-please",
+      "title": "Broader BYOK cloud transcription provider support",
+      "summary": "**Is your feature request related to a problem? Please describe.** OpenWhispr supports BYOK cloud transcription, but the set of providers available across transcription workflows is still relatively limited/inconsistent. Other transcription apps such as Anarlog expose a wider ran",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 18
+        "engagement": 7
       },
-      "requests": 6,
-      "latestSignal": "2026-09-10T12:47:20Z",
+      "requests": 8,
+      "latestSignal": "2026-09-11T12:35:38Z",
       "keywords": [
         "feature",
         "request",
-        "related",
+        "please",
         "problem",
-        "please"
+        "related"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: hide notification when EQ is off",
-          "url": "https://github.com/bearinmindcat/Equalizer314/issues/98",
-          "createdAt": "2026-09-10T12:47:20Z"
+          "label": "Broader BYOK cloud transcription provider support",
+          "url": "https://github.com/OpenWhispr/openwhispr/issues/2138",
+          "createdAt": "2026-09-11T12:35:38Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Show which device a save came from and where it's synced",
-          "url": "https://github.com/rommapp/romm/issues/4420",
-          "createdAt": "2026-09-10T12:29:38Z"
+          "label": "Support for Terraform v1.16.x",
+          "url": "https://github.com/terraform-compliance/cli/issues/804",
+          "createdAt": "2026-09-11T12:10:34Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] A document overview panel (minimap) of the open document like Kate/VSCode have it",
-          "url": "https://github.com/pbek/QOwnNotes/issues/3730",
-          "createdAt": "2026-09-10T12:06:29Z"
+          "label": "APP: Wrap long titles in the reading pill instead of truncating them",
+          "url": "https://github.com/bccsa/luminary/issues/2059",
+          "createdAt": "2026-09-11T11:50:22Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Automatically disable selected monitors when Fullscreen Experience starts",
-          "url": "https://github.com/ashpynov/AnyFSE/issues/109",
-          "createdAt": "2026-09-10T06:24:46Z"
+          "label": "APP: Keep the screen awake while reading",
+          "url": "https://github.com/bccsa/luminary/issues/2058",
+          "createdAt": "2026-09-11T11:50:10Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: CLI/cron-capable version of the fix_subcontent content-upgrade tool",
-          "url": "https://github.com/h5p/moodle-mod_hvp/issues/660",
-          "createdAt": "2026-09-10T05:28:59Z"
+          "label": "toolbar in clipboard does not expand full space",
+          "url": "https://github.com/HeliBorg/HeliBoard/issues/2807",
+          "createdAt": "2026-09-11T11:30:52Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Digital reading support (BookOrbit-style): progress tracking, EPUB reader, OPDS",
+          "url": "https://github.com/AlbertAmat/vaultisse/issues/18",
+          "createdAt": "2026-09-11T11:29:33Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         },
         {
           "source": "GitHub",
@@ -62,119 +74,96 @@
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "Feature Request \\ Multi-Pass",
-      "summary": "please add a multip pass support to the app to do a second and third pass to the neural render like the alex addon to double or triple the effect strength",
-      "score": 79,
+      "id": "emerging-feature-request-migrated",
+      "title": "[Feature Request] Workout Programs — Group Routines into Named Collections with Plan, History & Analytics Filtering",
+      "summary": "> Migrated from GitLab issue [#80](https://gitlab.com/DuarteSantos8/opengym/-/issues/80), opened by **Giulio Leuci** (`@leuci.giulio` on GitLab) on 2026-09-09. openGym moved back to GitHub on 2026-09-11; the GitLab thread is closed and points here. **Labels**: `enhancement`, `pro",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 0
       },
-      "requests": 4,
-      "latestSignal": "2026-09-10T12:54:22Z",
+      "requests": 6,
+      "latestSignal": "2026-09-11T12:03:09Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "app",
-        "like"
+        "migrated",
+        "gitlab",
+        "issue"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request \\ Multi-Pass",
-          "url": "https://github.com/perseval-BLR/DLSS5-NeuralScreen/issues/23",
-          "createdAt": "2026-09-10T12:54:22Z"
+          "label": "[Feature Request] Workout Programs — Group Routines into Named Collections with Plan, History & Analytics Filtering",
+          "url": "https://github.com/DuarteSantos8/openGym/issues/159",
+          "createdAt": "2026-09-11T12:03:09Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add English translation in all parts of the app.",
-          "url": "https://github.com/ChaoMixian/vFlow/issues/131",
-          "createdAt": "2026-09-10T12:32:25Z"
+          "label": "[Feature Request] Sequential Routine Rotation (A → B → C → A) with Dynamic Rerouting",
+          "url": "https://github.com/DuarteSantos8/openGym/issues/158",
+          "createdAt": "2026-09-11T12:03:03Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Android Auto Screen Button Position for Left/Right-Hand Drive",
-          "url": "https://github.com/slzn/ScreenOnAuto-releases/issues/17",
-          "createdAt": "2026-09-10T12:02:08Z"
+          "label": "[Feature Request] Comprehensive Training Ranges, Universal AMRAP, Range-Aware Progression Engine & Systemic Fatigue Taxonomy",
+          "url": "https://github.com/DuarteSantos8/openGym/issues/154",
+          "createdAt": "2026-09-11T12:02:43Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
+          "label": "Feature Request: Sync weight (and possibly other health data) with Withings or other apps",
+          "url": "https://github.com/DuarteSantos8/openGym/issues/127",
+          "createdAt": "2026-09-11T12:00:17Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Lockscreen widget / Homescreen widget easy switching between apps during workouts",
+          "url": "https://github.com/DuarteSantos8/openGym/issues/125",
+          "createdAt": "2026-09-11T12:00:06Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request - Add timer on notification bar",
+          "url": "https://github.com/DuarteSantos8/openGym/issues/122",
+          "createdAt": "2026-09-11T11:59:48Z"
         }
       ]
     },
     {
-      "id": "emerging-there-trying-software",
-      "title": "can't get this whole thing to work on windows via virtualbox..",
-      "summary": "i have been spending a few days now trying eveyrthing. i feel like i have to be doing some things wrong but i followed the written windows install guide and no matter what my controller doesn't show up at all. i wish there was a video guide made about this software as i learn a l",
-      "score": 61,
+      "id": "emerging-file-format-useful",
+      "title": "File format specification",
+      "summary": "Hi, what about putting together a document that describes the file format? it would be useful for third-party import tools or to generate files with AI",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 11
+        "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-05T05:04:54Z",
+      "latestSignal": "2026-09-11T07:26:40Z",
       "keywords": [
-        "there",
-        "trying",
-        "software",
-        "now",
-        "but"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
-          "url": "https://news.ycombinator.com/item?id=49424263",
-          "createdAt": "2026-08-24T18:53:14Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "can't get this whole thing to work on windows via virtualbox..",
-          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
-          "createdAt": "2026-09-05T05:04:54Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-before-issues-not",
-      "title": "Connecting to CalDAV only show one calendar",
-      "summary": "### Before submitting - [x] I've searched existing issues and this isn't a duplicate. - [x] This is a reproducible bug in Calnode — not a configuration/setup question or a feature request. ### What's the bug? I'm using Calendar app with Synology. When I connect to it through Caln",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-10T12:25:51Z",
-      "keywords": [
-        "before",
-        "issues",
-        "not",
-        "feature",
-        "request"
+        "file",
+        "format",
+        "useful",
+        "files",
+        "specification"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Connecting to CalDAV only show one calendar",
-          "url": "https://github.com/Calnode/calnode/issues/42",
-          "createdAt": "2026-09-10T12:25:51Z"
+          "label": "File format specification",
+          "url": "https://github.com/flxzt/rnote/issues/1849",
+          "createdAt": "2026-09-11T07:26:40Z"
         },
         {
           "source": "GitHub",
-          "label": "fr: Better handling of large folders (50GB+) and failed files",
-          "url": "https://github.com/localsend/localsend/issues/3418",
-          "createdAt": "2026-09-10T12:12:07Z"
+          "label": "Support KDL as a configuration format",
+          "url": "https://github.com/gohugoio/hugo/issues/15327",
+          "createdAt": "2026-09-10T21:27:23Z"
         }
       ]
     }

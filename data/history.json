@@ -717,6 +717,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "clusters": 3,
+      "requests": 16,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-please",
+          "score": 79,
+          "requests": 8
+        },
+        {
+          "id": "emerging-feature-request-migrated",
+          "score": 72,
+          "requests": 6
+        },
+        {
+          "id": "emerging-file-format-useful",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
