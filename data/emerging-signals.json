@@ -1,69 +1,45 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-11T12:49:32.778Z",
+  "generatedAt": "2026-09-12T12:10:24.044Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-please",
-      "title": "Broader BYOK cloud transcription provider support",
-      "summary": "**Is your feature request related to a problem? Please describe.** OpenWhispr supports BYOK cloud transcription, but the set of providers available across transcription workflows is still relatively limited/inconsistent. Other transcription apps such as Anarlog expose a wider ran",
-      "score": 79,
+      "id": "emerging-feature-request-related",
+      "title": "[FEATURE] Create 'data_visual.py' and add there new buttons for categorical columns",
+      "summary": "**Is your feature request related to a problem? Please describe.** New app must work with categorical columns. The columns must be listes as numeric. **Describe the solution you'd like** Delete filter of numeric values in DataScatter class.",
+      "score": 94,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 22
       },
-      "requests": 8,
-      "latestSignal": "2026-09-11T12:35:38Z",
+      "requests": 4,
+      "latestSignal": "2026-09-12T11:57:35Z",
       "keywords": [
         "feature",
         "request",
-        "please",
+        "related",
         "problem",
-        "related"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Broader BYOK cloud transcription provider support",
-          "url": "https://github.com/OpenWhispr/openwhispr/issues/2138",
-          "createdAt": "2026-09-11T12:35:38Z"
+          "label": "[FEATURE] Create 'data_visual.py' and add there new buttons for categorical columns",
+          "url": "https://github.com/Ryabikove/Praktika2/issues/40",
+          "createdAt": "2026-09-12T11:57:35Z"
         },
         {
           "source": "GitHub",
-          "label": "Support for Terraform v1.16.x",
-          "url": "https://github.com/terraform-compliance/cli/issues/804",
-          "createdAt": "2026-09-11T12:10:34Z"
+          "label": "[FEAT] Add an option to force audio-only transcoding.",
+          "url": "https://github.com/MoazSalem/litefin/issues/380",
+          "createdAt": "2026-09-12T10:09:52Z"
         },
         {
           "source": "GitHub",
-          "label": "APP: Wrap long titles in the reading pill instead of truncating them",
-          "url": "https://github.com/bccsa/luminary/issues/2059",
-          "createdAt": "2026-09-11T11:50:22Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "APP: Keep the screen awake while reading",
-          "url": "https://github.com/bccsa/luminary/issues/2058",
-          "createdAt": "2026-09-11T11:50:10Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "toolbar in clipboard does not expand full space",
-          "url": "https://github.com/HeliBorg/HeliBoard/issues/2807",
-          "createdAt": "2026-09-11T11:30:52Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Digital reading support (BookOrbit-style): progress tracking, EPUB reader, OPDS",
-          "url": "https://github.com/AlbertAmat/vaultisse/issues/18",
-          "createdAt": "2026-09-11T11:29:33Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
+          "label": "dictionaty",
+          "url": "https://github.com/dotnet/vscode-dotnet-runtime/issues/2790",
+          "createdAt": "2026-09-12T00:33:15Z"
         },
         {
           "source": "GitHub",
@@ -74,68 +50,103 @@
       ]
     },
     {
-      "id": "emerging-feature-request-migrated",
-      "title": "[Feature Request] Workout Programs — Group Routines into Named Collections with Plan, History & Analytics Filtering",
-      "summary": "> Migrated from GitLab issue [#80](https://gitlab.com/DuarteSantos8/opengym/-/issues/80), opened by **Giulio Leuci** (`@leuci.giulio` on GitLab) on 2026-09-09. openGym moved back to GitHub on 2026-09-11; the GitLab thread is closed and points here. **Labels**: `enhancement`, `pro",
-      "score": 72,
+      "id": "emerging-checklist-searched-feature",
+      "title": "Funktionswunsch: Eingebauter Sprachmodus / Vorlesefunktion für Claude Code-Antworten",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement I",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 7
       },
-      "requests": 6,
-      "latestSignal": "2026-09-11T12:03:09Z",
+      "requests": 5,
+      "latestSignal": "2026-09-12T12:03:56Z",
       "keywords": [
+        "checklist",
+        "searched",
         "feature",
         "request",
-        "migrated",
-        "gitlab",
-        "issue"
+        "preflight"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Workout Programs — Group Routines into Named Collections with Plan, History & Analytics Filtering",
-          "url": "https://github.com/DuarteSantos8/openGym/issues/159",
-          "createdAt": "2026-09-11T12:03:09Z"
+          "label": "Funktionswunsch: Eingebauter Sprachmodus / Vorlesefunktion für Claude Code-Antworten",
+          "url": "https://github.com/anthropics/claude-code/issues/93813",
+          "createdAt": "2026-09-12T12:03:56Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Sequential Routine Rotation (A → B → C → A) with Dynamic Rerouting",
-          "url": "https://github.com/DuarteSantos8/openGym/issues/158",
-          "createdAt": "2026-09-11T12:03:03Z"
+          "label": "[FEATURE] VSCode extension: per-agent transcript separation — default to root-agent messages, switch into any subagent's context, and attribute every tool call to its agent",
+          "url": "https://github.com/anthropics/claude-code/issues/93812",
+          "createdAt": "2026-09-12T12:00:05Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Comprehensive Training Ranges, Universal AMRAP, Range-Aware Progression Engine & Systemic Fatigue Taxonomy",
-          "url": "https://github.com/DuarteSantos8/openGym/issues/154",
-          "createdAt": "2026-09-11T12:02:43Z"
+          "label": "[Feature Request]: A newly repo/PR branch/discussions for comminity themes?",
+          "url": "https://github.com/michei69/pear-desktop/issues/28",
+          "createdAt": "2026-09-12T11:42:15Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Sync weight (and possibly other health data) with Withings or other apps",
-          "url": "https://github.com/DuarteSantos8/openGym/issues/127",
-          "createdAt": "2026-09-11T12:00:17Z"
+          "label": "Support Jsonnet parameters in argocd-update promotion step",
+          "url": "https://github.com/akuity/kargo/issues/7188",
+          "createdAt": "2026-09-12T11:26:28Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Lockscreen widget / Homescreen widget easy switching between apps during workouts",
-          "url": "https://github.com/DuarteSantos8/openGym/issues/125",
-          "createdAt": "2026-09-11T12:00:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request - Add timer on notification bar",
-          "url": "https://github.com/DuarteSantos8/openGym/issues/122",
-          "createdAt": "2026-09-11T11:59:48Z"
+          "label": "[FEATURE] Bridge Claude Projects and Claude Code (search, linking, GitHub parity)",
+          "url": "https://github.com/anthropics/claude-code/issues/93802",
+          "createdAt": "2026-09-12T10:19:33Z"
         }
       ]
     },
     {
-      "id": "emerging-file-format-useful",
-      "title": "File format specification",
-      "summary": "Hi, what about putting together a document that describes the file format? it would be useful for third-party import tools or to generate files with AI",
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request] Add otp code copy on clipboard for better autofill in android app",
+      "summary": "I miss the otp autofill ability in android app. I did look for it on bitw* app and found this: <img width=\"1080\" height=\"2412\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/aa4df4d1-9148-482c-9521-268fc81a83ea\" /> Can you make it happen in android app? Thanks.",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-09-12T11:09:37Z",
+      "keywords": [
+        "feature",
+        "request",
+        "add",
+        "copy",
+        "android"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Add otp code copy on clipboard for better autofill in android app",
+          "url": "https://github.com/flythenimbus/bramble/issues/99",
+          "createdAt": "2026-09-12T11:09:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request (Android): Add FUTO Notes to the system share sheet",
+          "url": "https://github.com/futo-org/futo-notes/issues/46",
+          "createdAt": "2026-09-12T10:53:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Improve discoverability of the “select all / bulk delete” UI",
+          "url": "https://github.com/samirpatil2000/Buffer/issues/62",
+          "createdAt": "2026-09-12T10:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-first",
+      "title": "Feature request: expose the current coordinates",
+      "summary": "Hi! First of all, thank you for creating and maintaining this resolver. It is really useful for GeoGuessr. I have a feature request that could make the tool even more useful. Would it be possible to display the current latitude and longitude as plain text on the dashboard, somewh",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -143,27 +154,62 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-11T07:26:40Z",
+      "latestSignal": "2026-09-12T11:01:09Z",
       "keywords": [
-        "file",
-        "format",
-        "useful",
-        "files",
-        "specification"
+        "feature",
+        "request",
+        "first",
+        "all",
+        "thank"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "File format specification",
-          "url": "https://github.com/flxzt/rnote/issues/1849",
-          "createdAt": "2026-09-11T07:26:40Z"
+          "label": "Feature request: expose the current coordinates",
+          "url": "https://github.com/0x978/External_Geoguessr_Resolver/issues/11",
+          "createdAt": "2026-09-12T11:01:09Z"
         },
         {
           "source": "GitHub",
-          "label": "Support KDL as a configuration format",
-          "url": "https://github.com/gohugoio/hugo/issues/15327",
-          "createdAt": "2026-09-10T21:27:23Z"
+          "label": "Feature Request: Cleaner UI with IMDb Rating Options & Adaptive UI Bars",
+          "url": "https://github.com/StreamDek/StreamDekMobile/issues/16",
+          "createdAt": "2026-09-12T10:37:01Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-thanks",
+      "title": "Feature Request: Remote - missing \"paste\" from clipboard",
+      "summary": "Thanks for the great project, it's a gem. :) One thing I'm missing is the possibility of pasting things in the Remote input box. I use it to configure app settings in the shield, and when typing long URLs, usernames, passwords, etc. I prefer doing it from the desktop with a real",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-12T11:00:38Z",
+      "keywords": [
+        "feature",
+        "request",
+        "thanks",
+        "one",
+        "thing"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Remote - missing \"paste\" from clipboard",
+          "url": "https://github.com/bryanroscoe/shield_optimizer/issues/91",
+          "createdAt": "2026-09-12T11:00:38Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request",
+          "url": "https://github.com/sidhu1512/doing-it/issues/1",
+          "createdAt": "2026-05-25T14:37:31Z"
         }
       ]
     }
