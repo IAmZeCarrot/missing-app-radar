@@ -1,152 +1,117 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-12T12:10:24.044Z",
+  "generatedAt": "2026-09-13T13:18:33.119Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "[FEATURE] Create 'data_visual.py' and add there new buttons for categorical columns",
-      "summary": "**Is your feature request related to a problem? Please describe.** New app must work with categorical columns. The columns must be listes as numeric. **Describe the solution you'd like** Delete filter of numeric values in DataScatter class.",
-      "score": 94,
+      "id": "emerging-feature-request-problem",
+      "title": "support mouse middle button event",
+      "summary": "**Is your feature request related to a problem? Please describe.** one option for support mouse middle key event, like mouse left/right button **Describe the solution you'd like** can setup the mouse middle button function, like popup exif, exit app ...",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 22
+        "engagement": 11
       },
-      "requests": 4,
-      "latestSignal": "2026-09-12T11:57:35Z",
+      "requests": 10,
+      "latestSignal": "2026-09-13T12:55:54Z",
       "keywords": [
         "feature",
         "request",
-        "related",
         "problem",
-        "please"
+        "related",
+        "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Create 'data_visual.py' and add there new buttons for categorical columns",
-          "url": "https://github.com/Ryabikove/Praktika2/issues/40",
-          "createdAt": "2026-09-12T11:57:35Z"
+          "label": "support mouse middle button event",
+          "url": "https://github.com/Ruben2776/PicView/issues/395",
+          "createdAt": "2026-09-13T12:55:54Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEAT] Add an option to force audio-only transcoding.",
-          "url": "https://github.com/MoazSalem/litefin/issues/380",
-          "createdAt": "2026-09-12T10:09:52Z"
+          "label": "[FEATURE] markdown output",
+          "url": "https://github.com/egdels/makeacopy/issues/93",
+          "createdAt": "2026-09-13T12:48:36Z"
         },
         {
           "source": "GitHub",
-          "label": "dictionaty",
-          "url": "https://github.com/dotnet/vscode-dotnet-runtime/issues/2790",
-          "createdAt": "2026-09-12T00:33:15Z"
+          "label": "[FEATURE] Stop listening when the app is closed",
+          "url": "https://github.com/lagosproject/Licha/issues/3",
+          "createdAt": "2026-09-13T12:36:42Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "[FEATURE] How to choose language UI?",
+          "url": "https://github.com/egdels/makeacopy/issues/92",
+          "createdAt": "2026-09-13T12:36:11Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "feature request: restrict shift preset management to admin/owner permission",
+          "url": "https://github.com/panteLx/BetterShift/issues/196",
+          "createdAt": "2026-09-13T12:18:45Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] First-party desktop automation tool (Windows/macOS/Linux) -- plus a DPI-coordinate bug found building a workaround",
+          "url": "https://github.com/anthropics/claude-code/issues/93992",
+          "createdAt": "2026-09-13T12:12:32Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Convenience feature to measure tool: show measured size while resizing object",
+          "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/15679",
+          "createdAt": "2026-09-13T11:53:02Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Optional endpoint-observation FunctionHub example before external A2A delegation",
+          "url": "https://github.com/jd-opensource/OxyGent/issues/146",
+          "createdAt": "2026-09-13T11:50:32Z"
         }
       ]
     },
     {
-      "id": "emerging-checklist-searched-feature",
-      "title": "Funktionswunsch: Eingebauter Sprachmodus / Vorlesefunktion für Claude Code-Antworten",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement I",
-      "score": 79,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 7
-      },
-      "requests": 5,
-      "latestSignal": "2026-09-12T12:03:56Z",
-      "keywords": [
-        "checklist",
-        "searched",
-        "feature",
-        "request",
-        "preflight"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Funktionswunsch: Eingebauter Sprachmodus / Vorlesefunktion für Claude Code-Antworten",
-          "url": "https://github.com/anthropics/claude-code/issues/93813",
-          "createdAt": "2026-09-12T12:03:56Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] VSCode extension: per-agent transcript separation — default to root-agent messages, switch into any subagent's context, and attribute every tool call to its agent",
-          "url": "https://github.com/anthropics/claude-code/issues/93812",
-          "createdAt": "2026-09-12T12:00:05Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request]: A newly repo/PR branch/discussions for comminity themes?",
-          "url": "https://github.com/michei69/pear-desktop/issues/28",
-          "createdAt": "2026-09-12T11:42:15Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Support Jsonnet parameters in argocd-update promotion step",
-          "url": "https://github.com/akuity/kargo/issues/7188",
-          "createdAt": "2026-09-12T11:26:28Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Bridge Claude Projects and Claude Code (search, linking, GitHub parity)",
-          "url": "https://github.com/anthropics/claude-code/issues/93802",
-          "createdAt": "2026-09-12T10:19:33Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Add otp code copy on clipboard for better autofill in android app",
-      "summary": "I miss the otp autofill ability in android app. I did look for it on bitw* app and found this: <img width=\"1080\" height=\"2412\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/aa4df4d1-9148-482c-9521-268fc81a83ea\" /> Can you make it happen in android app? Thanks.",
+      "id": "emerging-show-made-windows",
+      "title": "Show HN: I Built a CLI for Proton Mail, Drive, Calendar, Pass and Contacts",
+      "summary": "I made a command line tool for Proton. It covers Mail, Drive, Calendar, Pass and Contacts. It is one static binary for Linux, macOS and Windows. Proton doesn&#x27;t have a CLI for all their web interfaces. There is one for Drive and one for Pass, but the other ones are not really",
       "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 0
+        "volume": 22,
+        "engagement": 11
       },
-      "requests": 3,
-      "latestSignal": "2026-09-12T11:09:37Z",
+      "requests": 2,
+      "latestSignal": "2026-09-13T12:42:42Z",
       "keywords": [
-        "feature",
-        "request",
-        "add",
-        "copy",
-        "android"
+        "show",
+        "made",
+        "windows",
+        "doesn",
+        "all"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "GitHub",
-          "label": "[Feature Request] Add otp code copy on clipboard for better autofill in android app",
-          "url": "https://github.com/flythenimbus/bramble/issues/99",
-          "createdAt": "2026-09-12T11:09:37Z"
+          "source": "Hacker News",
+          "label": "Show HN: I Built a CLI for Proton Mail, Drive, Calendar, Pass and Contacts",
+          "url": "https://news.ycombinator.com/item?id=49683369",
+          "createdAt": "2026-09-13T12:42:42Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request (Android): Add FUTO Notes to the system share sheet",
-          "url": "https://github.com/futo-org/futo-notes/issues/46",
-          "createdAt": "2026-09-12T10:53:09Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Improve discoverability of the “select all / bulk delete” UI",
-          "url": "https://github.com/samirpatil2000/Buffer/issues/62",
-          "createdAt": "2026-09-12T10:20:00Z"
+          "label": "can't get this whole thing to work on windows via virtualbox..",
+          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
+          "createdAt": "2026-09-05T05:04:54Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-first",
-      "title": "Feature request: expose the current coordinates",
-      "summary": "Hi! First of all, thank you for creating and maintaining this resolver. It is really useful for GeoGuessr. I have a feature request that could make the tool even more useful. Would it be possible to display the current latitude and longitude as plain text on the dashboard, somewh",
+      "id": "emerging-feature-request-during",
+      "title": "[Feature Request] Add automatic session naming during setup instead of manual /rename command",
+      "summary": "**Bug Description** I would like to write a feedback that session naming should be able to be done by claude at the moment /reanme is unablete to be used correctly during setup and it would be much nicer to automate it. **Environment Info** - Platform: darwin - Terminal: iTerm.ap",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -154,34 +119,34 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-12T11:01:09Z",
+      "latestSignal": "2026-09-13T12:36:46Z",
       "keywords": [
         "feature",
         "request",
-        "first",
-        "all",
-        "thank"
+        "during",
+        "description",
+        "like"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: expose the current coordinates",
-          "url": "https://github.com/0x978/External_Geoguessr_Resolver/issues/11",
-          "createdAt": "2026-09-12T11:01:09Z"
+          "label": "[Feature Request] Add automatic session naming during setup instead of manual /rename command",
+          "url": "https://github.com/anthropics/claude-code/issues/93993",
+          "createdAt": "2026-09-13T12:36:46Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Cleaner UI with IMDb Rating Options & Adaptive UI Bars",
-          "url": "https://github.com/StreamDek/StreamDekMobile/issues/16",
-          "createdAt": "2026-09-12T10:37:01Z"
+          "label": "support environment variable interpolation during unit generation",
+          "url": "https://github.com/podman-container-tools/podman/issues/29766",
+          "createdAt": "2026-09-13T11:18:02Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-thanks",
-      "title": "Feature Request: Remote - missing \"paste\" from clipboard",
-      "summary": "Thanks for the great project, it's a gem. :) One thing I'm missing is the possibility of pasting things in the Remote input box. I use it to configure app settings in the shield, and when typing long URLs, usernames, passwords, etc. I prefer doing it from the desktop with a real",
+      "id": "emerging-feature-request-der",
+      "title": "Feature request: Button auf der karte um Overlay auszublenden (um Karte besse…",
+      "summary": "> Button auf der karte um Overlay auszublenden (um Karte besser zu sehen) + Zusätzlich option um ebenen komplett aus- und Einzuschalten. Beim Einschalten sollten alle vorausgewählten Evenen berücksichtigt werden. Eingereicht in der App von **MacBuchi** aus Version 1.142.0 am 2026",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -189,27 +154,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-12T11:00:38Z",
+      "latestSignal": "2026-09-13T12:02:43Z",
       "keywords": [
         "feature",
         "request",
-        "thanks",
-        "one",
-        "thing"
+        "der",
+        "aus",
+        "eingereicht"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Remote - missing \"paste\" from clipboard",
-          "url": "https://github.com/bryanroscoe/shield_optimizer/issues/91",
-          "createdAt": "2026-09-12T11:00:38Z"
+          "label": "Feature request: Button auf der karte um Overlay auszublenden (um Karte besse…",
+          "url": "https://github.com/MacBuchi/pilzbuddy/issues/464",
+          "createdAt": "2026-09-13T12:02:43Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
+          "label": "Feature request: Check edge_veda integration with local llm.",
+          "url": "https://github.com/MacBuchi/pilzbuddy/issues/463",
+          "createdAt": "2026-09-13T12:02:40Z"
         }
       ]
     }
