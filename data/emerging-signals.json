@@ -1,180 +1,110 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-13T13:18:33.119Z",
+  "generatedAt": "2026-09-14T15:01:09.029Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "support mouse middle button event",
-      "summary": "**Is your feature request related to a problem? Please describe.** one option for support mouse middle key event, like mouse left/right button **Describe the solution you'd like** can setup the mouse middle button function, like popup exif, exit app ...",
-      "score": 83,
+      "id": "emerging-feature-request-add",
+      "title": "can i get super duolingo in phone app?",
+      "summary": "### Checklist - [x] I have read the [FAQ](https://github.com/apersongithub/Duolingo-Unlimited-Hearts/wiki/FAQ). - [x] I've verified this is **NOT** a feature request or bug report (please use their respective forms). ### Question can i get super duolingo in phone app? ### Screens",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 7
       },
-      "requests": 10,
-      "latestSignal": "2026-09-13T12:55:54Z",
+      "requests": 7,
+      "latestSignal": "2026-09-14T14:55:43Z",
       "keywords": [
         "feature",
         "request",
-        "problem",
-        "related",
-        "describe"
+        "add",
+        "app",
+        "not"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "support mouse middle button event",
-          "url": "https://github.com/Ruben2776/PicView/issues/395",
-          "createdAt": "2026-09-13T12:55:54Z"
+          "label": "can i get super duolingo in phone app?",
+          "url": "https://github.com/apersongithub/Duolingo-Unlimited-Hearts/issues/24",
+          "createdAt": "2026-09-14T14:55:43Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] markdown output",
-          "url": "https://github.com/egdels/makeacopy/issues/93",
-          "createdAt": "2026-09-13T12:48:36Z"
+          "label": "In app bug/feature request",
+          "url": "https://github.com/ninocss/UntisPlus/issues/96",
+          "createdAt": "2026-09-14T14:09:48Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Stop listening when the app is closed",
-          "url": "https://github.com/lagosproject/Licha/issues/3",
-          "createdAt": "2026-09-13T12:36:42Z"
+          "label": "[FEATURE] Token burn-rate 'speedometer' per session and overall, so you can see which session is redlining before the budget is gone",
+          "url": "https://github.com/anthropics/claude-code/issues/94289",
+          "createdAt": "2026-09-14T13:55:49Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] How to choose language UI?",
-          "url": "https://github.com/egdels/makeacopy/issues/92",
-          "createdAt": "2026-09-13T12:36:11Z"
+          "label": "Feature request: add a desktop widget",
+          "url": "https://github.com/crazytan/TaskMenu/issues/11",
+          "createdAt": "2026-09-14T13:54:10Z"
         },
         {
           "source": "GitHub",
-          "label": "feature request: restrict shift preset management to admin/owner permission",
-          "url": "https://github.com/panteLx/BetterShift/issues/196",
-          "createdAt": "2026-09-13T12:18:45Z"
+          "label": "Feature Request: Add reminders",
+          "url": "https://github.com/dmi3dmi3/saywhen/issues/3",
+          "createdAt": "2026-09-14T13:28:26Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] First-party desktop automation tool (Windows/macOS/Linux) -- plus a DPI-coordinate bug found building a workaround",
-          "url": "https://github.com/anthropics/claude-code/issues/93992",
-          "createdAt": "2026-09-13T12:12:32Z"
+          "label": "Feature request: add gene names to output",
+          "url": "https://github.com/REMEDI4ALL/chemical_annotator/issues/2",
+          "createdAt": "2026-09-14T12:08:40Z"
         },
         {
           "source": "GitHub",
-          "label": "Convenience feature to measure tool: show measured size while resizing object",
-          "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/15679",
-          "createdAt": "2026-09-13T11:53:02Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature] Optional endpoint-observation FunctionHub example before external A2A delegation",
-          "url": "https://github.com/jd-opensource/OxyGent/issues/146",
-          "createdAt": "2026-09-13T11:50:32Z"
+          "label": "Feature Request: Add a side-by-side image comparison slider (before/after)",
+          "url": "https://github.com/Merserk/dlss5-visual-enhancer/issues/59",
+          "createdAt": "2026-09-14T12:00:43Z"
         }
       ]
     },
     {
-      "id": "emerging-show-made-windows",
-      "title": "Show HN: I Built a CLI for Proton Mail, Drive, Calendar, Pass and Contacts",
-      "summary": "I made a command line tool for Proton. It covers Mail, Drive, Calendar, Pass and Contacts. It is one static binary for Linux, macOS and Windows. Proton doesn&#x27;t have a CLI for all their web interfaces. There is one for Drive and one for Pass, but the other ones are not really",
+      "id": "emerging-feature-request-related",
+      "title": "Add a setting for the default state of the breakout \"Propagate the current lock settings\" checkbox",
+      "summary": "### Is your feature request related to a problem? Please describe. Every other checkbox in the create-breakout panel has a settings.yml key that controls whether it starts checked. `inheritLockSettings` is the one exception — it is hardcoded to `false` and cannot be changed by an",
       "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-13T12:42:42Z",
-      "keywords": [
-        "show",
-        "made",
-        "windows",
-        "doesn",
-        "all"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: I Built a CLI for Proton Mail, Drive, Calendar, Pass and Contacts",
-          "url": "https://news.ycombinator.com/item?id=49683369",
-          "createdAt": "2026-09-13T12:42:42Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "can't get this whole thing to work on windows via virtualbox..",
-          "url": "https://github.com/hannahbee91/nuxbt/issues/76",
-          "createdAt": "2026-09-05T05:04:54Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-during",
-      "title": "[Feature Request] Add automatic session naming during setup instead of manual /rename command",
-      "summary": "**Bug Description** I would like to write a feedback that session naming should be able to be done by claude at the moment /reanme is unablete to be used correctly during setup and it would be much nicer to automate it. **Environment Info** - Platform: darwin - Terminal: iTerm.ap",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-09-13T12:36:46Z",
+      "requests": 3,
+      "latestSignal": "2026-09-14T14:24:58Z",
       "keywords": [
         "feature",
         "request",
-        "during",
-        "description",
-        "like"
+        "related",
+        "problem",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add automatic session naming during setup instead of manual /rename command",
-          "url": "https://github.com/anthropics/claude-code/issues/93993",
-          "createdAt": "2026-09-13T12:36:46Z"
+          "label": "Add a setting for the default state of the breakout \"Propagate the current lock settings\" checkbox",
+          "url": "https://github.com/bigbluebutton/bigbluebutton/issues/25804",
+          "createdAt": "2026-09-14T14:24:58Z"
         },
         {
           "source": "GitHub",
-          "label": "support environment variable interpolation during unit generation",
-          "url": "https://github.com/podman-container-tools/podman/issues/29766",
-          "createdAt": "2026-09-13T11:18:02Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-der",
-      "title": "Feature request: Button auf der karte um Overlay auszublenden (um Karte besse…",
-      "summary": "> Button auf der karte um Overlay auszublenden (um Karte besser zu sehen) + Zusätzlich option um ebenen komplett aus- und Einzuschalten. Beim Einschalten sollten alle vorausgewählten Evenen berücksichtigt werden. Eingereicht in der App von **MacBuchi** aus Version 1.142.0 am 2026",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-13T12:02:43Z",
-      "keywords": [
-        "feature",
-        "request",
-        "der",
-        "aus",
-        "eingereicht"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Button auf der karte um Overlay auszublenden (um Karte besse…",
-          "url": "https://github.com/MacBuchi/pilzbuddy/issues/464",
-          "createdAt": "2026-09-13T12:02:43Z"
+          "label": "Add an option to show only boards/pages visible on the canvas",
+          "url": "https://github.com/penpot/penpot/issues/11679",
+          "createdAt": "2026-09-14T14:03:53Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Check edge_veda integration with local llm.",
-          "url": "https://github.com/MacBuchi/pilzbuddy/issues/463",
-          "createdAt": "2026-09-13T12:02:40Z"
+          "label": "feature: Allow MCP clients to select and switch between Penpot files",
+          "url": "https://github.com/penpot/penpot/issues/11670",
+          "createdAt": "2026-09-14T09:44:14Z"
         }
       ]
     }
