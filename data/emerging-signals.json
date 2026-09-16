@@ -1,57 +1,145 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-15T13:33:10.194Z",
+  "generatedAt": "2026-09-16T13:30:14.847Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "Run AM installations from multiple instances (related to the new UI of the catalogue)",
-      "summary": "### Is your feature request related to a problem? Please describe. The catalog has essentially become an app installation interface within AM, featuring install buttons on every row for each application. https://portable-linux-apps.github.io/en/apps.html However, there is a probl",
-      "score": 79,
+      "id": "emerging-feature-request-related",
+      "title": "Per title Hide / Block button with account synced blocklist",
+      "summary": "### Stremio Platform All Platforms ### Is your feature request related to a problem? Stremio currently lets users add titles to Library, mark them watched, like them and share them, but there does not appear to be a simple way to permanently hide or block an individual movie or s",
+      "score": 88,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 16
       },
-      "requests": 5,
-      "latestSignal": "2026-09-15T13:31:15Z",
+      "requests": 7,
+      "latestSignal": "2026-09-16T12:52:38Z",
       "keywords": [
         "feature",
         "request",
+        "related",
         "problem",
-        "describe",
-        "related"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Run AM installations from multiple instances (related to the new UI of the catalogue)",
-          "url": "https://github.com/ivan-hc/AM/issues/2714",
-          "createdAt": "2026-09-15T13:31:15Z"
+          "label": "Per title Hide / Block button with account synced blocklist",
+          "url": "https://github.com/Stremio/stremio-features/issues/1914",
+          "createdAt": "2026-09-16T12:52:38Z"
         },
         {
           "source": "GitHub",
-          "label": "Accessibility Enhancement Request: Audio Progress Cues for Blind Users During Installations",
-          "url": "https://github.com/chocolatey/choco/issues/3935",
-          "createdAt": "2026-09-15T12:51:15Z"
+          "label": "Proxmox VE Community Script (LXC) for Norish",
+          "url": "https://github.com/norish-recipes/norish/issues/572",
+          "createdAt": "2026-09-16T12:52:02Z"
         },
         {
           "source": "GitHub",
-          "label": "Setting to open links in the external default browser instead of the in-app browser",
-          "url": "https://github.com/nimbalyst/nimbalyst/issues/1527",
-          "createdAt": "2026-09-15T12:32:29Z"
+          "label": "[FEAT] Ability to Hide / Show Subjects",
+          "url": "https://github.com/julyx10/lap/issues/319",
+          "createdAt": "2026-09-16T12:39:27Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Durable human review for streaming Agents SDK and Responses MCP",
-          "url": "https://github.com/openai/openai-cookbook/issues/3102",
-          "createdAt": "2026-09-15T09:46:44Z"
+          "label": "Add a callback that fires when a scheduled notification is delivered/shown at the OS level (even when app is terminated)",
+          "url": "https://github.com/MaikuB/flutter_local_notifications/issues/2825",
+          "createdAt": "2026-09-16T12:36:34Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Title: Feature request: repeating notification with a delayed start (first fire in the future, not today)",
+          "url": "https://github.com/MaikuB/flutter_local_notifications/issues/2824",
+          "createdAt": "2026-09-16T12:16:14Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "captcha: allow a custom fetch implementation for the siteverify call",
+          "url": "https://github.com/better-auth/better-auth/issues/11306",
+          "createdAt": "2026-09-16T12:14:03Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-support",
+      "title": "Feature Request: Support for PWA",
+      "summary": "Hi, First of all, thank you for the great work on this project! I would like to suggest adding support for a Progressive Web App (PWA) version. Publishing a PWA would be a fantastic addition, as it would allow users to easily install and use the app across different devices (desk",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-09-16T13:20:59Z",
+      "keywords": [
+        "feature",
+        "request",
+        "support",
+        "different",
+        "like"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Support for PWA",
+          "url": "https://github.com/doxigo/muchToman/issues/35",
+          "createdAt": "2026-09-16T13:20:59Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature]: Feature Request: Support DeepSeek and Third-Party Models via BYOK",
+          "url": "https://github.com/MiniMax-AI/minimax-code/issues/142",
+          "createdAt": "2026-09-16T07:46:10Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-template",
+      "title": "Feature Request: Windows configuration template windowsKioskConfiguration",
+      "summary": "## Description In order to automate the provisioning and setup of dedicated Windows Kiosk devices in Microsoft Intune, it is required to support the Windows Kiosk configuration profile type (`#microsoft.graph.windowsKioskConfiguration`). Currently, this specific device configurat",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-16T12:50:09Z",
+      "keywords": [
+        "feature",
+        "request",
+        "template",
+        "support",
+        "device"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Windows configuration template windowsKioskConfiguration",
+          "url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/issues/3912",
+          "createdAt": "2026-09-16T12:50:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "New device detection request: E&J-Technology LiFePO4 BMS (EJ2204xxxx)",
+          "url": "https://github.com/patman15/BMS_BLE-HA/issues/819",
+          "createdAt": "2026-09-16T12:33:20Z"
         }
       ]
     }
