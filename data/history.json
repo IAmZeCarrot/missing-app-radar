@@ -855,6 +855,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-17",
+      "clusters": 3,
+      "requests": 10,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-but",
+          "score": 79,
+          "requests": 4
+        },
+        {
+          "id": "emerging-feature-request-only",
+          "score": 79,
+          "requests": 4
+        },
+        {
+          "id": "emerging-mcp-dashboard-card",
+          "score": 61,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
