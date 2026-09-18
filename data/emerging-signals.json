@@ -1,45 +1,57 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-17T13:27:24.266Z",
+  "generatedAt": "2026-09-18T12:57:52.459Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-but",
-      "title": "Feature Request: Grouping and aggregation in list view",
-      "summary": "## Description It would be very useful to extend the **list view** with grouping and aggregation capabilities. The goal is to make the list view suitable not only for displaying and filtering work items, but also for creating structured overviews based on field values. Two relate",
-      "score": 79,
+      "id": "emerging-feature-request-like",
+      "title": "Name key maps",
+      "summary": "### Have you checked if an issue already exists for this feature request? - [x] Nobody else has requested this feature before ### What feature would you like added? Name key maps, related to #2249 ### App version _No response_ ### Device model and manufacturer _No response_ ### E",
+      "score": 92,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 20
       },
-      "requests": 4,
-      "latestSignal": "2026-09-17T13:21:43Z",
+      "requests": 6,
+      "latestSignal": "2026-09-18T12:06:53Z",
       "keywords": [
         "feature",
         "request",
-        "but",
+        "like",
         "related",
-        "problem"
+        "app"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Grouping and aggregation in list view",
-          "url": "https://github.com/Windshiftapp/core/issues/277",
-          "createdAt": "2026-09-17T13:21:43Z"
+          "label": "Name key maps",
+          "url": "https://github.com/keymapperorg/KeyMapper/issues/2254",
+          "createdAt": "2026-09-18T12:06:53Z"
         },
         {
           "source": "GitHub",
-          "label": "test: ✅ coordinate Sprint 19 integrated E2E strategy and delivery",
-          "url": "https://github.com/globe-and-citizen/cnc-portal/issues/2802",
-          "createdAt": "2026-09-17T12:37:58Z"
+          "label": "[Feature Request] Update MPV to 41+ and expose mpv.conf",
+          "url": "https://github.com/Stremio/stremio-features/issues/1916",
+          "createdAt": "2026-09-18T11:40:52Z"
         },
         {
           "source": "GitHub",
-          "label": "chore: complete Dart 3.13 lint migration",
-          "url": "https://github.com/studyu-health/studyu/issues/974",
-          "createdAt": "2026-09-17T12:26:29Z"
+          "label": "[Feature Request]: File name as note title",
+          "url": "https://github.com/jeiel85/markleaf-android/issues/429",
+          "createdAt": "2026-09-18T11:38:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Sync at startup",
+          "url": "https://github.com/jeiel85/markleaf-android/issues/428",
+          "createdAt": "2026-09-18T11:35:39Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Support Substrait plans as query input",
+          "url": "https://github.com/StarRocks/starrocks/issues/79302",
+          "createdAt": "2026-09-18T03:06:22Z"
         },
         {
           "source": "GitHub",
@@ -50,84 +62,154 @@
       ]
     },
     {
-      "id": "emerging-feature-request-only",
-      "title": "Feature request / Issue: No “Save / Download to computer” option for attachments + no multi-file download",
-      "summary": "Hi, I’m using ZapFast and ran into a limitation with file attachments. Problems No way to save/download a file to the computer When I receive a document, photo, or other attachment, I can only open it (it opens in the default system app). There is no “Download”, “Save as…”, or “S",
-      "score": 79,
+      "id": "emerging-problem-feature-request",
+      "title": "Support multiple editors on an alert (not just single Owner + admin)",
+      "summary": "**What problem will this feature request solve?** Alerts have a single Owner. Only the Owner or an admin can edit an alert inline. Recipients (Slack channel or email) can't edit it. This forces either one editor per alert or full admin just to manage one alert. **Describe the sol",
+      "score": 86,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 14
       },
       "requests": 4,
-      "latestSignal": "2026-09-17T12:43:38Z",
+      "latestSignal": "2026-09-18T12:46:08Z",
       "keywords": [
+        "problem",
         "feature",
         "request",
-        "only",
-        "option",
-        "app"
+        "multiple",
+        "not"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request / Issue: No “Save / Download to computer” option for attachments + no multi-file download",
-          "url": "https://github.com/crmne/zapfast/issues/57",
-          "createdAt": "2026-09-17T12:43:38Z"
+          "label": "Support multiple editors on an alert (not just single Owner + admin)",
+          "url": "https://github.com/metabase/metabase/issues/82746",
+          "createdAt": "2026-09-18T12:46:08Z"
         },
         {
           "source": "GitHub",
-          "label": "Desktop app: option to make Enter insert a newline and submit only via click / Ctrl+Enter",
-          "url": "https://github.com/anthropics/claude-code/issues/95125",
-          "createdAt": "2026-09-17T12:31:22Z"
+          "label": "[FEATURE] Allow showing current working directory alongside the \"Claude Code\" terminal title",
+          "url": "https://github.com/anthropics/claude-code/issues/95359",
+          "createdAt": "2026-09-18T12:41:26Z"
         },
         {
           "source": "GitHub",
-          "label": "(feature request) option to hide the menubar icon, only have it show up if the app is started again",
-          "url": "https://github.com/XueshiQiao/AnyDrag/issues/52",
-          "createdAt": "2026-09-17T12:17:22Z"
+          "label": "upport AWS SES sending via IAM role instead of SMTP username/password",
+          "url": "https://github.com/metabase/metabase/issues/82745",
+          "createdAt": "2026-09-18T12:22:46Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/sidhu1512/doing-it/issues/1",
-          "createdAt": "2026-05-25T14:37:31Z"
+          "label": "Support Multi-Vehicle E-Way Bill Generation and Vehicle-wise Quantity Allocation from Delivery Note",
+          "url": "https://github.com/resilient-tech/india-compliance/issues/4878",
+          "createdAt": "2026-09-18T12:10:53Z"
         }
       ]
     },
     {
-      "id": "emerging-mcp-dashboard-card",
-      "title": "MCP: configure dashboard filters, defaults, and card parameter mappings",
-      "summary": "**What problem will this feature request solve?** The connected Metabase MCP can create questions and dashboards, but its exposed dashboard tools cannot add filter widgets or connect them to cards. Hard-coding a period in each question is not equivalent: users need to change the",
-      "score": 61,
+      "id": "emerging-feature-request-build",
+      "title": "Feature Request: Automated Build, Release & Docker Support",
+      "summary": "#### Summary Currently, the application runs in development mode. To improve developer experience, deployment simplicity, and project distribution, we propose introducing automated CI/CD builds via GitHub Actions and providing Docker container support. --- #### 🎯 Motivation - **",
+      "score": 57,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 11
+        "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-09-17T12:52:23Z",
+      "latestSignal": "2026-09-18T12:51:34Z",
       "keywords": [
-        "mcp",
-        "dashboard",
-        "card",
-        "problem",
-        "will"
+        "feature",
+        "request",
+        "build",
+        "support",
+        "currently"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "MCP: configure dashboard filters, defaults, and card parameter mappings",
-          "url": "https://github.com/metabase/metabase/issues/82653",
-          "createdAt": "2026-09-17T12:52:23Z"
+          "label": "Feature Request: Automated Build, Release & Docker Support",
+          "url": "https://github.com/meesta1990/JobScout/issues/2",
+          "createdAt": "2026-09-18T12:51:34Z"
         },
         {
           "source": "GitHub",
-          "label": "MCP: support dashboard tabs and explicit card dimensions",
-          "url": "https://github.com/metabase/metabase/issues/82648",
-          "createdAt": "2026-09-17T12:21:31Z"
+          "label": "`map_directory`: Support copying without spawns",
+          "url": "https://github.com/bazelbuild/bazel/issues/31189",
+          "createdAt": "2026-09-18T06:41:51Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-support",
+      "title": "Feature Request: Add Internet Archive support",
+      "summary": "It would be great if Lex could support fetching content from the [[Internet Archive](https://archive.org/)](https://archive.org/), especially archived webpages through the Wayback Machine. For example, given a URL such as: ```text https://web.archive.org/web/20200101000000/https:",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-18T09:06:42Z",
+      "keywords": [
+        "feature",
+        "request",
+        "support",
+        "could",
+        "through"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Add Internet Archive support",
+          "url": "https://github.com/Proof-of-Ineffective-Input/Lex/issues/1",
+          "createdAt": "2026-09-18T09:06:42Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: support Jev Router in the Codex VS Code extension",
+          "url": "https://github.com/gargpratyush/jev-router/issues/13",
+          "createdAt": "2026-09-18T02:36:20Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-integration-community-feature",
+      "title": "📶 WiFi Support (ESP8266) & High-Temperature Sensor Integration",
+      "summary": "## 🌟 Community Feature Request — Aggregated from Top Homebrewing Repos ### Original Issue - **[craftbeerpi/craftbeerpi #229](https://github.com/craftbeerpi/craftbeerpi/issues/229)** — \"wifi combination and other app for craftbeerpi\" ### ⭐ Community Interest Score: 2.24/10 (Rank",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-18T11:51:30Z",
+      "keywords": [
+        "integration",
+        "community",
+        "feature",
+        "request",
+        "aggregated"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "📶 WiFi Support (ESP8266) & High-Temperature Sensor Integration",
+          "url": "https://github.com/bro26man-hash/brewing-platform/issues/342",
+          "createdAt": "2026-09-18T11:51:30Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "📡 Remote Logging to Custom HTTP Endpoint (JSON) for Brewfather & Grafana Integration",
+          "url": "https://github.com/bro26man-hash/brewing-platform/issues/338",
+          "createdAt": "2026-09-18T11:51:24Z"
         }
       ]
     }
