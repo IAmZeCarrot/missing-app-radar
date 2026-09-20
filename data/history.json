@@ -929,6 +929,24 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-20",
+      "clusters": 2,
+      "requests": 8,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-add-webz-news",
+          "score": 88,
+          "requests": 4
+        },
+        {
+          "id": "emerging-searched-existing-issues",
+          "score": 83,
+          "requests": 4
+        }
+      ]
     }
   ]
 }

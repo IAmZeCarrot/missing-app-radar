@@ -1,80 +1,98 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-19T12:30:03.660Z",
+  "generatedAt": "2026-09-20T13:03:03.456Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Add CSP Nonce & Script Attribute Support to loadScript",
-      "summary": "# Feature Request / Security: Add CSP Nonce Support to `loadScript` **Labels:** `enhancement`, `security`, `script-loader` ## Description Currently, `loadScript` dynamically creates and appends a `<script>` element for: `https://cdn.unlayer.com/image-editor/embed.js` However, ap",
-      "score": 68,
+      "id": "emerging-add-webz-news",
+      "title": "Add a Webz.io News Search common tool",
+      "summary": "## Description Pydantic AI already provides common search tools for Tavily and Exa. It would be useful to add a **Webz.io News Search** common tool for agents that need news-specific retrieval rather than general web search. Webz.io accepts natural-language queries and returns re",
+      "score": 88,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 7
+        "volume": 44,
+        "engagement": 16
       },
-      "requests": 3,
-      "latestSignal": "2026-09-19T12:18:42Z",
+      "requests": 4,
+      "latestSignal": "2026-09-20T07:00:37Z",
       "keywords": [
-        "feature",
-        "request",
         "add",
-        "support",
-        "script"
+        "webz",
+        "news",
+        "search",
+        "tools"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add CSP Nonce & Script Attribute Support to loadScript",
-          "url": "https://github.com/unlayer/react-image-editor/issues/81",
-          "createdAt": "2026-09-19T12:18:42Z"
+          "label": "Add a Webz.io News Search common tool",
+          "url": "https://github.com/pydantic/pydantic-ai/issues/8556",
+          "createdAt": "2026-09-20T07:00:37Z"
         },
         {
           "source": "GitHub",
-          "label": "feat: support reusable Playwright script execution and knowledge-base managed scripts",
-          "url": "https://github.com/civilization-os/dsh-playwright/issues/5",
-          "createdAt": "2026-09-19T11:14:52Z"
+          "label": "Add Webz.io as a web search provider and agent tool",
+          "url": "https://github.com/infiniflow/ragflow/issues/19917",
+          "createdAt": "2026-09-20T06:52:14Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Allow Windows Desktop to configure the backend installation directory",
-          "url": "https://github.com/unslothai/unsloth/issues/11327",
-          "createdAt": "2026-09-19T08:50:43Z"
+          "label": "Add WebzNewsSearchTool to CrewAI Tools",
+          "url": "https://github.com/crewAIInc/crewAI/issues/7645",
+          "createdAt": "2026-09-20T06:50:15Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add a Webz.io community web search tool",
+          "url": "https://github.com/bytedance/deer-flow/issues/5599",
+          "createdAt": "2026-09-20T06:49:50Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-problem",
-      "title": "[Feature request] Declarative native C dependencies (libraries: in shard.yml, vcpkg-backed)",
-      "summary": "## Problem Crystal shards that need native C libraries depend entirely on the user's machine: - The `.a`/`.so`/`.dylib` files must already exist somewhere the linker finds them — system packages (`apt install libxml2-dev`), Homebrew/MacPorts, or a manual vcpkg setup — often with",
-      "score": 50,
+      "id": "emerging-searched-existing-issues",
+      "title": "feat: add Deezer as an alternative audio backend",
+      "summary": "### Pre-submission Checklist - [x] I have searched existing issues to ensure this hasn't been requested before. - [x] This request covers a single, specific improvement. - [x] The issue title is concise and descriptive. ### Category 🎧 Audio Experience ### Is your feature request",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 0
+        "volume": 44,
+        "engagement": 11
       },
-      "requests": 2,
-      "latestSignal": "2026-09-19T12:15:54Z",
+      "requests": 4,
+      "latestSignal": "2026-09-20T13:02:25Z",
       "keywords": [
-        "feature",
+        "searched",
+        "existing",
+        "issues",
         "request",
-        "problem",
-        "must",
-        "system"
+        "feature"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature request] Declarative native C dependencies (libraries: in shard.yml, vcpkg-backed)",
-          "url": "https://github.com/crystal-lang/shards/issues/731",
-          "createdAt": "2026-09-19T12:15:54Z"
+          "label": "feat: add Deezer as an alternative audio backend",
+          "url": "https://github.com/MuwMx/YumaPlayer/issues/63",
+          "createdAt": "2026-09-20T13:02:25Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "Export Profile Data (Followers/Following) to CSV",
+          "url": "https://github.com/ReSo7200/InstaEclipse/issues/224",
+          "createdAt": "2026-09-20T12:58:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Option to hide or toggle the visibility of the \"Hide Chat\" button",
+          "url": "https://github.com/ReSo7200/InstaEclipse/issues/221",
+          "createdAt": "2026-09-20T11:59:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Implement Android native Traditional Chinese (zh-TW) localization support",
+          "url": "https://github.com/azahar-emu/azahar/issues/2570",
+          "createdAt": "2026-09-20T07:03:42Z"
         }
       ]
     }
