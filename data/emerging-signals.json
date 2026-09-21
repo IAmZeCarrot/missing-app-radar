@@ -1,98 +1,121 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-20T13:03:03.456Z",
+  "generatedAt": "2026-09-21T15:06:21.066Z",
   "clusters": [
     {
-      "id": "emerging-add-webz-news",
-      "title": "Add a Webz.io News Search common tool",
-      "summary": "## Description Pydantic AI already provides common search tools for Tavily and Exa. It would be useful to add a **Webz.io News Search** common tool for agents that need news-specific retrieval rather than general web search. Webz.io accepts natural-language queries and returns re",
-      "score": 88,
+      "id": "emerging-feature-request-related",
+      "title": "[FEATURE] Series metadata provides language and reading direction",
+      "summary": "### Is your feature request related to a problem? N/A ### Describe the solution you'd like It would be great to provide language and reading direction in series metadata just like Komga. In particular, the reading direction can be read and used by readers and third-party applicat",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 16
+        "engagement": 0
       },
       "requests": 4,
-      "latestSignal": "2026-09-20T07:00:37Z",
+      "latestSignal": "2026-09-21T14:55:17Z",
       "keywords": [
-        "add",
-        "webz",
-        "news",
-        "search",
-        "tools"
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Add a Webz.io News Search common tool",
-          "url": "https://github.com/pydantic/pydantic-ai/issues/8556",
-          "createdAt": "2026-09-20T07:00:37Z"
+          "label": "[FEATURE] Series metadata provides language and reading direction",
+          "url": "https://github.com/stumpapp/stump/issues/1434",
+          "createdAt": "2026-09-21T14:55:17Z"
         },
         {
           "source": "GitHub",
-          "label": "Add Webz.io as a web search provider and agent tool",
-          "url": "https://github.com/infiniflow/ragflow/issues/19917",
-          "createdAt": "2026-09-20T06:52:14Z"
+          "label": "Add share button",
+          "url": "https://github.com/ilianoKokoro/umihi-music/issues/235",
+          "createdAt": "2026-09-21T14:28:08Z"
         },
         {
           "source": "GitHub",
-          "label": "Add WebzNewsSearchTool to CrewAI Tools",
-          "url": "https://github.com/crewAIInc/crewAI/issues/7645",
-          "createdAt": "2026-09-20T06:50:15Z"
+          "label": "examples: authenticated Streamable HTTP research with officialmcp",
+          "url": "https://github.com/cloudwego/eino-ext/issues/1006",
+          "createdAt": "2026-09-21T06:59:56Z"
         },
         {
           "source": "GitHub",
-          "label": "Add a Webz.io community web search tool",
-          "url": "https://github.com/bytedance/deer-flow/issues/5599",
-          "createdAt": "2026-09-20T06:49:50Z"
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
         }
       ]
     },
     {
-      "id": "emerging-searched-existing-issues",
-      "title": "feat: add Deezer as an alternative audio backend",
-      "summary": "### Pre-submission Checklist - [x] I have searched existing issues to ensure this hasn't been requested before. - [x] This request covers a single, specific improvement. - [x] The issue title is concise and descriptive. ### Category 🎧 Audio Experience ### Is your feature request",
-      "score": 83,
+      "id": "emerging-feature-request-app",
+      "title": "Feature request: In-app SSH key generation within the Keychain on Android",
+      "summary": "Currently, when managing credentials on the Android client, there is no option to generate a new SSH key pair directly within the application's Keychain view. Users are forced to generate keys externally and import them, at least from what I've seen. Proposed Solution: Add an opt",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 11
+        "volume": 22,
+        "engagement": 0
       },
-      "requests": 4,
-      "latestSignal": "2026-09-20T13:02:25Z",
+      "requests": 2,
+      "latestSignal": "2026-09-21T14:41:22Z",
       "keywords": [
-        "searched",
-        "existing",
-        "issues",
+        "feature",
         "request",
-        "feature"
+        "app",
+        "currently",
+        "option"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "feat: add Deezer as an alternative audio backend",
-          "url": "https://github.com/MuwMx/YumaPlayer/issues/63",
-          "createdAt": "2026-09-20T13:02:25Z"
+          "label": "Feature request: In-app SSH key generation within the Keychain on Android",
+          "url": "https://github.com/VoltiusApp/voltius/issues/325",
+          "createdAt": "2026-09-21T14:41:22Z"
         },
         {
           "source": "GitHub",
-          "label": "Export Profile Data (Followers/Following) to CSV",
-          "url": "https://github.com/ReSo7200/InstaEclipse/issues/224",
-          "createdAt": "2026-09-20T12:58:25Z"
+          "label": "Feature request: Configurable delay before automatic cleaning cycle",
+          "url": "https://github.com/larsjarred9/Pawbby-Reborn/issues/60",
+          "createdAt": "2026-09-21T14:07:29Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feat-productivity-feature",
+      "title": "feat: add productivity apps wizard step (Alfred, Raycast, Radial, ExtraBar)",
+      "summary": "## Feature Request Add a dedicated wizard step for macOS productivity app selection and configuration. ## Apps to Support - [ ] Alfred - [ ] Raycast - [ ] Radial - [ ] ExtraBar ## Acceptance Criteria - Wizard step allows user to select productivity launcher(s) - tilde installs vi",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-21T14:05:55Z",
+      "keywords": [
+        "feat",
+        "productivity",
+        "feature",
+        "request",
+        "app"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "feat: add productivity apps wizard step (Alfred, Raycast, Radial, ExtraBar)",
+          "url": "https://github.com/jwill824/tilde/issues/154",
+          "createdAt": "2026-09-21T14:05:55Z"
         },
         {
           "source": "GitHub",
-          "label": "Option to hide or toggle the visibility of the \"Hide Chat\" button",
-          "url": "https://github.com/ReSo7200/InstaEclipse/issues/221",
-          "createdAt": "2026-09-20T11:59:53Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Implement Android native Traditional Chinese (zh-TW) localization support",
-          "url": "https://github.com/azahar-emu/azahar/issues/2570",
-          "createdAt": "2026-09-20T07:03:42Z"
+          "label": "feat: Obsidian iCloud Drive symlink sync for mobile",
+          "url": "https://github.com/jwill824/tilde/issues/141",
+          "createdAt": "2026-09-21T14:05:35Z"
         }
       ]
     }
