@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-21T15:06:21.066Z",
+  "generatedAt": "2026-09-22T13:24:40.147Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "[FEATURE] Series metadata provides language and reading direction",
-      "summary": "### Is your feature request related to a problem? N/A ### Describe the solution you'd like It would be great to provide language and reading direction in series metadata just like Komga. In particular, the reading direction can be read and used by readers and third-party applicat",
+      "id": "emerging-feature-app-add",
+      "title": "[FEATURE] Add artist and album ratings to the app (same as they appear in jellyfin), to sorting options as well.",
+      "summary": "### Summarize the requested feature. Display artist and album ratings fetched and stored by jellyfin. ### Is there a problem this feature solves? Just now I was thinking, I have a bunch of albums and I don't really know which one I would like to check out. Sorting by rating could",
       "score": 72,
       "scoreComponents": {
         "base": 28,
@@ -13,33 +13,144 @@
         "engagement": 0
       },
       "requests": 4,
-      "latestSignal": "2026-09-21T14:55:17Z",
+      "latestSignal": "2026-09-22T13:07:30Z",
       "keywords": [
         "feature",
-        "request",
-        "related",
-        "problem",
-        "describe"
+        "app",
+        "add",
+        "just",
+        "request"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Series metadata provides language and reading direction",
-          "url": "https://github.com/stumpapp/stump/issues/1434",
-          "createdAt": "2026-09-21T14:55:17Z"
+          "label": "[FEATURE] Add artist and album ratings to the app (same as they appear in jellyfin), to sorting options as well.",
+          "url": "https://github.com/Jellify-Music/App/issues/1462",
+          "createdAt": "2026-09-22T13:07:30Z"
         },
         {
           "source": "GitHub",
-          "label": "Add share button",
-          "url": "https://github.com/ilianoKokoro/umihi-music/issues/235",
-          "createdAt": "2026-09-21T14:28:08Z"
+          "label": "[Feature Request] [mozii] Equalizer",
+          "url": "https://github.com/OOOHA/OOOHA.github.io/issues/43",
+          "createdAt": "2026-09-22T12:49:13Z"
         },
         {
           "source": "GitHub",
-          "label": "examples: authenticated Streamable HTTP research with officialmcp",
-          "url": "https://github.com/cloudwego/eino-ext/issues/1006",
-          "createdAt": "2026-09-21T06:59:56Z"
+          "label": "Feature request: Support for transparent backgrounds",
+          "url": "https://github.com/thomasleuthold/NoteBerg/issues/26",
+          "createdAt": "2026-09-22T12:45:56Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE REQUEST] Turn on silent mode at prayer time",
+          "url": "https://github.com/Hassan-PS/Mihrab/issues/60",
+          "createdAt": "2026-09-22T12:34:03Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-requests-feature-request",
+      "title": "Track supported requests and notify users when requested books are ready",
+      "summary": "**Is your feature request related to a problem?** Users currently need to revisit requests to learn when a book becomes available. Bookmark has request supporters, but `getUserRequests` only selects rows created by the user, so supported requests do not appear in My requests. **D",
+      "score": 66,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 16
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-22T12:24:09Z",
+      "keywords": [
+        "requests",
+        "feature",
+        "request",
+        "currently",
+        "but"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Track supported requests and notify users when requested books are ready",
+          "url": "https://github.com/RobinEdquist/bookmark/issues/109",
+          "createdAt": "2026-09-22T12:24:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Some feature request",
+          "url": "https://github.com/SethRobinson/Patchy/issues/23",
+          "createdAt": "2026-09-22T03:23:13Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feat-distribu-feature",
+      "title": "[FEAT] - Alertas de Falha Distribuída",
+      "summary": "# 🚀 Feature Request: Alertas de Falha Distribuída ## 📌 Descrição Adicionar à política de alertas existente as condições que fazem sentido só depois que o fluxo virou distribuído: mensagem parando em dead-letter topic, saga terminando compensada/falha e saga travada sem conclusã",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-09-22T12:13:18Z",
+      "keywords": [
+        "feat",
+        "distribu",
+        "feature",
+        "request",
+        "descri"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FEAT] - Alertas de Falha Distribuída",
+          "url": "https://github.com/Async-And-Furious/async-furious-project/issues/346",
+          "createdAt": "2026-09-22T12:13:18Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEAT] - Dashboard do Fluxo Distribuído",
+          "url": "https://github.com/Async-And-Furious/async-furious-project/issues/345",
+          "createdAt": "2026-09-22T12:13:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEAT] - Instrumentar APM e Trace Distribuído nos Serviços Novos",
+          "url": "https://github.com/Async-And-Furious/async-furious-project/issues/343",
+          "createdAt": "2026-09-22T12:13:12Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "CimFS-backed overlay mount performance parity with Linux overlayfs for container image layers",
+      "summary": "**Is your feature request related to a problem? Please describe.** Windows container image layers are still fundamentally VHD/reparse-point-based even where CimFS is used for the read-only layer store, whereas Linux containers get true union-mount semantics from overlayfs: cheap",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-22T13:24:02Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "CimFS-backed overlay mount performance parity with Linux overlayfs for container image layers",
+          "url": "https://github.com/microsoft/Windows-Containers/issues/651",
+          "createdAt": "2026-09-22T13:24:02Z"
         },
         {
           "source": "GitHub",
@@ -50,9 +161,9 @@
       ]
     },
     {
-      "id": "emerging-feature-request-app",
-      "title": "Feature request: In-app SSH key generation within the Keychain on Android",
-      "summary": "Currently, when managing credentials on the Android client, there is no option to generate a new SSH key pair directly within the application's Keychain view. Users are forced to generate keys externally and import them, at least from what I've seen. Proposed Solution: Add an opt",
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request]Add per-application window rules for automatic always-on-top / pinned overlays",
+      "summary": "## Summary Add declarative per-application window rules, especially for automatic always-on-top / pinned overlay windows. With a rule system, a Wayland-native application could be marked as pinned, floating, positioned, or sized at its first map without the user toggling the wind",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -60,34 +171,34 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-21T14:41:22Z",
+      "latestSignal": "2026-09-22T09:46:56Z",
       "keywords": [
         "feature",
         "request",
-        "app",
-        "currently",
-        "option"
+        "add",
+        "summary",
+        "first"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: In-app SSH key generation within the Keychain on Android",
-          "url": "https://github.com/VoltiusApp/voltius/issues/325",
-          "createdAt": "2026-09-21T14:41:22Z"
+          "label": "[Feature Request]Add per-application window rules for automatic always-on-top / pinned overlays",
+          "url": "https://github.com/denialwm/denial/issues/178",
+          "createdAt": "2026-09-22T09:46:56Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Configurable delay before automatic cleaning cycle",
-          "url": "https://github.com/larsjarred9/Pawbby-Reborn/issues/60",
-          "createdAt": "2026-09-21T14:07:29Z"
+          "label": "[Feature]: Add Meta Muse Code as a first-class agent provider",
+          "url": "https://github.com/nimbalyst/nimbalyst/issues/1566",
+          "createdAt": "2026-09-22T09:03:25Z"
         }
       ]
     },
     {
-      "id": "emerging-feat-productivity-feature",
-      "title": "feat: add productivity apps wizard step (Alfred, Raycast, Radial, ExtraBar)",
-      "summary": "## Feature Request Add a dedicated wizard step for macOS productivity app selection and configuration. ## Apps to Support - [ ] Alfred - [ ] Raycast - [ ] Radial - [ ] ExtraBar ## Acceptance Criteria - Wizard step allows user to select productivity launcher(s) - tilde installs vi",
+      "id": "emerging-feature-request-agent",
+      "title": "[feature request] AgentScope Go integration: agent-runtime client contract",
+      "summary": "## What would you like to be added? A small, initially experimental Go client contract that would let [AgentScope Go](https://github.com/agentscope-ai/agentscope-go) use OpenKruise Agents as an optional sandbox backend for agent tools. This is not a request for OpenKruise to depe",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -95,27 +206,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-21T14:05:55Z",
+      "latestSignal": "2026-09-22T09:11:35Z",
       "keywords": [
-        "feat",
-        "productivity",
         "feature",
         "request",
-        "app"
+        "agent",
+        "like",
+        "use"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "feat: add productivity apps wizard step (Alfred, Raycast, Radial, ExtraBar)",
-          "url": "https://github.com/jwill824/tilde/issues/154",
-          "createdAt": "2026-09-21T14:05:55Z"
+          "label": "[feature request] AgentScope Go integration: agent-runtime client contract",
+          "url": "https://github.com/openkruise/agents/issues/998",
+          "createdAt": "2026-09-22T09:11:35Z"
         },
         {
           "source": "GitHub",
-          "label": "feat: Obsidian iCloud Drive symlink sync for mobile",
-          "url": "https://github.com/jwill824/tilde/issues/141",
-          "createdAt": "2026-09-21T14:05:35Z"
+          "label": "[Feature Request] Add Parallel as an optional Search provider",
+          "url": "https://github.com/eigent-ai/eigent/issues/1961",
+          "createdAt": "2026-09-22T00:28:52Z"
         }
       ]
     }
