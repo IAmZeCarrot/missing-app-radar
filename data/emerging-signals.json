@@ -1,142 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-22T13:24:40.147Z",
+  "generatedAt": "2026-09-23T13:38:42.366Z",
   "clusters": [
     {
-      "id": "emerging-feature-app-add",
-      "title": "[FEATURE] Add artist and album ratings to the app (same as they appear in jellyfin), to sorting options as well.",
-      "summary": "### Summarize the requested feature. Display artist and album ratings fetched and stored by jellyfin. ### Is there a problem this feature solves? Just now I was thinking, I have a bunch of albums and I don't really know which one I would like to check out. Sorting by rating could",
+      "id": "emerging-feature-request-related",
+      "title": "Feature request: Native Apple Pay support",
+      "summary": "### Is your feature request related to a problem? Please describe. We are a PayPal Advanced Checkout (PPCP) merchant. On the web, we accept Apple Pay through the JS SDK (`paypal.Applepay().confirmOrder`). In our iOS app, the PayPal iOS SDK has no Apple Pay module. So we must open",
       "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
         "engagement": 0
       },
-      "requests": 4,
-      "latestSignal": "2026-09-22T13:07:30Z",
-      "keywords": [
-        "feature",
-        "app",
-        "add",
-        "just",
-        "request"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Add artist and album ratings to the app (same as they appear in jellyfin), to sorting options as well.",
-          "url": "https://github.com/Jellify-Music/App/issues/1462",
-          "createdAt": "2026-09-22T13:07:30Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [mozii] Equalizer",
-          "url": "https://github.com/OOOHA/OOOHA.github.io/issues/43",
-          "createdAt": "2026-09-22T12:49:13Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Support for transparent backgrounds",
-          "url": "https://github.com/thomasleuthold/NoteBerg/issues/26",
-          "createdAt": "2026-09-22T12:45:56Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] Turn on silent mode at prayer time",
-          "url": "https://github.com/Hassan-PS/Mihrab/issues/60",
-          "createdAt": "2026-09-22T12:34:03Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-requests-feature-request",
-      "title": "Track supported requests and notify users when requested books are ready",
-      "summary": "**Is your feature request related to a problem?** Users currently need to revisit requests to learn when a book becomes available. Bookmark has request supporters, but `getUserRequests` only selects rows created by the user, so supported requests do not appear in My requests. **D",
-      "score": 66,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 16
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-22T12:24:09Z",
-      "keywords": [
-        "requests",
-        "feature",
-        "request",
-        "currently",
-        "but"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Track supported requests and notify users when requested books are ready",
-          "url": "https://github.com/RobinEdquist/bookmark/issues/109",
-          "createdAt": "2026-09-22T12:24:09Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Some feature request",
-          "url": "https://github.com/SethRobinson/Patchy/issues/23",
-          "createdAt": "2026-09-22T03:23:13Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feat-distribu-feature",
-      "title": "[FEAT] - Alertas de Falha Distribuída",
-      "summary": "# 🚀 Feature Request: Alertas de Falha Distribuída ## 📌 Descrição Adicionar à política de alertas existente as condições que fazem sentido só depois que o fluxo virou distribuído: mensagem parando em dead-letter topic, saga terminando compensada/falha e saga travada sem conclusã",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-09-22T12:13:18Z",
-      "keywords": [
-        "feat",
-        "distribu",
-        "feature",
-        "request",
-        "descri"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEAT] - Alertas de Falha Distribuída",
-          "url": "https://github.com/Async-And-Furious/async-furious-project/issues/346",
-          "createdAt": "2026-09-22T12:13:18Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEAT] - Dashboard do Fluxo Distribuído",
-          "url": "https://github.com/Async-And-Furious/async-furious-project/issues/345",
-          "createdAt": "2026-09-22T12:13:16Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEAT] - Instrumentar APM e Trace Distribuído nos Serviços Novos",
-          "url": "https://github.com/Async-And-Furious/async-furious-project/issues/343",
-          "createdAt": "2026-09-22T12:13:12Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "CimFS-backed overlay mount performance parity with Linux overlayfs for container image layers",
-      "summary": "**Is your feature request related to a problem? Please describe.** Windows container image layers are still fundamentally VHD/reparse-point-based even where CimFS is used for the read-only layer store, whereas Linux containers get true union-mount semantics from overlayfs: cheap",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-22T13:24:02Z",
+      "requests": 5,
+      "latestSignal": "2026-09-23T13:30:13Z",
       "keywords": [
         "feature",
         "request",
@@ -148,9 +25,27 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "CimFS-backed overlay mount performance parity with Linux overlayfs for container image layers",
-          "url": "https://github.com/microsoft/Windows-Containers/issues/651",
-          "createdAt": "2026-09-22T13:24:02Z"
+          "label": "Feature request: Native Apple Pay support",
+          "url": "https://github.com/paypal/paypal-ios/issues/455",
+          "createdAt": "2026-09-23T13:30:13Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Enhancement] Add 12-bit AVIF support",
+          "url": "https://github.com/IacobIonut01/ReFra/issues/1244",
+          "createdAt": "2026-09-23T13:27:05Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[macOS] Let the application menu carry the whole menu bar — one bar for the app, no per-window menus",
+          "url": "https://github.com/AvaloniaUI/Avalonia/issues/22286",
+          "createdAt": "2026-09-23T13:06:23Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[REQ] Parity via Par files: .dar and .par2 support",
+          "url": "https://github.com/aonez/Keka/issues/1778",
+          "createdAt": "2026-09-23T13:03:33Z"
         },
         {
           "source": "GitHub",
@@ -161,9 +56,9 @@
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request]Add per-application window rules for automatic always-on-top / pinned overlays",
-      "summary": "## Summary Add declarative per-application window rules, especially for automatic always-on-top / pinned overlay windows. With a rule system, a Wayland-native application could be marked as pinned, floating, positioned, or sized at its first map without the user toggling the wind",
+      "id": "emerging-feature-existing-request",
+      "title": "[FEATURE] Desktop dictation: revise the live transcript while speaking instead of correcting only on Enter",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement D",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -171,62 +66,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-22T09:46:56Z",
+      "latestSignal": "2026-09-23T13:04:15Z",
       "keywords": [
         "feature",
+        "existing",
         "request",
-        "add",
-        "summary",
-        "first"
+        "not",
+        "features"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request]Add per-application window rules for automatic always-on-top / pinned overlays",
-          "url": "https://github.com/denialwm/denial/issues/178",
-          "createdAt": "2026-09-22T09:46:56Z"
+          "label": "[FEATURE] Desktop dictation: revise the live transcript while speaking instead of correcting only on Enter",
+          "url": "https://github.com/anthropics/claude-code/issues/96353",
+          "createdAt": "2026-09-23T13:04:15Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Add Meta Muse Code as a first-class agent provider",
-          "url": "https://github.com/nimbalyst/nimbalyst/issues/1566",
-          "createdAt": "2026-09-22T09:03:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-agent",
-      "title": "[feature request] AgentScope Go integration: agent-runtime client contract",
-      "summary": "## What would you like to be added? A small, initially experimental Go client contract that would let [AgentScope Go](https://github.com/agentscope-ai/agentscope-go) use OpenKruise Agents as an optional sandbox backend for agent tools. This is not a request for OpenKruise to depe",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-22T09:11:35Z",
-      "keywords": [
-        "feature",
-        "request",
-        "agent",
-        "like",
-        "use"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[feature request] AgentScope Go integration: agent-runtime client contract",
-          "url": "https://github.com/openkruise/agents/issues/998",
-          "createdAt": "2026-09-22T09:11:35Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Add Parallel as an optional Search provider",
-          "url": "https://github.com/eigent-ai/eigent/issues/1961",
-          "createdAt": "2026-09-22T00:28:52Z"
+          "label": "Calendar: Contacts Without a First Name Will be Displayed Wrong",
+          "url": "https://github.com/tutao/tutanota/issues/11550",
+          "createdAt": "2026-09-23T12:51:02Z"
         }
       ]
     }
