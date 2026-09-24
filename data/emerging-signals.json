@@ -1,51 +1,74 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-23T13:38:42.366Z",
+  "generatedAt": "2026-09-24T13:33:07.978Z",
   "clusters": [
     {
+      "id": "emerging-claude-system-x27",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "I&#x27;m not an expert, but my current mental model for this sort of thing is that the thoughts were already there, somewhere in the training data. Some human was looking for something like this once. They didn&#x27;t find it, but they wrote about the search precisely enough that",
+      "score": 78,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 28
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-24T00:56:41Z",
+      "keywords": [
+        "claude",
+        "system",
+        "x27",
+        "model",
+        "were"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "url": "https://news.ycombinator.com/item?id=49820134",
+          "createdAt": "2026-09-24T00:56:41Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "Show HN: CUA-S1 – A System One Model for Computer Use",
+          "url": "https://news.ycombinator.com/item?id=49767564",
+          "createdAt": "2026-09-19T15:52:51Z"
+        }
+      ]
+    },
+    {
       "id": "emerging-feature-request-related",
-      "title": "Feature request: Native Apple Pay support",
-      "summary": "### Is your feature request related to a problem? Please describe. We are a PayPal Advanced Checkout (PPCP) merchant. On the web, we accept Apple Pay through the JS SDK (`paypal.Applepay().confirmOrder`). In our iOS app, the PayPal iOS SDK has no Apple Pay module. So we must open",
+      "title": "Add support for APQ in Nitro",
+      "summary": "### Product Nitro ### Is your feature request related to a problem? Would be nice to be able to test APQ directly within Nitro, and also test then being able to test GET requests ### The solution you'd like Some setting or config to enable it in the Nitro app",
       "score": 72,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 0
+        "volume": 33,
+        "engagement": 11
       },
-      "requests": 5,
-      "latestSignal": "2026-09-23T13:30:13Z",
+      "requests": 3,
+      "latestSignal": "2026-09-24T12:57:54Z",
       "keywords": [
         "feature",
         "request",
         "related",
         "problem",
-        "please"
+        "support"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Native Apple Pay support",
-          "url": "https://github.com/paypal/paypal-ios/issues/455",
-          "createdAt": "2026-09-23T13:30:13Z"
+          "label": "Add support for APQ in Nitro",
+          "url": "https://github.com/ChilliCream/graphql-platform/issues/10429",
+          "createdAt": "2026-09-24T12:57:54Z"
         },
         {
           "source": "GitHub",
-          "label": "[Enhancement] Add 12-bit AVIF support",
-          "url": "https://github.com/IacobIonut01/ReFra/issues/1244",
-          "createdAt": "2026-09-23T13:27:05Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[macOS] Let the application menu carry the whole menu bar — one bar for the app, no per-window menus",
-          "url": "https://github.com/AvaloniaUI/Avalonia/issues/22286",
-          "createdAt": "2026-09-23T13:06:23Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[REQ] Parity via Par files: .dar and .par2 support",
-          "url": "https://github.com/aonez/Keka/issues/1778",
-          "createdAt": "2026-09-23T13:03:33Z"
+          "label": "Support watchOS platform for video playback",
+          "url": "https://github.com/kingslay/KSPlayer/issues/935",
+          "createdAt": "2026-09-24T12:24:07Z"
         },
         {
           "source": "GitHub",
@@ -56,9 +79,50 @@
       ]
     },
     {
-      "id": "emerging-feature-existing-request",
-      "title": "[FEATURE] Desktop dictation: revise the live transcript while speaking instead of correcting only on Enter",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement D",
+      "id": "emerging-feature-request-please",
+      "title": "Feature request: Per-app blacklist to hide the Aura focus border",
+      "summary": "The Aura focus border is drawn on every window, including apps where it's distracting (terminals, video players, games). Currently the only way to avoid it is to disable the border entirely. Please add a per-app blacklist, like the existing Floating Window Exceptions list, that h",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-09-24T13:28:16Z",
+      "keywords": [
+        "feature",
+        "request",
+        "please",
+        "add",
+        "app"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: Per-app blacklist to hide the Aura focus border",
+          "url": "https://github.com/oliwebd/o-tiling/issues/101",
+          "createdAt": "2026-09-24T13:28:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "feature(Twitter): Add option to disable / hide media previews in timeline",
+          "url": "https://github.com/crimera/piko/issues/1942",
+          "createdAt": "2026-09-24T12:19:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Support installation via Homebrew",
+          "url": "https://github.com/meilisearch/meilisearch-cli/issues/2",
+          "createdAt": "2026-09-24T00:38:49Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-support",
+      "title": "Feature Request: Add iOS support",
+      "summary": "Hi, Thank you for this amazing package! It works flawlessly on Android. Are there any plans to add iOS support in the near future? Since libzt supports Apple devices natively, having iOS support in this Flutter wrapper would be incredibly helpful for cross-platform app developmen",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -66,27 +130,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-23T13:04:15Z",
+      "latestSignal": "2026-09-24T13:25:56Z",
       "keywords": [
         "feature",
-        "existing",
         "request",
-        "not",
-        "features"
+        "support",
+        "there",
+        "devices"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Desktop dictation: revise the live transcript while speaking instead of correcting only on Enter",
-          "url": "https://github.com/anthropics/claude-code/issues/96353",
-          "createdAt": "2026-09-23T13:04:15Z"
+          "label": "Feature Request: Add iOS support",
+          "url": "https://github.com/nuc134r/zerotier_sockets_flutter/issues/4",
+          "createdAt": "2026-09-24T13:25:56Z"
         },
         {
           "source": "GitHub",
-          "label": "Calendar: Contacts Without a First Name Will be Displayed Wrong",
-          "url": "https://github.com/tutao/tutanota/issues/11550",
-          "createdAt": "2026-09-23T12:51:02Z"
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         }
       ]
     }
