@@ -1,87 +1,82 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-24T13:33:07.978Z",
+  "generatedAt": "2026-09-25T13:47:19.476Z",
   "clusters": [
     {
-      "id": "emerging-claude-system-x27",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "summary": "I&#x27;m not an expert, but my current mental model for this sort of thing is that the thoughts were already there, somewhere in the training data. Some human was looking for something like this once. They didn&#x27;t find it, but they wrote about the search precisely enough that",
-      "score": 78,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 28
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-24T00:56:41Z",
-      "keywords": [
-        "claude",
-        "system",
-        "x27",
-        "model",
-        "were"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://news.ycombinator.com/item?id=49820134",
-          "createdAt": "2026-09-24T00:56:41Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Show HN: CUA-S1 – A System One Model for Computer Use",
-          "url": "https://news.ycombinator.com/item?id=49767564",
-          "createdAt": "2026-09-19T15:52:51Z"
-        }
-      ]
-    },
-    {
       "id": "emerging-feature-request-related",
-      "title": "Add support for APQ in Nitro",
-      "summary": "### Product Nitro ### Is your feature request related to a problem? Would be nice to be able to test APQ directly within Nitro, and also test then being able to test GET requests ### The solution you'd like Some setting or config to enable it in the Nitro app",
-      "score": 72,
+      "title": "use phevUsableBatteryLevel for toyota phev vehicles",
+      "summary": "**Is your feature request related to a problem? Please describe.** The toyota API exposes a different kind of battery soc level for phev vehicles (`phevUsableBatteryLevel`). This better reflect the remaining battery charge and therefor the planer / optimizer can better calculate",
+      "score": 88,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 11
+        "volume": 44,
+        "engagement": 16
       },
-      "requests": 3,
-      "latestSignal": "2026-09-24T12:57:54Z",
+      "requests": 11,
+      "latestSignal": "2026-09-25T13:33:52Z",
       "keywords": [
         "feature",
         "request",
         "related",
         "problem",
-        "support"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Add support for APQ in Nitro",
-          "url": "https://github.com/ChilliCream/graphql-platform/issues/10429",
-          "createdAt": "2026-09-24T12:57:54Z"
+          "label": "use phevUsableBatteryLevel for toyota phev vehicles",
+          "url": "https://github.com/evcc-io/evcc/issues/34067",
+          "createdAt": "2026-09-25T13:33:52Z"
         },
         {
           "source": "GitHub",
-          "label": "Support watchOS platform for video playback",
-          "url": "https://github.com/kingslay/KSPlayer/issues/935",
-          "createdAt": "2026-09-24T12:24:07Z"
+          "label": "Router / variable resolution: don't log TypeError when an intermediate path is undefined",
+          "url": "https://github.com/activepieces/activepieces/issues/15803",
+          "createdAt": "2026-09-25T13:22:16Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "Portugueses Please",
+          "url": "https://github.com/PostHog/posthog/issues/106683",
+          "createdAt": "2026-09-25T13:14:05Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Gas density calculator: density in g/L for OC and CCR",
+          "url": "https://github.com/submersion-app/submersion/issues/2328",
+          "createdAt": "2026-09-25T13:03:33Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Assign unknown faces directly to an existing person",
+          "url": "https://github.com/SelfPhotos/SelfPhotos/issues/12",
+          "createdAt": "2026-09-25T12:50:30Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Small Plugin system",
+          "url": "https://github.com/kittendevv/Invio/issues/151",
+          "createdAt": "2026-09-25T12:46:39Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: runtime animation sequencing for custom Codex Pets",
+          "url": "https://github.com/openai/codex/issues/48081",
+          "createdAt": "2026-09-25T12:44:29Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[✨Feature Request]: Add folder portable mode, store data alongside executable",
+          "url": "https://github.com/vladelaina/BongoCat/issues/81",
+          "createdAt": "2026-09-25T12:41:02Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-please",
-      "title": "Feature request: Per-app blacklist to hide the Aura focus border",
-      "summary": "The Aura focus border is drawn on every window, including apps where it's distracting (terminals, video players, games). Currently the only way to avoid it is to disable the border entirely. Please add a per-app blacklist, like the existing Floating Window Exceptions list, that h",
+      "id": "emerging-feature-request-after",
+      "title": "Feature Request: Automatic server start, automatic Stremio Mode and optional start after device reboot",
+      "summary": "Hi, I am using CNCVerse Bridge on a dedicated Android tablet as a permanently available bridge for Stremio. For this use case, I think a few optional automation settings would be very useful, especially for users who run CNCVerse on a dedicated tablet, wall tablet, Android box, o",
       "score": 61,
       "scoreComponents": {
         "base": 28,
@@ -89,40 +84,81 @@
         "engagement": 0
       },
       "requests": 3,
-      "latestSignal": "2026-09-24T13:28:16Z",
+      "latestSignal": "2026-09-25T12:54:57Z",
       "keywords": [
         "feature",
         "request",
-        "please",
-        "add",
-        "app"
+        "after",
+        "device",
+        "settings"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Per-app blacklist to hide the Aura focus border",
-          "url": "https://github.com/oliwebd/o-tiling/issues/101",
-          "createdAt": "2026-09-24T13:28:16Z"
+          "label": "Feature Request: Automatic server start, automatic Stremio Mode and optional start after device reboot",
+          "url": "https://github.com/NivinCNC/CNCVerse-Bridge/issues/19",
+          "createdAt": "2026-09-25T12:54:57Z"
         },
         {
           "source": "GitHub",
-          "label": "feature(Twitter): Add option to disable / hide media previews in timeline",
-          "url": "https://github.com/crimera/piko/issues/1942",
-          "createdAt": "2026-09-24T12:19:53Z"
+          "label": "New Feature Request: Add option in settings to disable app screensaver",
+          "url": "https://github.com/theqkash/esp32flight/issues/41",
+          "createdAt": "2026-09-25T12:46:49Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Support installation via Homebrew",
-          "url": "https://github.com/meilisearch/meilisearch-cli/issues/2",
-          "createdAt": "2026-09-24T00:38:49Z"
+          "label": "Set Working Directory option",
+          "url": "https://github.com/posit-dev/positron/issues/16232",
+          "createdAt": "2026-09-25T12:07:43Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-support",
-      "title": "Feature Request: Add iOS support",
-      "summary": "Hi, Thank you for this amazing package! It works flawlessly on Android. Are there any plans to add iOS support in the near future? Since libzt supports Apple devices natively, having iOS support in this Flutter wrapper would be incredibly helpful for cross-platform app developmen",
+      "id": "emerging-github-issue-title",
+      "title": "I can't create a meaningful GitHub issue title from this feedback, as it only contains positive comments without describing any specific problem or feature request to address. Could you provide feedba",
+      "summary": "**Source:** usernode user (Thenodess) **App:** Game Corner (puzzlechain-6cf8ff) Good and very impresif",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-09-25T12:51:44Z",
+      "keywords": [
+        "github",
+        "issue",
+        "title",
+        "feature",
+        "request"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "I can't create a meaningful GitHub issue title from this feedback, as it only contains positive comments without describing any specific problem or feature request to address. Could you provide feedba",
+          "url": "https://github.com/usernode-bot/puzzlechain-6cf8ff/issues/302",
+          "createdAt": "2026-09-25T12:51:44Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[BUG] - Chowdown migration shows Nextcloud file structure example",
+          "url": "https://github.com/mealie-recipes/mealie/issues/8549",
+          "createdAt": "2026-09-25T12:45:36Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[BUG] - Expand arrow on report entries does nothing (exception details never shown)",
+          "url": "https://github.com/mealie-recipes/mealie/issues/8548",
+          "createdAt": "2026-09-25T12:43:59Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-mcp",
+      "title": "Feature request: MCP Relay / outbound connector for externally hosted MCP services",
+      "summary": "## Summary Add an optional **MCP relay / reverse connector adapter** to `opencode-vm`. The goal is to allow tools or MCP services that run **outside the OpenCode VM and potentially inside a more restricted network/security zone** to expose their capabilities to the OpenCode runti",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -130,27 +166,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-24T13:25:56Z",
+      "latestSignal": "2026-09-25T09:27:07Z",
       "keywords": [
         "feature",
         "request",
-        "support",
-        "there",
-        "devices"
+        "mcp",
+        "summary",
+        "opencode"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Add iOS support",
-          "url": "https://github.com/nuc134r/zerotier_sockets_flutter/issues/4",
-          "createdAt": "2026-09-24T13:25:56Z"
+          "label": "Feature request: MCP Relay / outbound connector for externally hosted MCP services",
+          "url": "https://github.com/GeektankLabs/opencode-vm/issues/3",
+          "createdAt": "2026-09-25T09:27:07Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
+          "label": "[Feature Request] Expose OpenCode VM as an MCP server for external agents and voice frontends",
+          "url": "https://github.com/GeektankLabs/opencode-vm/issues/2",
+          "createdAt": "2026-09-25T09:23:42Z"
         }
       ]
     }
