@@ -1077,6 +1077,34 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-26",
+      "clusters": 4,
+      "requests": 13,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 88,
+          "requests": 5
+        },
+        {
+          "id": "emerging-feat-support-feature",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-app-request",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-add",
+          "score": 57,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
