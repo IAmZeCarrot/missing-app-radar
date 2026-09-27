@@ -1105,6 +1105,24 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-09-27",
+      "clusters": 2,
+      "requests": 13,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-please-feature-request",
+          "score": 79,
+          "requests": 11
+        },
+        {
+          "id": "emerging-feature-request-time",
+          "score": 57,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

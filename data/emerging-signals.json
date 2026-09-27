@@ -1,146 +1,82 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-26T13:05:24.372Z",
+  "generatedAt": "2026-09-27T13:58:35.671Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "Advanced template editor for PDF Export",
-      "summary": "**Is your feature request related to a problem? Please describe:** The current PDF Export funtionality is primitive. It provides users with a single static template with few settings. <img width=\"840\" height=\"752\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/27d40e",
-      "score": 88,
+      "id": "emerging-please-feature-request",
+      "title": "Filtered OAuth `groups` claim",
+      "summary": "- [X] Please review our projects [AI usage policy](https://github.com/kanidm/kanidm/blob/master/book/src/developers/ai_llm_policy.md) and avoid LLM outputs in feature requests. ### Is your feature request related to a problem? Please describe I would like it if KanIDM could provi",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 16
+        "engagement": 7
       },
-      "requests": 5,
-      "latestSignal": "2026-09-26T12:56:53Z",
+      "requests": 11,
+      "latestSignal": "2026-09-27T13:30:01Z",
       "keywords": [
+        "please",
         "feature",
         "request",
         "related",
-        "problem",
-        "please"
+        "problem"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Advanced template editor for PDF Export",
-          "url": "https://github.com/embroidery-space/embroiderly/issues/757",
-          "createdAt": "2026-09-26T12:56:53Z"
+          "label": "Filtered OAuth `groups` claim",
+          "url": "https://github.com/kanidm/kanidm/issues/4594",
+          "createdAt": "2026-09-27T13:30:01Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Not have the 'Streaming own PC' warning every time",
-          "url": "https://github.com/linckosz/moonlight-web/issues/25",
-          "createdAt": "2026-09-26T12:51:24Z"
+          "label": "I18n for CUPS webapp pages",
+          "url": "https://github.com/OpenPrinting/cups/issues/1724",
+          "createdAt": "2026-09-27T13:26:33Z"
         },
         {
           "source": "GitHub",
-          "label": "feat(cloud): implement CloudProvider abstraction and Google Drive OAuth 2.0 authentication",
-          "url": "https://github.com/abdulwalidal/secure-backup/issues/14",
-          "createdAt": "2026-09-26T12:35:29Z"
+          "label": "CLI: add -format=env (dotenv) output for kv get",
+          "url": "https://github.com/openbao/openbao/issues/4103",
+          "createdAt": "2026-09-27T13:16:54Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Free memory / Used memory on account",
-          "url": "https://github.com/hyprlab/hylki/issues/298",
-          "createdAt": "2026-09-26T12:22:49Z"
+          "label": "Feature request: Recurring (subscription) payments",
+          "url": "https://github.com/smolcars/noah/issues/349",
+          "createdAt": "2026-09-27T13:08:41Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "Stop closing the quick tile/notification menu when enabling",
+          "url": "https://github.com/mueller-ma/Coffee/issues/370",
+          "createdAt": "2026-09-27T13:07:29Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Title: [Feature Request / Bug] PGS (HDMV PGS) subtitles are selectable but do not render on PS4 5.05",
+          "url": "https://github.com/dragonflylee/switchfin/issues/266",
+          "createdAt": "2026-09-27T13:07:26Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add regex yes/no support to /app/code/search",
+          "url": "https://github.com/123inkt/123view/issues/1599",
+          "createdAt": "2026-09-27T13:06:48Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Native Meta Muse app subscription support",
+          "url": "https://github.com/Wei-Shaw/sub2api/issues/7625",
+          "createdAt": "2026-09-27T12:52:06Z"
         }
       ]
     },
     {
-      "id": "emerging-feat-support-feature",
-      "title": "feat: support Nivo (React)",
-      "summary": "# Feature Request ## Motivation [Nivo](https://nivo.rocks/) is one of the most popular React chart libraries after Recharts, and is used widely for dashboards and data journalism. It offers many chart types that other React libraries lack (heatmap, sunburst, treemap, sankey, chor",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-09-26T12:29:03Z",
-      "keywords": [
-        "feat",
-        "support",
-        "feature",
-        "request",
-        "motivation"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "feat: support Nivo (React)",
-          "url": "https://github.com/xability/maidr/issues/1302",
-          "createdAt": "2026-09-26T12:29:03Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "feat: support MUI X Charts (React)",
-          "url": "https://github.com/xability/maidr/issues/1301",
-          "createdAt": "2026-09-26T12:28:57Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "feat: support TradingView Lightweight Charts for accessible financial charts",
-          "url": "https://github.com/xability/maidr/issues/1300",
-          "createdAt": "2026-09-26T12:28:50Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-app-request",
-      "title": "[Feature Request]: Material Expressive-like Switchers",
-      "summary": "**Describe the solution you'd like** *A clear and concise description of what you want to happen.* As part of the complete UI redesign in v0.7-β1, it would be nice to implement a new style for the switcher component in the app that resembles Google's Material 3 Expressive compone",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-09-26T12:08:21Z",
-      "keywords": [
-        "feature",
-        "app",
-        "request",
-        "like",
-        "describe"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request]: Material Expressive-like Switchers",
-          "url": "https://github.com/BrunazzoDev/ZenFlow-Releases/issues/12",
-          "createdAt": "2026-09-26T12:08:21Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Changelog for Mod Updates",
-          "url": "https://github.com/Kyle-Hosman/xdj-az-mods/issues/27",
-          "createdAt": "2026-09-26T11:59:59Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Analytics for ROR app",
-          "url": "https://github.com/ror-community/ror-roadmap/issues/428",
-          "createdAt": "2026-09-26T03:34:42Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Virtual MIDI devices",
-      "summary": "Please add an option to create virtual MIDI devices that can be configured within the apps (my show control software & osc router don't see eachother in MIDI settings)",
+      "id": "emerging-feature-request-time",
+      "title": "[feature request] Screen Time like Apple just with nfc tags?",
+      "summary": "Hey! Would it be possible to add a feature that sets a timer for an app, say 30 minutes, and then blocks the app after the time has elapsed? When you want to continue using the app, you would need to scan the NFC tag. If there is already a feature like this, then I apologise. :(",
       "score": 57,
       "scoreComponents": {
         "base": 28,
@@ -148,27 +84,27 @@
         "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-09-26T12:51:10Z",
+      "latestSignal": "2026-09-27T13:33:30Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "create",
-        "see"
+        "time",
+        "hey",
+        "add"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Virtual MIDI devices",
-          "url": "https://github.com/ETCLabs/OSCRouter/issues/62",
-          "createdAt": "2026-09-26T12:51:10Z"
+          "label": "[feature request] Screen Time like Apple just with nfc tags?",
+          "url": "https://github.com/awaseem/foqos/issues/548",
+          "createdAt": "2026-09-27T13:33:30Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Visual Element Selector for Sites / Create website",
-          "url": "https://github.com/openai/codex/issues/48395",
-          "createdAt": "2026-09-26T08:38:47Z"
+          "label": "Feature Request: Add support for \"Bangs\" (quick search shortcuts)",
+          "url": "https://github.com/ontola/searchlauncher/issues/164",
+          "createdAt": "2026-09-27T13:33:21Z"
         }
       ]
     }
