@@ -1,110 +1,121 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-27T13:58:35.671Z",
+  "generatedAt": "2026-09-28T16:45:14.668Z",
   "clusters": [
     {
-      "id": "emerging-please-feature-request",
-      "title": "Filtered OAuth `groups` claim",
-      "summary": "- [X] Please review our projects [AI usage policy](https://github.com/kanidm/kanidm/blob/master/book/src/developers/ai_llm_policy.md) and avoid LLM outputs in feature requests. ### Is your feature request related to a problem? Please describe I would like it if KanIDM could provi",
-      "score": 79,
+      "id": "emerging-feature-request-app",
+      "title": "[Feature Request]: Telegram 通道支持发送到指定话题（message_thread_id）",
+      "summary": "### 需求 跟 #5529 是同一个需求（Telegram 通知能指定发到某个**话题**），那条被 stale 机器人关了、而且**无法重开**（试过 `reopenIssue`，被拒），所以重提一条，把这边的调查和实现思路一并附上。 ### 现状（v3 当前代码） Telegram 通道是把 `TELEGRAM_CHAT_ID` 原样透传给 pyTelegramBotAPI，没有任何入口能带 `message_thread_id`： - `app/modules/telegram/telegram.py:88` — `__init__(self,",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 0
       },
-      "requests": 11,
-      "latestSignal": "2026-09-27T13:30:01Z",
+      "requests": 4,
+      "latestSignal": "2026-09-28T16:20:44Z",
       "keywords": [
-        "please",
         "feature",
         "request",
-        "related",
-        "problem"
+        "app",
+        "only",
+        "device"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Filtered OAuth `groups` claim",
-          "url": "https://github.com/kanidm/kanidm/issues/4594",
-          "createdAt": "2026-09-27T13:30:01Z"
+          "label": "[Feature Request]: Telegram 通道支持发送到指定话题（message_thread_id）",
+          "url": "https://github.com/jxxghp/MoviePilot/issues/6816",
+          "createdAt": "2026-09-28T16:20:44Z"
         },
         {
           "source": "GitHub",
-          "label": "I18n for CUPS webapp pages",
-          "url": "https://github.com/OpenPrinting/cups/issues/1724",
-          "createdAt": "2026-09-27T13:26:33Z"
+          "label": "Offline Feature Request",
+          "url": "https://github.com/kushagrasinghx/BitChord/issues/473",
+          "createdAt": "2026-09-28T16:12:21Z"
         },
         {
           "source": "GitHub",
-          "label": "CLI: add -format=env (dotenv) output for kv get",
-          "url": "https://github.com/openbao/openbao/issues/4103",
-          "createdAt": "2026-09-27T13:16:54Z"
+          "label": "Feed reloading UI Addition",
+          "url": "https://github.com/wizdom13/WizeStream/issues/736",
+          "createdAt": "2026-09-28T15:25:48Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Recurring (subscription) payments",
-          "url": "https://github.com/smolcars/noah/issues/349",
-          "createdAt": "2026-09-27T13:08:41Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Stop closing the quick tile/notification menu when enabling",
-          "url": "https://github.com/mueller-ma/Coffee/issues/370",
-          "createdAt": "2026-09-27T13:07:29Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Title: [Feature Request / Bug] PGS (HDMV PGS) subtitles are selectable but do not render on PS4 5.05",
-          "url": "https://github.com/dragonflylee/switchfin/issues/266",
-          "createdAt": "2026-09-27T13:07:26Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add regex yes/no support to /app/code/search",
-          "url": "https://github.com/123inkt/123view/issues/1599",
-          "createdAt": "2026-09-27T13:06:48Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Native Meta Muse app subscription support",
-          "url": "https://github.com/Wei-Shaw/sub2api/issues/7625",
-          "createdAt": "2026-09-27T12:52:06Z"
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-time",
-      "title": "[feature request] Screen Time like Apple just with nfc tags?",
-      "summary": "Hey! Would it be possible to add a feature that sets a timer for an app, say 30 minutes, and then blocks the app after the time has elapsed? When you want to continue using the app, you would need to scan the NFC tag. If there is already a feature like this, then I apologise. :(",
-      "score": 57,
+      "id": "emerging-feature-request-related",
+      "title": "[FEATURE_REQUEST] Add `GENERATE_BEFORE_DISPATCH` event: an awaited hook with the final payload, generation type and exact token counting",
+      "summary": "### Have you searched for similar requests? No ### Is your feature request related to a problem? If so, please describe. Extensions that add context to a generation, such as memory, retrieval or lorebook-style tools, need to know how large the **final** request is before it is se",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 7
+        "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-27T13:33:30Z",
+      "latestSignal": "2026-09-28T10:41:49Z",
       "keywords": [
         "feature",
         "request",
-        "time",
-        "hey",
-        "add"
+        "related",
+        "problem",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[feature request] Screen Time like Apple just with nfc tags?",
-          "url": "https://github.com/awaseem/foqos/issues/548",
-          "createdAt": "2026-09-27T13:33:30Z"
+          "label": "[FEATURE_REQUEST] Add `GENERATE_BEFORE_DISPATCH` event: an awaited hook with the final payload, generation type and exact token counting",
+          "url": "https://github.com/SillyTavern/SillyTavern/issues/6092",
+          "createdAt": "2026-09-28T10:41:49Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add support for \"Bangs\" (quick search shortcuts)",
-          "url": "https://github.com/ontola/searchlauncher/issues/164",
-          "createdAt": "2026-09-27T13:33:21Z"
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-proposal-searchable-documentation",
+      "title": "Proposal: searchable documentation for setup, troubleshooting, and testing",
+      "summary": "Hi! I maintain [Cortex](https://github.com/cortex-docs/cortex), an open-source tool for documentation sites and local MCP documentation servers. I put together a documentation demo for Screenshot to Code using its existing Markdown: **https://screenshot-to-code-demo.cortexdocs.de",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-09-28T09:24:16Z",
+      "keywords": [
+        "proposal",
+        "searchable",
+        "documentation",
+        "maintain",
+        "cortex"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Proposal: searchable documentation for setup, troubleshooting, and testing",
+          "url": "https://github.com/abi/screenshot-to-code/issues/644",
+          "createdAt": "2026-09-28T09:24:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Proposal: searchable documentation for configuration and agent development",
+          "url": "https://github.com/ValueCell-ai/valuecell/issues/633",
+          "createdAt": "2026-09-28T09:24:11Z"
         }
       ]
     }
