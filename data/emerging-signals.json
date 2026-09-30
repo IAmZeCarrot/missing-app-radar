@@ -1,93 +1,82 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-28T16:45:14.668Z",
+  "generatedAt": "2026-09-30T14:55:27.237Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-app",
-      "title": "[Feature Request]: Telegram 通道支持发送到指定话题（message_thread_id）",
-      "summary": "### 需求 跟 #5529 是同一个需求（Telegram 通知能指定发到某个**话题**），那条被 stale 机器人关了、而且**无法重开**（试过 `reopenIssue`，被拒），所以重提一条，把这边的调查和实现思路一并附上。 ### 现状（v3 当前代码） Telegram 通道是把 `TELEGRAM_CHAT_ID` 原样透传给 pyTelegramBotAPI，没有任何入口能带 `message_thread_id`： - `app/modules/telegram/telegram.py:88` — `__init__(self,",
-      "score": 72,
+      "id": "emerging-problem-feature-request",
+      "title": "Admin shell: routes, page controller, access middleware, layout resolver",
+      "summary": "## Problem Statement **Is your feature request related to a problem?** The admin needs a frame every screen renders in, that works both inside `cms-framework`'s admin and on its own. ## Proposed Solution **What would you like to happen?** Register the admin routes as controller a",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 11
       },
-      "requests": 4,
-      "latestSignal": "2026-09-28T16:20:44Z",
+      "requests": 10,
+      "latestSignal": "2026-09-30T14:49:23Z",
       "keywords": [
-        "feature",
-        "request",
-        "app",
-        "only",
-        "device"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request]: Telegram 通道支持发送到指定话题（message_thread_id）",
-          "url": "https://github.com/jxxghp/MoviePilot/issues/6816",
-          "createdAt": "2026-09-28T16:20:44Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Offline Feature Request",
-          "url": "https://github.com/kushagrasinghx/BitChord/issues/473",
-          "createdAt": "2026-09-28T16:12:21Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feed reloading UI Addition",
-          "url": "https://github.com/wizdom13/WizeStream/issues/736",
-          "createdAt": "2026-09-28T15:25:48Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "[FEATURE_REQUEST] Add `GENERATE_BEFORE_DISPATCH` event: an awaited hook with the final payload, generation type and exact token counting",
-      "summary": "### Have you searched for similar requests? No ### Is your feature request related to a problem? If so, please describe. Extensions that add context to a generation, such as memory, retrieval or lorebook-style tools, need to know how large the **final** request is before it is se",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-09-28T10:41:49Z",
-      "keywords": [
+        "problem",
         "feature",
         "request",
         "related",
-        "problem",
         "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE_REQUEST] Add `GENERATE_BEFORE_DISPATCH` event: an awaited hook with the final payload, generation type and exact token counting",
-          "url": "https://github.com/SillyTavern/SillyTavern/issues/6092",
-          "createdAt": "2026-09-28T10:41:49Z"
+          "label": "Admin shell: routes, page controller, access middleware, layout resolver",
+          "url": "https://github.com/ArtisanPack-UI/ecommerce-admin-livewire/issues/2",
+          "createdAt": "2026-09-30T14:49:23Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "Add a reorderable list that works on Livewire 3",
+          "url": "https://github.com/ArtisanPack-UI/livewire-ui-components/issues/115",
+          "createdAt": "2026-09-30T14:45:57Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Global hotkey: allow focusing a window from a portal hotkey on Wayland (activation_token, Deactivated)",
+          "url": "https://github.com/NucleusFramework/Nucleus/issues/739",
+          "createdAt": "2026-09-30T14:27:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Improve smoothness of sync progress ring",
+          "url": "https://github.com/zodl-inc/zodl-android/issues/2539",
+          "createdAt": "2026-09-30T14:13:40Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Support for Composite Device Types in Generated Data Model",
+          "url": "https://github.com/espressif/esp-matter/issues/1871",
+          "createdAt": "2026-09-30T14:05:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature]: Bulk access to movie stream ids (M3UMovieRelation) via the VOD API",
+          "url": "https://github.com/Dispatcharr/Dispatcharr/issues/1766",
+          "createdAt": "2026-09-30T14:05:15Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[REQUEST] (macOS) Optional physical footprint column in the process list",
+          "url": "https://github.com/aristocratos/btop/issues/1871",
+          "createdAt": "2026-09-30T14:04:55Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Print the runner ID and release tag in `protonplus list <launcher_id>`",
+          "url": "https://github.com/Vysp3r/ProtonPlus/issues/1313",
+          "createdAt": "2026-09-30T13:53:18Z"
         }
       ]
     },
     {
-      "id": "emerging-proposal-searchable-documentation",
-      "title": "Proposal: searchable documentation for setup, troubleshooting, and testing",
-      "summary": "Hi! I maintain [Cortex](https://github.com/cortex-docs/cortex), an open-source tool for documentation sites and local MCP documentation servers. I put together a documentation demo for Screenshot to Code using its existing Markdown: **https://screenshot-to-code-demo.cortexdocs.de",
+      "id": "emerging-like-uses-feature",
+      "title": "I'd like an example Vuu app that implements excel like functionality at the backend and uses Vuu as the rendering agent.",
+      "summary": "## Feature Request ### Description of Problem: I'd like to implement an excel-like system in Vuu, where I can specify values or formulas and then render the data in the table grids.",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -95,27 +84,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-09-28T09:24:16Z",
+      "latestSignal": "2026-09-30T14:50:03Z",
       "keywords": [
-        "proposal",
-        "searchable",
-        "documentation",
-        "maintain",
-        "cortex"
+        "like",
+        "uses",
+        "feature",
+        "request",
+        "description"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Proposal: searchable documentation for setup, troubleshooting, and testing",
-          "url": "https://github.com/abi/screenshot-to-code/issues/644",
-          "createdAt": "2026-09-28T09:24:16Z"
+          "label": "I'd like an example Vuu app that implements excel like functionality at the backend and uses Vuu as the rendering agent.",
+          "url": "https://github.com/finos/vuu/issues/2491",
+          "createdAt": "2026-09-30T14:50:03Z"
         },
         {
           "source": "GitHub",
-          "label": "Proposal: searchable documentation for configuration and agent development",
-          "url": "https://github.com/ValueCell-ai/valuecell/issues/633",
-          "createdAt": "2026-09-28T09:24:11Z"
+          "label": "Feature Request: Add Swagger UI for OpenAPI Documentation",
+          "url": "https://github.com/elm1nst3r/GHOST-osint-crm/issues/93",
+          "createdAt": "2026-09-30T05:57:53Z"
         }
       ]
     }
