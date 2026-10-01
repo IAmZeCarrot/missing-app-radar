@@ -1,110 +1,116 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-30T14:55:27.237Z",
+  "generatedAt": "2026-10-01T15:27:15.079Z",
   "clusters": [
     {
-      "id": "emerging-problem-feature-request",
-      "title": "Admin shell: routes, page controller, access middleware, layout resolver",
-      "summary": "## Problem Statement **Is your feature request related to a problem?** The admin needs a frame every screen renders in, that works both inside `cms-framework`'s admin and on its own. ## Proposed Solution **What would you like to happen?** Register the admin routes as controller a",
-      "score": 83,
+      "id": "emerging-feature-request-type",
+      "title": "Feature Request: General / not a specific tool — Further tools inspired by TSPED ceddcozum (https://www.ceddcozum.com/) (the calculators already listed under that note are shipped)",
+      "summary": "### Type Feature request ### Tool - **Name:** General / not a specific tool - **Key:** `general` - **Path:** _(none / general)_ ### Synopsis Further tools inspired by TSPED ceddcozum (https://www.ceddcozum.com/) (the calculators already listed under that note are shipped) ### Con",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 0
       },
-      "requests": 10,
-      "latestSignal": "2026-09-30T14:49:23Z",
+      "requests": 13,
+      "latestSignal": "2026-10-01T14:46:58Z",
       "keywords": [
-        "problem",
         "feature",
         "request",
-        "related",
-        "please"
+        "type",
+        "name",
+        "key"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Admin shell: routes, page controller, access middleware, layout resolver",
-          "url": "https://github.com/ArtisanPack-UI/ecommerce-admin-livewire/issues/2",
-          "createdAt": "2026-09-30T14:49:23Z"
+          "label": "Feature Request: General / not a specific tool — Further tools inspired by TSPED ceddcozum (https://www.ceddcozum.com/) (the calculators already listed under that note are shipped)",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/149",
+          "createdAt": "2026-10-01T14:46:58Z"
         },
         {
           "source": "GitHub",
-          "label": "Add a reorderable list that works on Livewire 3",
-          "url": "https://github.com/ArtisanPack-UI/livewire-ui-components/issues/115",
-          "createdAt": "2026-09-30T14:45:57Z"
+          "label": "Feature Request: General / not a specific tool — Confirm every calculator copies a result with its references.",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/59",
+          "createdAt": "2026-10-01T14:45:07Z"
         },
         {
           "source": "GitHub",
-          "label": "Global hotkey: allow focusing a window from a portal hotkey on Wayland (activation_token, Deactivated)",
-          "url": "https://github.com/NucleusFramework/Nucleus/issues/739",
-          "createdAt": "2026-09-30T14:27:25Z"
+          "label": "Feature Request: General / not a specific tool — Move leftover footer notes into info tooltips.",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/58",
+          "createdAt": "2026-10-01T14:45:06Z"
         },
         {
           "source": "GitHub",
-          "label": "Improve smoothness of sync progress ring",
-          "url": "https://github.com/zodl-inc/zodl-android/issues/2539",
-          "createdAt": "2026-09-30T14:13:40Z"
+          "label": "Feature Request: General / not a specific tool — Show the calculation steps on every calculator.",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/57",
+          "createdAt": "2026-10-01T14:45:06Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Support for Composite Device Types in Generated Data Model",
-          "url": "https://github.com/espressif/esp-matter/issues/1871",
-          "createdAt": "2026-09-30T14:05:53Z"
+          "label": "Feature Request: General / not a specific tool — consider tools/ references inspired from TSPED's ceddcozum (https://www.ceddcozum.com/)",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/32",
+          "createdAt": "2026-10-01T14:44:35Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Bulk access to movie stream ids (M3UMovieRelation) via the VOD API",
-          "url": "https://github.com/Dispatcharr/Dispatcharr/issues/1766",
-          "createdAt": "2026-09-30T14:05:15Z"
+          "label": "Feature Request: General / not a specific tool — CHP-ENDO and CHOP-ENDO fellow binder docs",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/30",
+          "createdAt": "2026-10-01T14:44:34Z"
         },
         {
           "source": "GitHub",
-          "label": "[REQUEST] (macOS) Optional physical footprint column in the process list",
-          "url": "https://github.com/aristocratos/btop/issues/1871",
-          "createdAt": "2026-09-30T14:04:55Z"
+          "label": "Feature Request: Adrenals/ Sex Steroids — Add a Free Androgen Index calculator.",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/29",
+          "createdAt": "2026-10-01T14:44:33Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Print the runner ID and release tag in `protonplus list <launcher_id>`",
-          "url": "https://github.com/Vysp3r/ProtonPlus/issues/1313",
-          "createdAt": "2026-09-30T13:53:18Z"
+          "label": "Feature Request: Physical Exam Staging Guide — Add picture guides for Tanner and genital staging scores.",
+          "url": "https://github.com/doctor-dom/physis-calcs/issues/28",
+          "createdAt": "2026-10-01T14:44:33Z"
         }
       ]
     },
     {
-      "id": "emerging-like-uses-feature",
-      "title": "I'd like an example Vuu app that implements excel like functionality at the backend and uses Vuu as the rendering agent.",
-      "summary": "## Feature Request ### Description of Problem: I'd like to implement an excel-like system in Vuu, where I can specify values or formulas and then render the data in the table grids.",
-      "score": 50,
+      "id": "emerging-feature-request-related",
+      "title": "[Feature]: Music Assistant support",
+      "summary": "### Is your feature request related to a problem? not really ### Describe the solution you'd like Music Assistant support could include playing music from MA the same as any other music server, plus show your compatible Home Assistant devices in the same place as your Chromecast",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-09-30T14:50:03Z",
+      "requests": 3,
+      "latestSignal": "2026-10-01T14:47:55Z",
       "keywords": [
-        "like",
-        "uses",
         "feature",
         "request",
-        "description"
+        "related",
+        "problem",
+        "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "I'd like an example Vuu app that implements excel like functionality at the backend and uses Vuu as the rendering agent.",
-          "url": "https://github.com/finos/vuu/issues/2491",
-          "createdAt": "2026-09-30T14:50:03Z"
+          "label": "[Feature]: Music Assistant support",
+          "url": "https://github.com/PixelPlayerHQ/PixelPlayer/issues/2874",
+          "createdAt": "2026-10-01T14:47:55Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add Swagger UI for OpenAPI Documentation",
-          "url": "https://github.com/elm1nst3r/GHOST-osint-crm/issues/93",
-          "createdAt": "2026-09-30T05:57:53Z"
+          "label": "App shuffle when unlock phone - digital wellbeing initiative",
+          "url": "https://github.com/GeorgeClensy/Escape-Launcher/issues/189",
+          "createdAt": "2026-10-01T14:46:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
         }
       ]
     }
