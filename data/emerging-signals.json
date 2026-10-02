@@ -1,82 +1,87 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-01T15:27:15.079Z",
+  "generatedAt": "2026-10-02T14:44:25.921Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-type",
-      "title": "Feature Request: General / not a specific tool — Further tools inspired by TSPED ceddcozum (https://www.ceddcozum.com/) (the calculators already listed under that note are shipped)",
-      "summary": "### Type Feature request ### Tool - **Name:** General / not a specific tool - **Key:** `general` - **Path:** _(none / general)_ ### Synopsis Further tools inspired by TSPED ceddcozum (https://www.ceddcozum.com/) (the calculators already listed under that note are shipped) ### Con",
-      "score": 72,
+      "id": "emerging-request-there-feature",
+      "title": "request: Vite-style plugins and Nuxt-style `defineModule` instead of the class + symbol plugin structure",
+      "summary": "### Is there an existing issue or pull request for this? - [x] I have searched the existing issues and pull requests ### Feature description Replace the current plugin structure of `@wolfstar/http-framework` (an abstract `Plugin` class with symbol-keyed static hooks, registered t",
+      "score": 77,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 0
+        "volume": 33,
+        "engagement": 16
       },
-      "requests": 13,
-      "latestSignal": "2026-10-01T14:46:58Z",
+      "requests": 3,
+      "latestSignal": "2026-10-02T14:02:17Z",
       "keywords": [
-        "feature",
         "request",
-        "type",
-        "name",
-        "key"
+        "there",
+        "feature",
+        "existing",
+        "issue"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: General / not a specific tool — Further tools inspired by TSPED ceddcozum (https://www.ceddcozum.com/) (the calculators already listed under that note are shipped)",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/149",
-          "createdAt": "2026-10-01T14:46:58Z"
+          "label": "request: Vite-style plugins and Nuxt-style `defineModule` instead of the class + symbol plugin structure",
+          "url": "https://github.com/wolfstar-project/stars-components/issues/245",
+          "createdAt": "2026-10-02T14:02:17Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: General / not a specific tool — Confirm every calculator copies a result with its references.",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/59",
-          "createdAt": "2026-10-01T14:45:07Z"
+          "label": "Add a new \"Clipping Volume\" part type for arbitrary 3D mesh containment",
+          "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/16077",
+          "createdAt": "2026-10-02T12:35:07Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: General / not a specific tool — Move leftover footer notes into info tooltips.",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/58",
-          "createdAt": "2026-10-01T14:45:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: General / not a specific tool — Show the calculation steps on every calculator.",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/57",
-          "createdAt": "2026-10-01T14:45:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: General / not a specific tool — consider tools/ references inspired from TSPED's ceddcozum (https://www.ceddcozum.com/)",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/32",
-          "createdAt": "2026-10-01T14:44:35Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: General / not a specific tool — CHP-ENDO and CHOP-ENDO fellow binder docs",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/30",
-          "createdAt": "2026-10-01T14:44:34Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Adrenals/ Sex Steroids — Add a Free Androgen Index calculator.",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/29",
-          "createdAt": "2026-10-01T14:44:33Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Physical Exam Staging Guide — Add picture guides for Tanner and genital staging scores.",
-          "url": "https://github.com/doctor-dom/physis-calcs/issues/28",
-          "createdAt": "2026-10-01T14:44:33Z"
+          "label": "[FEAT] Filtered Messages Export",
+          "url": "https://github.com/Yeraze/meshmonitor/issues/5517",
+          "createdAt": "2026-10-02T12:11:29Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-related",
-      "title": "[Feature]: Music Assistant support",
-      "summary": "### Is your feature request related to a problem? not really ### Describe the solution you'd like Music Assistant support could include playing music from MA the same as any other music server, plus show your compatible Home Assistant devices in the same place as your Chromecast",
+      "id": "emerging-feature-searched-existing",
+      "title": "[Feature] Add a way to stop or pause media playing in other apps (Netflix, Emby, etc.) from Home Assistant",
+      "summary": "### Pre-flight checks - [x] I have searched the existing issues and found no duplicate - [x] This is a feature request, not a bug report ### The problem When I leave a room or run an \"everything off\" script in Home Assistant, I can only stop media that plays through Ava's own med",
+      "score": 64,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 14
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-02T13:46:18Z",
+      "keywords": [
+        "feature",
+        "searched",
+        "existing",
+        "issues",
+        "request"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature] Add a way to stop or pause media playing in other apps (Netflix, Emby, etc.) from Home Assistant",
+          "url": "https://github.com/knoop7/Ava-Pro/issues/242",
+          "createdAt": "2026-10-02T13:46:18Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Explicit ownership and sharing semantics for subagent learned memory",
+          "url": "https://github.com/langchain-ai/deepagents/issues/6729",
+          "createdAt": "2026-10-02T08:33:34Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-app",
+      "title": "[Feature Request] Support Simkl AUTH V2 sign-in",
+      "summary": "Hi! Could you add support for Simkl's new V2 login? Scrob currently uses the old PIN login, and Simkl is moving apps over to V2. It would be great to be able to connect with a V2 app. Thanks for all the work on Scrob!",
       "score": 61,
       "scoreComponents": {
         "base": 28,
@@ -84,27 +89,68 @@
         "engagement": 0
       },
       "requests": 3,
-      "latestSignal": "2026-10-01T14:47:55Z",
+      "latestSignal": "2026-10-02T14:38:40Z",
       "keywords": [
         "feature",
         "request",
-        "related",
-        "problem",
-        "describe"
+        "app",
+        "support",
+        "could"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature]: Music Assistant support",
-          "url": "https://github.com/PixelPlayerHQ/PixelPlayer/issues/2874",
-          "createdAt": "2026-10-01T14:47:55Z"
+          "label": "[Feature Request] Support Simkl AUTH V2 sign-in",
+          "url": "https://github.com/ellite/scrob/issues/455",
+          "createdAt": "2026-10-02T14:38:40Z"
         },
         {
           "source": "GitHub",
-          "label": "App shuffle when unlock phone - digital wellbeing initiative",
-          "url": "https://github.com/GeorgeClensy/Escape-Launcher/issues/189",
-          "createdAt": "2026-10-01T14:46:43Z"
+          "label": "Feature Request: Filter Saved Searches by Splunk App",
+          "url": "https://github.com/splunk/vscode-extension-splunk/issues/208",
+          "createdAt": "2026-10-02T14:24:17Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Android mTLS / client certificate support (e.g. Cloudflare)",
+          "url": "https://github.com/ericerkz/kept/issues/82",
+          "createdAt": "2026-10-02T14:20:44Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "[Feature] Configurable Version Filtering for \"gamelist.xml\" Export",
+      "summary": "**Is your feature request related to a problem? Please describe.** When maintaining a multi-version library the export gamelist.xml file becomes cluttered with multiple versions of the same game which, when viewed from front-ends such as ES-DE, shows duplicate games. Due to the \"",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-02T14:37:31Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature] Configurable Version Filtering for \"gamelist.xml\" Export",
+          "url": "https://github.com/rommapp/romm/issues/5034",
+          "createdAt": "2026-10-02T14:37:31Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Re-open windows and documents in the same virtual desktop as it was when closing",
+          "url": "https://github.com/sumatrapdfreader/sumatrapdf/issues/6271",
+          "createdAt": "2026-10-02T14:02:19Z"
         },
         {
           "source": "GitHub",
