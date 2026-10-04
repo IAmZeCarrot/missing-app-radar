@@ -1,45 +1,63 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-03T13:22:59.969Z",
+  "generatedAt": "2026-10-04T14:04:51.696Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "It will be much better *",
-      "summary": "### Stremio Platform Android TV ### Is your feature request related to a problem? Kind of ### Describe the feature you'd like Please; * On most Google TV boxes, we have to press the buttons one by one(for just 5 seconds, 50 times), and I’m absolutely certain no one needs subtitle",
-      "score": 83,
+      "id": "emerging-describe-feature-request",
+      "title": "feat: Make PWA theme-color configurable or default to neutral theme background",
+      "summary": "### Describe the feature you'd like to request ### Is your feature request related to a problem? Please describe. When installing Homarr as a Chrome/Edge PWA on desktop, the title bar of the standalone app window is forced to a red/orange accent color, starting with V2! <img widt",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 7
       },
-      "requests": 4,
-      "latestSignal": "2026-10-03T13:20:19Z",
+      "requests": 7,
+      "latestSignal": "2026-10-04T13:39:32Z",
       "keywords": [
+        "describe",
         "feature",
         "request",
         "related",
-        "problem",
-        "describe"
+        "problem"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "It will be much better *",
-          "url": "https://github.com/Stremio/stremio-features/issues/1924",
-          "createdAt": "2026-10-03T13:20:19Z"
+          "label": "feat: Make PWA theme-color configurable or default to neutral theme background",
+          "url": "https://github.com/homarr-labs/homarr/issues/7041",
+          "createdAt": "2026-10-04T13:39:32Z"
         },
         {
           "source": "GitHub",
-          "label": "Tools for exact recipes should display those",
-          "url": "https://github.com/CleverRaven/Cataclysm-DDA/issues/88894",
-          "createdAt": "2026-10-03T09:26:22Z"
+          "label": "Consider solar export value when scheduling EV charging",
+          "url": "https://github.com/springfall2008/batpred/issues/5384",
+          "createdAt": "2026-10-04T13:39:14Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Option to include the mouse cursor in `winapp ui record`",
-          "url": "https://github.com/microsoft/winappCli/issues/968",
-          "createdAt": "2026-10-02T20:11:02Z"
+          "label": "Creating a scope copies the whole pointer table, so `ProviderScope` costs O(providers in the app) rather than O(overrides)",
+          "url": "https://github.com/rrousselGit/riverpod/issues/4909",
+          "createdAt": "2026-10-04T13:32:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Web: option to hide popularity numbers (counts, followers)",
+          "url": "https://github.com/AlohaSocial/social/issues/2464",
+          "createdAt": "2026-10-04T13:10:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Web: notification policy settings and muting a conversation",
+          "url": "https://github.com/AlohaSocial/social/issues/2463",
+          "createdAt": "2026-10-04T13:10:23Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Notification digests at times the user chooses",
+          "url": "https://github.com/AlohaSocial/social/issues/2462",
+          "createdAt": "2026-10-04T13:10:22Z"
         },
         {
           "source": "GitHub",
@@ -50,62 +68,9 @@
       ]
     },
     {
-      "id": "emerging-searched-existing-not",
-      "title": "Crash when signal tries to open the biometric prompt while in a call",
-      "summary": "### Guidelines - [x] I have searched open and closed issues for duplicates - [x] I am submitting a bug report for existing functionality that does not work as intended - [x] This isn't a feature request or a discussion topic ### Bug description I was in a call, and 2 times, signa",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 0
-      },
-      "requests": 5,
-      "latestSignal": "2026-10-03T12:56:00Z",
-      "keywords": [
-        "searched",
-        "existing",
-        "not",
-        "feature",
-        "request"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Crash when signal tries to open the biometric prompt while in a call",
-          "url": "https://github.com/signalapp/Signal-Android/issues/15046",
-          "createdAt": "2026-10-03T12:56:00Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] Automix / Beat-matched DJ-style transitions",
-          "url": "https://github.com/namidaco/namida/issues/1273",
-          "createdAt": "2026-10-03T12:46:37Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Issue templates: a \"Claude desktop app\" option for the bug report's Terminal/Shell field",
-          "url": "https://github.com/anthropics/claude-code/issues/99222",
-          "createdAt": "2026-10-03T12:40:02Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Desktop: file upload in the in-app Browser (parity with Claude in Chrome's file_upload)",
-          "url": "https://github.com/anthropics/claude-code/issues/99219",
-          "createdAt": "2026-10-03T12:33:18Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Projects (beta): Support first-class Local Claude Code sessions as project threads",
-          "url": "https://github.com/anthropics/claude-code/issues/99156",
-          "createdAt": "2026-10-03T06:01:15Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-readings-two-shadowing",
-      "title": "Readings: what a folded context handoff still contains (two shadowing shapes + three measurements)",
-      "summary": "**What this is**: readings from a live dsh deployment (one machine, measured 2026-10-03) about *what compaction folding actually keeps*. Not a bug report, not a feature request. Your plugin explicitly delegates retrieval to the official history tools, so you are already on the \"c",
+      "id": "emerging-feature-existing-request",
+      "title": "[Feature]: Improvements to the regular Youtube viewing (More parity with regular mobile app.)",
+      "summary": "### Is there an existing feature request for this? - [x] I have searched the existing issues ### Problem or Motivation This app is great on its level of integration and consistency with the existing macOS style. However it is missing a few key features I regularly use when viewin",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -113,27 +78,97 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-03T07:05:22Z",
+      "latestSignal": "2026-10-04T13:44:14Z",
       "keywords": [
-        "readings",
-        "two",
-        "shadowing",
-        "shapes",
-        "three"
+        "feature",
+        "existing",
+        "request",
+        "searched",
+        "problem"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Readings: what a folded context handoff still contains (two shadowing shapes + three measurements)",
-          "url": "https://github.com/knighthongyu/dsh-handoff-compaction/issues/1",
-          "createdAt": "2026-10-03T07:05:22Z"
+          "label": "[Feature]: Improvements to the regular Youtube viewing (More parity with regular mobile app.)",
+          "url": "https://github.com/sozercan/kaset/issues/529",
+          "createdAt": "2026-10-04T13:44:14Z"
         },
         {
           "source": "GitHub",
-          "label": "Readings: what compaction folding leaves behind (two shadowing shapes + three measurements)",
-          "url": "https://github.com/JanEickholt/dsh-asc/issues/1",
-          "createdAt": "2026-10-03T07:05:13Z"
+          "label": "[FEATURE] Allow path exclusions for bashEditDiff",
+          "url": "https://github.com/anthropics/claude-code/issues/99342",
+          "createdAt": "2026-10-03T23:21:34Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-before",
+      "title": "[Feature Request] Local Wi-Fi sync and APK sharing between devices",
+      "summary": "### Please check before submitting - [x] I have read [`CONTRIBUTING.md`](https://github.com/SysAdminDoc/AppManagerNG/blob/main/CONTRIBUTING.md) and the relevant sections of the [`ROADMAP.md`](https://github.com/SysAdminDoc/AppManagerNG/blob/main/ROADMAP.md). - [x] I have searched",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-04T13:27:20Z",
+      "keywords": [
+        "feature",
+        "request",
+        "before",
+        "read",
+        "contributing"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Local Wi-Fi sync and APK sharing between devices",
+          "url": "https://github.com/SysAdminDoc/AppManagerNG/issues/22",
+          "createdAt": "2026-10-04T13:27:20Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Support for Google My Maps & Custom List URLs",
+          "url": "https://github.com/PimpinPumpkin/Vela/issues/669",
+          "createdAt": "2026-10-04T13:21:31Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-complies",
+      "title": "Feature Request: Support iOS/iPadOS platform and target for App Store release (Static Recompilation fully complies with Apple's No-JIT policy)",
+      "summary": "### Problem or use case ### Description First of all, thank you so much for this amazing project! Yakumo's static recompilation approach is a game-changer for Monster Hunter Portable 3rd HD. I would like to request adding support for the **iOS/iPadOS** platform, with the ultimate",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-04T13:22:48Z",
+      "keywords": [
+        "feature",
+        "request",
+        "complies",
+        "policy",
+        "problem"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Support iOS/iPadOS platform and target for App Store release (Static Recompilation fully complies with Apple's No-JIT policy)",
+          "url": "https://github.com/TeamGDB/Yakumo/issues/274",
+          "createdAt": "2026-10-04T13:22:48Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Committed Grammar Rules for Incomplete Constructs",
+          "url": "https://github.com/tree-sitter/tree-sitter/issues/6002",
+          "createdAt": "2026-10-03T23:02:48Z"
         }
       ]
     }

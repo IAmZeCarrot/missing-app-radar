@@ -1233,6 +1233,34 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-04",
+      "clusters": 4,
+      "requests": 13,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-describe-feature-request",
+          "score": 79,
+          "requests": 7
+        },
+        {
+          "id": "emerging-feature-existing-request",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-before",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-complies",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
