@@ -1,174 +1,110 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-04T14:04:51.696Z",
+  "generatedAt": "2026-10-05T17:08:34.843Z",
   "clusters": [
     {
-      "id": "emerging-describe-feature-request",
-      "title": "feat: Make PWA theme-color configurable or default to neutral theme background",
-      "summary": "### Describe the feature you'd like to request ### Is your feature request related to a problem? Please describe. When installing Homarr as a Chrome/Edge PWA on desktop, the title bar of the standalone app window is forced to a red/orange accent color, starting with V2! <img widt",
-      "score": 79,
+      "id": "emerging-feature-request-problem",
+      "title": "feature request: disabling action if screen is locked",
+      "summary": "Add an option to disable launching app or Activing action if screen is locked",
+      "score": 88,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 16
       },
-      "requests": 7,
-      "latestSignal": "2026-10-04T13:39:32Z",
+      "requests": 12,
+      "latestSignal": "2026-10-05T16:57:43Z",
       "keywords": [
-        "describe",
         "feature",
         "request",
-        "related",
-        "problem"
+        "problem",
+        "add",
+        "app"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "feat: Make PWA theme-color configurable or default to neutral theme background",
-          "url": "https://github.com/homarr-labs/homarr/issues/7041",
-          "createdAt": "2026-10-04T13:39:32Z"
+          "label": "feature request: disabling action if screen is locked",
+          "url": "https://github.com/KoukeNeko/EssentialKeyTools/issues/9",
+          "createdAt": "2026-10-05T16:57:43Z"
         },
         {
           "source": "GitHub",
-          "label": "Consider solar export value when scheduling EV charging",
-          "url": "https://github.com/springfall2008/batpred/issues/5384",
-          "createdAt": "2026-10-04T13:39:14Z"
+          "label": "[Feature Request] Option to disable startup logo / splash screen for instant app launch",
+          "url": "https://github.com/MorpheApp/morphe-patches/issues/3538",
+          "createdAt": "2026-10-05T16:53:21Z"
         },
         {
           "source": "GitHub",
-          "label": "Creating a scope copies the whole pointer table, so `ProviderScope` costs O(providers in the app) rather than O(overrides)",
-          "url": "https://github.com/rrousselGit/riverpod/issues/4909",
-          "createdAt": "2026-10-04T13:32:53Z"
+          "label": "VS Code: Add persistent dismissal for advisory CodeLens",
+          "url": "https://github.com/microsoft/aspire/issues/20739",
+          "createdAt": "2026-10-05T16:44:50Z"
         },
         {
           "source": "GitHub",
-          "label": "Web: option to hide popularity numbers (counts, followers)",
-          "url": "https://github.com/AlohaSocial/social/issues/2464",
-          "createdAt": "2026-10-04T13:10:25Z"
+          "label": "Feature request: Include figures in `project.zip`",
+          "url": "https://github.com/maehr/simple-topic-modeling/issues/50",
+          "createdAt": "2026-10-05T16:20:46Z"
         },
         {
           "source": "GitHub",
-          "label": "Web: notification policy settings and muting a conversation",
-          "url": "https://github.com/AlohaSocial/social/issues/2463",
-          "createdAt": "2026-10-04T13:10:23Z"
+          "label": "[Feature]: Persist Team membership for existing Harness Sessions",
+          "url": "https://github.com/agentscope-ai/agentscope-java/issues/3424",
+          "createdAt": "2026-10-05T16:16:41Z"
         },
         {
           "source": "GitHub",
-          "label": "Notification digests at times the user chooses",
-          "url": "https://github.com/AlohaSocial/social/issues/2462",
-          "createdAt": "2026-10-04T13:10:22Z"
+          "label": "req: Add support for custom fonts",
+          "url": "https://github.com/AlanHuang99/Voyager/issues/128",
+          "createdAt": "2026-10-05T16:14:49Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "[FEATURE] Expose limit-reset grant metadata in `statusline` JSON (read-only)",
+          "url": "https://github.com/anthropics/claude-code/issues/99699",
+          "createdAt": "2026-10-05T15:09:51Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "feature request: Is it possible to implement a progress bar for the feature extraction?",
+          "url": "https://github.com/mmmaurer/elfen/issues/28",
+          "createdAt": "2026-10-05T09:52:39Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-existing-request",
-      "title": "[Feature]: Improvements to the regular Youtube viewing (More parity with regular mobile app.)",
-      "summary": "### Is there an existing feature request for this? - [x] I have searched the existing issues ### Problem or Motivation This app is great on its level of integration and consistency with the existing macOS style. However it is missing a few key features I regularly use when viewin",
-      "score": 50,
+      "id": "emerging-feature-request-commands",
+      "title": "[Feature Request] Add native OMP ACP support, slash commands and GUI components",
+      "summary": "### Affected area Agent runtime / ACP; Desktop app; CLI / daemon. ### Problem or workflow pressure Users of a local Oh My Pi installation cannot select it in Lody's registry picker. Native ACP command lists can arrive after session creation and were discarded by capability probin",
+      "score": 64,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 14
       },
       "requests": 2,
-      "latestSignal": "2026-10-04T13:44:14Z",
+      "latestSignal": "2026-10-05T16:04:37Z",
       "keywords": [
         "feature",
-        "existing",
         "request",
-        "searched",
-        "problem"
+        "commands",
+        "cli",
+        "command"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature]: Improvements to the regular Youtube viewing (More parity with regular mobile app.)",
-          "url": "https://github.com/sozercan/kaset/issues/529",
-          "createdAt": "2026-10-04T13:44:14Z"
+          "label": "[Feature Request] Add native OMP ACP support, slash commands and GUI components",
+          "url": "https://github.com/LodyAI/Lody/issues/1264",
+          "createdAt": "2026-10-05T16:04:37Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Allow path exclusions for bashEditDiff",
-          "url": "https://github.com/anthropics/claude-code/issues/99342",
-          "createdAt": "2026-10-03T23:21:34Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-before",
-      "title": "[Feature Request] Local Wi-Fi sync and APK sharing between devices",
-      "summary": "### Please check before submitting - [x] I have read [`CONTRIBUTING.md`](https://github.com/SysAdminDoc/AppManagerNG/blob/main/CONTRIBUTING.md) and the relevant sections of the [`ROADMAP.md`](https://github.com/SysAdminDoc/AppManagerNG/blob/main/ROADMAP.md). - [x] I have searched",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-04T13:27:20Z",
-      "keywords": [
-        "feature",
-        "request",
-        "before",
-        "read",
-        "contributing"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Local Wi-Fi sync and APK sharing between devices",
-          "url": "https://github.com/SysAdminDoc/AppManagerNG/issues/22",
-          "createdAt": "2026-10-04T13:27:20Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Support for Google My Maps & Custom List URLs",
-          "url": "https://github.com/PimpinPumpkin/Vela/issues/669",
-          "createdAt": "2026-10-04T13:21:31Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-complies",
-      "title": "Feature Request: Support iOS/iPadOS platform and target for App Store release (Static Recompilation fully complies with Apple's No-JIT policy)",
-      "summary": "### Problem or use case ### Description First of all, thank you so much for this amazing project! Yakumo's static recompilation approach is a game-changer for Monster Hunter Portable 3rd HD. I would like to request adding support for the **iOS/iPadOS** platform, with the ultimate",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-04T13:22:48Z",
-      "keywords": [
-        "feature",
-        "request",
-        "complies",
-        "policy",
-        "problem"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Support iOS/iPadOS platform and target for App Store release (Static Recompilation fully complies with Apple's No-JIT policy)",
-          "url": "https://github.com/TeamGDB/Yakumo/issues/274",
-          "createdAt": "2026-10-04T13:22:48Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Committed Grammar Rules for Incomplete Constructs",
-          "url": "https://github.com/tree-sitter/tree-sitter/issues/6002",
-          "createdAt": "2026-10-03T23:02:48Z"
+          "label": "[FEATURE]: /copy command copies the entire conversation, including thinking process and executed commands",
+          "url": "https://github.com/anomalyco/opencode/issues/53301",
+          "createdAt": "2026-10-05T07:30:10Z"
         }
       ]
     }
