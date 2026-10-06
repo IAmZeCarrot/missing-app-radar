@@ -1,110 +1,169 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-05T17:08:34.843Z",
+  "generatedAt": "2026-10-06T15:12:13.656Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "feature request: disabling action if screen is locked",
-      "summary": "Add an option to disable launching app or Activing action if screen is locked",
-      "score": 88,
+      "id": "emerging-feature-request-there",
+      "title": "Document app log APIs",
+      "summary": "### Is there an existing issue for this? - [x] I have searched the existing issues ### Proposed feature request The [app log documentation](https://developer.repebble.com/docs/c/Foundation/Logging) is pretty light on details. In particular, I noticed several things while [adding",
+      "score": 90,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 16
+        "engagement": 18
       },
-      "requests": 12,
-      "latestSignal": "2026-10-05T16:57:43Z",
+      "requests": 7,
+      "latestSignal": "2026-10-06T14:56:06Z",
       "keywords": [
         "feature",
         "request",
-        "problem",
-        "add",
-        "app"
+        "there",
+        "app",
+        "existing"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "feature request: disabling action if screen is locked",
-          "url": "https://github.com/KoukeNeko/EssentialKeyTools/issues/9",
-          "createdAt": "2026-10-05T16:57:43Z"
+          "label": "Document app log APIs",
+          "url": "https://github.com/coredevices/PebbleOS/issues/2302",
+          "createdAt": "2026-10-06T14:56:06Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Option to disable startup logo / splash screen for instant app launch",
-          "url": "https://github.com/MorpheApp/morphe-patches/issues/3538",
-          "createdAt": "2026-10-05T16:53:21Z"
+          "label": "[FEATURE] Show where each session is stored (cloud vs. local-only) in the desktop app sidebar",
+          "url": "https://github.com/anthropics/claude-code/issues/99953",
+          "createdAt": "2026-10-06T14:47:10Z"
         },
         {
           "source": "GitHub",
-          "label": "VS Code: Add persistent dismissal for advisory CodeLens",
-          "url": "https://github.com/microsoft/aspire/issues/20739",
-          "createdAt": "2026-10-05T16:44:50Z"
+          "label": "[FEATURE REQUEST] Web Now Playing support for windows",
+          "url": "https://github.com/namidaco/namida/issues/1286",
+          "createdAt": "2026-10-06T14:43:20Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Include figures in `project.zip`",
-          "url": "https://github.com/maehr/simple-topic-modeling/issues/50",
-          "createdAt": "2026-10-05T16:20:46Z"
+          "label": "Feature request: native GitHub OAuth/SSO login support",
+          "url": "https://github.com/goharbor/harbor/issues/24067",
+          "createdAt": "2026-10-06T14:35:13Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Persist Team membership for existing Harness Sessions",
-          "url": "https://github.com/agentscope-ai/agentscope-java/issues/3424",
-          "createdAt": "2026-10-05T16:16:41Z"
+          "label": "[ Feature Request ] View Only / View & Download Permissions for Shared Files",
+          "url": "https://github.com/projectsend/projectsend/issues/1811",
+          "createdAt": "2026-10-06T10:23:04Z"
         },
         {
           "source": "GitHub",
-          "label": "req: Add support for custom fonts",
-          "url": "https://github.com/AlanHuang99/Voyager/issues/128",
-          "createdAt": "2026-10-05T16:14:49Z"
+          "label": "[Feature]: Edit user-defined frontmatter fields (whole-file external editing or a properties editor)",
+          "url": "https://github.com/reekta92/clin-rs/issues/181",
+          "createdAt": "2026-10-06T09:02:42Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Expose limit-reset grant metadata in `statusline` JSON (read-only)",
-          "url": "https://github.com/anthropics/claude-code/issues/99699",
-          "createdAt": "2026-10-05T15:09:51Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "feature request: Is it possible to implement a progress bar for the feature extraction?",
-          "url": "https://github.com/mmmaurer/elfen/issues/28",
-          "createdAt": "2026-10-05T09:52:39Z"
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-commands",
-      "title": "[Feature Request] Add native OMP ACP support, slash commands and GUI components",
-      "summary": "### Affected area Agent runtime / ACP; Desktop app; CLI / daemon. ### Problem or workflow pressure Users of a local Oh My Pi installation cannot select it in Lody's registry picker. Native ACP command lists can arrive after session creation and were discarded by capability probin",
-      "score": 64,
+      "id": "emerging-feature-request-describe",
+      "title": "[Feature Request]: Add Borderless Transparent Window with Mouse Passthrough (Click-through)",
+      "summary": "Hello! I have a critical quality-of-life feature request for desktop stream setups, especially for users who play games on a single monitor or don't want to use heavy OBS Game Capture hooks. **Describe the solution you'd like** It would be amazing to have an option for a **Border",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 14
+        "volume": 44,
+        "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-10-05T16:04:37Z",
+      "requests": 7,
+      "latestSignal": "2026-10-06T14:46:26Z",
       "keywords": [
         "feature",
         "request",
-        "commands",
-        "cli",
-        "command"
+        "describe",
+        "related",
+        "problem"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add native OMP ACP support, slash commands and GUI components",
-          "url": "https://github.com/LodyAI/Lody/issues/1264",
-          "createdAt": "2026-10-05T16:04:37Z"
+          "label": "[Feature Request]: Add Borderless Transparent Window with Mouse Passthrough (Click-through)",
+          "url": "https://github.com/MudkipWorld/PNGTuber-Remix/issues/139",
+          "createdAt": "2026-10-06T14:46:26Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE]: /copy command copies the entire conversation, including thinking process and executed commands",
-          "url": "https://github.com/anomalyco/opencode/issues/53301",
-          "createdAt": "2026-10-05T07:30:10Z"
+          "label": "TTS using Android built-in engine",
+          "url": "https://github.com/max-kammerer/orion-viewer/issues/229",
+          "createdAt": "2026-10-06T14:41:56Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Integrate libprojectM/MilkDrop as a dynamic texture mask for eyes/mouth",
+          "url": "https://github.com/MudkipWorld/PNGTuber-Remix/issues/138",
+          "createdAt": "2026-10-06T14:41:30Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Logs - Services",
+          "url": "https://github.com/Probesys/agentj/issues/683",
+          "createdAt": "2026-10-06T14:32:02Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Logs - Application and audit",
+          "url": "https://github.com/Probesys/agentj/issues/682",
+          "createdAt": "2026-10-06T14:26:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Activity viewer: show file changes with details of what changed and who made them",
+          "url": "https://github.com/gtsteffaniak/filebrowser/issues/3087",
+          "createdAt": "2026-10-06T12:02:04Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-support-agents",
+      "title": "[Feature] Support remote agents via A2A protocol",
+      "summary": "### Problem or use case # Feature request: Support remote agents via A2A protocol ## Motivation Omnigent currently provides a great abstraction over locally managed agent harnesses such as Claude Code, Codex, and others. However, in an enterprise environment we also have agents t",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-06T09:15:43Z",
+      "keywords": [
+        "feature",
+        "support",
+        "agents",
+        "request",
+        "great"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature] Support remote agents via A2A protocol",
+          "url": "https://github.com/omnigent-ai/omnigent/issues/9256",
+          "createdAt": "2026-10-06T09:15:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Support Multiple AI Agents Working in Parallel",
+          "url": "https://github.com/paralov/app-bloxbot-ai/issues/128",
+          "createdAt": "2026-10-06T07:27:16Z"
         }
       ]
     }
