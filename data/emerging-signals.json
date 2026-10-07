@@ -1,169 +1,151 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-06T15:12:13.656Z",
+  "generatedAt": "2026-10-07T15:33:15.804Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-there",
-      "title": "Document app log APIs",
-      "summary": "### Is there an existing issue for this? - [x] I have searched the existing issues ### Proposed feature request The [app log documentation](https://developer.repebble.com/docs/c/Foundation/Logging) is pretty light on details. In particular, I noticed several things while [adding",
-      "score": 90,
+      "id": "emerging-request-feature-not",
+      "title": "打包成与Linux发行版无关的AppImage格式，并提交到AM库中。",
+      "summary": "### Request type - [x] I confirm that this is a feature request, not a bug report. ### Description AppImage 格式与Linux发行版无关，可以下载直接运行，很方便。 https://github.com/ivan-hc/AM 是最流行的AppImage仓库管理工具， 可以通过am （系统级）或者 appman（用户级）工具来管理AppImage, repo里面有近8000种App。 可以通过命令行，或者GUI工具，直接从仓库里安装和升级。 fork这",
+      "score": 86,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 18
+        "engagement": 14
       },
-      "requests": 7,
-      "latestSignal": "2026-10-06T14:56:06Z",
+      "requests": 6,
+      "latestSignal": "2026-10-07T15:27:24Z",
       "keywords": [
-        "feature",
         "request",
-        "there",
-        "app",
-        "existing"
+        "feature",
+        "not",
+        "bug",
+        "report"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Document app log APIs",
-          "url": "https://github.com/coredevices/PebbleOS/issues/2302",
-          "createdAt": "2026-10-06T14:56:06Z"
+          "label": "打包成与Linux发行版无关的AppImage格式，并提交到AM库中。",
+          "url": "https://github.com/tsukinaha/tsukimi/issues/790",
+          "createdAt": "2026-10-07T15:27:24Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Show where each session is stored (cloud vs. local-only) in the desktop app sidebar",
-          "url": "https://github.com/anthropics/claude-code/issues/99953",
-          "createdAt": "2026-10-06T14:47:10Z"
+          "label": "[Feature Request] TTS QoL",
+          "url": "https://github.com/sak96/read_later/issues/19",
+          "createdAt": "2026-10-07T15:00:07Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE REQUEST] Web Now Playing support for windows",
-          "url": "https://github.com/namidaco/namida/issues/1286",
-          "createdAt": "2026-10-06T14:43:20Z"
+          "label": "feature request: TTS QOL",
+          "url": "https://github.com/Aryan-Raj3112/episteme/issues/550",
+          "createdAt": "2026-10-07T14:47:02Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: native GitHub OAuth/SSO login support",
-          "url": "https://github.com/goharbor/harbor/issues/24067",
-          "createdAt": "2026-10-06T14:35:13Z"
+          "label": "Add issue templates: bug report and feature request",
+          "url": "https://github.com/GINNOV/betterBCool/issues/3",
+          "createdAt": "2026-10-07T14:42:51Z"
         },
         {
           "source": "GitHub",
-          "label": "[ Feature Request ] View Only / View & Download Permissions for Shared Files",
-          "url": "https://github.com/projectsend/projectsend/issues/1811",
-          "createdAt": "2026-10-06T10:23:04Z"
+          "label": "Nano shows \"unknown sequence\" intermittently in herdr",
+          "url": "https://github.com/herdrdev/herdr/issues/5051",
+          "createdAt": "2026-10-07T14:29:08Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Edit user-defined frontmatter fields (whole-file external editing or a properties editor)",
-          "url": "https://github.com/reekta92/clin-rs/issues/181",
-          "createdAt": "2026-10-06T09:02:42Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/Cuzeth/Rapid-Serial-Visual-Presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
+          "label": "Identify Bazel-generated fallback JUnit XML and distinguish timeout failures",
+          "url": "https://github.com/bazelbuild/bazel/issues/31591",
+          "createdAt": "2026-10-07T09:02:35Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-describe",
-      "title": "[Feature Request]: Add Borderless Transparent Window with Mouse Passthrough (Click-through)",
-      "summary": "Hello! I have a critical quality-of-life feature request for desktop stream setups, especially for users who play games on a single monitor or don't want to use heavy OBS Game Capture hooks. **Describe the solution you'd like** It would be amazing to have an option for a **Border",
+      "id": "emerging-feature-searched-existing",
+      "title": "[Feature] Offer to run the session on the machine that hosts a network-mounted working folder",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement #",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 11
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-07T15:16:37Z",
+      "keywords": [
+        "feature",
+        "searched",
+        "existing",
+        "request",
+        "been"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature] Offer to run the session on the machine that hosts a network-mounted working folder",
+          "url": "https://github.com/anthropics/claude-code/issues/100245",
+          "createdAt": "2026-10-07T15:16:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature]: Flow Web and Flow Server",
+          "url": "https://github.com/A-EDev/Flow/issues/1249",
+          "createdAt": "2026-10-07T14:44:47Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] am_net function GetRightsOnlyTicketData and svc 0x70 ControlProcessMemory support",
+          "url": "https://github.com/azahar-emu/azahar/issues/2643",
+          "createdAt": "2026-10-07T09:58:33Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "Add playback controls to the Dock context menu",
+      "summary": "**Is your feature request related to a problem? Please describe.** When Submariner is playing music in the background, I'd like to control playback by right-clicking its Dock icon without bringing the main window forward. Currently, the Dock menu has no playback controls. The key",
       "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
         "engagement": 0
       },
-      "requests": 7,
-      "latestSignal": "2026-10-06T14:46:26Z",
+      "requests": 4,
+      "latestSignal": "2026-10-07T14:32:38Z",
       "keywords": [
         "feature",
         "request",
-        "describe",
         "related",
-        "problem"
+        "problem",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Add Borderless Transparent Window with Mouse Passthrough (Click-through)",
-          "url": "https://github.com/MudkipWorld/PNGTuber-Remix/issues/139",
-          "createdAt": "2026-10-06T14:46:26Z"
+          "label": "Add playback controls to the Dock context menu",
+          "url": "https://github.com/SubmarinerApp/Submariner/issues/254",
+          "createdAt": "2026-10-07T14:32:38Z"
         },
         {
           "source": "GitHub",
-          "label": "TTS using Android built-in engine",
-          "url": "https://github.com/max-kammerer/orion-viewer/issues/229",
-          "createdAt": "2026-10-06T14:41:56Z"
+          "label": "Select ZIndex cache by file presence, not GENPRES_PROD",
+          "url": "https://github.com/informedica/GenPRES/issues/1347",
+          "createdAt": "2026-10-07T14:24:42Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Integrate libprojectM/MilkDrop as a dynamic texture mask for eyes/mouth",
-          "url": "https://github.com/MudkipWorld/PNGTuber-Remix/issues/138",
-          "createdAt": "2026-10-06T14:41:30Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Logs - Services",
-          "url": "https://github.com/Probesys/agentj/issues/683",
-          "createdAt": "2026-10-06T14:32:02Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Logs - Application and audit",
-          "url": "https://github.com/Probesys/agentj/issues/682",
-          "createdAt": "2026-10-06T14:26:25Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Activity viewer: show file changes with details of what changed and who made them",
-          "url": "https://github.com/gtsteffaniak/filebrowser/issues/3087",
-          "createdAt": "2026-10-06T12:02:04Z"
+          "label": "Add Time scale to CPU/GPU graphs",
+          "url": "https://github.com/aristocratos/btop/issues/1884",
+          "createdAt": "2026-10-07T11:06:02Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-support-agents",
-      "title": "[Feature] Support remote agents via A2A protocol",
-      "summary": "### Problem or use case # Feature request: Support remote agents via A2A protocol ## Motivation Omnigent currently provides a great abstraction over locally managed agent harnesses such as Claude Code, Codex, and others. However, in an enterprise environment we also have agents t",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-06T09:15:43Z",
-      "keywords": [
-        "feature",
-        "support",
-        "agents",
-        "request",
-        "great"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature] Support remote agents via A2A protocol",
-          "url": "https://github.com/omnigent-ai/omnigent/issues/9256",
-          "createdAt": "2026-10-06T09:15:43Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Support Multiple AI Agents Working in Parallel",
-          "url": "https://github.com/paralov/app-bloxbot-ai/issues/128",
-          "createdAt": "2026-10-06T07:27:16Z"
         }
       ]
     }
