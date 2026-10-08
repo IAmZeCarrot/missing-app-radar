@@ -1,119 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-07T15:33:15.804Z",
+  "generatedAt": "2026-10-08T15:36:51.297Z",
   "clusters": [
     {
-      "id": "emerging-request-feature-not",
-      "title": "打包成与Linux发行版无关的AppImage格式，并提交到AM库中。",
-      "summary": "### Request type - [x] I confirm that this is a feature request, not a bug report. ### Description AppImage 格式与Linux发行版无关，可以下载直接运行，很方便。 https://github.com/ivan-hc/AM 是最流行的AppImage仓库管理工具， 可以通过am （系统级）或者 appman（用户级）工具来管理AppImage, repo里面有近8000种App。 可以通过命令行，或者GUI工具，直接从仓库里安装和升级。 fork这",
-      "score": 86,
+      "id": "emerging-feature-request-related",
+      "title": "Feature Request: Column formats for custom charts, progress colour bands, and a link column kind",
+      "summary": "**Is your feature request related to a problem? Please describe.** We embed drizzle-cube dashboards in our product. Next to the built-in Records Table, we register our own records table chart through `customCharts`. It adds pivot columns, computed columns and row filters. We want",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 14
-      },
-      "requests": 6,
-      "latestSignal": "2026-10-07T15:27:24Z",
-      "keywords": [
-        "request",
-        "feature",
-        "not",
-        "bug",
-        "report"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "打包成与Linux发行版无关的AppImage格式，并提交到AM库中。",
-          "url": "https://github.com/tsukinaha/tsukimi/issues/790",
-          "createdAt": "2026-10-07T15:27:24Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] TTS QoL",
-          "url": "https://github.com/sak96/read_later/issues/19",
-          "createdAt": "2026-10-07T15:00:07Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "feature request: TTS QOL",
-          "url": "https://github.com/Aryan-Raj3112/episteme/issues/550",
-          "createdAt": "2026-10-07T14:47:02Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add issue templates: bug report and feature request",
-          "url": "https://github.com/GINNOV/betterBCool/issues/3",
-          "createdAt": "2026-10-07T14:42:51Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Nano shows \"unknown sequence\" intermittently in herdr",
-          "url": "https://github.com/herdrdev/herdr/issues/5051",
-          "createdAt": "2026-10-07T14:29:08Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Identify Bazel-generated fallback JUnit XML and distinguish timeout failures",
-          "url": "https://github.com/bazelbuild/bazel/issues/31591",
-          "createdAt": "2026-10-07T09:02:35Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-searched-existing",
-      "title": "[Feature] Offer to run the session on the machine that hosts a network-mounted working folder",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement #",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
         "engagement": 11
       },
-      "requests": 3,
-      "latestSignal": "2026-10-07T15:16:37Z",
-      "keywords": [
-        "feature",
-        "searched",
-        "existing",
-        "request",
-        "been"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature] Offer to run the session on the machine that hosts a network-mounted working folder",
-          "url": "https://github.com/anthropics/claude-code/issues/100245",
-          "createdAt": "2026-10-07T15:16:37Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature]: Flow Web and Flow Server",
-          "url": "https://github.com/A-EDev/Flow/issues/1249",
-          "createdAt": "2026-10-07T14:44:47Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] am_net function GetRightsOnlyTicketData and svc 0x70 ControlProcessMemory support",
-          "url": "https://github.com/azahar-emu/azahar/issues/2643",
-          "createdAt": "2026-10-07T09:58:33Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "Add playback controls to the Dock context menu",
-      "summary": "**Is your feature request related to a problem? Please describe.** When Submariner is playing music in the background, I'd like to control playback by right-clicking its Dock icon without bringing the main window forward. Currently, the Dock menu has no playback controls. The key",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 0
-      },
       "requests": 4,
-      "latestSignal": "2026-10-07T14:32:38Z",
+      "latestSignal": "2026-10-08T15:20:38Z",
       "keywords": [
         "feature",
         "request",
@@ -125,27 +25,144 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Add playback controls to the Dock context menu",
-          "url": "https://github.com/SubmarinerApp/Submariner/issues/254",
-          "createdAt": "2026-10-07T14:32:38Z"
+          "label": "Feature Request: Column formats for custom charts, progress colour bands, and a link column kind",
+          "url": "https://github.com/cliftonc/drizzle-cube/issues/1378",
+          "createdAt": "2026-10-08T15:20:38Z"
         },
         {
           "source": "GitHub",
-          "label": "Select ZIndex cache by file presence, not GENPRES_PROD",
-          "url": "https://github.com/informedica/GenPRES/issues/1347",
-          "createdAt": "2026-10-07T14:24:42Z"
+          "label": "Support installed Maven executables for Java apps",
+          "url": "https://github.com/microsoft/aspire/issues/20828",
+          "createdAt": "2026-10-08T15:10:42Z"
         },
         {
           "source": "GitHub",
-          "label": "Add Time scale to CPU/GPU graphs",
-          "url": "https://github.com/aristocratos/btop/issues/1884",
-          "createdAt": "2026-10-07T11:06:02Z"
+          "label": "Enhance \\\u0007pp wait\\ timeout messages to include condition summaries and operation details",
+          "url": "https://github.com/argoproj/argo-cd/issues/30082",
+          "createdAt": "2026-10-08T14:52:34Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-proposal-adopt-open",
+      "title": "Proposal: adopt Open-source PDD (Product-Driven Development)",
+      "summary": "Hi! I'm Itai, and I work on [BusinessLens](https://github.com/businesslens/pdd), an open-source tool for keeping a product model next to the code. I've mapped Capsule's behavior into one. I first offered it as a pull request (#2206). I've closed that in favour of this issue, so m",
+      "score": 64,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 14
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-08T11:29:07Z",
+      "keywords": [
+        "proposal",
+        "adopt",
+        "open",
+        "source",
+        "pdd"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Proposal: adopt Open-source PDD (Product-Driven Development)",
+          "url": "https://github.com/projectcapsule/capsule/issues/2211",
+          "createdAt": "2026-10-08T11:29:07Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Proposal: adopt Open-source PDD (Product-Driven Development)",
+          "url": "https://github.com/external-secrets/external-secrets/issues/7102",
+          "createdAt": "2026-10-08T11:15:10Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-add",
+      "title": "[feature request]: add Connected Device List",
+      "summary": "Great app, does what exactly what it says, without any issues. However, it would be great if it could also include a feature that would allow you to see the list of connected devices for phones that lack the option to see connected devices. Thanks.",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-08T15:30:54Z",
+      "keywords": [
+        "feature",
+        "request",
+        "add",
+        "app",
+        "list"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[feature request]: add Connected Device List",
+          "url": "https://github.com/carlelieser/shizzi/issues/50",
+          "createdAt": "2026-10-08T15:30:54Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Add option to order projects when sessions are grouped by project",
+          "url": "https://github.com/github/app/issues/4567",
+          "createdAt": "2026-10-08T15:23:10Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature request] Optional setting to hide watched movies from discovery rows",
+          "url": "https://github.com/iqui27/nuvio-native-legacy/issues/366",
+          "createdAt": "2026-10-08T15:15:19Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-app",
+      "title": "📱 [Feature] Native share button for stories (Web Share API)",
+      "summary": "## Feature Request **Description** Add a native share button on each story card so users can share inspiring stories with friends on WhatsApp, Instagram, etc. directly from the app. **Implementation** Use the browser's **Web Share API**: ```js navigator.share({ title: 'A story fr",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-08T15:08:00Z",
+      "keywords": [
+        "feature",
+        "request",
+        "app",
+        "description",
+        "add"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "📱 [Feature] Native share button for stories (Web Share API)",
+          "url": "https://github.com/dhirajkumar-09/DARPAN_Sathi/issues/3",
+          "createdAt": "2026-10-08T15:08:00Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Add read-position marker to move through conversation history",
+          "url": "https://github.com/anthropics/claude-code/issues/100542",
+          "createdAt": "2026-10-08T15:04:58Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Terminal feature request",
+          "url": "https://github.com/Louis-CFM/coucou/issues/348",
+          "createdAt": "2026-10-08T14:51:26Z"
         }
       ]
     }
