@@ -1,168 +1,146 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-08T15:36:51.297Z",
+  "generatedAt": "2026-10-09T15:18:16.367Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "Feature Request: Column formats for custom charts, progress colour bands, and a link column kind",
-      "summary": "**Is your feature request related to a problem? Please describe.** We embed drizzle-cube dashboards in our product. Next to the built-in Records Table, we register our own records table chart through `customCharts`. It adds pivot columns, computed columns and row filters. We want",
-      "score": 83,
+      "id": "emerging-feature-request-searched",
+      "title": "[Feature Request] Animated Transition Effects for Wallpaper Changes",
+      "summary": "### Confirmation - [x] I have read the [Code of Conduct](https://github.com/Hamza417/Peristyle/blob/master/CODE_OF_CONDUCT.md) - [x] I have searched the existing issues ### Feature Description When the wallpaper changes (on screen on/off), it currently switches instantly with no",
+      "score": 100,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 11
+        "engagement": 28
       },
-      "requests": 4,
-      "latestSignal": "2026-10-08T15:20:38Z",
+      "requests": 9,
+      "latestSignal": "2026-10-09T15:11:58Z",
       "keywords": [
         "feature",
         "request",
-        "related",
-        "problem",
-        "please"
+        "searched",
+        "existing",
+        "issues"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Column formats for custom charts, progress colour bands, and a link column kind",
-          "url": "https://github.com/cliftonc/drizzle-cube/issues/1378",
-          "createdAt": "2026-10-08T15:20:38Z"
+          "label": "[Feature Request] Animated Transition Effects for Wallpaper Changes",
+          "url": "https://github.com/Hamza417/Peristyle/issues/332",
+          "createdAt": "2026-10-09T15:11:58Z"
         },
         {
           "source": "GitHub",
-          "label": "Support installed Maven executables for Java apps",
-          "url": "https://github.com/microsoft/aspire/issues/20828",
-          "createdAt": "2026-10-08T15:10:42Z"
+          "label": "request: option to show the old and the new content of an edited message apart",
+          "url": "https://github.com/wolfstar-project/wolfstar/issues/277",
+          "createdAt": "2026-10-09T14:42:23Z"
         },
         {
           "source": "GitHub",
-          "label": "Enhance \\\u0007pp wait\\ timeout messages to include condition summaries and operation details",
-          "url": "https://github.com/argoproj/argo-cd/issues/30082",
-          "createdAt": "2026-10-08T14:52:34Z"
+          "label": "request: webhook-powered logging",
+          "url": "https://github.com/wolfstar-project/wolfstar/issues/276",
+          "createdAt": "2026-10-09T14:42:20Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "request: export and import the settings of a server",
+          "url": "https://github.com/wolfstar-project/wolfstar/issues/275",
+          "createdAt": "2026-10-09T14:40:31Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "request: automatic messages on an interval",
+          "url": "https://github.com/wolfstar-project/wolfstar/issues/274",
+          "createdAt": "2026-10-09T14:40:29Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "request: boost logs",
+          "url": "https://github.com/wolfstar-project/wolfstar/issues/273",
+          "createdAt": "2026-10-09T14:40:26Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "request: show the roles a member had when they leave or are banned",
+          "url": "https://github.com/wolfstar-project/wolfstar/issues/272",
+          "createdAt": "2026-10-09T14:40:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "request: restore the voice mute of a member who rejoins",
+          "url": "https://github.com/wolfstar-project/wolfstar/issues/271",
+          "createdAt": "2026-10-09T14:36:42Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-problem",
+      "title": "Custom website name without rebuild container",
+      "summary": "## Feature Request **Is your feature request related to a problem or unsupported use case? Please describe.** I want custom the name of instance, but I should rebuild docker image **Describe the solution you'd like** Add a variable APP_TITLE to docker image **Describe alternative",
+      "score": 97,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 25
+      },
+      "requests": 8,
+      "latestSignal": "2026-10-09T15:02:34Z",
+      "keywords": [
+        "feature",
+        "request",
+        "problem",
+        "related",
+        "describe"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Custom website name without rebuild container",
+          "url": "https://github.com/suitenumerique/meet/issues/1798",
+          "createdAt": "2026-10-09T15:02:34Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: view two months at once",
+          "url": "https://github.com/brianlg/CalPeek/issues/23",
+          "createdAt": "2026-10-09T15:00:06Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Shift export earlier on days without an Octopus Power Down event",
+          "url": "https://github.com/springfall2008/batpred/issues/5458",
+          "createdAt": "2026-10-09T14:56:21Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: one update workflow that preserves setup and checks companion/MCP connections",
+          "url": "https://github.com/totec448-spec/chat-on-steroids/issues/1236",
+          "createdAt": "2026-10-09T14:56:15Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Electron: Update app to newest rolling release when available",
+          "url": "https://github.com/p2r3/convert/issues/764",
+          "createdAt": "2026-10-09T14:48:24Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "refactor navtive_vnc_host to have ondemand.d support",
+          "url": "https://github.com/OSC/ondemand/issues/5910",
+          "createdAt": "2026-10-09T14:44:08Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add an official news feed / blog to the Resonite website",
+          "url": "https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/7382",
+          "createdAt": "2026-10-09T14:39:55Z"
         },
         {
           "source": "GitHub",
           "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
           "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
           "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-proposal-adopt-open",
-      "title": "Proposal: adopt Open-source PDD (Product-Driven Development)",
-      "summary": "Hi! I'm Itai, and I work on [BusinessLens](https://github.com/businesslens/pdd), an open-source tool for keeping a product model next to the code. I've mapped Capsule's behavior into one. I first offered it as a pull request (#2206). I've closed that in favour of this issue, so m",
-      "score": 64,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 14
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-08T11:29:07Z",
-      "keywords": [
-        "proposal",
-        "adopt",
-        "open",
-        "source",
-        "pdd"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Proposal: adopt Open-source PDD (Product-Driven Development)",
-          "url": "https://github.com/projectcapsule/capsule/issues/2211",
-          "createdAt": "2026-10-08T11:29:07Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Proposal: adopt Open-source PDD (Product-Driven Development)",
-          "url": "https://github.com/external-secrets/external-secrets/issues/7102",
-          "createdAt": "2026-10-08T11:15:10Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-add",
-      "title": "[feature request]: add Connected Device List",
-      "summary": "Great app, does what exactly what it says, without any issues. However, it would be great if it could also include a feature that would allow you to see the list of connected devices for phones that lack the option to see connected devices. Thanks.",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-08T15:30:54Z",
-      "keywords": [
-        "feature",
-        "request",
-        "add",
-        "app",
-        "list"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[feature request]: add Connected Device List",
-          "url": "https://github.com/carlelieser/shizzi/issues/50",
-          "createdAt": "2026-10-08T15:30:54Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Add option to order projects when sessions are grouped by project",
-          "url": "https://github.com/github/app/issues/4567",
-          "createdAt": "2026-10-08T15:23:10Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature request] Optional setting to hide watched movies from discovery rows",
-          "url": "https://github.com/iqui27/nuvio-native-legacy/issues/366",
-          "createdAt": "2026-10-08T15:15:19Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-app",
-      "title": "📱 [Feature] Native share button for stories (Web Share API)",
-      "summary": "## Feature Request **Description** Add a native share button on each story card so users can share inspiring stories with friends on WhatsApp, Instagram, etc. directly from the app. **Implementation** Use the browser's **Web Share API**: ```js navigator.share({ title: 'A story fr",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-08T15:08:00Z",
-      "keywords": [
-        "feature",
-        "request",
-        "app",
-        "description",
-        "add"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "📱 [Feature] Native share button for stories (Web Share API)",
-          "url": "https://github.com/dhirajkumar-09/DARPAN_Sathi/issues/3",
-          "createdAt": "2026-10-08T15:08:00Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Add read-position marker to move through conversation history",
-          "url": "https://github.com/anthropics/claude-code/issues/100542",
-          "createdAt": "2026-10-08T15:04:58Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Terminal feature request",
-          "url": "https://github.com/Louis-CFM/coucou/issues/348",
-          "createdAt": "2026-10-08T14:51:26Z"
         }
       ]
     }
