@@ -1,140 +1,109 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-09T15:18:16.367Z",
+  "generatedAt": "2026-10-10T14:28:15.274Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-searched",
-      "title": "[Feature Request] Animated Transition Effects for Wallpaper Changes",
-      "summary": "### Confirmation - [x] I have read the [Code of Conduct](https://github.com/Hamza417/Peristyle/blob/master/CODE_OF_CONDUCT.md) - [x] I have searched the existing issues ### Feature Description When the wallpaper changes (on screen on/off), it currently switches instantly with no",
-      "score": 100,
+      "id": "emerging-feature-request-version",
+      "title": "[Feature Request] 多账号池支持按账号并行生成（当前 GEN_LOCK 全局串行）",
+      "summary": "## 需求背景 当前账号池支持多账号导入、LRU 轮换、均衡消耗和故障转移，但生图/视频生成仍由进程级全局 `GEN_LOCK` 串行化。因此，即使启用了多个健康账号，同一时刻也只能有一个生成任务实际执行，其余任务需要等待前一个任务释放锁。 这使“多账号池”目前更接近账号轮换与热备，而不是利用多个账号并行生成。对于批量图生视频等场景，吞吐量仍等同于单账号。 ## 当前行为 在当前仓库版本（`version.json` 为 v1.5.4，提交 `c00e5b0`）中： - `app.py` 使用模块级 `GEN_LOCK = threading.Lock(",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 28
+        "volume": 22,
+        "engagement": 11
       },
-      "requests": 9,
-      "latestSignal": "2026-10-09T15:11:58Z",
+      "requests": 2,
+      "latestSignal": "2026-10-10T14:17:43Z",
       "keywords": [
         "feature",
         "request",
-        "searched",
-        "existing",
-        "issues"
+        "version",
+        "app",
+        "gen"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Animated Transition Effects for Wallpaper Changes",
-          "url": "https://github.com/Hamza417/Peristyle/issues/332",
-          "createdAt": "2026-10-09T15:11:58Z"
+          "label": "[Feature Request] 多账号池支持按账号并行生成（当前 GEN_LOCK 全局串行）",
+          "url": "https://github.com/czg86389-hub/muse2api/issues/19",
+          "createdAt": "2026-10-10T14:17:43Z"
         },
         {
           "source": "GitHub",
-          "label": "request: option to show the old and the new content of an edited message apart",
-          "url": "https://github.com/wolfstar-project/wolfstar/issues/277",
-          "createdAt": "2026-10-09T14:42:23Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "request: webhook-powered logging",
-          "url": "https://github.com/wolfstar-project/wolfstar/issues/276",
-          "createdAt": "2026-10-09T14:42:20Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "request: export and import the settings of a server",
-          "url": "https://github.com/wolfstar-project/wolfstar/issues/275",
-          "createdAt": "2026-10-09T14:40:31Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "request: automatic messages on an interval",
-          "url": "https://github.com/wolfstar-project/wolfstar/issues/274",
-          "createdAt": "2026-10-09T14:40:29Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "request: boost logs",
-          "url": "https://github.com/wolfstar-project/wolfstar/issues/273",
-          "createdAt": "2026-10-09T14:40:26Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "request: show the roles a member had when they leave or are banned",
-          "url": "https://github.com/wolfstar-project/wolfstar/issues/272",
-          "createdAt": "2026-10-09T14:40:25Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "request: restore the voice mute of a member who rejoins",
-          "url": "https://github.com/wolfstar-project/wolfstar/issues/271",
-          "createdAt": "2026-10-09T14:36:42Z"
+          "label": "[Feature Request] Support Downloading Portable Versions of Apps",
+          "url": "https://github.com/storytold/craft-launcher/issues/33",
+          "createdAt": "2026-10-10T13:30:01Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-problem",
-      "title": "Custom website name without rebuild container",
-      "summary": "## Feature Request **Is your feature request related to a problem or unsupported use case? Please describe.** I want custom the name of instance, but I should rebuild docker image **Describe the solution you'd like** Add a variable APP_TITLE to docker image **Describe alternative",
-      "score": 97,
+      "id": "emerging-feature-request-mode",
+      "title": "Feature Request: Restore last heater mode when powering on (ECO, H1–H3, Fan Only)",
+      "summary": "### Device Model Dreo Atom 316S (DR-HSH006S) , Dreo 720S (DR-HSH040S) ### Problem description I am using two Dreo heaters with hass-dreo v1.11.10: - Dreo Atom 316S (DR-HSH006S) - Dreo 720S (DR-HSH040S) Both heaters support ECO, H1, H2, H3, and Fan Only modes through the Home Assi",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 25
+        "volume": 22,
+        "engagement": 11
       },
-      "requests": 8,
-      "latestSignal": "2026-10-09T15:02:34Z",
+      "requests": 2,
+      "latestSignal": "2026-10-10T14:09:04Z",
       "keywords": [
         "feature",
         "request",
-        "problem",
-        "related",
-        "describe"
+        "mode",
+        "model",
+        "problem"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Custom website name without rebuild container",
-          "url": "https://github.com/suitenumerique/meet/issues/1798",
-          "createdAt": "2026-10-09T15:02:34Z"
+          "label": "Feature Request: Restore last heater mode when powering on (ECO, H1–H3, Fan Only)",
+          "url": "https://github.com/JeffSteinbok/hass-dreo/issues/953",
+          "createdAt": "2026-10-10T14:09:04Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: view two months at once",
-          "url": "https://github.com/brianlg/CalPeek/issues/23",
-          "createdAt": "2026-10-09T15:00:06Z"
+          "label": "Feature: Support using existing local GGUF files in managed mode",
+          "url": "https://github.com/AtomicBot-ai/atomic-agent/issues/631",
+          "createdAt": "2026-10-10T13:35:13Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "Inbox rules: an opt-in \"Notify me\" action, so a rule that moves mail can still alert",
+      "summary": "**Is your feature request related to a problem? Please describe.** A rule that moves or archives new mail out of the Inbox also makes its arrival silent: no Web Push, no in-app toast or sound. In `syncMessages` (`imapManager.js`) the alert set is built from `applyInboxRules(...).",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-10T14:00:44Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Inbox rules: an opt-in \"Notify me\" action, so a rule that moves mail can still alert",
+          "url": "https://github.com/maathimself/mailflow/issues/588",
+          "createdAt": "2026-10-10T14:00:44Z"
         },
         {
           "source": "GitHub",
-          "label": "Shift export earlier on days without an Octopus Power Down event",
-          "url": "https://github.com/springfall2008/batpred/issues/5458",
-          "createdAt": "2026-10-09T14:56:21Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: one update workflow that preserves setup and checks companion/MCP connections",
-          "url": "https://github.com/totec448-spec/chat-on-steroids/issues/1236",
-          "createdAt": "2026-10-09T14:56:15Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature] Electron: Update app to newest rolling release when available",
-          "url": "https://github.com/p2r3/convert/issues/764",
-          "createdAt": "2026-10-09T14:48:24Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "refactor navtive_vnc_host to have ondemand.d support",
-          "url": "https://github.com/OSC/ondemand/issues/5910",
-          "createdAt": "2026-10-09T14:44:08Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add an official news feed / blog to the Resonite website",
-          "url": "https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/7382",
-          "createdAt": "2026-10-09T14:39:55Z"
+          "label": "feat: embed support for MeowCORD server links, inside the client and outside it",
+          "url": "https://github.com/meowcorded/meowcord/issues/18",
+          "createdAt": "2026-10-10T13:35:34Z"
         },
         {
           "source": "GitHub",
