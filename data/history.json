@@ -1394,6 +1394,19 @@
           "requests": 3
         }
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "clusters": 1,
+      "requests": 2,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-new",
+          "score": 57,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
