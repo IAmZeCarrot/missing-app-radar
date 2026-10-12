@@ -1,39 +1,139 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-11T14:54:53.324Z",
+  "generatedAt": "2026-10-12T17:54:00.717Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-new",
-      "title": "Feature request: copy Team Member settings to other members, and default settings for new members",
-      "summary": "## Feature request: copy Team Member settings to other members, and default settings for new members ### Problem Every Team Member block is configured on its own. For a team page with several people, the same preset, colours, typography, spacing, image size, social icons and togg",
-      "score": 57,
+      "id": "emerging-feature-request-problem",
+      "title": "Browser Extension for Real-Time URL Scanning",
+      "summary": "## Is your feature request related to a problem? Please describe: Currently, users have to manually copy and paste every suspicious URL into the web application to check if it is safe. This can be inconvenient and slow down the detection process during active browsing. ## Describ",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 44,
         "engagement": 7
       },
-      "requests": 2,
-      "latestSignal": "2026-10-11T08:06:01Z",
+      "requests": 6,
+      "latestSignal": "2026-10-12T17:44:20Z",
       "keywords": [
         "feature",
         "request",
-        "new",
         "problem",
-        "own"
+        "related",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: copy Team Member settings to other members, and default settings for new members",
-          "url": "https://github.com/EssentialBlocks/team-member-block/issues/17",
-          "createdAt": "2026-10-11T08:06:01Z"
+          "label": "Browser Extension for Real-Time URL Scanning",
+          "url": "https://github.com/prashant2007-wq/phishing-detection/issues/12",
+          "createdAt": "2026-10-12T17:44:20Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE REQUEST] New Tab Page Wallpaper/Background",
-          "url": "https://github.com/by-architect/Dejavu/issues/79",
-          "createdAt": "2026-10-09T23:32:58Z"
+          "label": "[Feature] Option to keep the mobile navbar flush with the screen edge (opt out of the #324 safe-area lift)",
+          "url": "https://github.com/joseluis9595/lovelace-navbar-card/issues/339",
+          "createdAt": "2026-10-12T17:33:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "`sourcemaps upload` sends files one at a time",
+          "url": "https://github.com/launchdarkly/ldcli/issues/860",
+          "createdAt": "2026-10-12T17:11:40Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE REQUEST] Custom Notification Sound",
+          "url": "https://github.com/NeoFreeBird/app/issues/134",
+          "createdAt": "2026-10-12T17:10:22Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "✨ Per-app default window presets",
+          "url": "https://github.com/mrkai77/Loop/issues/1179",
+          "createdAt": "2026-10-12T17:06:21Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-support",
+      "title": "Feature request",
+      "summary": "Hey storytold team kindly bring linux support to the great apps you've built Always needed an open-source alternative for word in Linux coz libre office is full of crap Peace",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 11
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-12T17:28:53Z",
+      "keywords": [
+        "feature",
+        "request",
+        "support",
+        "great",
+        "alternative"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request",
+          "url": "https://github.com/storytold/artcraft/issues/2212",
+          "createdAt": "2026-10-12T17:28:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Embed support for diagrams",
+          "url": "https://github.com/amaruki/schema-canvas/issues/2",
+          "createdAt": "2026-10-12T14:09:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Support PNG Image Sequences as Video",
+          "url": "https://github.com/jub0t/concat/issues/316",
+          "createdAt": "2026-10-12T13:49:10Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-support",
+      "title": "[Feature Request] Simplified Chinese (zh-CN) UI support / 希望支持中文界面",
+      "summary": "Hi! Congrats on the alpha — I installed Herald OS v0.1.0-alpha.3 (macOS, Apple Silicon) and it's a great start. **Request**: Please consider adding UI localization, starting with Simplified Chinese (zh-CN). **Context**: My macOS system language is Chinese (Simplified), but the ap",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-12T17:48:00Z",
+      "keywords": [
+        "feature",
+        "request",
+        "support",
+        "start",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Simplified Chinese (zh-CN) UI support / 希望支持中文界面",
+          "url": "https://github.com/iamlukethedev/Herald-OS/issues/93",
+          "createdAt": "2026-10-12T17:48:00Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] [diffusion] ComfyUI integrated mode: support FLUX.2 and FLUX.2 Klein",
+          "url": "https://github.com/sgl-project/sglang/issues/43878",
+          "createdAt": "2026-10-12T17:01:53Z"
         }
       ]
     }
