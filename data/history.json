@@ -1430,6 +1430,34 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-13",
+      "clusters": 4,
+      "requests": 10,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-app-like-feature",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-files",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-add",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

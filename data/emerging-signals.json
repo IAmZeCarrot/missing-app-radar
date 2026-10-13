@@ -1,57 +1,80 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-12T17:54:00.717Z",
+  "generatedAt": "2026-10-13T15:58:50.539Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "Browser Extension for Real-Time URL Scanning",
-      "summary": "## Is your feature request related to a problem? Please describe: Currently, users have to manually copy and paste every suspicious URL into the web application to check if it is safe. This can be inconvenient and slow down the detection process during active browsing. ## Describ",
-      "score": 79,
+      "id": "emerging-app-like-feature",
+      "title": "feat: add modded settings patch into google maps app to modify the settings we like",
+      "summary": "### Feature description It would be great if we can have a feature to change or modify thru the modded settings of the patches applied into the app and it would be useful like this to have. ### Motivation Thanks ### Acknowledgements - [x] I have checked all open and closed featur",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 7
+        "volume": 33,
+        "engagement": 0
       },
-      "requests": 6,
-      "latestSignal": "2026-10-12T17:44:20Z",
+      "requests": 3,
+      "latestSignal": "2026-10-13T15:51:10Z",
+      "keywords": [
+        "app",
+        "like",
+        "feature",
+        "useful",
+        "description"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "feat: add modded settings patch into google maps app to modify the settings we like",
+          "url": "https://github.com/bearinmindcat/morphe-patches/issues/51",
+          "createdAt": "2026-10-13T15:51:10Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Markdown support",
+          "url": "https://github.com/Logarex/AvoCook/issues/125",
+          "createdAt": "2026-10-13T15:22:51Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Verifiable human approvals for external tools in mobile Remote sessions",
+          "url": "https://github.com/openai/codex/issues/53674",
+          "createdAt": "2026-10-13T14:11:57Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "react-headless: built-in stream adapters drop reasoning/thinking output instead of emitting `REASONING_*` events",
+      "summary": "**Is your feature request related to a problem? Please describe.** #414 covers consuming AG-UI reasoning events in `processStreamedMessage` and rendering them in `react-ui` (in progress in #594). But the built-in stream adapters in `@openuidev/react-headless` never produce those",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-13T15:24:34Z",
       "keywords": [
         "feature",
         "request",
-        "problem",
         "related",
+        "problem",
         "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Browser Extension for Real-Time URL Scanning",
-          "url": "https://github.com/prashant2007-wq/phishing-detection/issues/12",
-          "createdAt": "2026-10-12T17:44:20Z"
+          "label": "react-headless: built-in stream adapters drop reasoning/thinking output instead of emitting `REASONING_*` events",
+          "url": "https://github.com/thesysdev/openui/issues/1413",
+          "createdAt": "2026-10-13T15:24:34Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Option to keep the mobile navbar flush with the screen edge (opt out of the #324 safe-area lift)",
-          "url": "https://github.com/joseluis9595/lovelace-navbar-card/issues/339",
-          "createdAt": "2026-10-12T17:33:37Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "`sourcemaps upload` sends files one at a time",
-          "url": "https://github.com/launchdarkly/ldcli/issues/860",
-          "createdAt": "2026-10-12T17:11:40Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] Custom Notification Sound",
-          "url": "https://github.com/NeoFreeBird/app/issues/134",
-          "createdAt": "2026-10-12T17:10:22Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "✨ Per-app default window presets",
-          "url": "https://github.com/mrkai77/Loop/issues/1179",
-          "createdAt": "2026-10-12T17:06:21Z"
+          "label": "Dev tooling: add a @vault repl step to return from the Settings window under the vault guard",
+          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/1097",
+          "createdAt": "2026-10-13T15:23:33Z"
         },
         {
           "source": "GitHub",
@@ -62,50 +85,9 @@
       ]
     },
     {
-      "id": "emerging-feature-request-support",
-      "title": "Feature request",
-      "summary": "Hey storytold team kindly bring linux support to the great apps you've built Always needed an open-source alternative for word in Linux coz libre office is full of crap Peace",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 11
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-12T17:28:53Z",
-      "keywords": [
-        "feature",
-        "request",
-        "support",
-        "great",
-        "alternative"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/storytold/artcraft/issues/2212",
-          "createdAt": "2026-10-12T17:28:53Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Embed support for diagrams",
-          "url": "https://github.com/amaruki/schema-canvas/issues/2",
-          "createdAt": "2026-10-12T14:09:16Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Support PNG Image Sequences as Video",
-          "url": "https://github.com/jub0t/concat/issues/316",
-          "createdAt": "2026-10-12T13:49:10Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-support",
-      "title": "[Feature Request] Simplified Chinese (zh-CN) UI support / 希望支持中文界面",
-      "summary": "Hi! Congrats on the alpha — I installed Herald OS v0.1.0-alpha.3 (macOS, Apple Silicon) and it's a great start. **Request**: Please consider adding UI localization, starting with Simplified Chinese (zh-CN). **Context**: My macOS system language is Chinese (Simplified), but the ap",
+      "id": "emerging-feature-request-files",
+      "title": "[Feature Request] Native support for FreeCAD files (.FCStd)",
+      "summary": "It would be incredibly useful to have native support to open FreeCAD (.FCStd) files directly in Solidcraft. Since Solidcraft aims to be a strong alternative to Fusion360, many users migrating from open-source tools like FreeCAD will want to bring their existing projects over. Why",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -113,27 +95,62 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-12T17:48:00Z",
+      "latestSignal": "2026-10-13T12:53:34Z",
       "keywords": [
         "feature",
         "request",
-        "support",
-        "start",
-        "please"
+        "files",
+        "open",
+        "directly"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Simplified Chinese (zh-CN) UI support / 希望支持中文界面",
-          "url": "https://github.com/iamlukethedev/Herald-OS/issues/93",
-          "createdAt": "2026-10-12T17:48:00Z"
+          "label": "[Feature Request] Native support for FreeCAD files (.FCStd)",
+          "url": "https://github.com/bherbruck/solidcraft/issues/688",
+          "createdAt": "2026-10-13T12:53:34Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] [diffusion] ComfyUI integrated mode: support FLUX.2 and FLUX.2 Klein",
-          "url": "https://github.com/sgl-project/sglang/issues/43878",
-          "createdAt": "2026-10-12T17:01:53Z"
+          "label": "Give the option to open OpenCloning json history file straight from the ressource",
+          "url": "https://github.com/elabftw/elabftw/issues/7606",
+          "createdAt": "2026-10-13T11:32:19Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request] Add Agent Skills (SKILL.md) for CADCraft Workflows",
+      "summary": "## Is your feature request related to a problem? CADCraft already provides a strong foundation for AI-agent automation through its CLI, MCP server, JSON control channel, and drawing inspection and rendering capabilities. However, users working with AI coding agents and agentic wo",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-13T11:14:02Z",
+      "keywords": [
+        "feature",
+        "request",
+        "add",
+        "workflows",
+        "through"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Add Agent Skills (SKILL.md) for CADCraft Workflows",
+          "url": "https://github.com/storytold/cadcraft/issues/905",
+          "createdAt": "2026-10-13T11:14:02Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Add Revit-like BIM modeling capabilities or a BIM plugin ecosystem (CAD + BIM workflow)",
+          "url": "https://github.com/storytold/cadcraft/issues/897",
+          "createdAt": "2026-10-13T08:41:10Z"
         }
       ]
     }
