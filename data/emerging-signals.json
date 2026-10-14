@@ -1,80 +1,69 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-13T15:58:50.539Z",
+  "generatedAt": "2026-10-14T13:43:28.653Z",
   "clusters": [
     {
-      "id": "emerging-app-like-feature",
-      "title": "feat: add modded settings patch into google maps app to modify the settings we like",
-      "summary": "### Feature description It would be great if we can have a feature to change or modify thru the modded settings of the patches applied into the app and it would be useful like this to have. ### Motivation Thanks ### Acknowledgements - [x] I have checked all open and closed featur",
-      "score": 61,
+      "id": "emerging-feature-request-problem",
+      "title": "[Feature Request] Microg integration",
+      "summary": "### Is your feature request related to a problem?/你的请求是否与某个问题相关？ there's a patch for morphe by hoodles which adds the integration of microg to the application allowing you to sign in to most of the apps/games with google with full access and function ### Describe the solution you",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 0
+        "volume": 44,
+        "engagement": 11
       },
-      "requests": 3,
-      "latestSignal": "2026-10-13T15:51:10Z",
-      "keywords": [
-        "app",
-        "like",
-        "feature",
-        "useful",
-        "description"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "feat: add modded settings patch into google maps app to modify the settings we like",
-          "url": "https://github.com/bearinmindcat/morphe-patches/issues/51",
-          "createdAt": "2026-10-13T15:51:10Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature] Markdown support",
-          "url": "https://github.com/Logarex/AvoCook/issues/125",
-          "createdAt": "2026-10-13T15:22:51Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Verifiable human approvals for external tools in mobile Remote sessions",
-          "url": "https://github.com/openai/codex/issues/53674",
-          "createdAt": "2026-10-13T14:11:57Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "react-headless: built-in stream adapters drop reasoning/thinking output instead of emitting `REASONING_*` events",
-      "summary": "**Is your feature request related to a problem? Please describe.** #414 covers consuming AG-UI reasoning events in `processStreamedMessage` and rendering them in `react-ui` (in progress in #594). But the built-in stream adapters in `@openuidev/react-headless` never produce those",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-13T15:24:34Z",
+      "requests": 8,
+      "latestSignal": "2026-10-14T13:41:53Z",
       "keywords": [
         "feature",
         "request",
-        "related",
         "problem",
-        "please"
+        "related",
+        "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "react-headless: built-in stream adapters drop reasoning/thinking output instead of emitting `REASONING_*` events",
-          "url": "https://github.com/thesysdev/openui/issues/1413",
-          "createdAt": "2026-10-13T15:24:34Z"
+          "label": "[Feature Request] Microg integration",
+          "url": "https://github.com/JingMatrix/LSPatch/issues/124",
+          "createdAt": "2026-10-14T13:41:53Z"
         },
         {
           "source": "GitHub",
-          "label": "Dev tooling: add a @vault repl step to return from the Settings window under the vault guard",
-          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/issues/1097",
-          "createdAt": "2026-10-13T15:23:33Z"
+          "label": "Custom Font Support",
+          "url": "https://github.com/johakovi/Continuum-Explorer-Memories/issues/35",
+          "createdAt": "2026-10-14T13:40:08Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Add RomM integration as a retro game library server backend",
+          "url": "https://github.com/Moonfin-Client/Moonfin-Core/issues/1848",
+          "createdAt": "2026-10-14T13:19:08Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [App Launcher] improving the launcher's overall UI",
+          "url": "https://github.com/storytold/craft-launcher/issues/390",
+          "createdAt": "2026-10-14T13:14:33Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[💡 FEATURE REQUEST]: separate php worker logging from internal server logs",
+          "url": "https://github.com/roadrunner-server/roadrunner/issues/2423",
+          "createdAt": "2026-10-14T13:09:45Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: MCP server so AI tools can help build and manage flows",
+          "url": "https://github.com/HaveAGitGat/Tdarr/issues/1468",
+          "createdAt": "2026-10-14T13:09:11Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE REQUEST] New Tab Page Wallpaper/Background",
+          "url": "https://github.com/by-architect/Dejavu/issues/79",
+          "createdAt": "2026-10-09T23:32:58Z"
         },
         {
           "source": "GitHub",
@@ -85,44 +74,50 @@
       ]
     },
     {
-      "id": "emerging-feature-request-files",
-      "title": "[Feature Request] Native support for FreeCAD files (.FCStd)",
-      "summary": "It would be incredibly useful to have native support to open FreeCAD (.FCStd) files directly in Solidcraft. Since Solidcraft aims to be a strong alternative to Fusion360, many users migrating from open-source tools like FreeCAD will want to bring their existing projects over. Why",
-      "score": 50,
+      "id": "emerging-feature-request-searched",
+      "title": "Message text sits above the vertical center of the bubble, clearly visible with Korean text",
+      "summary": "- [x] I have searched open and closed issues for duplicates - [x] I am submitting a bug report for existing functionality that does not work as intended - [x] This isn't a feature request or a discussion topic ---------------------------------------- ### Bug description Korean te",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-10-13T12:53:34Z",
+      "requests": 3,
+      "latestSignal": "2026-10-14T13:31:31Z",
       "keywords": [
         "feature",
         "request",
-        "files",
+        "searched",
         "open",
-        "directly"
+        "closed"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Native support for FreeCAD files (.FCStd)",
-          "url": "https://github.com/bherbruck/solidcraft/issues/688",
-          "createdAt": "2026-10-13T12:53:34Z"
+          "label": "Message text sits above the vertical center of the bubble, clearly visible with Korean text",
+          "url": "https://github.com/signalapp/Signal-iOS/issues/6367",
+          "createdAt": "2026-10-14T13:31:31Z"
         },
         {
           "source": "GitHub",
-          "label": "Give the option to open OpenCloning json history file straight from the ressource",
-          "url": "https://github.com/elabftw/elabftw/issues/7606",
-          "createdAt": "2026-10-13T11:32:19Z"
+          "label": "[Feature Request]: Improve CIPPBaselineGlobalSecureAccessCompliantNetwork by hardening it with Drift-Aware IPv4 preference detection",
+          "url": "https://github.com/CyberDrain/CIPP/issues/917",
+          "createdAt": "2026-10-14T13:20:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Content Preview in File List & Auto-naming for Quick-Capture",
+          "url": "https://github.com/gsantner/markor/issues/2920",
+          "createdAt": "2026-10-14T12:50:41Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Add Agent Skills (SKILL.md) for CADCraft Workflows",
-      "summary": "## Is your feature request related to a problem? CADCraft already provides a strong foundation for AI-agent automation through its CLI, MCP server, JSON control channel, and drawing inspection and rendering capabilities. However, users working with AI coding agents and agentic wo",
+      "id": "emerging-feature-request-app",
+      "title": "[Feature Request] [App Launcher] Custom Install Path for Apps on macOS",
+      "summary": "### Description On macOS the launcher only recognizes apps installed directly in the Applications folder. I had installed apps in a ArtCraft directory (/Applications/ArtCraft), and this wasn't supported. ### Ticket details | | | |---|---| | **App** | App Launcher | | **Type** | F",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -130,27 +125,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-13T11:14:02Z",
+      "latestSignal": "2026-10-14T13:14:36Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "workflows",
-        "through"
+        "app",
+        "description",
+        "only"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add Agent Skills (SKILL.md) for CADCraft Workflows",
-          "url": "https://github.com/storytold/cadcraft/issues/905",
-          "createdAt": "2026-10-13T11:14:02Z"
+          "label": "[Feature Request] [App Launcher] Custom Install Path for Apps on macOS",
+          "url": "https://github.com/storytold/craft-launcher/issues/391",
+          "createdAt": "2026-10-14T13:14:36Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Add Revit-like BIM modeling capabilities or a BIM plugin ecosystem (CAD + BIM workflow)",
-          "url": "https://github.com/storytold/cadcraft/issues/897",
-          "createdAt": "2026-10-13T08:41:10Z"
+          "label": "🚀 [Feature Request]: Display Real Username in detail view when a Display Name is set",
+          "url": "https://github.com/meshtastic/Meshtastic-Apple/issues/2604",
+          "createdAt": "2026-10-14T13:13:45Z"
         }
       ]
     }

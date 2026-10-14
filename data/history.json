@@ -1458,6 +1458,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "clusters": 3,
+      "requests": 13,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-problem",
+          "score": 83,
+          "requests": 8
+        },
+        {
+          "id": "emerging-feature-request-searched",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-app",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
