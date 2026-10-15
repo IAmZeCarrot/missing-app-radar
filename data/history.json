@@ -1481,6 +1481,39 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "clusters": 6,
+      "requests": 17,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-not",
+          "score": 83,
+          "requests": 6
+        },
+        {
+          "id": "emerging-show-claude-code",
+          "score": 68,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-reader",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-reproducible-bug-confirm",
+          "score": 57,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-add",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
