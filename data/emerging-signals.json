@@ -1,66 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-15T13:26:08.484Z",
+  "generatedAt": "2026-10-16T13:15:19.448Z",
   "clusters": [
-    {
-      "id": "emerging-feature-request-not",
-      "title": "[Feature Request] Surface installed capacity data source last refresh data and app version in app",
-      "summary": "Problem statement: When using the app, it is not clear what date installed capacity data shown is current as of, although this data exists alongside the capacity data. Also, the current version of the app is not surfaced in the application. Potential solution: Render the `last up",
-      "score": 83,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 11
-      },
-      "requests": 6,
-      "latestSignal": "2026-10-15T13:17:30Z",
-      "keywords": [
-        "feature",
-        "request",
-        "not",
-        "problem",
-        "statement"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Surface installed capacity data source last refresh data and app version in app",
-          "url": "https://github.com/electricitymaps/electricitymaps-contrib/issues/8892",
-          "createdAt": "2026-10-15T13:17:30Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Desktop Code tab: date dividers and per-message timestamps in the conversation transcript",
-          "url": "https://github.com/anthropics/claude-code/issues/102406",
-          "createdAt": "2026-10-15T13:02:43Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Cannot copy agreed password for external users",
-          "url": "https://github.com/tutao/tutanota/issues/11673",
-          "createdAt": "2026-10-15T12:56:51Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[BUG]: ignore[dangerous-triggers] not considered",
-          "url": "https://github.com/zizmorcore/zizmor/issues/2448",
-          "createdAt": "2026-10-15T12:41:57Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Restore Codex sandbox CLI compatibility and scope native Windows shell support",
-          "url": "https://github.com/langchain-ai/langchain/issues/41252",
-          "createdAt": "2026-10-15T06:20:40Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] New Tab Page Wallpaper/Background",
-          "url": "https://github.com/by-architect/Dejavu/issues/79",
-          "createdAt": "2026-10-09T23:32:58Z"
-        }
-      ]
-    },
     {
       "id": "emerging-show-claude-code",
       "title": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
@@ -97,9 +38,50 @@
       ]
     },
     {
-      "id": "emerging-feature-request-reader",
-      "title": "[Feature Request] 改进 AI 伴读的并发体验：不同文档会话独立运行或排队",
-      "summary": "## 使用场景 Reader v0.8.0 的 AI 伴读已支持文档检索、多轮追问和会话恢复。对同时阅读多篇论文的用户，希望能够在论文 A 的 AI 回答或检索仍进行时，切换到论文 B 发起另一个问题，而不是直接遇到「已有 AI 请求正在运行，请稍后再试」。 这是一项**基于当前实现观察到的体验限制与功能建议**，尚未提供多窗口的实际复现日志。 ## 当前行为（源码检查） 在 `apps/server/internal/reader/image_chat.go` 的 `chatDocument` 中： ```go if !s.aiMu.TryLock()",
+      "id": "emerging-feature-request-related",
+      "title": "Option to disable the `Co-authored-by: Nuxt Studio` commit trailer (Vercel Hobby blocks co-authored commits)",
+      "summary": "### Is your feature request related to a problem? Please describe Every commit Studio creates through the GitHub provider gets the trailer `Co-authored-by: Nuxt Studio <noreply@nuxt.studio>` appended, unconditionally: `NUXT_STUDIO_COAUTHOR` in `src/app/src/utils/providers/github.",
+      "score": 68,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 7
+      },
+      "requests": 3,
+      "latestSignal": "2026-10-16T12:46:03Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Option to disable the `Co-authored-by: Nuxt Studio` commit trailer (Vercel Hobby blocks co-authored commits)",
+          "url": "https://github.com/nuxt-content/nuxt-studio/issues/580",
+          "createdAt": "2026-10-16T12:46:03Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Make the desktop webview opt-in so Linux/Windows apps don't have to link WebKitGTK/WebView2",
+          "url": "https://github.com/ThexXTURBOXx/flutter_web_auth_2/issues/221",
+          "createdAt": "2026-10-16T12:33:27Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-lyrics",
+      "title": "Feature Request 3: Expand Default Lyrics Sources and Support Custom Lyrics Servers",
+      "summary": "### 想解决什么问题 / What would you like Objective Increase the probability of finding accurate, word-synchronized lyrics by adding multiple providers and allowing users to configure compatible custom lyrics servers. Primuse should support both a curated set of built-in sources and a us",
       "score": 61,
       "scoreComponents": {
         "base": 28,
@@ -107,40 +89,75 @@
         "engagement": 0
       },
       "requests": 3,
-      "latestSignal": "2026-10-15T12:48:11Z",
+      "latestSignal": "2026-10-16T13:14:36Z",
       "keywords": [
         "feature",
         "request",
-        "reader",
-        "apps",
-        "server"
+        "lyrics",
+        "like",
+        "objective"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] 改进 AI 伴读的并发体验：不同文档会话独立运行或排队",
-          "url": "https://github.com/cynicalight/reader/issues/86",
-          "createdAt": "2026-10-15T12:48:11Z"
+          "label": "Feature Request 3: Expand Default Lyrics Sources and Support Custom Lyrics Servers",
+          "url": "https://github.com/chenqi92/primuse/issues/317",
+          "createdAt": "2026-10-16T13:14:36Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] 扩展论文库可选列并明确日期排序语义",
-          "url": "https://github.com/cynicalight/reader/issues/85",
-          "createdAt": "2026-10-15T12:47:44Z"
+          "label": "Feature Request 2: Context-Aware Romanization and Pronunciation Engine",
+          "url": "https://github.com/chenqi92/primuse/issues/316",
+          "createdAt": "2026-10-16T13:12:13Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] 论文库增加临时多标签筛选（AND/OR）",
-          "url": "https://github.com/cynicalight/reader/issues/84",
-          "createdAt": "2026-10-15T12:47:19Z"
+          "label": "Feature Request 1: Apple Music–Style Instrumental Interludes with Pre-Vocal Heartbeat Animation",
+          "url": "https://github.com/chenqi92/primuse/issues/315",
+          "createdAt": "2026-10-16T13:09:09Z"
         }
       ]
     },
     {
-      "id": "emerging-reproducible-bug-confirm",
-      "title": "Clipboard silently fails on GNOME/Wayland — herdr picks wl-copy, which can't work under Mutter",
-      "summary": "### Is this a reproducible bug? - [x] I confirm this is a reproducible bug, not a feature request, idea, or question. - [x] I reproduced this bug on the version and environment reported below using the exact steps provided. ### Current behavior Copying from a pane (copy-mode `ctr",
+      "id": "emerging-feature-request-pdfcraft",
+      "title": "[Feature Request] [PdfCraft] Issue with Manual Duplex Printing",
+      "summary": "### Description When using the double-sided printing option with printers that do not support automatic duplex printing, PDFCraft does not display the instructions prompting the user to flip the paper before printing the other side. Instead, the system immediately starts printing",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-16T13:14:00Z",
+      "keywords": [
+        "feature",
+        "request",
+        "pdfcraft",
+        "description",
+        "option"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [PdfCraft] Issue with Manual Duplex Printing",
+          "url": "https://github.com/storytold/pdfcraft/issues/2860",
+          "createdAt": "2026-10-16T13:14:00Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [PdfCraft] signature valid option",
+          "url": "https://github.com/storytold/pdfcraft/issues/2855",
+          "createdAt": "2026-10-16T12:48:56Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-first",
+      "title": "[Feature][Android] Allow Custom Save Directory (Internal Storage / SD Card)",
+      "summary": "## Feature Request: Custom Save Directory on Android First of all, thanks for implementing save import/export on Android in #194! I'd like to request one additional feature: **the ability to choose where Lost Odyssey Recomp stores its save files on Android.** ## Current Limitatio",
       "score": 57,
       "scoreComponents": {
         "base": 28,
@@ -148,34 +165,34 @@
         "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-10-15T13:25:14Z",
+      "latestSignal": "2026-10-16T12:55:55Z",
       "keywords": [
-        "reproducible",
-        "bug",
-        "confirm",
-        "not",
-        "feature"
+        "feature",
+        "request",
+        "first",
+        "all",
+        "thanks"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Clipboard silently fails on GNOME/Wayland — herdr picks wl-copy, which can't work under Mutter",
-          "url": "https://github.com/sadsfae/herdr-screen/issues/55",
-          "createdAt": "2026-10-15T13:25:14Z"
+          "label": "[Feature][Android] Allow Custom Save Directory (Internal Storage / SD Card)",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/issues/587",
+          "createdAt": "2026-10-16T12:55:55Z"
         },
         {
           "source": "GitHub",
-          "label": "OSC 4 palette reply fragments still reach pane input as typed text in 0.9.4 (nested tmux on Linux)",
-          "url": "https://github.com/herdrdev/herdr/issues/5302",
-          "createdAt": "2026-10-15T13:21:04Z"
+          "label": "Feature request: option to expand fence upward instead of downward",
+          "url": "https://github.com/DayuanJiang/PecoFence/issues/125",
+          "createdAt": "2026-10-16T12:37:42Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "[FEATURE REQUEST] Choose between original and transcoded video playback",
-      "summary": "Hi! Could you add a setting to choose between original and transcoded video playback? Currently, the app uses /api/assets/{id}/video/playback, which serves the transcoded version when available and otherwise the original. I would like to choose: - Original: always play the origin",
+      "id": "emerging-keep-feature-request",
+      "title": "feat: keep history when the chart is resized",
+      "summary": "### Is your feature request related to a problem? `New(w, h)` fixes the plot size, and there is no way to change it later. `PushSeries` keeps only the last `w` points (`pulse.go`, `PushSeries`), and `VisibleEvents` drops events that leave the window. In a Bubble Tea app the size",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -183,62 +200,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-15T13:20:06Z",
+      "latestSignal": "2026-10-16T13:14:41Z",
       "keywords": [
+        "keep",
         "feature",
         "request",
-        "add",
-        "setting",
-        "currently"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] Choose between original and transcoded video playback",
-          "url": "https://github.com/mensadilabs/Immich-Gallery/issues/156",
-          "createdAt": "2026-10-15T13:20:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Back Navigation During Installation and Multilingual Support",
-          "url": "https://github.com/REMvisual/VoidGram-releases/issues/2",
-          "createdAt": "2026-10-15T11:16:22Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-summary",
-      "title": "Feature request: Quick family entry and relationship builder",
-      "summary": "## Summary Add a fast, visual way to enter a person and build their family relationships, inspired by [Quick Family Tree](https://apps.apple.com/us/app/quick-family-tree/id1447075049) and its connected-person interface. ## Proposed experience - Start with a friend, partner, or ch",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-15T13:18:06Z",
-      "keywords": [
-        "feature",
-        "request",
-        "summary",
-        "add",
+        "there",
         "way"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Quick family entry and relationship builder",
-          "url": "https://github.com/dannydover/Kin/issues/28",
-          "createdAt": "2026-10-15T13:18:06Z"
+          "label": "feat: keep history when the chart is resized",
+          "url": "https://github.com/ingvarch/pulse/issues/6",
+          "createdAt": "2026-10-16T13:14:41Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: multi-language support (i18n) with drop-in translation files",
-          "url": "https://github.com/storytold/artcraft/issues/2382",
-          "createdAt": "2026-10-15T12:40:47Z"
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         }
       ]
     }

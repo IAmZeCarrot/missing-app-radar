@@ -1514,6 +1514,39 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "clusters": 6,
+      "requests": 14,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-show-claude-code",
+          "score": 68,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 68,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-lyrics",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-pdfcraft",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-first",
+          "score": 57,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
