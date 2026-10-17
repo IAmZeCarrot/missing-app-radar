@@ -1,7 +1,172 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-16T13:15:19.448Z",
+  "generatedAt": "2026-10-17T12:11:29.742Z",
   "clusters": [
+    {
+      "id": "emerging-request-feature-existing",
+      "title": "request: make stars.config decide what registers, and add runtime client hooks to modules",
+      "summary": "### Is there an existing issue or pull request for this? - [x] I have searched the existing issues and pull requests ### Feature description Follow-up to #245. `definePlugin`, `defineModule` and the `modules` list in `stars.config` exist, but two things still make the package nam",
+      "score": 93,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 21
+      },
+      "requests": 5,
+      "latestSignal": "2026-10-17T11:37:31Z",
+      "keywords": [
+        "request",
+        "feature",
+        "existing",
+        "searched",
+        "requests"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "request: make stars.config decide what registers, and add runtime client hooks to modules",
+          "url": "https://github.com/wolfstar-project/stars-components/issues/336",
+          "createdAt": "2026-10-17T11:37:31Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "QR code sign-in for the VS Code extension",
+          "url": "https://github.com/anthropics/claude-code/issues/102980",
+          "createdAt": "2026-10-17T11:28:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Desktop] Restore a keyboard shortcut to open a new independent window",
+          "url": "https://github.com/anthropics/claude-code/issues/102979",
+          "createdAt": "2026-10-17T11:27:45Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "✨ - feat reuse organization configuration and set up selected repositories in one guided session",
+          "url": "https://github.com/vypdev/copilot/issues/538",
+          "createdAt": "2026-10-17T10:58:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE REQUEST] New Tab Page Wallpaper/Background",
+          "url": "https://github.com/by-architect/Dejavu/issues/79",
+          "createdAt": "2026-10-09T23:32:58Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-description",
+      "title": "[Feature Request] [PhotoCraft] Why photocraft doesn't support Pdf?",
+      "summary": "### Description Why photocraft doesn't support Pdf? in adobe photoshop it supports Pdf but photocraft doesn't my work mostly is with pdf so i need that Feature without it even if i want i cannot use photocraft. Please add support pdf ### Ticket details | | | |---|---| | **App** |",
+      "score": 92,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 20
+      },
+      "requests": 7,
+      "latestSignal": "2026-10-17T11:54:41Z",
+      "keywords": [
+        "feature",
+        "request",
+        "description",
+        "ticket",
+        "details"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [PhotoCraft] Why photocraft doesn't support Pdf?",
+          "url": "https://github.com/storytold/photocraft/issues/6986",
+          "createdAt": "2026-10-17T11:54:41Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [PhotoCraft] External fonts",
+          "url": "https://github.com/storytold/photocraft/issues/6984",
+          "createdAt": "2026-10-17T11:51:40Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [VectorCraft] cant export svg files to eps and .ai",
+          "url": "https://github.com/storytold/vectorcraft/issues/2711",
+          "createdAt": "2026-10-17T11:50:21Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [PhotoCraft] bulk image processor",
+          "url": "https://github.com/storytold/photocraft/issues/6977",
+          "createdAt": "2026-10-17T11:20:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [FilmCraft] missing \"Replace with after effects\" button",
+          "url": "https://github.com/storytold/filmcraft/issues/2278",
+          "createdAt": "2026-10-17T11:01:41Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Allow conformance replay to use recorded responses without executing selected tools",
+          "url": "https://github.com/google/adk-python/issues/7592",
+          "createdAt": "2026-10-17T10:55:23Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Add Mac App Store distribution support",
+          "url": "https://github.com/kim0522ms/NetWiv/issues/24",
+          "createdAt": "2026-10-17T09:22:19Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "Add TinyFish as a free Web Search provider (search + fetch are genuinely free)",
+      "summary": "### Is your feature request related to a problem? Please describe. Web search backends currently include Tavily, Brave, Exa, Firecrawl, You.com and SearXNG. All of them are either metered per call (Tavily/Brave/Exa credits run out) or require self-hosting (SearXNG). There is no z",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 0
+      },
+      "requests": 4,
+      "latestSignal": "2026-10-17T12:09:03Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Add TinyFish as a free Web Search provider (search + fetch are genuinely free)",
+          "url": "https://github.com/yetone/magpie/issues/2731",
+          "createdAt": "2026-10-17T12:09:03Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Scan OIDC clients' configurations in docker labels",
+          "url": "https://github.com/tinyauthapp/tinyauth/issues/1198",
+          "createdAt": "2026-10-17T10:52:26Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Expose configured Dictation Cleanup to local CLI and loopback integrations",
+          "url": "https://github.com/OpenWhispr/openwhispr/issues/2732",
+          "createdAt": "2026-10-17T08:24:41Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
     {
       "id": "emerging-show-claude-code",
       "title": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
@@ -38,161 +203,9 @@
       ]
     },
     {
-      "id": "emerging-feature-request-related",
-      "title": "Option to disable the `Co-authored-by: Nuxt Studio` commit trailer (Vercel Hobby blocks co-authored commits)",
-      "summary": "### Is your feature request related to a problem? Please describe Every commit Studio creates through the GitHub provider gets the trailer `Co-authored-by: Nuxt Studio <noreply@nuxt.studio>` appended, unconditionally: `NUXT_STUDIO_COAUTHOR` in `src/app/src/utils/providers/github.",
-      "score": 68,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 7
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-16T12:46:03Z",
-      "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "please"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Option to disable the `Co-authored-by: Nuxt Studio` commit trailer (Vercel Hobby blocks co-authored commits)",
-          "url": "https://github.com/nuxt-content/nuxt-studio/issues/580",
-          "createdAt": "2026-10-16T12:46:03Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Make the desktop webview opt-in so Linux/Windows apps don't have to link WebKitGTK/WebView2",
-          "url": "https://github.com/ThexXTURBOXx/flutter_web_auth_2/issues/221",
-          "createdAt": "2026-10-16T12:33:27Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-lyrics",
-      "title": "Feature Request 3: Expand Default Lyrics Sources and Support Custom Lyrics Servers",
-      "summary": "### 想解决什么问题 / What would you like Objective Increase the probability of finding accurate, word-synchronized lyrics by adding multiple providers and allowing users to configure compatible custom lyrics servers. Primuse should support both a curated set of built-in sources and a us",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-16T13:14:36Z",
-      "keywords": [
-        "feature",
-        "request",
-        "lyrics",
-        "like",
-        "objective"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature Request 3: Expand Default Lyrics Sources and Support Custom Lyrics Servers",
-          "url": "https://github.com/chenqi92/primuse/issues/317",
-          "createdAt": "2026-10-16T13:14:36Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request 2: Context-Aware Romanization and Pronunciation Engine",
-          "url": "https://github.com/chenqi92/primuse/issues/316",
-          "createdAt": "2026-10-16T13:12:13Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request 1: Apple Music–Style Instrumental Interludes with Pre-Vocal Heartbeat Animation",
-          "url": "https://github.com/chenqi92/primuse/issues/315",
-          "createdAt": "2026-10-16T13:09:09Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-pdfcraft",
-      "title": "[Feature Request] [PdfCraft] Issue with Manual Duplex Printing",
-      "summary": "### Description When using the double-sided printing option with printers that do not support automatic duplex printing, PDFCraft does not display the instructions prompting the user to flip the paper before printing the other side. Instead, the system immediately starts printing",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-16T13:14:00Z",
-      "keywords": [
-        "feature",
-        "request",
-        "pdfcraft",
-        "description",
-        "option"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [PdfCraft] Issue with Manual Duplex Printing",
-          "url": "https://github.com/storytold/pdfcraft/issues/2860",
-          "createdAt": "2026-10-16T13:14:00Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [PdfCraft] signature valid option",
-          "url": "https://github.com/storytold/pdfcraft/issues/2855",
-          "createdAt": "2026-10-16T12:48:56Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-first",
-      "title": "[Feature][Android] Allow Custom Save Directory (Internal Storage / SD Card)",
-      "summary": "## Feature Request: Custom Save Directory on Android First of all, thanks for implementing save import/export on Android in #194! I'd like to request one additional feature: **the ability to choose where Lost Odyssey Recomp stores its save files on Android.** ## Current Limitatio",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-16T12:55:55Z",
-      "keywords": [
-        "feature",
-        "request",
-        "first",
-        "all",
-        "thanks"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature][Android] Allow Custom Save Directory (Internal Storage / SD Card)",
-          "url": "https://github.com/freefrank/LostOdysseyRecomp/issues/587",
-          "createdAt": "2026-10-16T12:55:55Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: option to expand fence upward instead of downward",
-          "url": "https://github.com/DayuanJiang/PecoFence/issues/125",
-          "createdAt": "2026-10-16T12:37:42Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-keep-feature-request",
-      "title": "feat: keep history when the chart is resized",
-      "summary": "### Is your feature request related to a problem? `New(w, h)` fixes the plot size, and there is no way to change it later. `PushSeries` keeps only the last `w` points (`pulse.go`, `PushSeries`), and `VisibleEvents` drops events that leave the window. In a Bubble Tea app the size",
+      "id": "emerging-feature-request-device",
+      "title": "[Feature Request] Periodic automated configuration backups for cross-device synchronization",
+      "summary": "## Summary It would be very useful to have an automated, periodic backup feature for SSH Pilot configurations to facilitate seamless synchronization across multiple devices. ## Context & Use Case I use SSH Pilot daily on both my office workstation and my personal laptop at home.",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -200,21 +213,21 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-16T13:14:41Z",
+      "latestSignal": "2026-10-17T10:16:10Z",
       "keywords": [
-        "keep",
         "feature",
         "request",
-        "there",
-        "way"
+        "device",
+        "useful",
+        "across"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "feat: keep history when the chart is resized",
-          "url": "https://github.com/ingvarch/pulse/issues/6",
-          "createdAt": "2026-10-16T13:14:41Z"
+          "label": "[Feature Request] Periodic automated configuration backups for cross-device synchronization",
+          "url": "https://github.com/mfat/sshpilot/issues/1331",
+          "createdAt": "2026-10-17T10:16:10Z"
         },
         {
           "source": "GitHub",
