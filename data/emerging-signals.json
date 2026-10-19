@@ -1,54 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-18T12:36:48.818Z",
+  "generatedAt": "2026-10-19T15:35:43.428Z",
   "clusters": [
-    {
-      "id": "emerging-feature-request-please",
-      "title": "[Feature Request] [App Launcher] Option to select install path",
-      "summary": "### Description In Linux Appimage, the launcher installs all apps by default in home>applications folder, and if moved from there or renamed the launcher cant recognize it. please give an option to change the install path for appimage, i believe it is a very small fix required. #",
-      "score": 83,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 11
-      },
-      "requests": 4,
-      "latestSignal": "2026-10-18T12:32:05Z",
-      "keywords": [
-        "feature",
-        "request",
-        "please",
-        "app",
-        "option"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [App Launcher] Option to select install path",
-          "url": "https://github.com/storytold/craft-launcher/issues/587",
-          "createdAt": "2026-10-18T12:32:05Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [DeckCraft] Unify the Design Language and Shared Tools Across Grid, Word, and Deck",
-          "url": "https://github.com/storytold/deckcraft/issues/980",
-          "createdAt": "2026-10-18T12:12:19Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Per-device server mode option in plugin config (workaround for IKEA DIRIGERA keeping only one device per node)",
-          "url": "https://github.com/Luligu/matterbridge/issues/662",
-          "createdAt": "2026-10-18T12:05:21Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
     {
       "id": "emerging-show-claude-code",
       "title": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
@@ -85,37 +38,78 @@
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "[Feature Request] Add Catalan proofing support (spell checking and suggestions)",
-      "summary": "### Summary Please add Catalan (Català) as a proofing language in WordCraft, including spell checking and spelling correction suggestions, with support for the language tag `ca` / `ca-ES` and compatible Hunspell dictionaries such as `ca_ES.aff` and `ca_ES.dic`. ### Motivation I w",
-      "score": 57,
+      "id": "emerging-feature-request-app",
+      "title": "Publish XPSemu on prosperostore",
+      "summary": "### Feature Request Hello friends, I am the new owner of the PS5 store \"Prospero Store,\" and I would like to invite you to list your app there as well, if possible. Our website is prosperostore.net; should you have any questions or run into any issues, we would be happy to help.",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 7
+        "volume": 33,
+        "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-10-18T11:31:31Z",
+      "requests": 3,
+      "latestSignal": "2026-10-19T15:12:16Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "support",
-        "summary"
+        "app",
+        "like",
+        "there"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add Catalan proofing support (spell checking and suggestions)",
-          "url": "https://github.com/storytold/wordcraft/issues/2895",
-          "createdAt": "2026-10-18T11:31:31Z"
+          "label": "Publish XPSemu on prosperostore",
+          "url": "https://github.com/ZiZc3/XPSemu/issues/19",
+          "createdAt": "2026-10-19T15:12:16Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Add llama.cpp router mode to Server Mode",
-          "url": "https://github.com/kyuz0/ai-toolbox-cockpit/issues/25",
-          "createdAt": "2026-10-18T09:11:33Z"
+          "label": "Feature Request",
+          "url": "https://github.com/qrkboard/feedback/issues/1",
+          "createdAt": "2026-10-19T15:09:35Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "GTFS GraphQL API: per-call cancellation, position and geometry on `StopCall`",
+      "summary": "**Is your feature request related to a problem? Please describe.** When a user taps a transit leg, our app shows the whole trip on a map and styles each stop-to-stop section as *part of the leg*, *rest of the trip*, or *cancelled by realtime* (e.g. the vehicle ends early). <img w",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-19T15:17:31Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "GTFS GraphQL API: per-call cancellation, position and geometry on `StopCall`",
+          "url": "https://github.com/opentripplanner/OpenTripPlanner/issues/8108",
+          "createdAt": "2026-10-19T15:17:31Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
         }
       ]
     }

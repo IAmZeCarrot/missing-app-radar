@@ -1603,6 +1603,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "clusters": 3,
+      "requests": 7,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-show-claude-code",
+          "score": 68,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-app",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
