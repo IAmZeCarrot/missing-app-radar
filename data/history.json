@@ -1626,6 +1626,39 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-20",
+      "clusters": 7,
+      "requests": 17,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-not-feature-request",
+          "score": 75,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-app",
+          "score": 68,
+          "requests": 3
+        },
+        {
+          "id": "emerging-show-build-business",
+          "score": 64,
+          "requests": 2
+        },
+        {
+          "id": "emerging-show-built-task",
+          "score": 64,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 61,
+          "requests": 3
+        }
+      ]
     }
   ]
 }
