@@ -1,52 +1,105 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-20T13:33:16.969Z",
+  "generatedAt": "2026-10-21T13:48:13.182Z",
   "clusters": [
     {
-      "id": "emerging-not-feature-request",
-      "title": "aranet integration page does not address fetching past data",
-      "summary": "### Type of issue Missing information ### Problem description The aranet integration does not fetch stored data. This is a missing feature -- the official app will fetch data when the aranet device is back in range. However this bug report is not a feature request. The documentat",
-      "score": 75,
+      "id": "emerging-feature-request-vector",
+      "title": "[Feature Request] Live Vector & Text Bridge between VectorCraft and EffectCraft (Overlord-style integration)",
+      "summary": "### Summary / Feature Description Currently, transferring assets from **VectorCraft** into **EffectCraft** requires exporting static files (SVG/PNG) and importing them manually. To enable a seamless motion design workflow, we need a direct bridge—similar to how **Overlord** conne",
+      "score": 77,
       "scoreComponents": {
         "base": 28,
         "volume": 33,
-        "engagement": 14
+        "engagement": 16
       },
       "requests": 3,
-      "latestSignal": "2026-10-20T12:44:30Z",
+      "latestSignal": "2026-10-21T13:37:04Z",
       "keywords": [
-        "not",
         "feature",
         "request",
-        "page",
-        "does"
+        "vector",
+        "text",
+        "vectorcraft"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "aranet integration page does not address fetching past data",
-          "url": "https://github.com/home-assistant/home-assistant.io/issues/49534",
-          "createdAt": "2026-10-20T12:44:30Z"
+          "label": "[Feature Request] Live Vector & Text Bridge between VectorCraft and EffectCraft (Overlord-style integration)",
+          "url": "https://github.com/storytold/vectorcraft/issues/3407",
+          "createdAt": "2026-10-21T13:37:04Z"
         },
         {
           "source": "GitHub",
-          "label": "Fehlerbericht: Not a bug but a feature request. For a fill in the blank type exercis…",
-          "url": "https://github.com/ravjot-sk/german-trainer/issues/46",
-          "createdAt": "2026-10-20T12:36:25Z"
+          "label": "[Feature Request] VectorCraft to PhotoCraft Copy & Paste (Smart Objects, Shape & Text Support)",
+          "url": "https://github.com/storytold/vectorcraft/issues/3404",
+          "createdAt": "2026-10-21T13:32:46Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request – Add Crop Page Option",
-          "url": "https://github.com/storytold/pdfcraft/issues/3615",
-          "createdAt": "2026-10-20T08:21:44Z"
+          "label": "[Feature Request] VectorCraft to PhotoCraft Copy & Paste (Smart Objects, Shape & Text Support)",
+          "url": "https://github.com/storytold/photocraft/issues/8255",
+          "createdAt": "2026-10-21T13:31:18Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-app",
-      "title": "[Feature Request] Let people theme the whole Claude desktop app (colours, background picture, avatar, fonts)",
-      "summary": "## Summary Let people style the whole Claude desktop app, not only the chat inside it: an accent colour, a full-window background picture, their own avatar and display name in the chat, and fonts. Let plugins do the same, and let people share themes in a gallery. ## What I'd like",
+      "id": "emerging-feature-request-please",
+      "title": "Feature request: option to hide the Dock icon (menu-bar-only mode)",
+      "summary": "### Summary Please add a setting to hide FreeSnitch's Dock icon and run as a menu-bar-only app. ### Motivation FreeSnitch has to stay running all the time (alerts are shown by the GUI; without it connections fall through to fail-open). Because of that, the permanent Dock icon is",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 0
+      },
+      "requests": 5,
+      "latestSignal": "2026-10-21T13:44:43Z",
+      "keywords": [
+        "feature",
+        "request",
+        "please",
+        "option",
+        "add"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: option to hide the Dock icon (menu-bar-only mode)",
+          "url": "https://github.com/isaaclins/freesnitch/issues/145",
+          "createdAt": "2026-10-21T13:44:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Album art",
+          "url": "https://github.com/RetroMusicPlayer/RetroMusicPlayer/issues/2064",
+          "createdAt": "2026-10-21T13:32:52Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Add a persistent setting to disable bottom-right notifications",
+          "url": "https://github.com/oipoistar/tinta/issues/273",
+          "createdAt": "2026-10-21T13:28:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add Automatic Restart Support for Shizuku without ADB or Wi-Fi",
+          "url": "https://github.com/thedjchi/Shizuku/issues/316",
+          "createdAt": "2026-10-21T13:15:44Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-add",
+      "title": "Add last.fm scrobbling",
+      "summary": "### Describe the feature request ```yaml Have an integrated [last.fm](https://www.last.fm/home) scrobbler inside the app (maybe as an option during the build). ``` ### Post Requisites - [x] I have checked that a similar feature request has not been reported before. - [x] Verified",
       "score": 68,
       "scoreComponents": {
         "base": 28,
@@ -54,33 +107,33 @@
         "engagement": 7
       },
       "requests": 3,
-      "latestSignal": "2026-10-20T13:14:30Z",
+      "latestSignal": "2026-10-21T13:44:37Z",
       "keywords": [
         "feature",
         "request",
-        "app",
-        "summary",
-        "not"
+        "add",
+        "integrated",
+        "app"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Let people theme the whole Claude desktop app (colours, background picture, avatar, fonts)",
-          "url": "https://github.com/anthropics/claude-code/issues/103748",
-          "createdAt": "2026-10-20T13:14:30Z"
+          "label": "Add last.fm scrobbling",
+          "url": "https://github.com/Mark02-2012/MaxMusic/issues/12",
+          "createdAt": "2026-10-21T13:44:37Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Spotify integration",
-          "url": "https://github.com/mr-reb00t/marco/issues/18",
-          "createdAt": "2026-10-20T12:54:07Z"
+          "label": "[Feature Request] [FigCraft] A way to round the corners of a subtract shape group",
+          "url": "https://github.com/storytold/figcraft/issues/978",
+          "createdAt": "2026-10-21T13:39:56Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: Display local times on the map",
-          "url": "https://github.com/ACoci86/terrahour/issues/22",
-          "createdAt": "2026-10-20T12:47:17Z"
+          "label": "[BUG] - Daily Tasks crash mealie",
+          "url": "https://github.com/mealie-recipes/mealie/issues/8818",
+          "createdAt": "2026-10-21T13:11:19Z"
         }
       ]
     },
@@ -120,148 +173,37 @@
       ]
     },
     {
-      "id": "emerging-show-built-task",
-      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-      "summary": "Yes, you can build something with ChatGPT if you have a $20 subscription, and I&#x27;m sure that there are people who have already done that. If you go that route, you do need a place to store your list that your assistant can see. For this app, it is the one and only place your",
-      "score": 64,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 14
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-19T20:08:39Z",
-      "keywords": [
-        "show",
-        "built",
-        "task",
-        "subscription",
-        "there"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-          "url": "https://news.ycombinator.com/item?id=50151980",
-          "createdAt": "2026-10-19T20:08:39Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
-          "url": "https://news.ycombinator.com/item?id=50088088",
-          "createdAt": "2026-10-14T14:13:33Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "Add Windows 11 Mica (Wallpaper-Based Transparency) Support",
-      "summary": "**Is your feature request related to a problem? Please describe.** Currently, enabling transparency in Tabby allows other application windows behind the terminal to show through. I'd like to have a translucent-looking terminal background based on my desktop wallpaper, without see",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-20T13:09:52Z",
-      "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "add"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Add Windows 11 Mica (Wallpaper-Based Transparency) Support",
-          "url": "https://github.com/Eugeny/tabby/issues/11826",
-          "createdAt": "2026-10-20T13:09:52Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Support GitRepo-local scope for bundle dependencies",
-          "url": "https://github.com/rancher/fleet/issues/5976",
-          "createdAt": "2026-10-20T13:02:11Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Agree bounded Playwright collection actions for pagination and multi-download",
-          "url": "https://github.com/s-t-e-f-a-n/BillCollector/issues/18",
-          "createdAt": "2026-10-20T12:39:05Z"
-        }
-      ]
-    },
-    {
       "id": "emerging-feature-request-add",
-      "title": "Feature Request: Picture Aspect Ratio Selection & Forced \"Just Scan\" Override",
-      "summary": "### **Feature Request: Add Picture Aspect Ratio Control and Unlock \"Just Scan\" Mode** #### **Summary** Add controls to Glasshouse to set the **Picture Aspect Ratio** (`16:9`, `Original`, `4:3`, `Vertical Zoom`, `4-Way Zoom`, `21:9`, `32:9`) and explicitly toggle **Just Scan** (`O",
-      "score": 50,
+      "title": "[Feature Request] [PdfCraft] Feature Request: Add Diacritic-Insensitive Search and Replace",
+      "summary": "### Description Description It would be useful to add an option to ignore diacritics when searching for or replacing text in PdfCraft. This would allow users to find words regardless of whether accented characters are present, which is particularly helpful when working with multi",
+      "score": 57,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-10-20T13:26:56Z",
+      "latestSignal": "2026-10-21T13:18:08Z",
       "keywords": [
         "feature",
         "request",
         "add",
-        "summary",
-        "controls"
+        "useful",
+        "text"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Picture Aspect Ratio Selection & Forced \"Just Scan\" Override",
-          "url": "https://github.com/rorygallagher2024/glasshouse/issues/905",
-          "createdAt": "2026-10-20T13:26:56Z"
+          "label": "[Feature Request] [PdfCraft] Feature Request: Add Diacritic-Insensitive Search and Replace",
+          "url": "https://github.com/storytold/pdfcraft/issues/3841",
+          "createdAt": "2026-10-21T13:18:08Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: HDMI Input Device Type Assignment & 4:4:4 Chroma Pass-Through Toggle",
-          "url": "https://github.com/rorygallagher2024/glasshouse/issues/904",
-          "createdAt": "2026-10-20T13:23:39Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "feat(signals): let a person grant experiment:write to a scout",
-      "summary": "## Is your feature request related to a problem? Some users want a scout to manage experiments for them and with them. For example, a scout can draft an experiment from a finding, keep its metrics current, or pause, end, or ship an experiment when the team tells it to. At this ti",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-20T12:36:49Z",
-      "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "users"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "feat(signals): let a person grant experiment:write to a scout",
-          "url": "https://github.com/PostHog/posthog/issues/120234",
-          "createdAt": "2026-10-20T12:36:49Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "Feature Request: Add an Export Button to the Advanced Removal Component List",
+          "url": "https://github.com/ntdevlabs/tiny11builder/issues/661",
+          "createdAt": "2026-10-21T10:58:38Z"
         }
       ]
     }

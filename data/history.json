@@ -1659,6 +1659,39 @@
           "requests": 3
         }
       ]
+    },
+    {
+      "date": "2026-10-21",
+      "clusters": 5,
+      "requests": 15,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-vector",
+          "score": 77,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-please",
+          "score": 72,
+          "requests": 5
+        },
+        {
+          "id": "emerging-feature-request-add",
+          "score": 68,
+          "requests": 3
+        },
+        {
+          "id": "emerging-show-build-business",
+          "score": 64,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-add",
+          "score": 57,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
