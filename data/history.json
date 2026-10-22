@@ -1692,6 +1692,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "clusters": 3,
+      "requests": 11,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-description",
+          "score": 79,
+          "requests": 6
+        },
+        {
+          "id": "emerging-show-open-building",
+          "score": 77,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
