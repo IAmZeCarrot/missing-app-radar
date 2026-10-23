@@ -1,93 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-22T13:48:00.165Z",
+  "generatedAt": "2026-10-23T13:26:31.589Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-description",
-      "title": "Please release this app for laptop also",
-      "summary": "### Checklist - [x] I've checked that there is no other issue about this feature request. - [x] This issue contains only one feature request. - [x] The title of this issue accurately describes the feature request. ### Feature description This app is fantastic. Can you please rele",
-      "score": 79,
+      "id": "emerging-show-x27-been",
+      "title": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
+      "summary": "What’s up HN?! I&#x27;m Benji, and I’ve been building Frink since ~April this year. Frink is a desktop-first, open-source (MIT) app for running coding agents in parallel and multi-step workflows that start on their own. It runs on your machine (macOS and Linux) with your own prov",
+      "score": 66,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 7
-      },
-      "requests": 6,
-      "latestSignal": "2026-10-22T13:46:06Z",
-      "keywords": [
-        "feature",
-        "request",
-        "description",
-        "app",
-        "only"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Please release this app for laptop also",
-          "url": "https://github.com/MetrolistGroup/Metrolist/issues/4479",
-          "createdAt": "2026-10-22T13:46:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[REQUEST]: One search for library and Seerr, like Seerr's own search",
-          "url": "https://github.com/lks-hrsch/streamyfin/issues/28",
-          "createdAt": "2026-10-22T13:36:44Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request - Call Block APP",
-          "url": "https://github.com/nemerald-voip/fspbx/issues/665",
-          "createdAt": "2026-10-22T13:33:42Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Map to display new created point AUs for Mod 2 Shiny app",
-          "url": "https://github.com/USEPA/EPATADA/issues/1063",
-          "createdAt": "2026-10-22T13:33:05Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [VectorCraft] Dimension Tool Options - Arrow Style",
-          "url": "https://github.com/storytold/vectorcraft/issues/3618",
-          "createdAt": "2026-10-22T13:27:20Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Suggest a calendar entry for the sensor end when a sensor connects",
-          "url": "https://github.com/ctqvva/JugglucoNG/issues/709",
-          "createdAt": "2026-10-22T13:25:30Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-show-open-building",
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "summary": "Yeah, even as someone building in the space, I sometimes get confused on what and who I&#x27;m actually building for. What we&#x27;ve settled on is that Omnara is a tool for building agents. It&#x27;s for people putting agents into their own products or workflows using the API. I",
-      "score": 77,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
+        "volume": 22,
         "engagement": 16
       },
-      "requests": 3,
-      "latestSignal": "2026-10-22T06:45:21Z",
+      "requests": 2,
+      "latestSignal": "2026-10-20T17:34:24Z",
       "keywords": [
         "show",
-        "open",
-        "building",
         "x27",
-        "source"
+        "been",
+        "building",
+        "since"
       ],
       "reviewStatus": "automatic",
       "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-          "url": "https://news.ycombinator.com/item?id=50183892",
-          "createdAt": "2026-10-22T06:45:21Z"
-        },
         {
           "source": "Hacker News",
           "label": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
@@ -103,9 +38,79 @@
       ]
     },
     {
-      "id": "emerging-feature-request-related",
-      "title": "[FEAT] Loading skeletons across the app",
-      "summary": "**Is your feature request related to a problem? Please describe.** While data loads, screens show bare \"Loading...\" text, blank areas, wrong values (e.g. \"0 of 4 fields filled\", a 0% onboarding ring, a contact-info warning that flashes and disappears) or nothing at all, and lazy",
+      "id": "emerging-add-feature-one",
+      "title": "Missing tools Add a 3D material eyedropper tool Add a rounded rectangle tool Add a 3D option",
+      "summary": "Add a 3D material eyedropper tool Add a rounded rectangle tool Add a 3D option I understand that these should be tracked separately, and l'll create individual feature requests for each one. Why these features would be useful in Photocraft: 1. 3D Material Eyedropper Tool This wou",
+      "score": 64,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 14
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-23T06:09:43Z",
+      "keywords": [
+        "add",
+        "feature",
+        "one",
+        "why",
+        "useful"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Missing tools Add a 3D material eyedropper tool Add a rounded rectangle tool Add a 3D option",
+          "url": "https://github.com/storytold/photocraft/issues/8792",
+          "createdAt": "2026-10-23T06:09:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature]: Add PDF cropping",
+          "url": "https://github.com/KnifeLemon/Filee/issues/475",
+          "createdAt": "2026-10-23T05:53:02Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-toggle-feature-request",
+      "title": "Per-session Fast mode toggle for Codex (GPT) sessions",
+      "summary": "### Describe the feature request ## Problem I run several Codex (GPT) sessions side by side in Nimbalyst and want only one of them to use OpenAI's Fast service tier (\"2x speed, increased usage\"). Today the only way I can find is the shared `service_tier` setting in `~/.codex/conf",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-23T13:15:09Z",
+      "keywords": [
+        "toggle",
+        "feature",
+        "request",
+        "side",
+        "only"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Per-session Fast mode toggle for Codex (GPT) sessions",
+          "url": "https://github.com/nimbalyst/nimbalyst/issues/1854",
+          "createdAt": "2026-10-23T13:15:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [LightCraft] Lightcraft Compare View - side by side/stack toggle feature",
+          "url": "https://github.com/storytold/lightcraft/issues/2695",
+          "createdAt": "2026-10-23T13:02:35Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-add-searched-existing",
+      "title": "Add starter pack create, update and delete helpers",
+      "summary": "<!-- Have you searched the existing issues to see if your feature has already been requested ? --> # Feature Request ## Details ### Problem Description <!-- Please replace this line with a description of the problem you are seeking to solve. --> The SDK implements `Graph.StarterP",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -113,27 +118,97 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-22T13:31:22Z",
+      "latestSignal": "2026-10-23T13:22:41Z",
       "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "please"
+        "add",
+        "searched",
+        "existing",
+        "issues",
+        "feature"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEAT] Loading skeletons across the app",
-          "url": "https://github.com/LepistaBioinformatics/mycelium-webapp/issues/29",
-          "createdAt": "2026-10-22T13:31:22Z"
+          "label": "Add starter pack create, update and delete helpers",
+          "url": "https://github.com/blowdart/idunno.Bluesky/issues/701",
+          "createdAt": "2026-10-23T13:22:41Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
+          "label": "[Feature]: Add More Monitoring Apps",
+          "url": "https://github.com/oblien/openship/issues/1432",
+          "createdAt": "2026-10-23T11:13:33Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-app",
+      "title": "Feature Request: In-App App Management & GitHub OAuth for Developers",
+      "summary": "**Hi team**, ​I would like to suggest adding an in-app developer management dashboard powered by GitHub OAuth authentication. ​Currently, after submitting or uploading an application to the Orion Store, developers lack the ability to manage, update, or edit their listings directl",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-23T13:17:22Z",
+      "keywords": [
+        "feature",
+        "request",
+        "app",
+        "like",
+        "management"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: In-App App Management & GitHub OAuth for Developers",
+          "url": "https://github.com/RookieEnough/Orion-Store/issues/172",
+          "createdAt": "2026-10-23T13:17:22Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request",
+          "url": "https://github.com/kushagrasinghx/BitChord/issues/1065",
+          "createdAt": "2026-10-23T12:40:04Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-add-search-feature",
+      "title": "Move project: add search to the target organization select (and fix menu flicker on toggle)",
+      "summary": "### Feature request ## Is your feature request related to a problem? In **Project settings → Danger zone → Move project**, the \"Select target organization\" dropdown is a plain list with no search. If you belong to a lot of organizations, you have to scroll and scan the whole list",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-23T12:47:19Z",
+      "keywords": [
+        "add",
+        "search",
+        "feature",
+        "request",
+        "problem"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Move project: add search to the target organization select (and fix menu flicker on toggle)",
+          "url": "https://github.com/PostHog/posthog/issues/122662",
+          "createdAt": "2026-10-23T12:47:19Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE REQUEST] bottom nav bar",
+          "url": "https://github.com/by-architect/Dejavu/issues/203",
+          "createdAt": "2026-10-23T12:41:43Z"
         }
       ]
     }
