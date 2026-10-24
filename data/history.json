@@ -1748,6 +1748,34 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-24",
+      "clusters": 4,
+      "requests": 11,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 79,
+          "requests": 5
+        },
+        {
+          "id": "emerging-show-x27-been",
+          "score": 66,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-matching",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-use",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,60 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-23T13:26:31.589Z",
+  "generatedAt": "2026-10-24T12:40:13.298Z",
   "clusters": [
+    {
+      "id": "emerging-feature-request-related",
+      "title": "Camera Tool",
+      "summary": "### Is your feature request related to a problem? Please describe. Camera capture currently exists only as an - image source option (alongside gallery/file picker) - mainly for single photo import - QR scanning - and document capture. There's no dedicated camera interface with re",
+      "score": 79,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 7
+      },
+      "requests": 5,
+      "latestSignal": "2026-10-24T12:36:33Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "please"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Camera Tool",
+          "url": "https://github.com/T8RIN/ImageToolbox/issues/3264",
+          "createdAt": "2026-10-24T12:36:33Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Offer same functionality in 2.4GHz Wireless mode",
+          "url": "https://github.com/dev-zetta/mc7_studio/issues/1",
+          "createdAt": "2026-10-24T12:06:26Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Tree size metrics",
+          "url": "https://github.com/gramps-project/gramps-web-api/issues/1105",
+          "createdAt": "2026-10-24T11:36:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Optional Prometheus metrics endpoint for the API",
+          "url": "https://github.com/gramps-project/gramps-web-api/issues/1104",
+          "createdAt": "2026-10-24T11:33:31Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
     {
       "id": "emerging-show-x27-been",
       "title": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
@@ -38,79 +91,9 @@
       ]
     },
     {
-      "id": "emerging-add-feature-one",
-      "title": "Missing tools Add a 3D material eyedropper tool Add a rounded rectangle tool Add a 3D option",
-      "summary": "Add a 3D material eyedropper tool Add a rounded rectangle tool Add a 3D option I understand that these should be tracked separately, and l'll create individual feature requests for each one. Why these features would be useful in Photocraft: 1. 3D Material Eyedropper Tool This wou",
-      "score": 64,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 14
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-23T06:09:43Z",
-      "keywords": [
-        "add",
-        "feature",
-        "one",
-        "why",
-        "useful"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Missing tools Add a 3D material eyedropper tool Add a rounded rectangle tool Add a 3D option",
-          "url": "https://github.com/storytold/photocraft/issues/8792",
-          "createdAt": "2026-10-23T06:09:43Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature]: Add PDF cropping",
-          "url": "https://github.com/KnifeLemon/Filee/issues/475",
-          "createdAt": "2026-10-23T05:53:02Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-toggle-feature-request",
-      "title": "Per-session Fast mode toggle for Codex (GPT) sessions",
-      "summary": "### Describe the feature request ## Problem I run several Codex (GPT) sessions side by side in Nimbalyst and want only one of them to use OpenAI's Fast service tier (\"2x speed, increased usage\"). Today the only way I can find is the shared `service_tier` setting in `~/.codex/conf",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-23T13:15:09Z",
-      "keywords": [
-        "toggle",
-        "feature",
-        "request",
-        "side",
-        "only"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Per-session Fast mode toggle for Codex (GPT) sessions",
-          "url": "https://github.com/nimbalyst/nimbalyst/issues/1854",
-          "createdAt": "2026-10-23T13:15:09Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [LightCraft] Lightcraft Compare View - side by side/stack toggle feature",
-          "url": "https://github.com/storytold/lightcraft/issues/2695",
-          "createdAt": "2026-10-23T13:02:35Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-add-searched-existing",
-      "title": "Add starter pack create, update and delete helpers",
-      "summary": "<!-- Have you searched the existing issues to see if your feature has already been requested ? --> # Feature Request ## Details ### Problem Description <!-- Please replace this line with a description of the problem you are seeking to solve. --> The SDK implements `Graph.StarterP",
+      "id": "emerging-feature-request-matching",
+      "title": "[Feature request] User-selectable floating pet and matching in-chat assistant avatar",
+      "summary": "## Feature request Please add a **custom Buddy character/avatar** setting that applies consistently to both (1) the floating accessibility-service pet and (2) the assistant avatar beside messages in the in-app chat. **Preferred UX:** Keep **Original Buddy** as the default; allow",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -118,34 +101,34 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-23T13:22:41Z",
+      "latestSignal": "2026-10-24T12:07:23Z",
       "keywords": [
-        "add",
-        "searched",
-        "existing",
-        "issues",
-        "feature"
+        "feature",
+        "request",
+        "matching",
+        "please",
+        "add"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Add starter pack create, update and delete helpers",
-          "url": "https://github.com/blowdart/idunno.Bluesky/issues/701",
-          "createdAt": "2026-10-23T13:22:41Z"
+          "label": "[Feature request] User-selectable floating pet and matching in-chat assistant avatar",
+          "url": "https://github.com/ghorbelhamdi/buddy-android/issues/10",
+          "createdAt": "2026-10-24T12:07:23Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Add More Monitoring Apps",
-          "url": "https://github.com/oblien/openship/issues/1432",
-          "createdAt": "2026-10-23T11:13:33Z"
+          "label": "[Feature Request / Support] Add kernel profile for nubia Neo 3 GT 5G (Spreadtrum UMS9620S)",
+          "url": "https://github.com/YuKongA/ghostlock-app/issues/661",
+          "createdAt": "2026-10-24T12:03:06Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-app",
-      "title": "Feature Request: In-App App Management & GitHub OAuth for Developers",
-      "summary": "**Hi team**, ​I would like to suggest adding an in-app developer management dashboard powered by GitHub OAuth authentication. ​Currently, after submitting or uploading an application to the Orion Store, developers lack the ability to manage, update, or edit their listings directl",
+      "id": "emerging-feature-request-use",
+      "title": "[FR]: External tool custom icon",
+      "summary": "### Brief description of the feature request Being on Linux most programs I use don't have a proper icon, so it would be useful if I could set one manually to more easily distinguish between them. A viable alternative would be being able to use .desktop files to launch applicatio",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -153,62 +136,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-23T13:17:22Z",
+      "latestSignal": "2026-10-24T08:35:01Z",
       "keywords": [
         "feature",
         "request",
-        "app",
-        "like",
-        "management"
+        "use",
+        "useful",
+        "manually"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: In-App App Management & GitHub OAuth for Developers",
-          "url": "https://github.com/RookieEnough/Orion-Store/issues/172",
-          "createdAt": "2026-10-23T13:17:22Z"
+          "label": "[FR]: External tool custom icon",
+          "url": "https://github.com/martinrotter/rssguard/issues/2492",
+          "createdAt": "2026-10-24T08:35:01Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request",
-          "url": "https://github.com/kushagrasinghx/BitChord/issues/1065",
-          "createdAt": "2026-10-23T12:40:04Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-add-search-feature",
-      "title": "Move project: add search to the target organization select (and fix menu flicker on toggle)",
-      "summary": "### Feature request ## Is your feature request related to a problem? In **Project settings → Danger zone → Move project**, the \"Select target organization\" dropdown is a plain list with no search. If you belong to a lot of organizations, you have to scroll and scan the whole list",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-23T12:47:19Z",
-      "keywords": [
-        "add",
-        "search",
-        "feature",
-        "request",
-        "problem"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Move project: add search to the target organization select (and fix menu flicker on toggle)",
-          "url": "https://github.com/PostHog/posthog/issues/122662",
-          "createdAt": "2026-10-23T12:47:19Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] bottom nav bar",
-          "url": "https://github.com/by-architect/Dejavu/issues/203",
-          "createdAt": "2026-10-23T12:41:43Z"
+          "label": "Feature request: Named configuration profiles for chat",
+          "url": "https://github.com/jokerwashere/obsidian-lantern/issues/3",
+          "createdAt": "2026-10-24T08:30:50Z"
         }
       ]
     }
