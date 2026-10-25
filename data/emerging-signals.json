@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-24T12:40:13.298Z",
+  "generatedAt": "2026-10-25T13:11:12.403Z",
   "clusters": [
     {
       "id": "emerging-feature-request-related",
-      "title": "Camera Tool",
-      "summary": "### Is your feature request related to a problem? Please describe. Camera capture currently exists only as an - image source option (alongside gallery/file picker) - mainly for single photo import - QR scanning - and document capture. There's no dedicated camera interface with re",
-      "score": 79,
+      "title": "Longest Drawdown",
+      "summary": "# Longest drawdown **Is your feature request related to a problem? Please describe.** How long the depot stayed down, beside how far it fell. `Maximum drawdown` (#173) answers the depth of the worst decline. The other way to measure a drawdown: How long did the longest drawdown t",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 7
+        "volume": 33,
+        "engagement": 22
       },
-      "requests": 5,
-      "latestSignal": "2026-10-24T12:36:33Z",
+      "requests": 3,
+      "latestSignal": "2026-10-25T12:25:41Z",
       "keywords": [
         "feature",
         "request",
@@ -25,27 +25,15 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Camera Tool",
-          "url": "https://github.com/T8RIN/ImageToolbox/issues/3264",
-          "createdAt": "2026-10-24T12:36:33Z"
+          "label": "Longest Drawdown",
+          "url": "https://github.com/aslopek/traquity/issues/174",
+          "createdAt": "2026-10-25T12:25:41Z"
         },
         {
           "source": "GitHub",
-          "label": "Offer same functionality in 2.4GHz Wireless mode",
-          "url": "https://github.com/dev-zetta/mc7_studio/issues/1",
-          "createdAt": "2026-10-24T12:06:26Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Tree size metrics",
-          "url": "https://github.com/gramps-project/gramps-web-api/issues/1105",
-          "createdAt": "2026-10-24T11:36:16Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Optional Prometheus metrics endpoint for the API",
-          "url": "https://github.com/gramps-project/gramps-web-api/issues/1104",
-          "createdAt": "2026-10-24T11:33:31Z"
+          "label": "Per-inverter cross-phase dispatch for vector-netted 3-phase supply",
+          "url": "https://github.com/springfall2008/batpred/issues/5746",
+          "createdAt": "2026-10-25T10:24:07Z"
         },
         {
           "source": "GitHub",
@@ -91,72 +79,37 @@
       ]
     },
     {
-      "id": "emerging-feature-request-matching",
-      "title": "[Feature request] User-selectable floating pet and matching in-chat assistant avatar",
-      "summary": "## Feature request Please add a **custom Buddy character/avatar** setting that applies consistently to both (1) the floating accessibility-service pet and (2) the assistant avatar beside messages in the in-app chat. **Preferred UX:** Keep **Original Buddy** as the default; allow",
-      "score": 50,
+      "id": "emerging-feature-request-add",
+      "title": "Feature Request: Add support for Russian MRZ weather radiosondes (MRZ-N1, MRZ-3MK) to Sonde App",
+      "summary": "Hello Armel, First of all, thank you so much for your incredible work on the F4HWN firmware and the Labs overlay apps. The ecosystem you've built for the Quansheng UV-K1 / K5 V3 is absolutely amazing! I would like to request a feature that would be highly appreciated by the amate",
+      "score": 57,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 0
+        "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-10-24T12:07:23Z",
+      "latestSignal": "2026-10-25T12:57:19Z",
       "keywords": [
         "feature",
         "request",
-        "matching",
-        "please",
-        "add"
+        "add",
+        "built",
+        "like"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature request] User-selectable floating pet and matching in-chat assistant avatar",
-          "url": "https://github.com/ghorbelhamdi/buddy-android/issues/10",
-          "createdAt": "2026-10-24T12:07:23Z"
+          "label": "Feature Request: Add support for Russian MRZ weather radiosondes (MRZ-N1, MRZ-3MK) to Sonde App",
+          "url": "https://github.com/armel/uv-k1-k5v3-firmware-custom/issues/723",
+          "createdAt": "2026-10-25T12:57:19Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request / Support] Add kernel profile for nubia Neo 3 GT 5G (Spreadtrum UMS9620S)",
-          "url": "https://github.com/YuKongA/ghostlock-app/issues/661",
-          "createdAt": "2026-10-24T12:03:06Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-use",
-      "title": "[FR]: External tool custom icon",
-      "summary": "### Brief description of the feature request Being on Linux most programs I use don't have a proper icon, so it would be useful if I could set one manually to more easily distinguish between them. A viable alternative would be being able to use .desktop files to launch applicatio",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-24T08:35:01Z",
-      "keywords": [
-        "feature",
-        "request",
-        "use",
-        "useful",
-        "manually"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FR]: External tool custom icon",
-          "url": "https://github.com/martinrotter/rssguard/issues/2492",
-          "createdAt": "2026-10-24T08:35:01Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Named configuration profiles for chat",
-          "url": "https://github.com/jokerwashere/obsidian-lantern/issues/3",
-          "createdAt": "2026-10-24T08:30:50Z"
+          "label": "[Feature Request] Add RomM (Rom Manager) client integration",
+          "url": "https://github.com/Roastedd/CoffeeFlix/issues/56",
+          "createdAt": "2026-10-25T12:40:14Z"
         }
       ]
     }
