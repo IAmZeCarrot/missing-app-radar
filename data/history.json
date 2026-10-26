@@ -1799,6 +1799,29 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "clusters": 3,
+      "requests": 6,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-show-x27-been",
+          "score": 66,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-than",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-support-device-feature",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

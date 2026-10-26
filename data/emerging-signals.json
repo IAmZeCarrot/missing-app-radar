@@ -1,48 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-25T13:11:12.403Z",
+  "generatedAt": "2026-10-26T15:11:23.967Z",
   "clusters": [
-    {
-      "id": "emerging-feature-request-related",
-      "title": "Longest Drawdown",
-      "summary": "# Longest drawdown **Is your feature request related to a problem? Please describe.** How long the depot stayed down, beside how far it fell. `Maximum drawdown` (#173) answers the depth of the worst decline. The other way to measure a drawdown: How long did the longest drawdown t",
-      "score": 83,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 22
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-25T12:25:41Z",
-      "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "please"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Longest Drawdown",
-          "url": "https://github.com/aslopek/traquity/issues/174",
-          "createdAt": "2026-10-25T12:25:41Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Per-inverter cross-phase dispatch for vector-netted 3-phase supply",
-          "url": "https://github.com/springfall2008/batpred/issues/5746",
-          "createdAt": "2026-10-25T10:24:07Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
     {
       "id": "emerging-show-x27-been",
       "title": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
@@ -79,37 +38,72 @@
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "Feature Request: Add support for Russian MRZ weather radiosondes (MRZ-N1, MRZ-3MK) to Sonde App",
-      "summary": "Hello Armel, First of all, thank you so much for your incredible work on the F4HWN firmware and the Labs overlay apps. The ecosystem you've built for the Quansheng UV-K1 / K5 V3 is absolutely amazing! I would like to request a feature that would be highly appreciated by the amate",
-      "score": 57,
+      "id": "emerging-feature-request-than",
+      "title": "Feature request: “Released for more than X days” condition (Auto-Tagger / Library Cleanup)",
+      "summary": "### Problem or Use Case Description: The status condition matches Radarr’s raw status (e.g. released), but there is no way to tell how long ago an item became available. age only counts from the date the item was added. Request: a condition such as “available for more than / less",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 7
+        "engagement": 11
       },
       "requests": 2,
-      "latestSignal": "2026-10-25T12:57:19Z",
+      "latestSignal": "2026-10-26T14:31:22Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "built",
-        "like"
+        "than",
+        "but",
+        "there"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Add support for Russian MRZ weather radiosondes (MRZ-N1, MRZ-3MK) to Sonde App",
-          "url": "https://github.com/armel/uv-k1-k5v3-firmware-custom/issues/723",
-          "createdAt": "2026-10-25T12:57:19Z"
+          "label": "Feature request: “Released for more than X days” condition (Auto-Tagger / Library Cleanup)",
+          "url": "https://github.com/Kha-kis/arr-dashboard/issues/886",
+          "createdAt": "2026-10-26T14:31:22Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add RomM (Rom Manager) client integration",
-          "url": "https://github.com/Roastedd/CoffeeFlix/issues/56",
-          "createdAt": "2026-10-25T12:40:14Z"
+          "label": "Feature request: BooksCraft - QuickBooks alternative",
+          "url": "https://github.com/storytold/craft-launcher/issues/318",
+          "createdAt": "2026-10-13T16:26:44Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-support-device-feature",
+      "title": "Add TVOC / IAQ Sensor Recalibrate support",
+      "summary": "### Device(s) - Kidde P4010ACSAQ-WF (Smoke Alarm with Indoor Air Quality Monitor) — I have two of these (Master Bedroom and Bedroom 2) ### Feature Request Please add a Recalibrate (or TVOC Recalibrate) button/service for IAQ-capable devices. ### Why this would be useful The TVOC",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-26T15:00:59Z",
+      "keywords": [
+        "support",
+        "device",
+        "feature",
+        "request",
+        "devices"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Add TVOC / IAQ Sensor Recalibrate support",
+          "url": "https://github.com/tache/homeassistant-kidde/issues/160",
+          "createdAt": "2026-10-26T15:00:59Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         }
       ]
     }
