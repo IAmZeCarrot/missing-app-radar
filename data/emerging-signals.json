@@ -1,81 +1,99 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-26T15:11:23.967Z",
+  "generatedAt": "2026-10-27T14:30:54.184Z",
   "clusters": [
     {
-      "id": "emerging-show-x27-been",
-      "title": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
-      "summary": "What’s up HN?! I&#x27;m Benji, and I’ve been building Frink since ~April this year. Frink is a desktop-first, open-source (MIT) app for running coding agents in parallel and multi-step workflows that start on their own. It runs on your machine (macOS and Linux) with your own prov",
-      "score": 66,
+      "id": "emerging-feature-request-description",
+      "title": "[Feature Request] [PhotoCraft] Import custom styles",
+      "summary": "### Description 1. Go to Window -> Styles 2. Import styles 3. Load .asl file from the drive ### Ticket details | | | |---|---| | **App** | PhotoCraft | | **Type** | Feature Request | | **Reported by** | nirthiene — Discord user ID `524245504335544330` | | **Submitted** | 2026-10-",
+      "score": 75,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 16
+        "volume": 33,
+        "engagement": 14
       },
-      "requests": 2,
-      "latestSignal": "2026-10-20T17:34:24Z",
-      "keywords": [
-        "show",
-        "x27",
-        "been",
-        "building",
-        "since"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
-          "url": "https://news.ycombinator.com/item?id=50169829",
-          "createdAt": "2026-10-20T17:34:24Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Enso Method – agent skills for building software for someone else",
-          "url": "https://news.ycombinator.com/item?id=50059416",
-          "createdAt": "2026-10-12T17:06:56Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-than",
-      "title": "Feature request: “Released for more than X days” condition (Auto-Tagger / Library Cleanup)",
-      "summary": "### Problem or Use Case Description: The status condition matches Radarr’s raw status (e.g. released), but there is no way to tell how long ago an item became available. age only counts from the date the item was added. Request: a condition such as “available for more than / less",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-26T14:31:22Z",
+      "requests": 3,
+      "latestSignal": "2026-10-27T14:28:51Z",
       "keywords": [
         "feature",
         "request",
-        "than",
-        "but",
-        "there"
+        "description",
+        "ticket",
+        "details"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: “Released for more than X days” condition (Auto-Tagger / Library Cleanup)",
-          "url": "https://github.com/Kha-kis/arr-dashboard/issues/886",
-          "createdAt": "2026-10-26T14:31:22Z"
+          "label": "[Feature Request] [PhotoCraft] Import custom styles",
+          "url": "https://github.com/storytold/photocraft/issues/9854",
+          "createdAt": "2026-10-27T14:28:51Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: BooksCraft - QuickBooks alternative",
-          "url": "https://github.com/storytold/craft-launcher/issues/318",
-          "createdAt": "2026-10-13T16:26:44Z"
+          "label": "[Feature Request] [PhotoCraft] Import custom vector .csh shapes",
+          "url": "https://github.com/storytold/photocraft/issues/9853",
+          "createdAt": "2026-10-27T14:17:13Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [VectorCraft] Add more sides/points to the star shape",
+          "url": "https://github.com/storytold/vectorcraft/issues/4339",
+          "createdAt": "2026-10-27T13:55:08Z"
         }
       ]
     },
     {
-      "id": "emerging-support-device-feature",
-      "title": "Add TVOC / IAQ Sensor Recalibrate support",
-      "summary": "### Device(s) - Kidde P4010ACSAQ-WF (Smoke Alarm with Indoor Air Quality Monitor) — I have two of these (Master Bedroom and Bedroom 2) ### Feature Request Please add a Recalibrate (or TVOC Recalibrate) button/service for IAQ-capable devices. ### Why this would be useful The TVOC",
+      "id": "emerging-feature-request-related",
+      "title": "refactor OOD_DASHBOARD_HELP_CUSTOM_URL to have ondemand.d support",
+      "summary": "**Is your feature request related to a problem?** We're refactoring all that we can in dashboard/configuration_singleton (and other places) to the more modern ondemand.d configurations with environment variable support. **Describe the solution you'd like** Refactor this configura",
+      "score": 72,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 0
+      },
+      "requests": 4,
+      "latestSignal": "2026-10-27T14:24:16Z",
+      "keywords": [
+        "feature",
+        "request",
+        "related",
+        "problem",
+        "describe"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "refactor OOD_DASHBOARD_HELP_CUSTOM_URL to have ondemand.d support",
+          "url": "https://github.com/OSC/ondemand/issues/6014",
+          "createdAt": "2026-10-27T14:24:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Expand Affected Resources lookup to include Network Devices and Monitors",
+          "url": "https://github.com/OneUptime/oneuptime/issues/5341",
+          "createdAt": "2026-10-27T14:04:00Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[feature] Install missing dependencies when running affected tasks outside CI",
+          "url": "https://github.com/moonrepo/moon/issues/2785",
+          "createdAt": "2026-10-27T13:56:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
+          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
+          "createdAt": "2026-04-17T09:24:25Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-not-open-issues",
+      "title": "Proximity-triggered earpiece playback when headphones not available",
+      "summary": "### Checklist - [x] I have used the search function for [**OPEN**](https://github.com/AntennaPod/AntennaPod/issues) issues to see if someone else has already submitted the same feature request. - [x] I have **also** used the search function for [**CLOSED**](https://github.com/Ant",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -83,27 +101,62 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-26T15:00:59Z",
+      "latestSignal": "2026-10-27T14:23:21Z",
       "keywords": [
-        "support",
-        "device",
+        "not",
+        "open",
+        "issues",
         "feature",
-        "request",
-        "devices"
+        "request"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Add TVOC / IAQ Sensor Recalibrate support",
-          "url": "https://github.com/tache/homeassistant-kidde/issues/160",
-          "createdAt": "2026-10-26T15:00:59Z"
+          "label": "Proximity-triggered earpiece playback when headphones not available",
+          "url": "https://github.com/AntennaPod/AntennaPod/issues/8865",
+          "createdAt": "2026-10-27T14:23:21Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
+          "label": "fr: Option to disable setting mtime of received files",
+          "url": "https://github.com/localsend/localsend/issues/3647",
+          "createdAt": "2026-10-27T14:16:26Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-like-see",
+      "title": "[FR]: New name and logo",
+      "summary": "### What feature would you like to see? decide a new name and logo for this project, update the app and docs accordingly ### What kind of level is this feature request? Hmm, probably intermediate, can't know! ### More info _No response_ ### Nice things - [x] We can have",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-27T14:15:43Z",
+      "keywords": [
+        "feature",
+        "like",
+        "see",
+        "app",
+        "request"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FR]: New name and logo",
+          "url": "https://github.com/Axfff/Vibe-Player/issues/22",
+          "createdAt": "2026-10-27T14:15:43Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: producer-verified accounting coverage and consent-scoped turn admission",
+          "url": "https://github.com/openai/codex/issues/57461",
+          "createdAt": "2026-10-27T14:11:08Z"
         }
       ]
     }
