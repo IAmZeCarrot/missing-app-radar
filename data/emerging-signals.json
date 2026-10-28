@@ -1,60 +1,60 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-27T14:30:54.184Z",
+  "generatedAt": "2026-10-28T15:06:00.937Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-description",
-      "title": "[Feature Request] [PhotoCraft] Import custom styles",
-      "summary": "### Description 1. Go to Window -> Styles 2. Import styles 3. Load .asl file from the drive ### Ticket details | | | |---|---| | **App** | PhotoCraft | | **Type** | Feature Request | | **Reported by** | nirthiene — Discord user ID `524245504335544330` | | **Submitted** | 2026-10-",
-      "score": 75,
+      "id": "emerging-show-open-x27",
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "summary": "Hey HN, I&#x27;m Christian and this is a new OSS project I&#x27;ve been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on y",
+      "score": 89,
       "scoreComponents": {
         "base": 28,
         "volume": 33,
-        "engagement": 14
+        "engagement": 28
       },
       "requests": 3,
-      "latestSignal": "2026-10-27T14:28:51Z",
+      "latestSignal": "2026-10-26T16:12:29Z",
       "keywords": [
-        "feature",
-        "request",
-        "description",
-        "ticket",
-        "details"
+        "show",
+        "open",
+        "x27",
+        "been",
+        "source"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "GitHub",
-          "label": "[Feature Request] [PhotoCraft] Import custom styles",
-          "url": "https://github.com/storytold/photocraft/issues/9854",
-          "createdAt": "2026-10-27T14:28:51Z"
+          "source": "Hacker News",
+          "label": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+          "url": "https://news.ycombinator.com/item?id=50246238",
+          "createdAt": "2026-10-26T16:12:29Z"
         },
         {
-          "source": "GitHub",
-          "label": "[Feature Request] [PhotoCraft] Import custom vector .csh shapes",
-          "url": "https://github.com/storytold/photocraft/issues/9853",
-          "createdAt": "2026-10-27T14:17:13Z"
+          "source": "Hacker News",
+          "label": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
+          "url": "https://news.ycombinator.com/item?id=50169829",
+          "createdAt": "2026-10-20T17:34:24Z"
         },
         {
-          "source": "GitHub",
-          "label": "[Feature Request] [VectorCraft] Add more sides/points to the star shape",
-          "url": "https://github.com/storytold/vectorcraft/issues/4339",
-          "createdAt": "2026-10-27T13:55:08Z"
+          "source": "Hacker News",
+          "label": "Show HN: Enso Method – agent skills for building software for someone else",
+          "url": "https://news.ycombinator.com/item?id=50059416",
+          "createdAt": "2026-10-12T17:06:56Z"
         }
       ]
     },
     {
       "id": "emerging-feature-request-related",
-      "title": "refactor OOD_DASHBOARD_HELP_CUSTOM_URL to have ondemand.d support",
-      "summary": "**Is your feature request related to a problem?** We're refactoring all that we can in dashboard/configuration_singleton (and other places) to the more modern ondemand.d configurations with environment variable support. **Describe the solution you'd like** Refactor this configura",
-      "score": 72,
+      "title": "Can we make each app wait until the previous one is loaded(not closed)?",
+      "summary": "**Is your feature request related to a problem? Please describe.** A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] - _I'm not sure if this is already in the app. But I cannot find a setting to do this._ **Describe the solution you'd li",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 7
       },
-      "requests": 4,
-      "latestSignal": "2026-10-27T14:24:16Z",
+      "requests": 6,
+      "latestSignal": "2026-10-28T14:48:04Z",
       "keywords": [
         "feature",
         "request",
@@ -66,21 +66,33 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "refactor OOD_DASHBOARD_HELP_CUSTOM_URL to have ondemand.d support",
-          "url": "https://github.com/OSC/ondemand/issues/6014",
-          "createdAt": "2026-10-27T14:24:16Z"
+          "label": "Can we make each app wait until the previous one is loaded(not closed)?",
+          "url": "https://github.com/terrymacdonald/DisplayMagician/issues/431",
+          "createdAt": "2026-10-28T14:48:04Z"
         },
         {
           "source": "GitHub",
-          "label": "Expand Affected Resources lookup to include Network Devices and Monitors",
-          "url": "https://github.com/OneUptime/oneuptime/issues/5341",
-          "createdAt": "2026-10-27T14:04:00Z"
+          "label": "Build on core's web app manifest and app icon (Flarum 2.1)",
+          "url": "https://github.com/FriendsOfFlarum/pwa/issues/36",
+          "createdAt": "2026-10-28T14:47:59Z"
         },
         {
           "source": "GitHub",
-          "label": "[feature] Install missing dependencies when running affected tasks outside CI",
-          "url": "https://github.com/moonrepo/moon/issues/2785",
-          "createdAt": "2026-10-27T13:56:09Z"
+          "label": "MY library, filtering",
+          "url": "https://github.com/Stremio/stremio-features/issues/1951",
+          "createdAt": "2026-10-28T14:38:09Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Photo viewer: swipe, pinch-zoom and deep links for Media enlarge and galleries",
+          "url": "https://github.com/once-ui-system/core/issues/335",
+          "createdAt": "2026-10-28T14:38:05Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Kbar: optional filter/rank function, and pass placeholder through to the palette",
+          "url": "https://github.com/once-ui-system/core/issues/334",
+          "createdAt": "2026-10-28T14:38:04Z"
         },
         {
           "source": "GitHub",
@@ -91,44 +103,56 @@
       ]
     },
     {
-      "id": "emerging-not-open-issues",
-      "title": "Proximity-triggered earpiece playback when headphones not available",
-      "summary": "### Checklist - [x] I have used the search function for [**OPEN**](https://github.com/AntennaPod/AntennaPod/issues) issues to see if someone else has already submitted the same feature request. - [x] I have **also** used the search function for [**CLOSED**](https://github.com/Ant",
-      "score": 50,
+      "id": "emerging-feature-request-thank",
+      "title": "[GUI][Feature Request] More QoL toggles and UX Improvements",
+      "summary": "Hi Thank you for delivering this awesome piece of software. I love it and use it everyday. Currently I am maining the Strata desktop app (strata v0.2.7) on my Windows 11 machine as I want to completely replace LMStudio in my setup. There are some features if added to the desktop",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 0
+        "volume": 44,
+        "engagement": 7
       },
-      "requests": 2,
-      "latestSignal": "2026-10-27T14:23:21Z",
+      "requests": 4,
+      "latestSignal": "2026-10-28T14:26:00Z",
       "keywords": [
-        "not",
-        "open",
-        "issues",
         "feature",
-        "request"
+        "request",
+        "thank",
+        "first",
+        "all"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Proximity-triggered earpiece playback when headphones not available",
-          "url": "https://github.com/AntennaPod/AntennaPod/issues/8865",
-          "createdAt": "2026-10-27T14:23:21Z"
+          "label": "[GUI][Feature Request] More QoL toggles and UX Improvements",
+          "url": "https://github.com/Niko1221/Strata/issues/4478",
+          "createdAt": "2026-10-28T14:26:00Z"
         },
         {
           "source": "GitHub",
-          "label": "fr: Option to disable setting mtime of received files",
-          "url": "https://github.com/localsend/localsend/issues/3647",
-          "createdAt": "2026-10-27T14:16:26Z"
+          "label": "[feature request] option to disable username/password signup/login",
+          "url": "https://github.com/codebude/librislog/issues/119",
+          "createdAt": "2026-10-28T14:25:55Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Allow selecting parameters by clicking their names when unlocked 希望未锁定的参数仍然可以通过点击名称进行选中",
+          "url": "https://github.com/turboism/Turboism/issues/43",
+          "createdAt": "2026-10-28T10:21:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Improved User, Group, and VM Management",
+          "url": "https://github.com/r0073d-l053r/ProxMate/issues/156",
+          "createdAt": "2026-10-28T08:55:32Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-like-see",
-      "title": "[FR]: New name and logo",
-      "summary": "### What feature would you like to see? decide a new name and logo for this project, update the app and docs accordingly ### What kind of level is this feature request? Hmm, probably intermediate, can't know! ### More info _No response_ ### Nice things - [x] We can have",
+      "id": "emerging-feature-request-preflight",
+      "title": "Feature request: Remote Control parity with Codex \"Control this Mac\" (all projects, unified host view, device-to-device control, handoff)",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement R",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -136,27 +160,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-27T14:15:43Z",
+      "latestSignal": "2026-10-28T14:58:40Z",
       "keywords": [
         "feature",
-        "like",
-        "see",
-        "app",
-        "request"
+        "request",
+        "preflight",
+        "checklist",
+        "searched"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FR]: New name and logo",
-          "url": "https://github.com/Axfff/Vibe-Player/issues/22",
-          "createdAt": "2026-10-27T14:15:43Z"
+          "label": "Feature request: Remote Control parity with Codex \"Control this Mac\" (all projects, unified host view, device-to-device control, handoff)",
+          "url": "https://github.com/anthropics/claude-code/issues/105702",
+          "createdAt": "2026-10-28T14:58:40Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: producer-verified accounting coverage and consent-scoped turn admission",
-          "url": "https://github.com/openai/codex/issues/57461",
-          "createdAt": "2026-10-27T14:11:08Z"
+          "label": "Option to collapse or hide tool calls and their output in the web and mobile app",
+          "url": "https://github.com/anthropics/claude-code/issues/105694",
+          "createdAt": "2026-10-28T14:36:20Z"
         }
       ]
     }
