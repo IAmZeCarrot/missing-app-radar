@@ -1,29 +1,609 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T15:06:00.937Z",
-  "input": 261,
-  "accepted": 33,
-  "rejected": 228,
+  "generatedAt": "2026-10-29T15:13:24.565Z",
+  "input": 266,
+  "accepted": 37,
+  "rejected": 229,
   "reasons": {
-    "low-request-intent": 228,
-    "title-too-short": 1,
-    "duplicate-evidence": 1
+    "low-request-intent": 229,
+    "duplicate-evidence": 5
   },
   "items": [
     {
-      "id": "hn-50274899",
+      "id": "hn-50290374",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50274800",
+      "id": "hn-50290196",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50274737",
+      "id": "hn-50290165",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50290164",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50290162",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50290154",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50290062",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289966",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289907",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289879",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289830",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289814",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289792",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289658",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289568",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289548",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289461",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289455",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289441",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289296",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289281",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289265",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289257",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289135",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50289052",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288958",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288721",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288662",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288629",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288561",
+      "reasons": [
+        "low-request-intent",
+        "duplicate-evidence"
+      ]
+    },
+    {
+      "id": "hn-50288550",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288319",
+      "reasons": [
+        "low-request-intent",
+        "duplicate-evidence"
+      ]
+    },
+    {
+      "id": "hn-50288306",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288287",
+      "reasons": [
+        "low-request-intent",
+        "duplicate-evidence"
+      ]
+    },
+    {
+      "id": "hn-50288224",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288133",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288082",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50288067",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287913",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287887",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287881",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287869",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287866",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287845",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287838",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287785",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287655",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287629",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287623",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287597",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287509",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287279",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287258",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287176",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287164",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50287086",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286880",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286868",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286743",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286465",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286151",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286113",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286104",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286037",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286034",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50286022",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50285916",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50285896",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50285795",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50285783",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50285134",
+      "reasons": [
+        "low-request-intent",
+        "duplicate-evidence"
+      ]
+    },
+    {
+      "id": "hn-50284868",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50284856",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50284751",
+      "reasons": [
+        "low-request-intent",
+        "duplicate-evidence"
+      ]
+    },
+    {
+      "id": "hn-50284740",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50284621",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50284311",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50284206",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50284173",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50284168",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283711",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283621",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283575",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283533",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283474",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283350",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283233",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283166",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50283118",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50282841",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50282799",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50282517",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50281533",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50279346",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50278335",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50277564",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50276576",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50276431",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
+      "id": "hn-50274683",
       "reasons": [
         "low-request-intent"
       ]
@@ -47,85 +627,7 @@
       ]
     },
     {
-      "id": "hn-50274537",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274460",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274444",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274421",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50274354",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274257",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274198",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274195",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274142",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274136",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50274023",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50273958",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50273918",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50273905",
       "reasons": [
         "low-request-intent"
       ]
@@ -137,25 +639,7 @@
       ]
     },
     {
-      "id": "hn-50273788",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50273639",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50273543",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50273438",
       "reasons": [
         "low-request-intent"
       ]
@@ -167,67 +651,7 @@
       ]
     },
     {
-      "id": "hn-50273313",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50273231",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50273044",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272968",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272940",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272936",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272889",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50272875",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272774",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272757",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272700",
       "reasons": [
         "low-request-intent"
       ]
@@ -245,103 +669,7 @@
       ]
     },
     {
-      "id": "hn-50272542",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272483",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272471",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272450",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272391",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272371",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272321",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272279",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50272245",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272239",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50272104",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50271947",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50271933",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50271856",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50271826",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50271809",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50271700",
       "reasons": [
         "low-request-intent"
       ]
@@ -353,133 +681,13 @@
       ]
     },
     {
-      "id": "hn-50271194",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50271142",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50271115",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50271094",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270992",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270889",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270885",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270864",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270824",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270603",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50270407",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270404",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50270147",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50269673",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50269667",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50269635",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50269470",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50269427",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50269124",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50269030",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50268869",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50268666",
       "reasons": [
         "low-request-intent"
       ]
@@ -503,23 +711,9 @@
       ]
     },
     {
-      "id": "hn-50267439",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50267052",
-      "reasons": [
-        "title-too-short",
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50265788",
       "reasons": [
-        "low-request-intent",
-        "duplicate-evidence"
+        "low-request-intent"
       ]
     },
     {
@@ -559,31 +753,25 @@
       ]
     },
     {
+      "id": "hn-50261239",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
       "id": "hn-50260969",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50258875",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50258145",
+      "id": "hn-50257959",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
       "id": "hn-50257183",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50256479",
       "reasons": [
         "low-request-intent"
       ]
@@ -601,12 +789,6 @@
       ]
     },
     {
-      "id": "hn-50249391",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50249194",
       "reasons": [
         "low-request-intent"
@@ -614,12 +796,6 @@
     },
     {
       "id": "hn-50248168",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50246690",
       "reasons": [
         "low-request-intent"
       ]
@@ -637,25 +813,7 @@
       ]
     },
     {
-      "id": "hn-50243831",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50243565",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50243143",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50239685",
       "reasons": [
         "low-request-intent"
       ]
@@ -715,61 +873,7 @@
       ]
     },
     {
-      "id": "hn-50207807",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50205320",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50201860",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50198389",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50197685",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50197593",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50196829",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50195095",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50193813",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50192988",
+      "id": "hn-50206474",
       "reasons": [
         "low-request-intent"
       ]
@@ -793,30 +897,6 @@
       ]
     },
     {
-      "id": "hn-50188865",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50186889",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50186510",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50186182",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50182453",
       "reasons": [
         "low-request-intent"
@@ -835,49 +915,7 @@
       ]
     },
     {
-      "id": "hn-50180215",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50176908",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50172133",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50169296",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
       "id": "hn-50169154",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50168547",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50168474",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "hn-50167583",
       "reasons": [
         "low-request-intent"
       ]
@@ -913,6 +951,12 @@
       ]
     },
     {
+      "id": "hn-50151980",
+      "reasons": [
+        "low-request-intent"
+      ]
+    },
+    {
       "id": "hn-50151036",
       "reasons": [
         "low-request-intent"
@@ -931,295 +975,259 @@
       ]
     },
     {
-      "id": "hn-50099540",
+      "id": "github-6102652357",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50090796",
+      "id": "github-6102637485",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50084969",
+      "id": "github-6102622059",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50084113",
+      "id": "github-6102599505",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50076558",
+      "id": "github-6102592457",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "hn-50067371",
+      "id": "github-6102574222",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081623324",
+      "id": "github-6102566630",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081559678",
+      "id": "github-6102565841",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081502349",
+      "id": "github-6102565029",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081491469",
+      "id": "github-6102504663",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081479699",
+      "id": "github-6102485407",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081452335",
+      "id": "github-6102331945",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081436617",
+      "id": "github-6102316660",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081435905",
+      "id": "github-6102286159",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081430976",
+      "id": "github-6102282509",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081387290",
+      "id": "github-6102278876",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081305925",
+      "id": "github-6102271300",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081246945",
+      "id": "github-6102215616",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081085993",
+      "id": "github-6102176205",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081022563",
+      "id": "github-6102125079",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081022127",
+      "id": "github-6101965777",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081021521",
+      "id": "github-6101940012",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081011265",
+      "id": "github-6101745456",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081010898",
+      "id": "github-6101619969",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6081010397",
+      "id": "github-6100894780",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6080984197",
+      "id": "github-6100462804",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6080921338",
+      "id": "github-6099933638",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6080921289",
+      "id": "github-6099411030",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6080704815",
+      "id": "github-6099341652",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6079415178",
+      "id": "github-6099328439",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6079047222",
+      "id": "github-6099328183",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6078997023",
+      "id": "github-6098570010",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6078896828",
+      "id": "github-6098204999",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6078819214",
+      "id": "github-6097519108",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6078716256",
+      "id": "github-6097421229",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6078521858",
+      "id": "github-6097421012",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6078432888",
+      "id": "github-6097181359",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6077296774",
+      "id": "github-6096908537",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6077226645",
+      "id": "github-6096836945",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6076687664",
+      "id": "github-6096671105",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6076640276",
+      "id": "github-6095964519",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6075032683",
+      "id": "github-6095594191",
       "reasons": [
         "low-request-intent"
       ]
     },
     {
-      "id": "github-6075032535",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "github-6075006619",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "github-6074606331",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "github-6074373415",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "github-6073967851",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "github-6073574391",
-      "reasons": [
-        "low-request-intent"
-      ]
-    },
-    {
-      "id": "github-6073569875",
+      "id": "github-5964744627",
       "reasons": [
         "low-request-intent"
       ]

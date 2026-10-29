@@ -1,186 +1,75 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-28T15:06:00.937Z",
+  "generatedAt": "2026-10-29T15:13:24.565Z",
   "clusters": [
     {
-      "id": "emerging-show-open-x27",
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "summary": "Hey HN, I&#x27;m Christian and this is a new OSS project I&#x27;ve been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on y",
-      "score": 89,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 28
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-26T16:12:29Z",
-      "keywords": [
-        "show",
-        "open",
-        "x27",
-        "been",
-        "source"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-          "url": "https://news.ycombinator.com/item?id=50246238",
-          "createdAt": "2026-10-26T16:12:29Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents",
-          "url": "https://news.ycombinator.com/item?id=50169829",
-          "createdAt": "2026-10-20T17:34:24Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Enso Method – agent skills for building software for someone else",
-          "url": "https://news.ycombinator.com/item?id=50059416",
-          "createdAt": "2026-10-12T17:06:56Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "Can we make each app wait until the previous one is loaded(not closed)?",
-      "summary": "**Is your feature request related to a problem? Please describe.** A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] - _I'm not sure if this is already in the app. But I cannot find a setting to do this._ **Describe the solution you'd li",
-      "score": 79,
+      "id": "emerging-feature-request-problem",
+      "title": "Add the External Template to the feedback website",
+      "summary": "### Is your feature request related to a problem? Please describe. I wanted to make an issue about go.resonite.com being down, but the feedback website doesn&#39;t have the proper template. ### Describe the solution you'd like Add the External Template to the list of options ###",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 7
+        "engagement": 11
       },
-      "requests": 6,
-      "latestSignal": "2026-10-28T14:48:04Z",
+      "requests": 8,
+      "latestSignal": "2026-10-29T15:04:18Z",
       "keywords": [
         "feature",
         "request",
-        "related",
         "problem",
+        "related",
         "describe"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Can we make each app wait until the previous one is loaded(not closed)?",
-          "url": "https://github.com/terrymacdonald/DisplayMagician/issues/431",
-          "createdAt": "2026-10-28T14:48:04Z"
+          "label": "Add the External Template to the feedback website",
+          "url": "https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/7458",
+          "createdAt": "2026-10-29T15:04:18Z"
         },
         {
           "source": "GitHub",
-          "label": "Build on core's web app manifest and app icon (Flarum 2.1)",
-          "url": "https://github.com/FriendsOfFlarum/pwa/issues/36",
-          "createdAt": "2026-10-28T14:47:59Z"
+          "label": "In-App Updates vs Full Install",
+          "url": "https://github.com/bambulab/BambuStudio/issues/12820",
+          "createdAt": "2026-10-29T15:02:19Z"
         },
         {
           "source": "GitHub",
-          "label": "MY library, filtering",
-          "url": "https://github.com/Stremio/stremio-features/issues/1951",
-          "createdAt": "2026-10-28T14:38:09Z"
+          "label": "Notifications: group errors from the same device (one device outage creates 40+ entries)",
+          "url": "https://github.com/evcc-io/evcc/issues/35549",
+          "createdAt": "2026-10-29T15:00:14Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Photo viewer: swipe, pinch-zoom and deep links for Media enlarge and galleries",
-          "url": "https://github.com/once-ui-system/core/issues/335",
-          "createdAt": "2026-10-28T14:38:05Z"
+          "label": "Feature request: To-Do list panel next to Automations — checkboxes, inline edit/delete, per-item and whole-list reminders",
+          "url": "https://github.com/zai-org/feedback/issues/1294",
+          "createdAt": "2026-10-29T14:56:20Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Kbar: optional filter/rank function, and pass placeholder through to the palette",
-          "url": "https://github.com/once-ui-system/core/issues/334",
-          "createdAt": "2026-10-28T14:38:04Z"
+          "label": "⚡️ Label management endpoints: create/edit/delete labels and label/unlabel chats (WhatsApp Business)",
+          "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice/issues/934",
+          "createdAt": "2026-10-29T14:55:47Z"
         },
         {
           "source": "GitHub",
-          "label": "Modern UI for Cloud Pak Deployment with IBM Carbon Design System",
-          "url": "https://github.com/IBM/cloud-pak-deployer/issues/1112",
-          "createdAt": "2026-04-17T09:24:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-thank",
-      "title": "[GUI][Feature Request] More QoL toggles and UX Improvements",
-      "summary": "Hi Thank you for delivering this awesome piece of software. I love it and use it everyday. Currently I am maining the Strata desktop app (strata v0.2.7) on my Windows 11 machine as I want to completely replace LMStudio in my setup. There are some features if added to the desktop",
-      "score": 79,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 7
-      },
-      "requests": 4,
-      "latestSignal": "2026-10-28T14:26:00Z",
-      "keywords": [
-        "feature",
-        "request",
-        "thank",
-        "first",
-        "all"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[GUI][Feature Request] More QoL toggles and UX Improvements",
-          "url": "https://github.com/Niko1221/Strata/issues/4478",
-          "createdAt": "2026-10-28T14:26:00Z"
+          "label": "Feature Request For Custom OpenAI compatible api",
+          "url": "https://github.com/picassio/pi-phone/issues/4",
+          "createdAt": "2026-10-29T14:47:17Z"
         },
         {
           "source": "GitHub",
-          "label": "[feature request] option to disable username/password signup/login",
-          "url": "https://github.com/codebude/librislog/issues/119",
-          "createdAt": "2026-10-28T14:25:55Z"
+          "label": "[SUGGESTION] Travel Mode",
+          "url": "https://github.com/remotesojourner/frameplayerx/issues/77",
+          "createdAt": "2026-10-29T14:36:13Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Allow selecting parameters by clicking their names when unlocked 希望未锁定的参数仍然可以通过点击名称进行选中",
-          "url": "https://github.com/turboism/Turboism/issues/43",
-          "createdAt": "2026-10-28T10:21:37Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Improved User, Group, and VM Management",
-          "url": "https://github.com/r0073d-l053r/ProxMate/issues/156",
-          "createdAt": "2026-10-28T08:55:32Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-preflight",
-      "title": "Feature request: Remote Control parity with Codex \"Control this Mac\" (all projects, unified host view, device-to-device control, handoff)",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement R",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-28T14:58:40Z",
-      "keywords": [
-        "feature",
-        "request",
-        "preflight",
-        "checklist",
-        "searched"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Remote Control parity with Codex \"Control this Mac\" (all projects, unified host view, device-to-device control, handoff)",
-          "url": "https://github.com/anthropics/claude-code/issues/105702",
-          "createdAt": "2026-10-28T14:58:40Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Option to collapse or hide tool calls and their output in the web and mobile app",
-          "url": "https://github.com/anthropics/claude-code/issues/105694",
-          "createdAt": "2026-10-28T14:36:20Z"
+          "label": "Recommended workflow for detecting and migrating model compatibility changes",
+          "url": "https://github.com/openai/openai-node/issues/3077",
+          "createdAt": "2026-10-29T14:23:34Z"
         }
       ]
     }
