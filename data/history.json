@@ -1924,6 +1924,39 @@
           "requests": 3
         }
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "clusters": 5,
+      "requests": 11,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-add",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-support-existing-feature",
+          "score": 57,
+          "requests": 2
+        },
+        {
+          "id": "emerging-searched-open-closed",
+          "score": 57,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-img",
+          "score": 57,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-choose",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }

@@ -1,175 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-30T15:02:46.507Z",
+  "generatedAt": "2026-10-31T14:31:38.713Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-details",
-      "title": "[Feature Request] [PdfCraft] PDF size reducing slider",
-      "summary": "### Description It will be good if you can provide a size reducing slider and a notification of the reduced size before saving. ### Ticket details | | | |---|---| | **App** | PdfCraft | | **Type** | Feature Request | | **Reported by** | mortal (Discord username: entropy_dissipato",
-      "score": 95,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 23
-      },
-      "requests": 4,
-      "latestSignal": "2026-10-30T14:53:33Z",
-      "keywords": [
-        "feature",
-        "request",
-        "details",
-        "description",
-        "ticket"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [PdfCraft] PDF size reducing slider",
-          "url": "https://github.com/storytold/pdfcraft/issues/5441",
-          "createdAt": "2026-10-30T14:53:33Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [PhotoCraft] Inversion in Select and mask",
-          "url": "https://github.com/storytold/photocraft/issues/10334",
-          "createdAt": "2026-10-30T14:41:48Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "✨ Add \"Candidate is outside the area of selection\" as a removal reason",
-          "url": "https://github.com/GCTC-NTGC/gc-digital-talent/issues/18507",
-          "createdAt": "2026-10-30T14:29:29Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] Expose system in url as hostname",
-          "url": "https://github.com/TheDuffman85/linux-update-dashboard/issues/293",
-          "createdAt": "2026-10-30T09:44:58Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "feat(github): support updating a persistent status comment across runs",
-      "summary": "### Is your feature request related to a problem? Please describe. `@chamvi/github` currently deduplicates outbound comments per `ChannelMessage.key`. A new approval or run targeting the same PR therefore creates another comment, even when it is only updating the maintainer's sta",
-      "score": 75,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 14
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-30T14:59:16Z",
-      "keywords": [
-        "feature",
-        "request",
-        "related",
-        "problem",
-        "please"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "feat(github): support updating a persistent status comment across runs",
-          "url": "https://github.com/chamvi/chamvi/issues/102",
-          "createdAt": "2026-10-30T14:59:16Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "--classify option for dereplicate",
-          "url": "https://github.com/medema-group/BiG-SCAPE/issues/351",
-          "createdAt": "2026-10-30T14:31:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature]: Scheduled folder imports for external transcoders like FileFlows",
-          "url": "https://github.com/scryer-media/scryer/issues/396",
-          "createdAt": "2026-10-30T10:02:01Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-first",
-      "title": "[Feature Request] Ability to inject Custom JavaScript / Userscripts (Greasy Fork support)",
-      "summary": "### Description First of all, thank you for this amazing SNS browser! It would be an incredible addition if we could inject custom JavaScript or userscripts (like Greasemonkey/.user.js scripts from Greasy Fork) per site. ### Use Case For example, there are many community scripts",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 11
-      },
-      "requests": 3,
-      "latestSignal": "2026-10-30T14:38:28Z",
-      "keywords": [
-        "feature",
-        "request",
-        "first",
-        "all",
-        "thank"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Ability to inject Custom JavaScript / Userscripts (Greasy Fork support)",
-          "url": "https://github.com/nonbili/Nora/issues/371",
-          "createdAt": "2026-10-30T14:38:28Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Device Connection History & \"Last Seen\" Timestamps in Client List",
-          "url": "https://github.com/gnuton/asuswrt-merlin.ng/issues/1033",
-          "createdAt": "2026-10-30T14:03:22Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Time-of-day Picture Profiles and text-based configuration",
-          "url": "https://github.com/rorygallagher2024/glasshouse/issues/1124",
-          "createdAt": "2026-10-30T09:12:13Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-quick",
-      "title": "Feature request: reusable Quick Parts with automatically synchronized fields",
-      "summary": "## Summary It would be very useful to support reusable **Quick Parts** that can contain not only static text, but also fields whose value is entered once and automatically synchronized throughout the document. ## Use case This would help users who produce repetitive documents, su",
-      "score": 64,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 14
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-30T10:53:25Z",
-      "keywords": [
-        "feature",
-        "request",
-        "quick",
-        "summary",
-        "very"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: reusable Quick Parts with automatically synchronized fields",
-          "url": "https://github.com/storytold/wordcraft/issues/4955",
-          "createdAt": "2026-10-30T10:53:25Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Standalone Mirror Dungeon Database Pages, Achievement Tools, and Planner Export",
-          "url": "https://github.com/Schirke/limbus-archive/issues/28",
-          "createdAt": "2026-10-30T09:08:25Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-app",
-      "title": "Feature request: Non-interrupting 👍 acknowledgement to Codex while a task is running",
-      "summary": "### What variant of Codex are you using? Codex App (desktop); potentially useful on other conversational Codex surfaces that support mid-task messages. ### What feature would you like to see? A **lightweight, one-click acknowledgement reaction (e.g. 👍) on a Codex message while a",
+      "id": "emerging-feature-request-add",
+      "title": "Feature: Add proper PIN + Biometric App Lock on Android",
+      "summary": "### Feature Request Please add a proper **App Lock** feature (PIN + biometric) to the Android client. ### Background While the store description mentions “Lock the app with a PIN, biometrics, or a passkey”, there is currently no clear and working way to set up a software-level Ap",
       "score": 61,
       "scoreComponents": {
         "base": 28,
@@ -177,27 +13,27 @@
         "engagement": 0
       },
       "requests": 3,
-      "latestSignal": "2026-10-30T14:59:04Z",
+      "latestSignal": "2026-10-31T14:15:29Z",
       "keywords": [
         "feature",
         "request",
+        "add",
         "app",
-        "support",
-        "while"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Non-interrupting 👍 acknowledgement to Codex while a task is running",
-          "url": "https://github.com/openai/codex/issues/58356",
-          "createdAt": "2026-10-30T14:59:04Z"
+          "label": "Feature: Add proper PIN + Biometric App Lock on Android",
+          "url": "https://github.com/Aster-Privacy/Aster-Mail/issues/910",
+          "createdAt": "2026-10-31T14:15:29Z"
         },
         {
           "source": "GitHub",
-          "label": "App constraints should support web apps",
-          "url": "https://github.com/keymapperorg/KeyMapper/issues/2307",
-          "createdAt": "2026-10-30T14:46:53Z"
+          "label": "Feature Request: Separate Speed and Pitch Controls",
+          "url": "https://github.com/noFAYZ/zuno/issues/186",
+          "createdAt": "2026-10-31T13:48:43Z"
         },
         {
           "source": "GitHub",
@@ -208,9 +44,9 @@
       ]
     },
     {
-      "id": "emerging-feature-request-iphone",
-      "title": "Feature request: iPhone/macOS widgets to open a conversation or start new chats by profile",
-      "summary": "## Feature request: Home Screen widgets and shortcuts for conversations and new chats (iPhone and MacBook) I'd love to have **Conduit widgets / quick actions** on iPhone and, where supported, macOS that jump directly into the exact conversation or create a new chat without naviga",
+      "id": "emerging-support-existing-feature",
+      "title": "[azcore/azidentity] Support explicit end-to-end token refresh for existing service clients",
+      "summary": "### Feature Request **Request:** Add caller-triggered, end-to-end access-token refresh for an existing Azure SDK for Go service client. **Scope:** This issue requests only the explicit refresh mechanism. It does **not** request automatic retry on HTTP 401/403, a new default authe",
       "score": 57,
       "scoreComponents": {
         "base": 28,
@@ -218,34 +54,104 @@
         "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-10-30T14:22:47Z",
+      "latestSignal": "2026-10-31T14:04:19Z",
       "keywords": [
+        "support",
+        "existing",
         "feature",
         "request",
-        "iphone",
-        "macos",
-        "without"
+        "does"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: iPhone/macOS widgets to open a conversation or start new chats by profile",
-          "url": "https://github.com/kaishi00/hermes-conduit/issues/1532",
-          "createdAt": "2026-10-30T14:22:47Z"
+          "label": "[azcore/azidentity] Support explicit end-to-end token refresh for existing service clients",
+          "url": "https://github.com/Azure/azure-sdk-for-go/issues/27884",
+          "createdAt": "2026-10-31T14:04:19Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] iPhone Tethered Shooting — Automatic Photo Import & Live Preview on macOS",
-          "url": "https://github.com/storytold/lightcraft/issues/3391",
-          "createdAt": "2026-10-30T13:50:01Z"
+          "label": "Wrong subscription information and no support contact",
+          "url": "https://github.com/tutao/tutanota/issues/11745",
+          "createdAt": "2026-10-31T13:38:20Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-screen",
-      "title": "[Feature Request] Divide favourites screen in Home and Favourite",
-      "summary": "I'd like to suggest to make the actual favourites screen to home screen (appears in List with home icon) and add an additional favourites category before the abc-list for frequently used apps, folders, applists. ![ResizedImage_2026-10-30_15-51-37_6759.png](https://github.com/user",
+      "id": "emerging-searched-open-closed",
+      "title": "Add an option to loop a video chapter",
+      "summary": "### Guidelines - [x] I have [searched the issue tracker for open and closed issues](https://github.com/OpenTubeX/OpenTubeX/issues?q=is%3Aissue+sort%3Arelevance-desc) that are similar to the feature request I want to file, without success. - [x] I have searched the [documentation]",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-31T13:55:34Z",
+      "keywords": [
+        "searched",
+        "open",
+        "closed",
+        "issues",
+        "feature"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Add an option to loop a video chapter",
+          "url": "https://github.com/OpenTubeX/OpenTubeX/issues/2557",
+          "createdAt": "2026-10-31T13:55:34Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Save/Favorite activities in \"Activity Launcher\"",
+          "url": "https://github.com/rushiranpise/Shizuku-Next/issues/165",
+          "createdAt": "2026-10-31T13:41:18Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-img",
+      "title": "Feature request: Slash-command autocomplete parity with Hermes terminal (commands and skills)",
+      "summary": "<img width=\"460\" height=\"215\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1bb8b916-8070-4909-932f-3c758ed29d57\" /> <img width=\"937\" height=\"154\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1546c598-3779-4f81-b829-ebbfff3526f6\" /> ## Feature request",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-10-31T13:37:36Z",
+      "keywords": [
+        "feature",
+        "request",
+        "img",
+        "width",
+        "height"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: Slash-command autocomplete parity with Hermes terminal (commands and skills)",
+          "url": "https://github.com/kaishi00/hermes-conduit/issues/1576",
+          "createdAt": "2026-10-31T13:37:36Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Monitor parallel subagents and their progress inside chat (iPhone/macOS)",
+          "url": "https://github.com/kaishi00/hermes-conduit/issues/1553",
+          "createdAt": "2026-10-31T01:07:02Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-choose",
+      "title": "Feature request: Choose a GitHub account for each chat",
+      "summary": "### Feature summary Choose which linked GitHub account a chat uses ### What problem are you trying to solve? When multiple GitHub accounts are linked in the Copilot app, account selection appears to be global/default. A user may want to start different chats under different accou",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -253,27 +159,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-30T14:53:05Z",
+      "latestSignal": "2026-10-31T14:27:43Z",
       "keywords": [
         "feature",
         "request",
-        "screen",
-        "additional",
-        "apps"
+        "choose",
+        "app",
+        "default"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Divide favourites screen in Home and Favourite",
-          "url": "https://github.com/Galaxy-rio/GraceLauncher/issues/157",
-          "createdAt": "2026-10-30T14:53:05Z"
+          "label": "Feature request: Choose a GitHub account for each chat",
+          "url": "https://github.com/github/app/issues/5287",
+          "createdAt": "2026-10-31T14:27:43Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Autohide apps in app-popups",
-          "url": "https://github.com/Galaxy-rio/GraceLauncher/issues/156",
-          "createdAt": "2026-10-30T14:28:46Z"
+          "label": "[FEATURE] Feedback from App User",
+          "url": "https://github.com/Johnbatey/bible-song-pro-studio/issues/25",
+          "createdAt": "2026-10-31T14:12:46Z"
         }
       ]
     }
