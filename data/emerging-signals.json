@@ -1,157 +1,82 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-31T14:31:38.713Z",
+  "generatedAt": "2026-11-01T15:07:56.613Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-add",
-      "title": "Feature: Add proper PIN + Biometric App Lock on Android",
-      "summary": "### Feature Request Please add a proper **App Lock** feature (PIN + biometric) to the Android client. ### Background While the store description mentions “Lock the app with a PIN, biometrics, or a passkey”, there is currently no clear and working way to set up a software-level Ap",
-      "score": 61,
+      "id": "emerging-feature-request-support",
+      "title": "[Suggestion] Feature Request: Native Shevery API support",
+      "summary": "### Suggestion Hello! Could you please add native support for the Shevery API (com.hamondev.shevery) alongside Shizuku? Shevery is now using its own native provider, and adding native support would allow the app to work seamlessly without needing compatibility stubs. Thanks!",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 0
+        "volume": 44,
+        "engagement": 11
       },
-      "requests": 3,
-      "latestSignal": "2026-10-31T14:15:29Z",
+      "requests": 12,
+      "latestSignal": "2026-11-01T15:05:53Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "app",
-        "please"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature: Add proper PIN + Biometric App Lock on Android",
-          "url": "https://github.com/Aster-Privacy/Aster-Mail/issues/910",
-          "createdAt": "2026-10-31T14:15:29Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Separate Speed and Pitch Controls",
-          "url": "https://github.com/noFAYZ/zuno/issues/186",
-          "createdAt": "2026-10-31T13:48:43Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-support-existing-feature",
-      "title": "[azcore/azidentity] Support explicit end-to-end token refresh for existing service clients",
-      "summary": "### Feature Request **Request:** Add caller-triggered, end-to-end access-token refresh for an existing Azure SDK for Go service client. **Scope:** This issue requests only the explicit refresh mechanism. It does **not** request automatic retry on HTTP 401/403, a new default authe",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-31T14:04:19Z",
-      "keywords": [
         "support",
-        "existing",
-        "feature",
-        "request",
-        "does"
+        "app",
+        "searched"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[azcore/azidentity] Support explicit end-to-end token refresh for existing service clients",
-          "url": "https://github.com/Azure/azure-sdk-for-go/issues/27884",
-          "createdAt": "2026-10-31T14:04:19Z"
+          "label": "[Suggestion] Feature Request: Native Shevery API support",
+          "url": "https://github.com/KieronQuinn/Smartspacer/issues/456",
+          "createdAt": "2026-11-01T15:05:53Z"
         },
         {
           "source": "GitHub",
-          "label": "Wrong subscription information and no support contact",
-          "url": "https://github.com/tutao/tutanota/issues/11745",
-          "createdAt": "2026-10-31T13:38:20Z"
+          "label": "[Feature Request] Native Shevery API support",
+          "url": "https://github.com/Droid-ify/client/issues/1437",
+          "createdAt": "2026-11-01T15:00:58Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Native Shevery API support",
+          "url": "https://github.com/karasevm/PrivateDNSAndroid/issues/77",
+          "createdAt": "2026-11-01T14:56:16Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Home Assistant OS App Repository Support",
+          "url": "https://github.com/BennoBaer-dev/suslik/issues/34",
+          "createdAt": "2026-11-01T14:48:35Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] .ttml lyric file support ++ local lyric file override",
+          "url": "https://github.com/My-Name-Is-Jeff/vitrine/issues/197",
+          "createdAt": "2026-11-01T14:47:48Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Optional animated lava lamp-inspired background",
+          "url": "https://github.com/AntennaPod/AntennaPod/issues/8878",
+          "createdAt": "2026-11-01T14:45:20Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: Apple TV-style app grid on the home screen and a multi-row shelf (both optional)",
+          "url": "https://github.com/simbasjungles/free-my-tv/issues/420",
+          "createdAt": "2026-11-01T14:44:08Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add \"File is Missing\" indicators & timestamps to the \"Recent Files\" menu",
+          "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/17129",
+          "createdAt": "2026-11-01T14:41:12Z"
         }
       ]
     },
     {
-      "id": "emerging-searched-open-closed",
-      "title": "Add an option to loop a video chapter",
-      "summary": "### Guidelines - [x] I have [searched the issue tracker for open and closed issues](https://github.com/OpenTubeX/OpenTubeX/issues?q=is%3Aissue+sort%3Arelevance-desc) that are similar to the feature request I want to file, without success. - [x] I have searched the [documentation]",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-31T13:55:34Z",
-      "keywords": [
-        "searched",
-        "open",
-        "closed",
-        "issues",
-        "feature"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Add an option to loop a video chapter",
-          "url": "https://github.com/OpenTubeX/OpenTubeX/issues/2557",
-          "createdAt": "2026-10-31T13:55:34Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Save/Favorite activities in \"Activity Launcher\"",
-          "url": "https://github.com/rushiranpise/Shizuku-Next/issues/165",
-          "createdAt": "2026-10-31T13:41:18Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-img",
-      "title": "Feature request: Slash-command autocomplete parity with Hermes terminal (commands and skills)",
-      "summary": "<img width=\"460\" height=\"215\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1bb8b916-8070-4909-932f-3c758ed29d57\" /> <img width=\"937\" height=\"154\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1546c598-3779-4f81-b829-ebbfff3526f6\" /> ## Feature request",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-10-31T13:37:36Z",
-      "keywords": [
-        "feature",
-        "request",
-        "img",
-        "width",
-        "height"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Slash-command autocomplete parity with Hermes terminal (commands and skills)",
-          "url": "https://github.com/kaishi00/hermes-conduit/issues/1576",
-          "createdAt": "2026-10-31T13:37:36Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Monitor parallel subagents and their progress inside chat (iPhone/macOS)",
-          "url": "https://github.com/kaishi00/hermes-conduit/issues/1553",
-          "createdAt": "2026-10-31T01:07:02Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-choose",
-      "title": "Feature request: Choose a GitHub account for each chat",
-      "summary": "### Feature summary Choose which linked GitHub account a chat uses ### What problem are you trying to solve? When multiple GitHub accounts are linked in the Copilot app, account selection appears to be global/default. A user may want to start different chats under different accou",
+      "id": "emerging-feature-request-floor",
+      "title": "[Feature Request]: Floor Void & Shaft tool for stairwells, elevator shafts and lightwells (Döşeme Boşluğu ve Şaft Aracı)",
+      "summary": "## 🚀 Feature Summary / Özellik Özeti Add a **Floor Void & Shaft Tool (Döşeme Boşluğu / Şaft ve Merdiven Boşluğu Aracı)** allowing users to cut openings and holes through floor slabs for stairwells, elevator shafts, mechanical/plumbing chases (MEP), and multi-story lightwells/atr",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -159,27 +84,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-10-31T14:27:43Z",
+      "latestSignal": "2026-11-01T14:52:49Z",
       "keywords": [
         "feature",
         "request",
-        "choose",
-        "app",
-        "default"
+        "floor",
+        "eme",
+        "arac"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Choose a GitHub account for each chat",
-          "url": "https://github.com/github/app/issues/5287",
-          "createdAt": "2026-10-31T14:27:43Z"
+          "label": "[Feature Request]: Floor Void & Shaft tool for stairwells, elevator shafts and lightwells (Döşeme Boşluğu ve Şaft Aracı)",
+          "url": "https://github.com/MeWeGo/floorplanner/issues/23",
+          "createdAt": "2026-11-01T14:52:49Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Feedback from App User",
-          "url": "https://github.com/Johnbatey/bible-song-pro-studio/issues/25",
-          "createdAt": "2026-10-31T14:12:46Z"
+          "label": "[Feature Request]: Custom Slab / Flooring tool to draw floor slabs and balconies without requiring surrounding walls (Duvar olmayan yerlere döşeme çizme aracı)",
+          "url": "https://github.com/MeWeGo/floorplanner/issues/22",
+          "createdAt": "2026-11-01T14:51:01Z"
         }
       ]
     }

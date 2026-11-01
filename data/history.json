@@ -1957,6 +1957,24 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-11-01",
+      "clusters": 2,
+      "requests": 14,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-support",
+          "score": 83,
+          "requests": 12
+        },
+        {
+          "id": "emerging-feature-request-floor",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
