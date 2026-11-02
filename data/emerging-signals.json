@@ -1,82 +1,52 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-01T15:07:56.613Z",
+  "generatedAt": "2026-11-02T18:21:19.216Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-support",
-      "title": "[Suggestion] Feature Request: Native Shevery API support",
-      "summary": "### Suggestion Hello! Could you please add native support for the Shevery API (com.hamondev.shevery) alongside Shizuku? Shevery is now using its own native provider, and adding native support would allow the app to work seamlessly without needing compatibility stubs. Thanks!",
-      "score": 83,
+      "id": "emerging-feature-existing-request",
+      "title": "[FEATURE] Desktop SSH sessions: keep the task list and next-step box working while Desktop is disconnected",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement I",
+      "score": 75,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 11
+        "volume": 33,
+        "engagement": 14
       },
-      "requests": 12,
-      "latestSignal": "2026-11-01T15:05:53Z",
+      "requests": 3,
+      "latestSignal": "2026-11-02T18:02:04Z",
       "keywords": [
         "feature",
+        "existing",
         "request",
-        "support",
-        "app",
-        "searched"
+        "problem",
+        "ssh"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Suggestion] Feature Request: Native Shevery API support",
-          "url": "https://github.com/KieronQuinn/Smartspacer/issues/456",
-          "createdAt": "2026-11-01T15:05:53Z"
+          "label": "[FEATURE] Desktop SSH sessions: keep the task list and next-step box working while Desktop is disconnected",
+          "url": "https://github.com/anthropics/claude-code/issues/106783",
+          "createdAt": "2026-11-02T18:02:04Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Native Shevery API support",
-          "url": "https://github.com/Droid-ify/client/issues/1437",
-          "createdAt": "2026-11-01T15:00:58Z"
+          "label": "[Feature Request]: Allow configurable date range for BEC investigation",
+          "url": "https://github.com/CyberDrain/CIPP/issues/1117",
+          "createdAt": "2026-11-02T16:32:14Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Native Shevery API support",
-          "url": "https://github.com/karasevm/PrivateDNSAndroid/issues/77",
-          "createdAt": "2026-11-01T14:56:16Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Home Assistant OS App Repository Support",
-          "url": "https://github.com/BennoBaer-dev/suslik/issues/34",
-          "createdAt": "2026-11-01T14:48:35Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] .ttml lyric file support ++ local lyric file override",
-          "url": "https://github.com/My-Name-Is-Jeff/vitrine/issues/197",
-          "createdAt": "2026-11-01T14:47:48Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Optional animated lava lamp-inspired background",
-          "url": "https://github.com/AntennaPod/AntennaPod/issues/8878",
-          "createdAt": "2026-11-01T14:45:20Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Apple TV-style app grid on the home screen and a multi-row shelf (both optional)",
-          "url": "https://github.com/simbasjungles/free-my-tv/issues/420",
-          "createdAt": "2026-11-01T14:44:08Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Add \"File is Missing\" indicators & timestamps to the \"Recent Files\" menu",
-          "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/17129",
-          "createdAt": "2026-11-01T14:41:12Z"
+          "label": "[Feature Request] Allow agents to interact with existing sidebar terminal sessions",
+          "url": "https://github.com/DotHarness/dotcraft/issues/481",
+          "createdAt": "2026-11-02T15:26:17Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-floor",
-      "title": "[Feature Request]: Floor Void & Shaft tool for stairwells, elevator shafts and lightwells (Döşeme Boşluğu ve Şaft Aracı)",
-      "summary": "## 🚀 Feature Summary / Özellik Özeti Add a **Floor Void & Shaft Tool (Döşeme Boşluğu / Şaft ve Merdiven Boşluğu Aracı)** allowing users to cut openings and holes through floor slabs for stairwells, elevator shafts, mechanical/plumbing chases (MEP), and multi-story lightwells/atr",
+      "id": "emerging-useful-other-tools",
+      "title": "[Feature Request] Support for OpenSearch and query parameter search",
+      "summary": "It would be very useful if docmost would support OpenSearch and query parameter search for integrating as search engine in a browser or other tools.",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -84,27 +54,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-11-01T14:52:49Z",
+      "latestSignal": "2026-11-02T13:36:47Z",
       "keywords": [
+        "useful",
+        "other",
+        "tools",
         "feature",
-        "request",
-        "floor",
-        "eme",
-        "arac"
+        "request"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Floor Void & Shaft tool for stairwells, elevator shafts and lightwells (Döşeme Boşluğu ve Şaft Aracı)",
-          "url": "https://github.com/MeWeGo/floorplanner/issues/23",
-          "createdAt": "2026-11-01T14:52:49Z"
+          "label": "[Feature Request] Support for OpenSearch and query parameter search",
+          "url": "https://github.com/docmost/docmost/issues/2641",
+          "createdAt": "2026-11-02T13:36:47Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Custom Slab / Flooring tool to draw floor slabs and balconies without requiring surrounding walls (Duvar olmayan yerlere döşeme çizme aracı)",
-          "url": "https://github.com/MeWeGo/floorplanner/issues/22",
-          "createdAt": "2026-11-01T14:51:01Z"
+          "label": "Add options to specify IPv4 or IPv6",
+          "url": "https://github.com/Owloops/updo/issues/49",
+          "createdAt": "2026-11-02T13:23:14Z"
         }
       ]
     }
