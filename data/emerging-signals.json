@@ -1,52 +1,117 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-02T18:21:19.216Z",
+  "generatedAt": "2026-11-03T16:14:30.738Z",
   "clusters": [
     {
-      "id": "emerging-feature-existing-request",
-      "title": "[FEATURE] Desktop SSH sessions: keep the task list and next-step box working while Desktop is disconnected",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement I",
-      "score": 75,
+      "id": "emerging-feature-request-problem",
+      "title": "Examples are outdated/incorrect/do not work",
+      "summary": "**Is your feature request related to a problem? Please describe.** Nearly everything in the `examples` subdirectory contains references to tools that no longer exist, configuration files that are incompatible with the current version of CFE, or otherwise just do not work as inten",
+      "score": 72,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 14
+        "volume": 44,
+        "engagement": 0
       },
-      "requests": 3,
-      "latestSignal": "2026-11-02T18:02:04Z",
+      "requests": 7,
+      "latestSignal": "2026-11-03T15:52:36Z",
       "keywords": [
         "feature",
-        "existing",
         "request",
         "problem",
-        "ssh"
+        "not",
+        "related"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Desktop SSH sessions: keep the task list and next-step box working while Desktop is disconnected",
-          "url": "https://github.com/anthropics/claude-code/issues/106783",
-          "createdAt": "2026-11-02T18:02:04Z"
+          "label": "Examples are outdated/incorrect/do not work",
+          "url": "https://github.com/nasa/SBN/issues/156",
+          "createdAt": "2026-11-03T15:52:36Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Allow configurable date range for BEC investigation",
-          "url": "https://github.com/CyberDrain/CIPP/issues/1117",
-          "createdAt": "2026-11-02T16:32:14Z"
+          "label": "GitHub Activity & Proof-of-Work Showcase on Profiles",
+          "url": "https://github.com/the-mayankjha/hashtribe/issues/73",
+          "createdAt": "2026-11-03T15:36:57Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Allow agents to interact with existing sidebar terminal sessions",
-          "url": "https://github.com/DotHarness/dotcraft/issues/481",
-          "createdAt": "2026-11-02T15:26:17Z"
+          "label": "Add initial EDS for SBN",
+          "url": "https://github.com/nasa/SBN/issues/155",
+          "createdAt": "2026-11-03T15:34:54Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Reading stats page for the web app (parity with mobile)",
+          "url": "https://github.com/stumpapp/stump/issues/1516",
+          "createdAt": "2026-11-03T15:33:10Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: a cover element that hides content until the host lifts it (reveal, without deleting)",
+          "url": "https://github.com/nextcloud/whiteboard/issues/1472",
+          "createdAt": "2026-11-03T15:05:18Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add a built-in audio/video tool so Codex can follow recorded instructions",
+          "url": "https://github.com/openai/codex/issues/59176",
+          "createdAt": "2026-11-03T14:53:04Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Improve Vault Sync with additional options and file management actions",
+          "url": "https://github.com/R0b0To/VaultExplorer/issues/217",
+          "createdAt": "2026-11-03T11:05:52Z"
         }
       ]
     },
     {
-      "id": "emerging-useful-other-tools",
-      "title": "[Feature Request] Support for OpenSearch and query parameter search",
-      "summary": "It would be very useful if docmost would support OpenSearch and query parameter search for integrating as search engine in a browser or other tools.",
+      "id": "emerging-feature-request-support",
+      "title": "[feature request] herdr app support",
+      "summary": "I really like the herdr-worktrunk plugin in herdr's TUI; now when there's an app, would be nice if you could support it as well. thanks!",
+      "score": 68,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 7
+      },
+      "requests": 3,
+      "latestSignal": "2026-11-03T16:06:22Z",
+      "keywords": [
+        "feature",
+        "request",
+        "support",
+        "app",
+        "like"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[feature request] herdr app support",
+          "url": "https://github.com/devashish2203/herdr-worktrunk/issues/37",
+          "createdAt": "2026-11-03T16:06:22Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [GridCraft] Add support for Portuguese (Brazil) formulas",
+          "url": "https://github.com/storytold/gridcraft/issues/3280",
+          "createdAt": "2026-11-03T15:47:03Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-trip-editor",
+      "title": "[Feature]: Consistent Trip Editor/Viewer sidebars — hide/show, width presets, and drag resize",
+      "summary": "## Feature request Give the **web Trip Editor and Trip Viewer the same desktop sidebar controls**: hide/show, three selectable width presets, and direct drag-to-resize. Both should restore the **last chosen open width/mode** when the sidebar is shown again, while preserving map s",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -54,27 +119,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-11-02T13:36:47Z",
+      "latestSignal": "2026-11-03T15:26:30Z",
       "keywords": [
-        "useful",
-        "other",
-        "tools",
         "feature",
+        "trip",
+        "editor",
+        "viewer",
         "request"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Support for OpenSearch and query parameter search",
-          "url": "https://github.com/docmost/docmost/issues/2641",
-          "createdAt": "2026-11-02T13:36:47Z"
+          "label": "[Feature]: Consistent Trip Editor/Viewer sidebars — hide/show, width presets, and drag resize",
+          "url": "https://github.com/stef-k/Wayfarer/issues/961",
+          "createdAt": "2026-11-03T15:26:30Z"
         },
         {
           "source": "GitHub",
-          "label": "Add options to specify IPv4 or IPv6",
-          "url": "https://github.com/Owloops/updo/issues/49",
-          "createdAt": "2026-11-02T13:23:14Z"
+          "label": "[Feature]: File-based multilingual UI localization across ASP.NET Core, Vue, and Trip Viewer",
+          "url": "https://github.com/stef-k/Wayfarer/issues/960",
+          "createdAt": "2026-11-03T15:24:25Z"
         }
       ]
     }
