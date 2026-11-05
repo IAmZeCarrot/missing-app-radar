@@ -1,11 +1,52 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-04T16:18:50.056Z",
+  "generatedAt": "2026-11-05T16:28:03.437Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "Allow disabling \"rename master to main\" warning",
-      "summary": "**Is your feature request related to a problem? Please describe.** I'm always frustrated when Dyad shows the banner \"You are on branch master, rename master to main\" every time I'm on the master branch. I deliberately use master and have no intention of renaming it to main. The c",
+      "id": "emerging-problem-feature-request",
+      "title": "Dependency Graph should show dependency traces back to database connections",
+      "summary": "**What problem will this feature request solve?** Currently dependency graph only shows dependencies back to source tables, but if there's a complicated dashboard that has multiple tabs and includes data from multiple sources, it's not obvious from the dependency graph. **Describ",
+      "score": 77,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 16
+      },
+      "requests": 3,
+      "latestSignal": "2026-11-05T16:18:36Z",
+      "keywords": [
+        "problem",
+        "feature",
+        "request",
+        "solve",
+        "not"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Dependency Graph should show dependency traces back to database connections",
+          "url": "https://github.com/metabase/metabase/issues/86396",
+          "createdAt": "2026-11-05T16:18:36Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature request]: Sync Fleets between the web and desktop apps",
+          "url": "https://github.com/Termix-SSH/Plugin-Fleets/issues/5",
+          "createdAt": "2026-11-05T16:05:04Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Do not return `embedding-secret-key` in plain text after creation, and support multiple secrets",
+          "url": "https://github.com/metabase/metabase/issues/86395",
+          "createdAt": "2026-11-05T15:51:46Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-like",
+      "title": "Feature Request: Auto Jailbreak On Boot",
+      "summary": "Already saw this in another app and it worked like a charm. I think it could be useful here as well.",
       "score": 72,
       "scoreComponents": {
         "base": 28,
@@ -13,7 +54,54 @@
         "engagement": 0
       },
       "requests": 4,
-      "latestSignal": "2026-11-04T16:02:14Z",
+      "latestSignal": "2026-11-05T16:17:27Z",
+      "keywords": [
+        "feature",
+        "request",
+        "like",
+        "already",
+        "app"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Auto Jailbreak On Boot",
+          "url": "https://github.com/YuKongA/ghostlock-app/issues/791",
+          "createdAt": "2026-11-05T16:17:27Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] UDPFS paths in OSDMenu",
+          "url": "https://github.com/pcm720/OSDMenu/issues/39",
+          "createdAt": "2026-11-05T16:08:12Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature] Feature request: orca linear as a Linear OAuth app (actor = app)",
+          "url": "https://github.com/stablyai/orca/issues/38589",
+          "createdAt": "2026-11-05T15:59:37Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Persian language supposed",
+          "url": "https://github.com/zai-org/GLM-ASR/issues/40",
+          "createdAt": "2026-11-05T07:50:22Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "docs: Document internal editor DOM classes for custom CSS snippets",
+      "summary": "**Is your feature request related to a problem? Please describe.** Creating custom CSS snippets or themes is currently difficult because the editor uses custom DOM structures (such as `.capricorn-markdown-list-item`, `.capricorn-markdown-task-checkbox`, and `.capricorn-markdown-l",
+      "score": 68,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 7
+      },
+      "requests": 3,
+      "latestSignal": "2026-11-05T15:56:21Z",
       "keywords": [
         "feature",
         "request",
@@ -25,103 +113,21 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Allow disabling \"rename master to main\" warning",
-          "url": "https://github.com/dyad-sh/dyad/issues/4982",
-          "createdAt": "2026-11-04T16:02:14Z"
+          "label": "docs: Document internal editor DOM classes for custom CSS snippets",
+          "url": "https://github.com/drl990114/MarkFlowy/issues/1285",
+          "createdAt": "2026-11-05T15:56:21Z"
         },
         {
           "source": "GitHub",
-          "label": "Clean up threading/tasking model",
-          "url": "https://github.com/nasa/SBN/issues/160",
-          "createdAt": "2026-11-04T16:02:02Z"
+          "label": "✨ Copy chat answers as rich text (HTML) instead of raw Markdown",
+          "url": "https://github.com/it-at-m/mucgpt/issues/1413",
+          "createdAt": "2026-11-05T15:39:42Z"
         },
         {
           "source": "GitHub",
-          "label": "AWS Glue Data Quality Connector",
-          "url": "https://github.com/open-metadata/OpenMetadata/issues/37076",
-          "createdAt": "2026-11-04T15:35:21Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "FEAT: Add optional support for legacy MongoDB 4.0",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/issues/5008",
-          "createdAt": "2026-11-04T11:24:20Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-description",
-      "title": "[Feature Request] [FilmCraft] Desplazamiento independiente en las pistas de audio y video.",
-      "summary": "### Description Al editar un clip, al hacer un corte en J presionando Alt (como en premiere pro) no se desvincula., por ende, no poder hacerlo. Tal vez se describa como un bug. ### Ticket details | | | |---|---| | **App** | FilmCraft | | **Type** | Feature Request | | **Reported",
-      "score": 66,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 16
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-04T15:37:28Z",
-      "keywords": [
-        "feature",
-        "request",
-        "description",
-        "ticket",
-        "details"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [FilmCraft] Desplazamiento independiente en las pistas de audio y video.",
-          "url": "https://github.com/storytold/filmcraft/issues/4287",
-          "createdAt": "2026-11-04T15:37:28Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [Craft Anything] MCP or other use of another ai apps",
-          "url": "https://github.com/storytold/craft-anything/issues/835",
-          "createdAt": "2026-11-04T15:26:18Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-searched-request",
-      "title": "[FEATURE] parallel work on claude chat & claude code",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement o",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-04T15:46:45Z",
-      "keywords": [
-        "feature",
-        "searched",
-        "request",
-        "not",
-        "code"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] parallel work on claude chat & claude code",
-          "url": "https://github.com/anthropics/claude-code/issues/107243",
-          "createdAt": "2026-11-04T15:46:45Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Stop (clear queue) button for music",
-          "url": "https://github.com/jellyfin/jellyfin-androidtv/issues/5936",
-          "createdAt": "2026-11-04T15:20:05Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] A hook event for `!` shell-mode commands, so their output can be checked before it enters the context",
-          "url": "https://github.com/anthropics/claude-code/issues/107222",
-          "createdAt": "2026-11-04T14:26:13Z"
+          "label": "Export queue delay in the Prometheus and Datadog metrics",
+          "url": "https://github.com/inngest/inngest/issues/5191",
+          "createdAt": "2026-11-05T15:13:55Z"
         }
       ]
     }
