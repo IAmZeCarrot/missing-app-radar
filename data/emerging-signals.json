@@ -1,99 +1,58 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-05T16:28:03.437Z",
+  "generatedAt": "2026-11-06T15:55:32.170Z",
   "clusters": [
     {
-      "id": "emerging-problem-feature-request",
-      "title": "Dependency Graph should show dependency traces back to database connections",
-      "summary": "**What problem will this feature request solve?** Currently dependency graph only shows dependencies back to source tables, but if there's a complicated dashboard that has multiple tabs and includes data from multiple sources, it's not obvious from the dependency graph. **Describ",
-      "score": 77,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 16
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-05T16:18:36Z",
-      "keywords": [
-        "problem",
-        "feature",
-        "request",
-        "solve",
-        "not"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Dependency Graph should show dependency traces back to database connections",
-          "url": "https://github.com/metabase/metabase/issues/86396",
-          "createdAt": "2026-11-05T16:18:36Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature request]: Sync Fleets between the web and desktop apps",
-          "url": "https://github.com/Termix-SSH/Plugin-Fleets/issues/5",
-          "createdAt": "2026-11-05T16:05:04Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Do not return `embedding-secret-key` in plain text after creation, and support multiple secrets",
-          "url": "https://github.com/metabase/metabase/issues/86395",
-          "createdAt": "2026-11-05T15:51:46Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-like",
-      "title": "Feature Request: Auto Jailbreak On Boot",
-      "summary": "Already saw this in another app and it worked like a charm. I think it could be useful here as well.",
-      "score": 72,
+      "id": "emerging-feature-request-agent",
+      "title": "Feature: reactions on chat messages (👍 👎 ❓ ✅ 👀 ❤️), stored on the host and sent to the agent",
+      "summary": "Feature request from the mobile app (app backlog F038). **What:** a person (and an agent) can react to a chat message with an emoji, as in any messaging app. Reactions show under the message, in the web app and on the phone. Some of them also reach the agent as a short note, so a",
+      "score": 83,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 0
+        "engagement": 11
       },
       "requests": 4,
-      "latestSignal": "2026-11-05T16:17:27Z",
+      "latestSignal": "2026-11-06T15:53:25Z",
       "keywords": [
         "feature",
         "request",
-        "like",
-        "already",
-        "app"
+        "agent",
+        "app",
+        "agents"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Auto Jailbreak On Boot",
-          "url": "https://github.com/YuKongA/ghostlock-app/issues/791",
-          "createdAt": "2026-11-05T16:17:27Z"
+          "label": "Feature: reactions on chat messages (👍 👎 ❓ ✅ 👀 ❤️), stored on the host and sent to the agent",
+          "url": "https://github.com/23blocks-OS/ai-maestro/issues/799",
+          "createdAt": "2026-11-06T15:53:25Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] UDPFS paths in OSDMenu",
-          "url": "https://github.com/pcm720/OSDMenu/issues/39",
-          "createdAt": "2026-11-05T16:08:12Z"
+          "label": "Feature request: Add Todos as a supported agent",
+          "url": "https://github.com/yetone/magpie/issues/5551",
+          "createdAt": "2026-11-06T15:49:16Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Feature request: orca linear as a Linear OAuth app (actor = app)",
-          "url": "https://github.com/stablyai/orca/issues/38589",
-          "createdAt": "2026-11-05T15:59:37Z"
+          "label": "[Feature Request] Extensible GUI Hook Layer for TUI Applications",
+          "url": "https://github.com/thdxg/macterm/issues/694",
+          "createdAt": "2026-11-06T08:02:09Z"
         },
         {
           "source": "GitHub",
-          "label": "Persian language supposed",
-          "url": "https://github.com/zai-org/GLM-ASR/issues/40",
-          "createdAt": "2026-11-05T07:50:22Z"
+          "label": "[Feature Request] Enable shared memory across agents through EverMe",
+          "url": "https://github.com/LodyAI/Lody/issues/2350",
+          "createdAt": "2026-11-06T03:26:12Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-related",
-      "title": "docs: Document internal editor DOM classes for custom CSS snippets",
-      "summary": "**Is your feature request related to a problem? Please describe.** Creating custom CSS snippets or themes is currently difficult because the editor uses custom DOM structures (such as `.capricorn-markdown-list-item`, `.capricorn-markdown-task-checkbox`, and `.capricorn-markdown-l",
+      "id": "emerging-feature-request-issue",
+      "title": "[FEATURE REQUEST]: Drag and drop hard-coded mod opens Local.svelte",
+      "summary": "### Are you sure that this isn't a duplicate issue from another person? - [x] I have searched existing issues and confirmed this is not a duplicate. ### Describe your feature here. hard-coded mods should open Local.svelte with their; - Working Directory - App Name (from folder na",
       "score": 68,
       "scoreComponents": {
         "base": 28,
@@ -101,33 +60,109 @@
         "engagement": 7
       },
       "requests": 3,
-      "latestSignal": "2026-11-05T15:56:21Z",
+      "latestSignal": "2026-11-06T15:26:46Z",
       "keywords": [
         "feature",
         "request",
-        "related",
-        "problem",
-        "please"
+        "issue",
+        "searched",
+        "existing"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "docs: Document internal editor DOM classes for custom CSS snippets",
-          "url": "https://github.com/drl990114/MarkFlowy/issues/1285",
-          "createdAt": "2026-11-05T15:56:21Z"
+          "label": "[FEATURE REQUEST]: Drag and drop hard-coded mod opens Local.svelte",
+          "url": "https://github.com/Team-SolarEngine/solar-lanucher/issues/27",
+          "createdAt": "2026-11-06T15:26:46Z"
         },
         {
           "source": "GitHub",
-          "label": "✨ Copy chat answers as rich text (HTML) instead of raw Markdown",
-          "url": "https://github.com/it-at-m/mucgpt/issues/1413",
-          "createdAt": "2026-11-05T15:39:42Z"
+          "label": "[Feature Request]: --frontend sdl: support fullscreen and GUI hotkeys (for frontends/launchers)",
+          "url": "https://github.com/Vita3K/Vita3K/issues/4361",
+          "createdAt": "2026-11-06T15:15:28Z"
         },
         {
           "source": "GitHub",
-          "label": "Export queue delay in the Prometheus and Datadog metrics",
-          "url": "https://github.com/inngest/inngest/issues/5191",
-          "createdAt": "2026-11-05T15:13:55Z"
+          "label": "[Bug]: Runtime accumulator merges Gemini parallel tool calls when stream index is missing",
+          "url": "https://github.com/HKUDS/DeepTutor/issues/2482",
+          "createdAt": "2026-11-06T05:35:15Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-button",
+      "title": "Transfer shortcut/button & outsource account",
+      "summary": "### What would you like? Hi First of all, thank you for building such a clean and helpful expense manager. I really enjoy using the app daily. I’d like to share one improvement and a feature request. Improvement- Issue: To add a transfer transaction I need to go Settings → Genera",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 0
+      },
+      "requests": 3,
+      "latestSignal": "2026-11-06T15:34:42Z",
+      "keywords": [
+        "feature",
+        "request",
+        "button",
+        "like",
+        "first"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Transfer shortcut/button & outsource account",
+          "url": "https://github.com/saisaharsh3/Leftovers/issues/52",
+          "createdAt": "2026-11-06T15:34:42Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Custom Video Duration & Resolution Settings for Recast",
+          "url": "https://github.com/neuregex/freefield/issues/5",
+          "createdAt": "2026-11-06T15:02:51Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Menu button",
+          "url": "https://github.com/TAK-Product-Center/atak-civ/issues/21",
+          "createdAt": "2026-11-06T13:55:32Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-much",
+      "title": "Dependency health/cleanup",
+      "summary": "### Problem Statement This isn't quite a \"feature request\" but you have no valid template I can use. #26186 was abruptly closed without much explanation, so this is the issue to track the suggestion rather than jumping straight to a PR. I'd like to suggest doing some general tidy",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-06T15:24:32Z",
+      "keywords": [
+        "feature",
+        "request",
+        "much",
+        "rather",
+        "than"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Dependency health/cleanup",
+          "url": "https://github.com/getsentry/sentry-javascript/issues/26187",
+          "createdAt": "2026-11-06T15:24:32Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: custom save location and multiple game profiles",
+          "url": "https://github.com/imbaner/fallout2-ce-mobile/issues/29",
+          "createdAt": "2026-11-06T15:22:35Z"
         }
       ]
     }
