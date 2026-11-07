@@ -1,58 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-06T15:55:32.170Z",
+  "generatedAt": "2026-11-07T14:53:52.170Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-agent",
-      "title": "Feature: reactions on chat messages (👍 👎 ❓ ✅ 👀 ❤️), stored on the host and sent to the agent",
-      "summary": "Feature request from the mobile app (app backlog F038). **What:** a person (and an agent) can react to a chat message with an emoji, as in any messaging app. Reactions show under the message, in the web app and on the phone. Some of them also reach the agent as a short note, so a",
-      "score": 83,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 11
-      },
-      "requests": 4,
-      "latestSignal": "2026-11-06T15:53:25Z",
-      "keywords": [
-        "feature",
-        "request",
-        "agent",
-        "app",
-        "agents"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature: reactions on chat messages (👍 👎 ❓ ✅ 👀 ❤️), stored on the host and sent to the agent",
-          "url": "https://github.com/23blocks-OS/ai-maestro/issues/799",
-          "createdAt": "2026-11-06T15:53:25Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Add Todos as a supported agent",
-          "url": "https://github.com/yetone/magpie/issues/5551",
-          "createdAt": "2026-11-06T15:49:16Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Extensible GUI Hook Layer for TUI Applications",
-          "url": "https://github.com/thdxg/macterm/issues/694",
-          "createdAt": "2026-11-06T08:02:09Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Enable shared memory across agents through EverMe",
-          "url": "https://github.com/LodyAI/Lody/issues/2350",
-          "createdAt": "2026-11-06T03:26:12Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-issue",
-      "title": "[FEATURE REQUEST]: Drag and drop hard-coded mod opens Local.svelte",
-      "summary": "### Are you sure that this isn't a duplicate issue from another person? - [x] I have searched existing issues and confirmed this is not a duplicate. ### Describe your feature here. hard-coded mods should open Local.svelte with their; - Working Directory - App Name (from folder na",
+      "id": "emerging-feature-request-like",
+      "title": "[Feature] Attach receipts and documents to transactions",
+      "summary": "### Verified feature request does not already exist? - [x] I have searched and found no existing issue ### 💻 - [ ] Would you like to implement this feature? ### Pitch: what problem are you trying to solve? ## Summary Users can't keep receipts or invoices with their transactions,",
       "score": 68,
       "scoreComponents": {
         "base": 28,
@@ -60,40 +13,40 @@
         "engagement": 7
       },
       "requests": 3,
-      "latestSignal": "2026-11-06T15:26:46Z",
+      "latestSignal": "2026-11-07T14:42:00Z",
       "keywords": [
         "feature",
         "request",
-        "issue",
-        "searched",
+        "like",
+        "users",
         "existing"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE REQUEST]: Drag and drop hard-coded mod opens Local.svelte",
-          "url": "https://github.com/Team-SolarEngine/solar-lanucher/issues/27",
-          "createdAt": "2026-11-06T15:26:46Z"
+          "label": "[Feature] Attach receipts and documents to transactions",
+          "url": "https://github.com/CSCI-435-SE/actual-budget/issues/150",
+          "createdAt": "2026-11-07T14:42:00Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: --frontend sdl: support fullscreen and GUI hotkeys (for frontends/launchers)",
-          "url": "https://github.com/Vita3K/Vita3K/issues/4361",
-          "createdAt": "2026-11-06T15:15:28Z"
+          "label": "Feature request: SSO via OpenID Connect (Keycloak, Authentik, etc.) and/or a trusted reverse-proxy auth mode",
+          "url": "https://github.com/elm1nst3r/GHOST-osint-crm/issues/105",
+          "createdAt": "2026-11-07T14:35:26Z"
         },
         {
           "source": "GitHub",
-          "label": "[Bug]: Runtime accumulator merges Gemini parallel tool calls when stream index is missing",
-          "url": "https://github.com/HKUDS/DeepTutor/issues/2482",
-          "createdAt": "2026-11-06T05:35:15Z"
+          "label": "[Feature Request] Move Tool: Optional subpixel movement with configurable increments",
+          "url": "https://github.com/storytold/photocraft/issues/11831",
+          "createdAt": "2026-11-07T03:10:28Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-button",
-      "title": "Transfer shortcut/button & outsource account",
-      "summary": "### What would you like? Hi First of all, thank you for building such a clean and helpful expense manager. I really enjoy using the app daily. I’d like to share one improvement and a feature request. Improvement- Issue: To add a transfer transaction I need to go Settings → Genera",
+      "id": "emerging-feature-request-settings",
+      "title": "The menu bar and Settings open a bug report or feature request directly",
+      "summary": "> [!NOTE] > 🤖 **Claude Opus 5.5 responding on behalf of Sam** ### Problem To report a bug or request a feature, a person must find the GitHub repository on their own. On `main` at `91865afa`, the app offers **Copy Diagnostics** in Settings and the menu bar, which prepares a repo",
       "score": 61,
       "scoreComponents": {
         "base": 28,
@@ -101,68 +54,68 @@
         "engagement": 0
       },
       "requests": 3,
-      "latestSignal": "2026-11-06T15:34:42Z",
+      "latestSignal": "2026-11-07T14:53:27Z",
       "keywords": [
         "feature",
         "request",
-        "button",
-        "like",
-        "first"
+        "settings",
+        "bug",
+        "report"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Transfer shortcut/button & outsource account",
-          "url": "https://github.com/saisaharsh3/Leftovers/issues/52",
-          "createdAt": "2026-11-06T15:34:42Z"
+          "label": "The menu bar and Settings open a bug report or feature request directly",
+          "url": "https://github.com/samanyudas/miri/issues/352",
+          "createdAt": "2026-11-07T14:53:27Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Custom Video Duration & Resolution Settings for Recast",
-          "url": "https://github.com/neuregex/freefield/issues/5",
-          "createdAt": "2026-11-06T15:02:51Z"
+          "label": "Make the Settings panel movable",
+          "url": "https://github.com/Taiko2k/Tauon/issues/2416",
+          "createdAt": "2026-11-07T14:35:47Z"
         },
         {
           "source": "GitHub",
-          "label": "Menu button",
-          "url": "https://github.com/TAK-Product-Center/atak-civ/issues/21",
-          "createdAt": "2026-11-06T13:55:32Z"
+          "label": "Validate paths in StateBackend methods for consistency and defense in depth",
+          "url": "https://github.com/langchain-ai/deepagents/issues/7592",
+          "createdAt": "2026-11-07T05:32:53Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-much",
-      "title": "Dependency health/cleanup",
-      "summary": "### Problem Statement This isn't quite a \"feature request\" but you have no valid template I can use. #26186 was abruptly closed without much explanation, so this is the issue to track the suggestion rather than jumping straight to a PR. I'd like to suggest doing some general tidy",
-      "score": 61,
+      "id": "emerging-feature-request-self",
+      "title": "Feature request: Support self-hosted Nuvio backends",
+      "summary": "### What would you like? Glassio currently hardcodes the Nuvio endpoint https://nuvio.tv so the app cannot be used with a self-hosted Nuvio backend.",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 11
+        "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-11-06T15:24:32Z",
+      "latestSignal": "2026-11-07T14:35:43Z",
       "keywords": [
         "feature",
         "request",
-        "much",
-        "rather",
-        "than"
+        "self",
+        "like",
+        "currently"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Dependency health/cleanup",
-          "url": "https://github.com/getsentry/sentry-javascript/issues/26187",
-          "createdAt": "2026-11-06T15:24:32Z"
+          "label": "Feature request: Support self-hosted Nuvio backends",
+          "url": "https://github.com/mohammadmrh12/glassio/issues/11",
+          "createdAt": "2026-11-07T14:35:43Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: custom save location and multiple game profiles",
-          "url": "https://github.com/imbaner/fallout2-ce-mobile/issues/29",
-          "createdAt": "2026-11-06T15:22:35Z"
+          "label": "MCP: Add a tool or due-date filter to retrieve overdue cards",
+          "url": "https://github.com/kanbn/kan/issues/682",
+          "createdAt": "2026-11-07T12:41:55Z"
         }
       ]
     }
