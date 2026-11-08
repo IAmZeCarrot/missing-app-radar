@@ -1,121 +1,69 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-07T14:53:52.170Z",
+  "generatedAt": "2026-11-08T15:12:00.527Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-like",
-      "title": "[Feature] Attach receipts and documents to transactions",
-      "summary": "### Verified feature request does not already exist? - [x] I have searched and found no existing issue ### 💻 - [ ] Would you like to implement this feature? ### Pitch: what problem are you trying to solve? ## Summary Users can't keep receipts or invoices with their transactions,",
-      "score": 68,
+      "id": "emerging-feature-request-related",
+      "title": "[SUGGESTION]: Кнопка перепоиска плейлистов и понравившихся треков",
+      "summary": "### Desktop Confirmation - [x] I confirm this suggestion is for the desktop app (not mobile) ### Is your feature request related to a problem? Допустим у меня еще со старых версий есть из импорта куча треков которые уже разбросаны по плейлистам, смешаны с моими собственными файла",
+      "score": 79,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
+        "volume": 44,
         "engagement": 7
       },
-      "requests": 3,
-      "latestSignal": "2026-11-07T14:42:00Z",
+      "requests": 7,
+      "latestSignal": "2026-11-08T15:07:41Z",
       "keywords": [
         "feature",
         "request",
-        "like",
-        "users",
-        "existing"
+        "related",
+        "problem",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature] Attach receipts and documents to transactions",
-          "url": "https://github.com/CSCI-435-SE/actual-budget/issues/150",
-          "createdAt": "2026-11-07T14:42:00Z"
+          "label": "[SUGGESTION]: Кнопка перепоиска плейлистов и понравившихся треков",
+          "url": "https://github.com/rootscripts/riff/issues/238",
+          "createdAt": "2026-11-08T15:07:41Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: SSO via OpenID Connect (Keycloak, Authentik, etc.) and/or a trusted reverse-proxy auth mode",
-          "url": "https://github.com/elm1nst3r/GHOST-osint-crm/issues/105",
-          "createdAt": "2026-11-07T14:35:26Z"
+          "label": "[FEAT] Login by passkey on Android without jumping into the app",
+          "url": "https://github.com/AChep/keyguard-app/issues/1670",
+          "createdAt": "2026-11-08T15:04:32Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Move Tool: Optional subpixel movement with configurable increments",
-          "url": "https://github.com/storytold/photocraft/issues/11831",
-          "createdAt": "2026-11-07T03:10:28Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-settings",
-      "title": "The menu bar and Settings open a bug report or feature request directly",
-      "summary": "> [!NOTE] > 🤖 **Claude Opus 5.5 responding on behalf of Sam** ### Problem To report a bug or request a feature, a person must find the GitHub repository on their own. On `main` at `91865afa`, the app offers **Copy Diagnostics** in Settings and the menu bar, which prepares a repo",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-07T14:53:27Z",
-      "keywords": [
-        "feature",
-        "request",
-        "settings",
-        "bug",
-        "report"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "The menu bar and Settings open a bug report or feature request directly",
-          "url": "https://github.com/samanyudas/miri/issues/352",
-          "createdAt": "2026-11-07T14:53:27Z"
+          "label": "Toolbar: option to route its API and auth requests through the reverse proxy (blocked by browser tracking protection)",
+          "url": "https://github.com/PostHog/posthog-js/issues/5620",
+          "createdAt": "2026-11-08T14:56:09Z"
         },
         {
           "source": "GitHub",
-          "label": "Make the Settings panel movable",
-          "url": "https://github.com/Taiko2k/Tauon/issues/2416",
-          "createdAt": "2026-11-07T14:35:47Z"
+          "label": "Public way to reset a window's remembered size",
+          "url": "https://github.com/emilk/egui/issues/8848",
+          "createdAt": "2026-11-08T14:42:06Z"
         },
         {
           "source": "GitHub",
-          "label": "Validate paths in StateBackend methods for consistency and defense in depth",
-          "url": "https://github.com/langchain-ai/deepagents/issues/7592",
-          "createdAt": "2026-11-07T05:32:53Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-self",
-      "title": "Feature request: Support self-hosted Nuvio backends",
-      "summary": "### What would you like? Glassio currently hardcodes the Nuvio endpoint https://nuvio.tv so the app cannot be used with a self-hosted Nuvio backend.",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-07T14:35:43Z",
-      "keywords": [
-        "feature",
-        "request",
-        "self",
-        "like",
-        "currently"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Support self-hosted Nuvio backends",
-          "url": "https://github.com/mohammadmrh12/glassio/issues/11",
-          "createdAt": "2026-11-07T14:35:43Z"
+          "label": "macOS/iOS: option to skip app links for navigations the navigation handler allows",
+          "url": "https://github.com/tauri-apps/wry/issues/1926",
+          "createdAt": "2026-11-08T14:37:58Z"
         },
         {
           "source": "GitHub",
-          "label": "MCP: Add a tool or due-date filter to retrieve overdue cards",
-          "url": "https://github.com/kanbn/kan/issues/682",
-          "createdAt": "2026-11-07T12:41:55Z"
+          "label": "Dark mode",
+          "url": "https://github.com/KCL-Benediction/swift-chat-hybrid/issues/37",
+          "createdAt": "2026-11-08T14:29:27Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Improve 3MF Compatibility and Add 3D Mesh Editing Tools",
+          "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/17380",
+          "createdAt": "2026-11-08T12:58:32Z"
         }
       ]
     }

@@ -2113,6 +2113,19 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-11-08",
+      "clusters": 1,
+      "requests": 7,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 79,
+          "requests": 7
+        }
+      ]
     }
   ]
 }
