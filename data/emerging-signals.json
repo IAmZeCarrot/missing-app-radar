@@ -1,69 +1,156 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-08T15:12:00.527Z",
+  "generatedAt": "2026-11-09T18:48:42.850Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "[SUGGESTION]: Кнопка перепоиска плейлистов и понравившихся треков",
-      "summary": "### Desktop Confirmation - [x] I confirm this suggestion is for the desktop app (not mobile) ### Is your feature request related to a problem? Допустим у меня еще со старых версий есть из импорта куча треков которые уже разбросаны по плейлистам, смешаны с моими собственными файла",
+      "id": "emerging-feature-request-thank",
+      "title": "Feature request: Android companion app to sync notifications, calls, and replies with desktop Poni",
+      "summary": "Hi, and thank you for building Poni. I really enjoy using it on my desktop. I'd like to suggest an **Android companion app (Google Play Store)** that pairs with desktop Poni, so my phone and computer work together. **Phone → Desktop** - Mirror phone notifications (messages, Whats",
       "score": 79,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
         "engagement": 7
       },
-      "requests": 7,
-      "latestSignal": "2026-11-08T15:07:41Z",
+      "requests": 4,
+      "latestSignal": "2026-11-09T18:36:37Z",
       "keywords": [
         "feature",
         "request",
-        "related",
-        "problem",
-        "please"
+        "thank",
+        "like",
+        "work"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[SUGGESTION]: Кнопка перепоиска плейлистов и понравившихся треков",
-          "url": "https://github.com/rootscripts/riff/issues/238",
-          "createdAt": "2026-11-08T15:07:41Z"
+          "label": "Feature request: Android companion app to sync notifications, calls, and replies with desktop Poni",
+          "url": "https://github.com/liimalim/Poni/issues/79",
+          "createdAt": "2026-11-09T18:36:37Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEAT] Login by passkey on Android without jumping into the app",
-          "url": "https://github.com/AChep/keyguard-app/issues/1670",
-          "createdAt": "2026-11-08T15:04:32Z"
+          "label": "[Feature Request] Add support for CH / CH/A sales region on Apple Watch Ultra 2",
+          "url": "https://github.com/LogicSense1/WatchRegion/issues/3",
+          "createdAt": "2026-11-09T18:33:49Z"
         },
         {
           "source": "GitHub",
-          "label": "Toolbar: option to route its API and auth requests through the reverse proxy (blocked by browser tracking protection)",
-          "url": "https://github.com/PostHog/posthog-js/issues/5620",
-          "createdAt": "2026-11-08T14:56:09Z"
+          "label": "[Feature request] Ionic dielectric response for fractional-occupation amorphous systems and LCAO support",
+          "url": "https://github.com/deepmodeling/abacus-develop/issues/8303",
+          "createdAt": "2026-11-09T15:08:12Z"
         },
         {
           "source": "GitHub",
-          "label": "Public way to reset a window's remembered size",
-          "url": "https://github.com/emilk/egui/issues/8848",
-          "createdAt": "2026-11-08T14:42:06Z"
+          "label": "Feature request: read ChessBase opening books (.ctg / .cto / .ctb)",
+          "url": "https://github.com/itshak/cbvault/issues/3",
+          "createdAt": "2026-11-09T11:28:58Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-one",
+      "title": "Feature Request: Audio Device Profiles – Switch Output and Microphone Together with One Hotkey",
+      "summary": "### Description I would like to request the ability to create audio device profiles that link a playback device (output) with a recording device (microphone), allowing both devices to be switched simultaneously using a single global hotkey. Volumey already allows switching the de",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-09T16:29:40Z",
+      "keywords": [
+        "feature",
+        "request",
+        "one",
+        "description",
+        "like"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Audio Device Profiles – Switch Output and Microphone Together with One Hotkey",
+          "url": "https://github.com/G-Stas/Volumey/issues/142",
+          "createdAt": "2026-11-09T16:29:40Z"
         },
         {
           "source": "GitHub",
-          "label": "macOS/iOS: option to skip app links for navigations the navigation handler allows",
-          "url": "https://github.com/tauri-apps/wry/issues/1926",
-          "createdAt": "2026-11-08T14:37:58Z"
+          "label": "[Feature Request] Expose, copy, and export persistent transaction UUIDs",
+          "url": "https://github.com/emavgl/oinkoin/issues/465",
+          "createdAt": "2026-11-09T15:37:55Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-img-width-feature",
+      "title": "Suggestion: Multi-column auto-sizing thumbnail previews",
+      "summary": "<img width=\"670\" height=\"810\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/68754616-9cde-4166-8a2b-79efb48ea3f3\" /> ### Feature Request Please introduce support for multi-column (auto-sized) thumbnail stacking for page previews. Currently, only a single column is d",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-09T18:35:57Z",
+      "keywords": [
+        "img",
+        "width",
+        "feature",
+        "request",
+        "only"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Suggestion: Multi-column auto-sizing thumbnail previews",
+          "url": "https://github.com/ColbyGallagher/redcolumn/issues/305",
+          "createdAt": "2026-11-09T18:35:57Z"
         },
         {
           "source": "GitHub",
-          "label": "Dark mode",
-          "url": "https://github.com/KCL-Benediction/swift-chat-hybrid/issues/37",
-          "createdAt": "2026-11-08T14:29:27Z"
+          "label": "[Feature Request] Add \"Quit\" button to the dropdown",
+          "url": "https://github.com/Artzainnn/ClaudeUsageBar/issues/125",
+          "createdAt": "2026-11-09T18:22:43Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-mode-please-feature",
+      "title": "\"Manual\" sort mode",
+      "summary": "### Please confirm the following. - [x] I checked the [existing issues](https://github.com/modrinth/code/issues?q=is%3Aissue) for duplicate feature requests ### What parts of Modrinth is your feature request related too? Modrinth App ### Is your suggested feature related to a pro",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 0
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-09T18:25:09Z",
+      "keywords": [
+        "mode",
+        "please",
+        "feature",
+        "request",
+        "related"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "\"Manual\" sort mode",
+          "url": "https://github.com/modrinth/code/issues/8274",
+          "createdAt": "2026-11-09T18:25:09Z"
         },
         {
           "source": "GitHub",
-          "label": "Improve 3MF Compatibility and Add 3D Mesh Editing Tools",
-          "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/17380",
-          "createdAt": "2026-11-08T12:58:32Z"
+          "label": "[UX Enhancement] Allow double-click to select an image set in Test Mode",
+          "url": "https://github.com/CellProfiler/CellProfiler/issues/5240",
+          "createdAt": "2026-11-09T16:31:19Z"
         }
       ]
     }
