@@ -2154,6 +2154,24 @@
           "requests": 2
         }
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "clusters": 2,
+      "requests": 6,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-related",
+          "score": 61,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-checklist",
+          "score": 61,
+          "requests": 3
+        }
+      ]
     }
   ]
 }

@@ -1,156 +1,86 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-09T18:48:42.850Z",
+  "generatedAt": "2026-11-10T16:24:44.677Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-thank",
-      "title": "Feature request: Android companion app to sync notifications, calls, and replies with desktop Poni",
-      "summary": "Hi, and thank you for building Poni. I really enjoy using it on my desktop. I'd like to suggest an **Android companion app (Google Play Store)** that pairs with desktop Poni, so my phone and computer work together. **Phone → Desktop** - Mirror phone notifications (messages, Whats",
-      "score": 79,
+      "id": "emerging-feature-request-related",
+      "title": "Improve rendering performance with `meshoptimizer`",
+      "summary": "**Is your feature request related to a problem? Please describe.** https://github.com/f3d-app/f3d/pull/3678 added a new `F3D_MODULE_MESHOPT` that link with `meshoptimizer` when enabled. This is only used for decoding GLTF compressed buffers at the moment but this library also con",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 7
-      },
-      "requests": 4,
-      "latestSignal": "2026-11-09T18:36:37Z",
-      "keywords": [
-        "feature",
-        "request",
-        "thank",
-        "like",
-        "work"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: Android companion app to sync notifications, calls, and replies with desktop Poni",
-          "url": "https://github.com/liimalim/Poni/issues/79",
-          "createdAt": "2026-11-09T18:36:37Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Add support for CH / CH/A sales region on Apple Watch Ultra 2",
-          "url": "https://github.com/LogicSense1/WatchRegion/issues/3",
-          "createdAt": "2026-11-09T18:33:49Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature request] Ionic dielectric response for fractional-occupation amorphous systems and LCAO support",
-          "url": "https://github.com/deepmodeling/abacus-develop/issues/8303",
-          "createdAt": "2026-11-09T15:08:12Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: read ChessBase opening books (.ctg / .cto / .ctb)",
-          "url": "https://github.com/itshak/cbvault/issues/3",
-          "createdAt": "2026-11-09T11:28:58Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-one",
-      "title": "Feature Request: Audio Device Profiles – Switch Output and Microphone Together with One Hotkey",
-      "summary": "### Description I would like to request the ability to create audio device profiles that link a playback device (output) with a recording device (microphone), allowing both devices to be switched simultaneously using a single global hotkey. Volumey already allows switching the de",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-09T16:29:40Z",
-      "keywords": [
-        "feature",
-        "request",
-        "one",
-        "description",
-        "like"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Audio Device Profiles – Switch Output and Microphone Together with One Hotkey",
-          "url": "https://github.com/G-Stas/Volumey/issues/142",
-          "createdAt": "2026-11-09T16:29:40Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Expose, copy, and export persistent transaction UUIDs",
-          "url": "https://github.com/emavgl/oinkoin/issues/465",
-          "createdAt": "2026-11-09T15:37:55Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-img-width-feature",
-      "title": "Suggestion: Multi-column auto-sizing thumbnail previews",
-      "summary": "<img width=\"670\" height=\"810\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/68754616-9cde-4166-8a2b-79efb48ea3f3\" /> ### Feature Request Please introduce support for multi-column (auto-sized) thumbnail stacking for page previews. Currently, only a single column is d",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-11-09T18:35:57Z",
+      "requests": 3,
+      "latestSignal": "2026-11-10T16:24:29Z",
       "keywords": [
-        "img",
-        "width",
         "feature",
         "request",
-        "only"
+        "related",
+        "problem",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Suggestion: Multi-column auto-sizing thumbnail previews",
-          "url": "https://github.com/ColbyGallagher/redcolumn/issues/305",
-          "createdAt": "2026-11-09T18:35:57Z"
+          "label": "Improve rendering performance with `meshoptimizer`",
+          "url": "https://github.com/f3d-app/f3d/issues/3687",
+          "createdAt": "2026-11-10T16:24:29Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add \"Quit\" button to the dropdown",
-          "url": "https://github.com/Artzainnn/ClaudeUsageBar/issues/125",
-          "createdAt": "2026-11-09T18:22:43Z"
+          "label": "[Feature]: Add \"Pro\" and \"Pro2\" badges below the main title in the hardware wallet connection interface",
+          "url": "https://github.com/OneKeyHQ/app-monorepo/issues/14448",
+          "createdAt": "2026-11-10T16:17:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Support all-day due dates for cards",
+          "url": "https://github.com/nextcloud/deck/issues/8725",
+          "createdAt": "2026-11-10T09:32:59Z"
         }
       ]
     },
     {
-      "id": "emerging-mode-please-feature",
-      "title": "\"Manual\" sort mode",
-      "summary": "### Please confirm the following. - [x] I checked the [existing issues](https://github.com/modrinth/code/issues?q=is%3Aissue) for duplicate feature requests ### What parts of Modrinth is your feature request related too? Modrinth App ### Is your suggested feature related to a pro",
-      "score": 50,
+      "id": "emerging-feature-request-checklist",
+      "title": "Feature request: Allow a custom SponsorBlock server URL",
+      "summary": "### Checklist - [x] I have searched for existing issues (open and closed) and confirmed this feature hasn't been requested before - [x] I believe this feature request will benefit more than 10% of users, not just myself ### Feature Description PipePipe's SponsorBlock currently al",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-11-09T18:25:09Z",
+      "requests": 3,
+      "latestSignal": "2026-11-10T16:09:17Z",
       "keywords": [
-        "mode",
-        "please",
         "feature",
         "request",
-        "related"
+        "checklist",
+        "searched",
+        "existing"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "\"Manual\" sort mode",
-          "url": "https://github.com/modrinth/code/issues/8274",
-          "createdAt": "2026-11-09T18:25:09Z"
+          "label": "Feature request: Allow a custom SponsorBlock server URL",
+          "url": "https://github.com/InfinityLoop1308/PipePipe/issues/3115",
+          "createdAt": "2026-11-10T16:09:17Z"
         },
         {
           "source": "GitHub",
-          "label": "[UX Enhancement] Allow double-click to select an image set in Test Mode",
-          "url": "https://github.com/CellProfiler/CellProfiler/issues/5240",
-          "createdAt": "2026-11-09T16:31:19Z"
+          "label": "[FEATURE] Let hooks tell a forked side conversation from its parent session",
+          "url": "https://github.com/anthropics/claude-code/issues/108832",
+          "createdAt": "2026-11-10T16:02:17Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature request] Plugin panes: pin blocks in place (header, bottom sheet) while the pane body scrolls",
+          "url": "https://github.com/anthropics/claude-code/issues/108826",
+          "createdAt": "2026-11-10T15:41:13Z"
         }
       ]
     }
