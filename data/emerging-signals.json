@@ -1,19 +1,124 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-10T16:24:44.677Z",
+  "generatedAt": "2026-11-11T16:10:07.282Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "Improve rendering performance with `meshoptimizer`",
-      "summary": "**Is your feature request related to a problem? Please describe.** https://github.com/f3d-app/f3d/pull/3678 added a new `F3D_MODULE_MESHOPT` that link with `meshoptimizer` when enabled. This is only used for decoding GLTF compressed buffers at the moment but this library also con",
+      "id": "emerging-feature-existing-searched",
+      "title": "[FEATURE] Enable 'claude --cloud <session_id|url>' to attach to an existing cloud session",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement I",
+      "score": 71,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 21
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-11T16:09:50Z",
+      "keywords": [
+        "feature",
+        "existing",
+        "searched",
+        "requests",
+        "request"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Enable 'claude --cloud <session_id|url>' to attach to an existing cloud session",
+          "url": "https://github.com/anthropics/claude-code/issues/109074",
+          "createdAt": "2026-11-11T16:09:50Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "✨ - Allow a decimal keyboard in the shared text field",
+          "url": "https://github.com/vypdev/ha-ui/issues/16",
+          "createdAt": "2026-11-11T15:59:00Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-cloud-starter-problem",
+      "title": "Bundle third-party identity management capabilities with Cloud Starter",
+      "summary": "**What problem will this feature request solve?** Smaller organizations often need more sophisticated identity and access management capabilities than Metabase's native authentication options provide. These may include SSO, centralized user management, multi-factor authentication",
       "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-11T16:05:25Z",
+      "keywords": [
+        "cloud",
+        "starter",
+        "problem",
+        "will",
+        "feature"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Bundle third-party identity management capabilities with Cloud Starter",
+          "url": "https://github.com/metabase/metabase/issues/86908",
+          "createdAt": "2026-11-11T16:05:25Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Make IP allowlisting available on Starter Cloud",
+          "url": "https://github.com/metabase/metabase/issues/86905",
+          "createdAt": "2026-11-11T15:49:44Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-available",
+      "title": "[Feature Request] [App Launcher] Support for 32-bit Windows 7",
+      "summary": "### Description Support for Windows 7 would be really great. 32-bit support is already available, but currently it only works on Windows 10. It would be nice to see support for 32-bit Windows 7 as well. ### Ticket details | | | |---|---| | **App** | App Launcher | | **Type** | Fe",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-11T15:53:12Z",
+      "keywords": [
+        "feature",
+        "request",
+        "available",
+        "currently",
+        "only"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [App Launcher] Support for 32-bit Windows 7",
+          "url": "https://github.com/storytold/craft-launcher/issues/1394",
+          "createdAt": "2026-11-11T15:53:12Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature request: richer Codex CLI and OpenClaw session monitoring",
+          "url": "https://github.com/UurDemir/agent-hub-ui/issues/4",
+          "createdAt": "2026-11-11T11:02:27Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "kafka2, rdkafka2: Support record_accessor syntax in message_key_key, partition_key_key and partition_key",
+      "summary": "### Is your feature request related to a problem? Please describe. `kafka2` and `rdkafka2` read the message key and the partition from top-level fields only. `message_key_key`, `partition_key_key` (`kafka2`) and `partition_key` are looked up with `record[name]`. Records from `in_",
+      "score": 50,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
         "engagement": 0
       },
-      "requests": 3,
-      "latestSignal": "2026-11-10T16:24:29Z",
+      "requests": 2,
+      "latestSignal": "2026-11-11T16:00:57Z",
       "keywords": [
         "feature",
         "request",
@@ -25,62 +130,50 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Improve rendering performance with `meshoptimizer`",
-          "url": "https://github.com/f3d-app/f3d/issues/3687",
-          "createdAt": "2026-11-10T16:24:29Z"
+          "label": "kafka2, rdkafka2: Support record_accessor syntax in message_key_key, partition_key_key and partition_key",
+          "url": "https://github.com/fluent/fluent-plugin-kafka/issues/619",
+          "createdAt": "2026-11-11T16:00:57Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Add \"Pro\" and \"Pro2\" badges below the main title in the hardware wallet connection interface",
-          "url": "https://github.com/OneKeyHQ/app-monorepo/issues/14448",
-          "createdAt": "2026-11-10T16:17:53Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Support all-day due dates for cards",
-          "url": "https://github.com/nextcloud/deck/issues/8725",
-          "createdAt": "2026-11-10T09:32:59Z"
+          "label": "Gate releases on CI passing for main",
+          "url": "https://github.com/Enzo-Nunes/SkyForge/issues/24",
+          "createdAt": "2026-11-11T15:46:05Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-checklist",
-      "title": "Feature request: Allow a custom SponsorBlock server URL",
-      "summary": "### Checklist - [x] I have searched for existing issues (open and closed) and confirmed this feature hasn't been requested before - [x] I believe this feature request will benefit more than 10% of users, not just myself ### Feature Description PipePipe's SponsorBlock currently al",
-      "score": 61,
+      "id": "emerging-feature-add-option",
+      "title": "[Feature Request] Add import option",
+      "summary": "To have a higher adoption of Supernova it would be very useful to have the option to import settings from other launchers, specially from: - Nova Launcher - Smart Launcher These are one of the most popular ones and Smart Launcher supports already the Nova Launcher importing so th",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
+        "volume": 22,
         "engagement": 0
       },
-      "requests": 3,
-      "latestSignal": "2026-11-10T16:09:17Z",
+      "requests": 2,
+      "latestSignal": "2026-11-11T15:54:36Z",
       "keywords": [
         "feature",
-        "request",
-        "checklist",
-        "searched",
-        "existing"
+        "add",
+        "option",
+        "higher",
+        "useful"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Allow a custom SponsorBlock server URL",
-          "url": "https://github.com/InfinityLoop1308/PipePipe/issues/3115",
-          "createdAt": "2026-11-10T16:09:17Z"
+          "label": "[Feature Request] Add import option",
+          "url": "https://github.com/tanujnotes/Supernova/issues/98",
+          "createdAt": "2026-11-11T15:54:36Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Let hooks tell a forked side conversation from its parent session",
-          "url": "https://github.com/anthropics/claude-code/issues/108832",
-          "createdAt": "2026-11-10T16:02:17Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature request] Plugin panes: pin blocks in place (header, bottom sheet) while the pane body scrolls",
-          "url": "https://github.com/anthropics/claude-code/issues/108826",
-          "createdAt": "2026-11-10T15:41:13Z"
+          "label": "[Feature]: Allow backporting games that already have a lower SDK version",
+          "url": "https://github.com/kerrdec97/PS5-Backport-GUI/issues/34",
+          "createdAt": "2026-11-11T12:41:35Z"
         }
       ]
     }

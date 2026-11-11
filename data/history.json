@@ -2172,6 +2172,39 @@
           "requests": 3
         }
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "clusters": 5,
+      "requests": 10,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-existing-searched",
+          "score": 71,
+          "requests": 2
+        },
+        {
+          "id": "emerging-cloud-starter-problem",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-available",
+          "score": 57,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-add-option",
+          "score": 50,
+          "requests": 2
+        }
+      ]
     }
   ]
 }
