@@ -1,124 +1,90 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-11T16:10:07.282Z",
+  "generatedAt": "2026-11-12T16:48:17.153Z",
   "clusters": [
     {
-      "id": "emerging-feature-existing-searched",
-      "title": "[FEATURE] Enable 'claude --cloud <session_id|url>' to attach to an existing cloud session",
+      "id": "emerging-feature-request-add",
+      "title": "[Feature Request] Add session grouping/sections to Claude Code mobile app",
       "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement I",
-      "score": 71,
+      "score": 90,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 21
+        "volume": 44,
+        "engagement": 18
       },
-      "requests": 2,
-      "latestSignal": "2026-11-11T16:09:50Z",
-      "keywords": [
-        "feature",
-        "existing",
-        "searched",
-        "requests",
-        "request"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Enable 'claude --cloud <session_id|url>' to attach to an existing cloud session",
-          "url": "https://github.com/anthropics/claude-code/issues/109074",
-          "createdAt": "2026-11-11T16:09:50Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "✨ - Allow a decimal keyboard in the shared text field",
-          "url": "https://github.com/vypdev/ha-ui/issues/16",
-          "createdAt": "2026-11-11T15:59:00Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-cloud-starter-problem",
-      "title": "Bundle third-party identity management capabilities with Cloud Starter",
-      "summary": "**What problem will this feature request solve?** Smaller organizations often need more sophisticated identity and access management capabilities than Metabase's native authentication options provide. These may include SSO, centralized user management, multi-factor authentication",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-11T16:05:25Z",
-      "keywords": [
-        "cloud",
-        "starter",
-        "problem",
-        "will",
-        "feature"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Bundle third-party identity management capabilities with Cloud Starter",
-          "url": "https://github.com/metabase/metabase/issues/86908",
-          "createdAt": "2026-11-11T16:05:25Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Make IP allowlisting available on Starter Cloud",
-          "url": "https://github.com/metabase/metabase/issues/86905",
-          "createdAt": "2026-11-11T15:49:44Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-available",
-      "title": "[Feature Request] [App Launcher] Support for 32-bit Windows 7",
-      "summary": "### Description Support for Windows 7 would be really great. 32-bit support is already available, but currently it only works on Windows 10. It would be nice to see support for 32-bit Windows 7 as well. ### Ticket details | | | |---|---| | **App** | App Launcher | | **Type** | Fe",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-11T15:53:12Z",
+      "requests": 9,
+      "latestSignal": "2026-11-12T16:39:58Z",
       "keywords": [
         "feature",
         "request",
-        "available",
-        "currently",
-        "only"
+        "add",
+        "app",
+        "but"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] [App Launcher] Support for 32-bit Windows 7",
-          "url": "https://github.com/storytold/craft-launcher/issues/1394",
-          "createdAt": "2026-11-11T15:53:12Z"
+          "label": "[Feature Request] Add session grouping/sections to Claude Code mobile app",
+          "url": "https://github.com/anthropics/claude-code/issues/109341",
+          "createdAt": "2026-11-12T16:39:58Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature request: richer Codex CLI and OpenClaw session monitoring",
-          "url": "https://github.com/UurDemir/agent-hub-ui/issues/4",
-          "createdAt": "2026-11-11T11:02:27Z"
+          "label": "[Feature request] Desktop app: setting to make Enter insert a newline and send only via the Send button",
+          "url": "https://github.com/anthropics/claude-code/issues/109340",
+          "createdAt": "2026-11-12T16:37:08Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: dark theme",
+          "url": "https://github.com/norsehorse-dev/RelayPonyDesktop/issues/1",
+          "createdAt": "2026-11-12T16:31:18Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "feat: Add support for latest version of Karobar app (v7.9.0)",
+          "url": "https://github.com/franticg33k/morphe-patches/issues/60",
+          "createdAt": "2026-11-12T16:25:03Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Let setFullScreen target a display (no workaround left on Wayland)",
+          "url": "https://github.com/electron/electron/issues/55761",
+          "createdAt": "2026-11-12T16:24:50Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Layout+ images preview",
+          "url": "https://github.com/jegly/Gallery/issues/30",
+          "createdAt": "2026-11-12T16:24:44Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Add Visual Studio-style Git status indicators to the status bar",
+          "url": "https://github.com/Zaneris/passenger/issues/1533",
+          "createdAt": "2026-11-12T15:57:17Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Auto mode: option to use the classifier as a veto only, with classifier approvals falling through to prompts",
+          "url": "https://github.com/anthropics/claude-code/issues/109245",
+          "createdAt": "2026-11-12T10:06:12Z"
         }
       ]
     },
     {
       "id": "emerging-feature-request-related",
-      "title": "kafka2, rdkafka2: Support record_accessor syntax in message_key_key, partition_key_key and partition_key",
-      "summary": "### Is your feature request related to a problem? Please describe. `kafka2` and `rdkafka2` read the message key and the partition from top-level fields only. `message_key_key`, `partition_key_key` (`kafka2`) and `partition_key` are looked up with `record[name]`. Records from `in_",
-      "score": 50,
+      "title": "Experiment: teach a tag from confirms and rejects using stored embeddings",
+      "summary": "**Is your feature request related to a problem? Please describe.** A tag the built-in tagger does not know can only be applied by hand, or spread to near-identical pictures. After confirming and rejecting a hundred pictures for such a tag, the user has taught PixlStash nothing it",
+      "score": 77,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 0
+        "volume": 33,
+        "engagement": 16
       },
-      "requests": 2,
-      "latestSignal": "2026-11-11T16:00:57Z",
+      "requests": 3,
+      "latestSignal": "2026-11-12T16:39:46Z",
       "keywords": [
         "feature",
         "request",
@@ -130,22 +96,63 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "kafka2, rdkafka2: Support record_accessor syntax in message_key_key, partition_key_key and partition_key",
-          "url": "https://github.com/fluent/fluent-plugin-kafka/issues/619",
-          "createdAt": "2026-11-11T16:00:57Z"
+          "label": "Experiment: teach a tag from confirms and rejects using stored embeddings",
+          "url": "https://github.com/Pikselkroken/pixlstash/issues/2678",
+          "createdAt": "2026-11-12T16:39:46Z"
         },
         {
           "source": "GitHub",
-          "label": "Gate releases on CI passing for main",
-          "url": "https://github.com/Enzo-Nunes/SkyForge/issues/24",
-          "createdAt": "2026-11-11T15:46:05Z"
+          "label": "Consider not copying executables to `/tmp` before executing them",
+          "url": "https://github.com/pulsejet/memories/issues/1824",
+          "createdAt": "2026-11-12T16:28:50Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Preserve environment variable references in .vscode configuration files",
+          "url": "https://github.com/espressif/vscode-esp-idf-extension/issues/1993",
+          "createdAt": "2026-11-12T03:58:40Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-add-option",
-      "title": "[Feature Request] Add import option",
-      "summary": "To have a higher adoption of Supernova it would be very useful to have the option to import settings from other launchers, specially from: - Nova Launcher - Smart Launcher These are one of the most popular ones and Smart Launcher supports already the Nova Launcher importing so th",
+      "id": "emerging-feature-request-anicraft",
+      "title": "[Feature Request] [Anicraft] Drawing outside the Stage/Canvas",
+      "summary": "### Description In Adobe flash it allowed you to draw outside the stage/canvas area, while AniCraft from what I can tell does not yet allow you to do this, limiting all your brush/pencil strokes to the stage/canvas area. Even if you try and draw outside it the stroke is hidden or",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-12T16:30:21Z",
+      "keywords": [
+        "feature",
+        "request",
+        "anicraft",
+        "description",
+        "draw"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [Anicraft] Drawing outside the Stage/Canvas",
+          "url": "https://github.com/storytold/anicraft/issues/245",
+          "createdAt": "2026-11-12T16:30:21Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] [Anicraft] Turning of the box after every brush/pencil stroke",
+          "url": "https://github.com/storytold/anicraft/issues/243",
+          "createdAt": "2026-11-12T16:19:58Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-setting",
+      "title": "[Feature Request] Note content font selection (Arabic + Latin), embedded in PDF export",
+      "summary": "### Summary Add a **Note font** setting under **Settings → Appearance** that changes the font of the note content only (Live Preview, Preview, and PDF export). The interface font is unchanged. The current default font stays as the default option, so nothing changes for existing u",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -153,27 +160,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-11-11T15:54:36Z",
+      "latestSignal": "2026-11-12T16:45:37Z",
       "keywords": [
         "feature",
-        "add",
-        "option",
-        "higher",
-        "useful"
+        "request",
+        "setting",
+        "current",
+        "default"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add import option",
-          "url": "https://github.com/tanujnotes/Supernova/issues/98",
-          "createdAt": "2026-11-11T15:54:36Z"
+          "label": "[Feature Request] Note content font selection (Arabic + Latin), embedded in PDF export",
+          "url": "https://github.com/fundacja-reborn/reapps/issues/546",
+          "createdAt": "2026-11-12T16:45:37Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Allow backporting games that already have a lower SDK version",
-          "url": "https://github.com/kerrdec97/PS5-Backport-GUI/issues/34",
-          "createdAt": "2026-11-11T12:41:35Z"
+          "label": "[Feature Request] Option for trusted devices to stay signed in (no 90-day inactivity expiry)",
+          "url": "https://github.com/linckosz/moonlight-web/issues/60",
+          "createdAt": "2026-11-12T16:36:35Z"
         }
       ]
     }
