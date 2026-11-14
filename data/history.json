@@ -2,29 +2,6 @@
   "schemaVersion": 1,
   "snapshots": [
     {
-      "date": "2026-08-15",
-      "clusters": 3,
-      "requests": 11,
-      "sources": 1,
-      "topClusters": [
-        {
-          "id": "emerging-feature-first-thanks",
-          "score": 78,
-          "requests": 2
-        },
-        {
-          "id": "emerging-feature-request-problem",
-          "score": 72,
-          "requests": 7
-        },
-        {
-          "id": "emerging-feature-request-open",
-          "score": 66,
-          "requests": 2
-        }
-      ]
-    },
-    {
       "date": "2026-08-16",
       "clusters": 4,
       "requests": 12,
@@ -2211,6 +2188,34 @@
         },
         {
           "id": "emerging-feature-request-vectorcraft",
+          "score": 50,
+          "requests": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "clusters": 4,
+      "requests": 20,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-app",
+          "score": 98,
+          "requests": 14
+        },
+        {
+          "id": "emerging-show-open-source",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-wunsch-feature-request",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-support",
           "score": 50,
           "requests": 2
         }
