@@ -1,75 +1,116 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-14T15:04:21.161Z",
+  "generatedAt": "2026-11-15T15:39:39.631Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-app",
-      "title": "[Feature Request] [EffectCraft] CC Repetile plugin",
-      "summary": "### Description The CC Repetile plugin from After Effects, or something similar. Particularly for use on text layers! ### Ticket details | | | |---|---| | **App** | EffectCraft | | **Type** | Feature Request | | **Reported by** | ~{ 𝑀𝒶𝓈𝓆𝓊𝑒𝓇𝒶𝒹𝑒}~ (Discord username: ._.ma",
-      "score": 98,
+      "id": "emerging-feature-request-not",
+      "title": "Device Hub (Xcode 27): dropping images on \"Drop to import into the Simulator\" does not add them to Photos",
+      "summary": "**Is your feature request related to a problem? Please describe.** First of all, thank you for RocketSim and for the quick support of Xcode 27's Device Hub! Since updating to Xcode 27, I can no longer drag images directly onto the Simulator, so I tried RocketSim's Device Hub file",
+      "score": 94,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 26
+        "engagement": 22
       },
-      "requests": 14,
-      "latestSignal": "2026-11-14T14:47:17Z",
+      "requests": 7,
+      "latestSignal": "2026-11-15T15:37:06Z",
       "keywords": [
         "feature",
         "request",
-        "app",
-        "description",
-        "discord"
+        "not",
+        "add",
+        "support"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] [EffectCraft] CC Repetile plugin",
-          "url": "https://github.com/storytold/effectcraft/issues/3688",
-          "createdAt": "2026-11-14T14:47:17Z"
+          "label": "Device Hub (Xcode 27): dropping images on \"Drop to import into the Simulator\" does not add them to Photos",
+          "url": "https://github.com/AvdLee/RocketSimApp/issues/1269",
+          "createdAt": "2026-11-15T15:37:06Z"
         },
         {
           "source": "GitHub",
-          "label": "request: avoid Nuxt duplicate component warnings from index.ts barrels",
-          "url": "https://github.com/wolfstar-project/newt-ui/issues/94",
-          "createdAt": "2026-11-14T14:37:31Z"
+          "label": "Optional press-and-hold Start instead of the confirmation checkbox",
+          "url": "https://github.com/OliveTin/OliveTin/issues/1168",
+          "createdAt": "2026-11-15T15:17:57Z"
         },
         {
           "source": "GitHub",
-          "label": "request: warn about missing theme tokens on add, and newt names for radii and fonts",
-          "url": "https://github.com/wolfstar-project/newt-ui/issues/93",
-          "createdAt": "2026-11-14T14:37:28Z"
+          "label": "Feature request: Add EPUB export support",
+          "url": "https://github.com/Euro-Office/DesktopEditors/issues/336",
+          "createdAt": "2026-11-15T12:05:37Z"
         },
         {
           "source": "GitHub",
-          "label": "request: TextDisplay part and Discord-accurate Components V2, Button and Reaction",
-          "url": "https://github.com/wolfstar-project/newt-ui/issues/92",
-          "createdAt": "2026-11-14T14:37:25Z"
+          "label": "[Feature Request] [FilmCraft] Request to Add a Pen Tool for Custom Mask Creation",
+          "url": "https://github.com/storytold/filmcraft/issues/4832",
+          "createdAt": "2026-11-15T11:18:18Z"
         },
         {
           "source": "GitHub",
-          "label": "request: reply spacing, spine and message text colour in MessageGroup",
-          "url": "https://github.com/wolfstar-project/newt-ui/issues/91",
-          "createdAt": "2026-11-14T14:37:23Z"
+          "label": "skilltoolset: include bundled resource paths in load_skill responses",
+          "url": "https://github.com/google/adk-go/issues/2339",
+          "createdAt": "2026-11-15T10:32:19Z"
         },
         {
           "source": "GitHub",
-          "label": "request: member list, status and avatar accessibility and sizes",
-          "url": "https://github.com/wolfstar-project/newt-ui/issues/90",
-          "createdAt": "2026-11-14T14:37:21Z"
+          "label": "[Feature]: Add System Export Power Limit Value entity for Solis S5-GC30K",
+          "url": "https://github.com/Pho3niX90/solis_modbus/issues/569",
+          "createdAt": "2026-11-15T10:08:52Z"
         },
         {
           "source": "GitHub",
-          "label": "request: decorative actions, narrow header and dialog behaviour for channel parts",
-          "url": "https://github.com/wolfstar-project/newt-ui/issues/89",
-          "createdAt": "2026-11-14T14:37:18Z"
+          "label": "Feature Request: Support 3rd-party Pinned Shortcuts & save them directly to the App Drawer / Grid",
+          "url": "https://github.com/raviprakashji/Streamer-launcher-release/issues/49",
+          "createdAt": "2026-11-15T07:04:43Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-useful",
+      "title": "Continuos Circle and continuos Arc (feature request), plus export as image and read in sheet composer",
+      "summary": "Using the Ctrl key to create a continuous circle with the Circle tool is very helpful and convenient. It would be great if this same Ctrl-key functionality could be enabled for the various Arc tools (Arc, 3-Point Arc, Center Arc). Another useful addition would be the ability to s",
+      "score": 86,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 44,
+        "engagement": 14
+      },
+      "requests": 4,
+      "latestSignal": "2026-11-15T15:36:55Z",
+      "keywords": [
+        "feature",
+        "request",
+        "useful",
+        "very",
+        "export"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Continuos Circle and continuos Arc (feature request), plus export as image and read in sheet composer",
+          "url": "https://github.com/ingelibre/ingetrazo/issues/1420",
+          "createdAt": "2026-11-15T15:36:55Z"
         },
         {
           "source": "GitHub",
-          "label": "request: bottom sheet, operable handle and missing parts for AppLauncher",
-          "url": "https://github.com/wolfstar-project/newt-ui/issues/88",
-          "createdAt": "2026-11-14T14:37:15Z"
+          "label": "Feature Request: Import/Export User Preferences",
+          "url": "https://github.com/mitcad/Mitcad/issues/366",
+          "createdAt": "2026-11-15T14:18:15Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Sort by date in Gallery View and Collections",
+          "url": "https://github.com/erroralex/Latent-Library/issues/89",
+          "createdAt": "2026-11-15T08:29:51Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: External Progress Syncing Support",
+          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
+          "createdAt": "2026-08-16T02:34:17Z"
         }
       ]
     },
@@ -109,72 +150,43 @@
       ]
     },
     {
-      "id": "emerging-wunsch-feature-request",
-      "title": "[Wunsch] Feature Request: DSM-Routing für Remote-Gäste (Zoom-Kachel als Fallback & Auto-Clear bei Disconnect)",
-      "summary": "Ausgangslage & Problem Redner auf der Bühne benötigen in Echtzeit verlässliches visuelles Feedback über den Status von Remote-Gästen. Bisher gibt es zwei Problemfälle: Ein Gast wählt sich spät ein und hat die Kamera noch aus – der Redner sieht ihn nicht. Ein Gast hat Verbindungsp",
-      "score": 50,
+      "id": "emerging-feature-request-app",
+      "title": "[Feature Request/Suggestion] Google Maps API",
+      "summary": "I know the main goal of the app is to allow users to be free from Google. But, this app is just SO MUCH better and customizable than Google maps, that it could appeal even to users who, like me, don't mind Google maps, but love the customizeability and features of HorizonMaps. So",
+      "score": 68,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 0
+        "volume": 33,
+        "engagement": 7
       },
-      "requests": 2,
-      "latestSignal": "2026-11-14T15:03:18Z",
+      "requests": 3,
+      "latestSignal": "2026-11-15T15:34:06Z",
       "keywords": [
-        "wunsch",
         "feature",
         "request",
-        "dsm",
-        "remote"
+        "app",
+        "like",
+        "know"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Wunsch] Feature Request: DSM-Routing für Remote-Gäste (Zoom-Kachel als Fallback & Auto-Clear bei Disconnect)",
-          "url": "https://github.com/AlexmachtCode/alexzvn/issues/306",
-          "createdAt": "2026-11-14T15:03:18Z"
+          "label": "[Feature Request/Suggestion] Google Maps API",
+          "url": "https://github.com/benbishop028-arch/Horizon-Maps/issues/125",
+          "createdAt": "2026-11-15T15:34:06Z"
         },
         {
           "source": "GitHub",
-          "label": "[Wunsch] Feature Request: Zoom-Kachel (Profilbild/Logo) als DSM-Fallback für untestierte Last-Minute-Joins",
-          "url": "https://github.com/AlexmachtCode/alexzvn/issues/305",
-          "createdAt": "2026-11-14T14:51:04Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-support",
-      "title": "[Feature Request][Bionic] Support for Custom API Providers",
-      "summary": "I would like to request support for adding custom external API providers in Bionic. Currently, Bionic offers built-in local models and cloud providers, but users cannot configure their own API endpoints. It would be very useful to support: - OpenRouter integration. - Any OpenAI-c",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-14T13:53:36Z",
-      "keywords": [
-        "feature",
-        "request",
-        "support",
-        "currently",
-        "built"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request][Bionic] Support for Custom API Providers",
-          "url": "https://github.com/lmstudio-ai/lmstudio-bug-tracker/issues/2603",
-          "createdAt": "2026-11-14T13:53:36Z"
+          "label": "Official mobile app (or official partnership with a mobile app)",
+          "url": "https://github.com/keepassxreboot/keepassxc/issues/14096",
+          "createdAt": "2026-11-15T15:21:45Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Telegram Proxy Support as an Android VPN Connection",
-          "url": "https://github.com/davudsedft/purvpn/issues/14",
-          "createdAt": "2026-11-14T10:44:08Z"
+          "label": "[feature request] android intent to Start/Stop the gateway and set \"BLE Scan Mode\" from an automation app like Tasker",
+          "url": "https://github.com/eigger/hassble-android/issues/109",
+          "createdAt": "2026-11-15T15:19:58Z"
         }
       ]
     }
