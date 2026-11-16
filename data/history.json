@@ -2,39 +2,6 @@
   "schemaVersion": 1,
   "snapshots": [
     {
-      "date": "2026-08-17",
-      "clusters": 5,
-      "requests": 15,
-      "sources": 1,
-      "topClusters": [
-        {
-          "id": "emerging-feature-request-related",
-          "score": 72,
-          "requests": 6
-        },
-        {
-          "id": "emerging-feature-request-community",
-          "score": 64,
-          "requests": 2
-        },
-        {
-          "id": "emerging-feature-searched-existing",
-          "score": 61,
-          "requests": 2
-        },
-        {
-          "id": "emerging-feature-drafting-note",
-          "score": 61,
-          "requests": 3
-        },
-        {
-          "id": "emerging-feature-request-agent",
-          "score": 57,
-          "requests": 2
-        }
-      ]
-    },
-    {
       "date": "2026-08-18",
       "clusters": 6,
       "requests": 17,
@@ -2218,6 +2185,39 @@
           "id": "emerging-feature-request-app",
           "score": 68,
           "requests": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "clusters": 5,
+      "requests": 14,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-problem",
+          "score": 88,
+          "requests": 4
+        },
+        {
+          "id": "emerging-show-open-source",
+          "score": 78,
+          "requests": 2
+        },
+        {
+          "id": "emerging-desktop-feature-request",
+          "score": 75,
+          "requests": 3
+        },
+        {
+          "id": "emerging-problem-will-feature",
+          "score": 75,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-variant",
+          "score": 61,
+          "requests": 2
         }
       ]
     }

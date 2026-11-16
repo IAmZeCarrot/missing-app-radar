@@ -1,116 +1,51 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-15T15:39:39.631Z",
+  "generatedAt": "2026-11-16T18:32:28.730Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-not",
-      "title": "Device Hub (Xcode 27): dropping images on \"Drop to import into the Simulator\" does not add them to Photos",
-      "summary": "**Is your feature request related to a problem? Please describe.** First of all, thank you for RocketSim and for the quick support of Xcode 27's Device Hub! Since updating to Xcode 27, I can no longer drag images directly onto the Simulator, so I tried RocketSim's Device Hub file",
-      "score": 94,
+      "id": "emerging-feature-request-problem",
+      "title": "TTS on Linux",
+      "summary": "**Is your feature request related to a problem? Please describe.** Not exactly a problem. I'd just appreciate TTS on Linux. I realize the desktop builds are fairly new and not sure if this is already planned. And I'm thrilled we even have a Linux build, a huge thank you to the de",
+      "score": 88,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
-        "engagement": 22
-      },
-      "requests": 7,
-      "latestSignal": "2026-11-15T15:37:06Z",
-      "keywords": [
-        "feature",
-        "request",
-        "not",
-        "add",
-        "support"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Device Hub (Xcode 27): dropping images on \"Drop to import into the Simulator\" does not add them to Photos",
-          "url": "https://github.com/AvdLee/RocketSimApp/issues/1269",
-          "createdAt": "2026-11-15T15:37:06Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Optional press-and-hold Start instead of the confirmation checkbox",
-          "url": "https://github.com/OliveTin/OliveTin/issues/1168",
-          "createdAt": "2026-11-15T15:17:57Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: Add EPUB export support",
-          "url": "https://github.com/Euro-Office/DesktopEditors/issues/336",
-          "createdAt": "2026-11-15T12:05:37Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [FilmCraft] Request to Add a Pen Tool for Custom Mask Creation",
-          "url": "https://github.com/storytold/filmcraft/issues/4832",
-          "createdAt": "2026-11-15T11:18:18Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "skilltoolset: include bundled resource paths in load_skill responses",
-          "url": "https://github.com/google/adk-go/issues/2339",
-          "createdAt": "2026-11-15T10:32:19Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature]: Add System Export Power Limit Value entity for Solis S5-GC30K",
-          "url": "https://github.com/Pho3niX90/solis_modbus/issues/569",
-          "createdAt": "2026-11-15T10:08:52Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Support 3rd-party Pinned Shortcuts & save them directly to the App Drawer / Grid",
-          "url": "https://github.com/raviprakashji/Streamer-launcher-release/issues/49",
-          "createdAt": "2026-11-15T07:04:43Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-useful",
-      "title": "Continuos Circle and continuos Arc (feature request), plus export as image and read in sheet composer",
-      "summary": "Using the Ctrl key to create a continuous circle with the Circle tool is very helpful and convenient. It would be great if this same Ctrl-key functionality could be enabled for the various Arc tools (Arc, 3-Point Arc, Center Arc). Another useful addition would be the ability to s",
-      "score": 86,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 44,
-        "engagement": 14
+        "engagement": 16
       },
       "requests": 4,
-      "latestSignal": "2026-11-15T15:36:55Z",
+      "latestSignal": "2026-11-16T18:08:48Z",
       "keywords": [
         "feature",
         "request",
-        "useful",
-        "very",
-        "export"
+        "problem",
+        "related",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Continuos Circle and continuos Arc (feature request), plus export as image and read in sheet composer",
-          "url": "https://github.com/ingelibre/ingetrazo/issues/1420",
-          "createdAt": "2026-11-15T15:36:55Z"
+          "label": "TTS on Linux",
+          "url": "https://github.com/AndBible/and-bible/issues/4128",
+          "createdAt": "2026-11-16T18:08:48Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Import/Export User Preferences",
-          "url": "https://github.com/mitcad/Mitcad/issues/366",
-          "createdAt": "2026-11-15T14:18:15Z"
+          "label": "[Feature]: Export monitoring data for individual systems",
+          "url": "https://github.com/henrygd/beszel/issues/2869",
+          "createdAt": "2026-11-16T18:03:40Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Sort by date in Gallery View and Collections",
-          "url": "https://github.com/erroralex/Latent-Library/issues/89",
-          "createdAt": "2026-11-15T08:29:51Z"
+          "label": "Proximity: expose the unsatisfied request on ProximityState.NoData",
+          "url": "https://github.com/walt-id/waltid-identity/issues/2528",
+          "createdAt": "2026-11-16T17:48:10Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
+          "label": "[Feature] Import Steam Library",
+          "url": "https://github.com/Doezer/Questarr/issues/1373",
+          "createdAt": "2026-11-16T11:34:26Z"
         }
       ]
     },
@@ -150,43 +85,119 @@
       ]
     },
     {
-      "id": "emerging-feature-request-app",
-      "title": "[Feature Request/Suggestion] Google Maps API",
-      "summary": "I know the main goal of the app is to allow users to be free from Google. But, this app is just SO MUCH better and customizable than Google maps, that it could appeal even to users who, like me, don't mind Google maps, but love the customizeability and features of HorizonMaps. So",
-      "score": 68,
+      "id": "emerging-desktop-feature-request",
+      "title": "event time inconsistent between desktop and Amndroid",
+      "summary": "### Pre-checks - [x] This is not a feature request. Existing functionality does not work as intended, **not** missing functionality. I will request features via [discussions](https://github.com/tutao/tutanota/discussions/), [reddit](https://www.reddit.com/r/tutanota/) or [support",
+      "score": 75,
       "scoreComponents": {
         "base": 28,
         "volume": 33,
-        "engagement": 7
+        "engagement": 14
       },
       "requests": 3,
-      "latestSignal": "2026-11-15T15:34:06Z",
+      "latestSignal": "2026-11-16T18:26:02Z",
       "keywords": [
+        "desktop",
         "feature",
         "request",
-        "app",
-        "like",
-        "know"
+        "existing",
+        "not"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request/Suggestion] Google Maps API",
-          "url": "https://github.com/benbishop028-arch/Horizon-Maps/issues/125",
-          "createdAt": "2026-11-15T15:34:06Z"
+          "label": "event time inconsistent between desktop and Amndroid",
+          "url": "https://github.com/tutao/tutanota/issues/11844",
+          "createdAt": "2026-11-16T18:26:02Z"
         },
         {
           "source": "GitHub",
-          "label": "Official mobile app (or official partnership with a mobile app)",
-          "url": "https://github.com/keepassxreboot/keepassxc/issues/14096",
-          "createdAt": "2026-11-15T15:21:45Z"
+          "label": "Work with KeePassDX for secure desktop-to-phone password sharing via QR code",
+          "url": "https://github.com/keepassxreboot/keepassxc/issues/14110",
+          "createdAt": "2026-11-16T17:56:23Z"
         },
         {
           "source": "GitHub",
-          "label": "[feature request] android intent to Start/Stop the gateway and set \"BLE Scan Mode\" from an automation app like Tasker",
-          "url": "https://github.com/eigger/hassble-android/issues/109",
-          "createdAt": "2026-11-15T15:19:58Z"
+          "label": "[FEATURE] Cross-device session sync: continue a conversation on desktop/claude.ai when the origin machine or surface is unavailable",
+          "url": "https://github.com/anthropics/claude-code/issues/110479",
+          "createdAt": "2026-11-16T17:46:37Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-problem-will-feature",
+      "title": "Support GPT-6 and custom OpenAI model IDs in AI provider configuration",
+      "summary": "**What problem will this feature request solve?** Metabase’s AI provider configuration doesn’t include GPT-6. Teams that have standardized on OpenAI’s latest flagship model are stuck on older models, which means lower-quality results and behavior that doesn’t match their other to",
+      "score": 75,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 14
+      },
+      "requests": 3,
+      "latestSignal": "2026-11-16T18:03:33Z",
+      "keywords": [
+        "problem",
+        "will",
+        "feature",
+        "request",
+        "solve"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Support GPT-6 and custom OpenAI model IDs in AI provider configuration",
+          "url": "https://github.com/metabase/metabase/issues/87218",
+          "createdAt": "2026-11-16T18:03:33Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Auto-size and auto-arrange dashboard cards to fit the grid when dragging them.",
+          "url": "https://github.com/metabase/metabase/issues/87216",
+          "createdAt": "2026-11-16T17:50:53Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Database routing: allow setting \"Additional JDBC connection string options\" on destination databases",
+          "url": "https://github.com/metabase/metabase/issues/87215",
+          "createdAt": "2026-11-16T17:49:59Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-variant",
+      "title": "Feature Request: Default Incremental TDD and Test Effectiveness Verification",
+      "summary": "### What variant of Codex are you using? App ### What feature would you like to see? ## Background I've been using coding agents extensively in a production codebase that is now predominantly AI-generated. The results have been remarkably stable, with clean, maintainable code and",
+      "score": 61,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 11
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-16T18:04:30Z",
+      "keywords": [
+        "feature",
+        "request",
+        "variant",
+        "codex",
+        "like"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Default Incremental TDD and Test Effectiveness Verification",
+          "url": "https://github.com/openai/codex/issues/61850",
+          "createdAt": "2026-11-16T18:04:30Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Native Color Picker and Rich Color Attachments in the Codex Composer",
+          "url": "https://github.com/openai/codex/issues/61789",
+          "createdAt": "2026-11-16T11:25:34Z"
         }
       ]
     }
