@@ -1,175 +1,134 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-16T18:32:28.730Z",
+  "generatedAt": "2026-11-17T17:37:17.718Z",
   "clusters": [
     {
+      "id": "emerging-x27-world-don",
+      "title": "We don't need more apps. We need better open source",
+      "summary": "I think we need a new model of software delivery. Here&#x27;s my most-recent real-world problem: I wanted to plug in my midi controller keyboard and just play a piano, so I can practice my choral music. Very basic. This turned into many hours over several days trying multiple DAW",
+      "score": 81,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 33,
+        "engagement": 20
+      },
+      "requests": 3,
+      "latestSignal": "2026-11-17T16:00:05Z",
+      "keywords": [
+        "x27",
+        "world",
+        "don",
+        "more",
+        "apps"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "label": "We don't need more apps. We need better open source",
+          "url": "https://news.ycombinator.com/item?id=50532086",
+          "createdAt": "2026-11-17T16:00:05Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "Jiff 1.0: A datetime library for Rust",
+          "url": "https://news.ycombinator.com/item?id=50519744",
+          "createdAt": "2026-11-17T15:38:12Z"
+        },
+        {
+          "source": "Hacker News",
+          "label": "Ask HN: What apps or services do you wish existed (in the AI age)?",
+          "url": "https://news.ycombinator.com/item?id=50428804",
+          "createdAt": "2026-11-09T17:43:12Z"
+        }
+      ]
+    },
+    {
       "id": "emerging-feature-request-problem",
-      "title": "TTS on Linux",
-      "summary": "**Is your feature request related to a problem? Please describe.** Not exactly a problem. I'd just appreciate TTS on Linux. I realize the desktop builds are fairly new and not sure if this is already planned. And I'm thrilled we even have a Linux build, a huge thank you to the de",
-      "score": 88,
+      "title": "[LG TV] Open a specific title from a launch link (webOS launch params / contentTarget)",
+      "summary": "### Stremio Platform LG TV (webOS) ### Is your feature request related to a problem? On LG TVs, another app can launch Stremio (`io.strem.tv`), but Stremio always opens on its Home screen. It ignores the link passed at launch, so there is no way to land on a specific movie or ser",
+      "score": 68,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 16
+        "volume": 33,
+        "engagement": 7
       },
-      "requests": 4,
-      "latestSignal": "2026-11-16T18:08:48Z",
+      "requests": 3,
+      "latestSignal": "2026-11-17T17:27:08Z",
       "keywords": [
         "feature",
         "request",
         "problem",
-        "related",
-        "please"
+        "but",
+        "related"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "TTS on Linux",
-          "url": "https://github.com/AndBible/and-bible/issues/4128",
-          "createdAt": "2026-11-16T18:08:48Z"
+          "label": "[LG TV] Open a specific title from a launch link (webOS launch params / contentTarget)",
+          "url": "https://github.com/Stremio/stremio-features/issues/1969",
+          "createdAt": "2026-11-17T17:27:08Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature]: Export monitoring data for individual systems",
-          "url": "https://github.com/henrygd/beszel/issues/2869",
-          "createdAt": "2026-11-16T18:03:40Z"
+          "label": "[Feature request]: interface setting on steam os flatpack",
+          "url": "https://github.com/RamazanKara/nightjar/issues/135",
+          "createdAt": "2026-11-17T17:10:25Z"
         },
         {
           "source": "GitHub",
-          "label": "Proximity: expose the unsatisfied request on ProximityState.NoData",
-          "url": "https://github.com/walt-id/waltid-identity/issues/2528",
-          "createdAt": "2026-11-16T17:48:10Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature] Import Steam Library",
-          "url": "https://github.com/Doezer/Questarr/issues/1373",
-          "createdAt": "2026-11-16T11:34:26Z"
+          "label": "[Feature Request] Add AI bot detection and classification",
+          "url": "https://github.com/totpero/DeviceDetector.NET/issues/106",
+          "createdAt": "2026-11-17T12:46:59Z"
         }
       ]
     },
     {
-      "id": "emerging-show-open-source",
-      "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
-      "summary": "Hi HN, this is Max, Marc and Clemens, co-founders of Langfuse, the open source tool for agent &amp; observability &amp; evals ( https:&#x2F;&#x2F;github.com&#x2F;langfuse&#x2F;langfuse ). It’s been a minute since our last Show HN in August 2023 ( https:&#x2F;&#x2F;news.ycombinato",
-      "score": 78,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 28
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-13T15:10:20Z",
-      "keywords": [
-        "show",
-        "open",
-        "source",
-        "https",
-        "x2f"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
-          "url": "https://news.ycombinator.com/item?id=50484682",
-          "createdAt": "2026-11-13T15:10:20Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-          "url": "https://news.ycombinator.com/item?id=50371090",
-          "createdAt": "2026-11-04T20:31:30Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-desktop-feature-request",
-      "title": "event time inconsistent between desktop and Amndroid",
-      "summary": "### Pre-checks - [x] This is not a feature request. Existing functionality does not work as intended, **not** missing functionality. I will request features via [discussions](https://github.com/tutao/tutanota/discussions/), [reddit](https://www.reddit.com/r/tutanota/) or [support",
-      "score": 75,
+      "id": "emerging-feature-request-way",
+      "title": "Feature request: service to arm Stay with no entry delay (\"Stay Instant\")",
+      "summary": "## Summary Companion request to BrianHumlicek/NeoHub#54. On a PowerSeries Neo (HS2032 class) the panel accepts remote Stay arming with no entry delay (`ArmingMode.StayArmWithNoEntryDelay`, tested from the NeoHub Dev Console), but the integration has no way to send it: `alarm_cont",
+      "score": 68,
       "scoreComponents": {
         "base": 28,
         "volume": 33,
-        "engagement": 14
+        "engagement": 7
       },
       "requests": 3,
-      "latestSignal": "2026-11-16T18:26:02Z",
+      "latestSignal": "2026-11-17T17:19:01Z",
       "keywords": [
-        "desktop",
         "feature",
         "request",
-        "existing",
-        "not"
+        "way",
+        "arm",
+        "stay"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "event time inconsistent between desktop and Amndroid",
-          "url": "https://github.com/tutao/tutanota/issues/11844",
-          "createdAt": "2026-11-16T18:26:02Z"
+          "label": "Feature request: service to arm Stay with no entry delay (\"Stay Instant\")",
+          "url": "https://github.com/BrianHumlicek/NeoHub-Home-Assistant-Integration/issues/13",
+          "createdAt": "2026-11-17T17:19:01Z"
         },
         {
           "source": "GitHub",
-          "label": "Work with KeePassDX for secure desktop-to-phone password sharing via QR code",
-          "url": "https://github.com/keepassxreboot/keepassxc/issues/14110",
-          "createdAt": "2026-11-16T17:56:23Z"
+          "label": "Feature request: expose \"Stay arm with no entry delay\" (ArmingMode 7) in the WebSocket API",
+          "url": "https://github.com/BrianHumlicek/NeoHub/issues/54",
+          "createdAt": "2026-11-17T17:17:32Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Cross-device session sync: continue a conversation on desktop/claude.ai when the origin machine or surface is unavailable",
-          "url": "https://github.com/anthropics/claude-code/issues/110479",
-          "createdAt": "2026-11-16T17:46:37Z"
+          "label": "Feature Request: Export Netlist Viewer Graphics as SVG",
+          "url": "https://github.com/FEntwumS/FEntwumS.NetlistViewer/issues/71",
+          "createdAt": "2026-11-17T13:05:24Z"
         }
       ]
     },
     {
-      "id": "emerging-problem-will-feature",
-      "title": "Support GPT-6 and custom OpenAI model IDs in AI provider configuration",
-      "summary": "**What problem will this feature request solve?** Metabase’s AI provider configuration doesn’t include GPT-6. Teams that have standardized on OpenAI’s latest flagship model are stuck on older models, which means lower-quality results and behavior that doesn’t match their other to",
-      "score": 75,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 14
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-16T18:03:33Z",
-      "keywords": [
-        "problem",
-        "will",
-        "feature",
-        "request",
-        "solve"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Support GPT-6 and custom OpenAI model IDs in AI provider configuration",
-          "url": "https://github.com/metabase/metabase/issues/87218",
-          "createdAt": "2026-11-16T18:03:33Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Auto-size and auto-arrange dashboard cards to fit the grid when dragging them.",
-          "url": "https://github.com/metabase/metabase/issues/87216",
-          "createdAt": "2026-11-16T17:50:53Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Database routing: allow setting \"Additional JDBC connection string options\" on destination databases",
-          "url": "https://github.com/metabase/metabase/issues/87215",
-          "createdAt": "2026-11-16T17:49:59Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-variant",
-      "title": "Feature Request: Default Incremental TDD and Test Effectiveness Verification",
-      "summary": "### What variant of Codex are you using? App ### What feature would you like to see? ## Background I've been using coding agents extensively in a production codebase that is now predominantly AI-generated. The results have been remarkably stable, with clean, maintainable code and",
+      "id": "emerging-feature-request-vectorcraft",
+      "title": "[Feature Request] [VectorCraft] The Selection tool is too small",
+      "summary": "### Description the color selection tool when shift left clicking the top left color changer is too small, the ability to scale it would be nice ### Ticket details | | | |---|---| | **App** | VectorCraft | | **Type** | Feature Request | | **Reported by** | Nagabuah (Discord usern",
       "score": 61,
       "scoreComponents": {
         "base": 28,
@@ -177,27 +136,62 @@
         "engagement": 11
       },
       "requests": 2,
-      "latestSignal": "2026-11-16T18:04:30Z",
+      "latestSignal": "2026-11-17T17:36:34Z",
       "keywords": [
         "feature",
         "request",
-        "variant",
-        "codex",
-        "like"
+        "vectorcraft",
+        "selection",
+        "description"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Default Incremental TDD and Test Effectiveness Verification",
-          "url": "https://github.com/openai/codex/issues/61850",
-          "createdAt": "2026-11-16T18:04:30Z"
+          "label": "[Feature Request] [VectorCraft] The Selection tool is too small",
+          "url": "https://github.com/storytold/vectorcraft/issues/8359",
+          "createdAt": "2026-11-17T17:36:34Z"
         },
         {
           "source": "GitHub",
-          "label": "Native Color Picker and Rich Color Attachments in the Codex Composer",
-          "url": "https://github.com/openai/codex/issues/61789",
-          "createdAt": "2026-11-16T11:25:34Z"
+          "label": "[Feature Request] [VectorCraft] Better Hint on hover, especially on other tools than selection",
+          "url": "https://github.com/storytold/vectorcraft/issues/8349",
+          "createdAt": "2026-11-17T17:05:37Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-add",
+      "title": "Feature request: Add support for programmable turntables (ComXim)",
+      "summary": "# Feature request: Add support for programmable turntables (ComXim) ## Motivation Programmable turntables would be useful for automated loudspeaker polar measurements with MATAA. The actual measurement sequences should remain in user scripts outside MATAA. MATAA should only provi",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-17T15:59:07Z",
+      "keywords": [
+        "feature",
+        "request",
+        "add",
+        "support",
+        "motivation"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature request: Add support for programmable turntables (ComXim)",
+          "url": "https://github.com/mbrennwa/mataa/issues/20",
+          "createdAt": "2026-11-17T15:59:07Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Add UNIX Domain Datagram Socket Support to `hs.socket`",
+          "url": "https://github.com/cmsj/Hammerspoon2/issues/394",
+          "createdAt": "2026-11-17T11:44:55Z"
         }
       ]
     }
