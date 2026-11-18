@@ -1,169 +1,46 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-17T17:37:17.718Z",
+  "generatedAt": "2026-11-18T17:15:19.168Z",
   "clusters": [
     {
-      "id": "emerging-x27-world-don",
-      "title": "We don't need more apps. We need better open source",
-      "summary": "I think we need a new model of software delivery. Here&#x27;s my most-recent real-world problem: I wanted to plug in my midi controller keyboard and just play a piano, so I can practice my choral music. Very basic. This turned into many hours over several days trying multiple DAW",
-      "score": 81,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 20
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-17T16:00:05Z",
-      "keywords": [
-        "x27",
-        "world",
-        "don",
-        "more",
-        "apps"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "label": "We don't need more apps. We need better open source",
-          "url": "https://news.ycombinator.com/item?id=50532086",
-          "createdAt": "2026-11-17T16:00:05Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Jiff 1.0: A datetime library for Rust",
-          "url": "https://news.ycombinator.com/item?id=50519744",
-          "createdAt": "2026-11-17T15:38:12Z"
-        },
-        {
-          "source": "Hacker News",
-          "label": "Ask HN: What apps or services do you wish existed (in the AI age)?",
-          "url": "https://news.ycombinator.com/item?id=50428804",
-          "createdAt": "2026-11-09T17:43:12Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-problem",
-      "title": "[LG TV] Open a specific title from a launch link (webOS launch params / contentTarget)",
-      "summary": "### Stremio Platform LG TV (webOS) ### Is your feature request related to a problem? On LG TVs, another app can launch Stremio (`io.strem.tv`), but Stremio always opens on its Home screen. It ignores the link passed at launch, so there is no way to land on a specific movie or ser",
-      "score": 68,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 7
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-17T17:27:08Z",
-      "keywords": [
-        "feature",
-        "request",
-        "problem",
-        "but",
-        "related"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[LG TV] Open a specific title from a launch link (webOS launch params / contentTarget)",
-          "url": "https://github.com/Stremio/stremio-features/issues/1969",
-          "createdAt": "2026-11-17T17:27:08Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature request]: interface setting on steam os flatpack",
-          "url": "https://github.com/RamazanKara/nightjar/issues/135",
-          "createdAt": "2026-11-17T17:10:25Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Add AI bot detection and classification",
-          "url": "https://github.com/totpero/DeviceDetector.NET/issues/106",
-          "createdAt": "2026-11-17T12:46:59Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-way",
-      "title": "Feature request: service to arm Stay with no entry delay (\"Stay Instant\")",
-      "summary": "## Summary Companion request to BrianHumlicek/NeoHub#54. On a PowerSeries Neo (HS2032 class) the panel accepts remote Stay arming with no entry delay (`ArmingMode.StayArmWithNoEntryDelay`, tested from the NeoHub Dev Console), but the integration has no way to send it: `alarm_cont",
-      "score": 68,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 7
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-17T17:19:01Z",
-      "keywords": [
-        "feature",
-        "request",
-        "way",
-        "arm",
-        "stay"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature request: service to arm Stay with no entry delay (\"Stay Instant\")",
-          "url": "https://github.com/BrianHumlicek/NeoHub-Home-Assistant-Integration/issues/13",
-          "createdAt": "2026-11-17T17:19:01Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request: expose \"Stay arm with no entry delay\" (ArmingMode 7) in the WebSocket API",
-          "url": "https://github.com/BrianHumlicek/NeoHub/issues/54",
-          "createdAt": "2026-11-17T17:17:32Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Export Netlist Viewer Graphics as SVG",
-          "url": "https://github.com/FEntwumS/FEntwumS.NetlistViewer/issues/71",
-          "createdAt": "2026-11-17T13:05:24Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-vectorcraft",
-      "title": "[Feature Request] [VectorCraft] The Selection tool is too small",
-      "summary": "### Description the color selection tool when shift left clicking the top left color changer is too small, the ability to scale it would be nice ### Ticket details | | | |---|---| | **App** | VectorCraft | | **Type** | Feature Request | | **Reported by** | Nagabuah (Discord usern",
-      "score": 61,
+      "id": "emerging-show-open-source",
+      "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+      "summary": "Hi HN, this is Max, Marc and Clemens, co-founders of Langfuse, the open source tool for agent &amp; observability &amp; evals ( https:&#x2F;&#x2F;github.com&#x2F;langfuse&#x2F;langfuse ). It’s been a minute since our last Show HN in August 2023 ( https:&#x2F;&#x2F;news.ycombinato",
+      "score": 78,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 11
+        "engagement": 28
       },
       "requests": 2,
-      "latestSignal": "2026-11-17T17:36:34Z",
+      "latestSignal": "2026-11-13T15:10:20Z",
       "keywords": [
-        "feature",
-        "request",
-        "vectorcraft",
-        "selection",
-        "description"
+        "show",
+        "open",
+        "source",
+        "https",
+        "x2f"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "GitHub",
-          "label": "[Feature Request] [VectorCraft] The Selection tool is too small",
-          "url": "https://github.com/storytold/vectorcraft/issues/8359",
-          "createdAt": "2026-11-17T17:36:34Z"
+          "source": "Hacker News",
+          "label": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+          "url": "https://news.ycombinator.com/item?id=50484682",
+          "createdAt": "2026-11-13T15:10:20Z"
         },
         {
-          "source": "GitHub",
-          "label": "[Feature Request] [VectorCraft] Better Hint on hover, especially on other tools than selection",
-          "url": "https://github.com/storytold/vectorcraft/issues/8349",
-          "createdAt": "2026-11-17T17:05:37Z"
+          "source": "Hacker News",
+          "label": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+          "url": "https://news.ycombinator.com/item?id=50371090",
+          "createdAt": "2026-11-04T20:31:30Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "Feature request: Add support for programmable turntables (ComXim)",
-      "summary": "# Feature request: Add support for programmable turntables (ComXim) ## Motivation Programmable turntables would be useful for automated loudspeaker polar measurements with MATAA. The actual measurement sequences should remain in user scripts outside MATAA. MATAA should only provi",
+      "id": "emerging-feature-request-related",
+      "title": "[FEA] Proposal: Cost-based rollup plugin for QualX",
+      "summary": "**Is your feature request related to a problem? Please describe.** QualX currently predicts a speedup for each SQL, and rolls the SQLs up into an app-level speedup. The rollup logic occurs at two levels: unsupported operators within a SQL, and SQLs within an app. Roughly (see [he",
       "score": 57,
       "scoreComponents": {
         "base": 28,
@@ -171,27 +48,27 @@
         "engagement": 7
       },
       "requests": 2,
-      "latestSignal": "2026-11-17T15:59:07Z",
+      "latestSignal": "2026-11-18T17:04:52Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "support",
-        "motivation"
+        "related",
+        "problem",
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Add support for programmable turntables (ComXim)",
-          "url": "https://github.com/mbrennwa/mataa/issues/20",
-          "createdAt": "2026-11-17T15:59:07Z"
+          "label": "[FEA] Proposal: Cost-based rollup plugin for QualX",
+          "url": "https://github.com/NVIDIA/cudf-spark-tools/issues/2223",
+          "createdAt": "2026-11-18T17:04:52Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: Add UNIX Domain Datagram Socket Support to `hs.socket`",
-          "url": "https://github.com/cmsj/Hammerspoon2/issues/394",
-          "createdAt": "2026-11-17T11:44:55Z"
+          "label": "[Feature request]: More Presets / TV info (i) button access",
+          "url": "https://github.com/RamazanKara/nightjar/issues/140",
+          "createdAt": "2026-11-18T16:56:47Z"
         }
       ]
     }
