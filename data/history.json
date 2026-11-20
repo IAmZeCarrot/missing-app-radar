@@ -2,29 +2,6 @@
   "schemaVersion": 1,
   "snapshots": [
     {
-      "date": "2026-08-21",
-      "clusters": 3,
-      "requests": 14,
-      "sources": 1,
-      "topClusters": [
-        {
-          "id": "emerging-feature-request-add",
-          "score": 86,
-          "requests": 10
-        },
-        {
-          "id": "emerging-feature-request-support",
-          "score": 50,
-          "requests": 2
-        },
-        {
-          "id": "emerging-feature-request-font",
-          "score": 50,
-          "requests": 2
-        }
-      ]
-    },
-    {
       "date": "2026-08-22",
       "clusters": 4,
       "requests": 11,
@@ -2203,6 +2180,24 @@
           "id": "emerging-feature-request-related",
           "score": 57,
           "requests": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "clusters": 2,
+      "requests": 11,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-open-source-https",
+          "score": 89,
+          "requests": 3
+        },
+        {
+          "id": "emerging-feature-request-problem",
+          "score": 72,
+          "requests": 8
         }
       ]
     }

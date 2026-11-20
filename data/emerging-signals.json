@@ -1,209 +1,116 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-19T17:22:37.810Z",
+  "generatedAt": "2026-11-20T16:57:37.942Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-problem",
-      "title": "Feature Request: Add Defyx VPN, AstroVPN, JavidGorz VPN and Freegate Support",
-      "summary": "### What problem does this solve? / چه مشکلی را حل می‌کند؟ در شرایطی که دسترسی به اینترنت با محدودیت‌ها و اختلال‌های مختلف مواجه است، برخی روش‌های اتصال ممکن است روی یک شبکه یا اپراتور به‌خوبی کار نکنند، درحالی‌که روش‌های دیگر همچنان قابل استفاده باشند. در حال حاضر، داشتن گزینه‌ه",
-      "score": 79,
+      "id": "emerging-open-source-https",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "summary": "Hey HN, I&#x27;m Daniel, founder of Onlook ( https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designer",
+      "score": 89,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 7
+        "volume": 33,
+        "engagement": 28
       },
-      "requests": 4,
-      "latestSignal": "2026-11-19T16:49:17Z",
+      "requests": 3,
+      "latestSignal": "2026-11-19T16:34:04Z",
       "keywords": [
-        "feature",
-        "request",
-        "problem",
-        "solve",
-        "add"
+        "open",
+        "source",
+        "https",
+        "x2f",
+        "x27"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
-          "source": "GitHub",
-          "label": "Feature Request: Add Defyx VPN, AstroVPN, JavidGorz VPN and Freegate Support",
-          "url": "https://github.com/mlmvpn/mlmvpn_windows/issues/36",
-          "createdAt": "2026-11-19T16:49:17Z"
+          "source": "Hacker News",
+          "label": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+          "url": "https://news.ycombinator.com/item?id=50562320",
+          "createdAt": "2026-11-19T16:34:04Z"
         },
         {
-          "source": "GitHub",
-          "label": "Feature Request: Customizable Print Screen Key Behavior",
-          "url": "https://github.com/lordbasex/LordOS/issues/202",
-          "createdAt": "2026-11-19T16:37:20Z"
+          "source": "Hacker News",
+          "label": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+          "url": "https://news.ycombinator.com/item?id=50484682",
+          "createdAt": "2026-11-13T15:10:20Z"
         },
         {
-          "source": "GitHub",
-          "label": "Feature request: optional social publishing workflow using Cloudroom Loops",
-          "url": "https://github.com/davidondrej/cloudroom/issues/173",
-          "createdAt": "2026-11-19T13:39:00Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Password-Protect Files",
-          "url": "https://github.com/reathloo/locoVerte/issues/1",
-          "createdAt": "2026-11-19T10:43:55Z"
+          "source": "Hacker News",
+          "label": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+          "url": "https://news.ycombinator.com/item?id=50371090",
+          "createdAt": "2026-11-04T20:31:30Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-there",
-      "title": "Show loading state and prevent double clicks when creating or deleting pages",
-      "summary": "**Is your feature request related to a problem? Please describe.** I'm always frustrated when creating or deleting a page takes a few seconds and there is no visual feedback at all. On our instance, creating a page can take multiple seconds (something I'm trying to fix, tips are",
+      "id": "emerging-feature-request-problem",
+      "title": "Add focus trap utility for modals, dialogs, and drawers",
+      "summary": "## Problem Statement **Is your feature request related to a problem?** When a modal, dialog, or slide-out drawer opens, keyboard focus often escapes behind it or isn't moved into it at all. When it closes, focus isn't returned to the element that opened it. Getting this right by",
       "score": 72,
       "scoreComponents": {
         "base": 28,
         "volume": 44,
         "engagement": 0
       },
-      "requests": 4,
-      "latestSignal": "2026-11-19T16:56:42Z",
+      "requests": 8,
+      "latestSignal": "2026-11-20T16:51:54Z",
       "keywords": [
         "feature",
         "request",
-        "there",
+        "problem",
         "related",
-        "problem"
+        "please"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Show loading state and prevent double clicks when creating or deleting pages",
-          "url": "https://github.com/nextcloud/collectives/issues/2953",
-          "createdAt": "2026-11-19T16:56:42Z"
+          "label": "Add focus trap utility for modals, dialogs, and drawers",
+          "url": "https://github.com/ArtisanPack-UI/accessibility/issues/53",
+          "createdAt": "2026-11-20T16:51:54Z"
         },
         {
           "source": "GitHub",
-          "label": "Add some security improvements",
-          "url": "https://github.com/hhtdiary/TripLibre/issues/127",
-          "createdAt": "2026-11-19T16:47:46Z"
+          "label": "Add skip link helper and component",
+          "url": "https://github.com/ArtisanPack-UI/accessibility/issues/52",
+          "createdAt": "2026-11-20T16:51:52Z"
         },
         {
           "source": "GitHub",
-          "label": "Option to hide the Private Space entry from the app drawer",
-          "url": "https://github.com/tanujnotes/Olauncher/issues/790",
-          "createdAt": "2026-11-19T16:34:14Z"
+          "label": "Build the Screenshots & Clipboard page: screenshots, clipboard history and screen recording",
+          "url": "https://github.com/mowi12/sway-things/issues/231",
+          "createdAt": "2026-11-20T16:48:50Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-currently",
-      "title": "[Feature Request] Allow Cropping Bitmaps by Dragging Edges and Adding Custom Nodes with the Shape Tool",
-      "summary": "### What you would like to do ## Description Currently, in TraceDraw v0.49.0, the **Shape Tool** does not provide the same intuitive bitmap cropping functionality available in CorelDRAW. In CorelDRAW, users can select a bitmap with the Shape Tool and drag its edges or corner node",
-      "score": 72,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 11
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-19T14:12:33Z",
-      "keywords": [
-        "feature",
-        "request",
-        "currently",
-        "users",
-        "like"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Allow Cropping Bitmaps by Dragging Edges and Adding Custom Nodes with the Shape Tool",
-          "url": "https://github.com/tracedraw/tracedraw/issues/3532",
-          "createdAt": "2026-11-19T14:12:33Z"
+          "label": "Build the Keyboard Shortcuts page: all bindings, editing without touching the user's files, conflicts",
+          "url": "https://github.com/mowi12/sway-things/issues/230",
+          "createdAt": "2026-11-20T16:48:46Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Ctrl+Click to Cycle Through Overlapping Objects and Select Objects Behind Others",
-          "url": "https://github.com/tracedraw/tracedraw/issues/3526",
-          "createdAt": "2026-11-19T14:00:18Z"
+          "label": "Paid Sponsorships for modpacks",
+          "url": "https://github.com/modrinth/code/issues/8406",
+          "createdAt": "2026-11-20T16:46:17Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature] Display Docker Healthcheck Information in ReCasaOS",
-          "url": "https://github.com/ReCasaOS/CasaOS/issues/166",
-          "createdAt": "2026-11-19T10:40:52Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-filmcraft",
-      "title": "[Feature Request] [FilmCraft] can't type in hex code for matte color",
-      "summary": "### Description match adobe's color picker. right now we can't paste in hex codes. this is potentially workflow breaking ### Ticket details | | | |---|---| | **App** | FilmCraft | | **Type** | Feature Request | | **Reported by** | skittixch — Discord user ID `241959760251977731`",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 11
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-19T16:50:45Z",
-      "keywords": [
-        "feature",
-        "request",
-        "filmcraft",
-        "type",
-        "description"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] [FilmCraft] can't type in hex code for matte color",
-          "url": "https://github.com/storytold/filmcraft/issues/5068",
-          "createdAt": "2026-11-19T16:50:45Z"
+          "label": "[FEATURE] claude.ai Sections with Project-level features, without Project isolation (general memory + global chat search)",
+          "url": "https://github.com/anthropics/claude-code/issues/111406",
+          "createdAt": "2026-11-20T16:45:29Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] [FilmCraft] filmcraft markers aren't interactive on timeline like premiere",
-          "url": "https://github.com/storytold/filmcraft/issues/5067",
-          "createdAt": "2026-11-19T16:40:58Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-related",
-      "title": "Expose state injection to Instruction.Provider (parity with Python)",
-      "summary": "### Is your feature request related to a specific problem? Since #275, `Instruction.Provider` intentionally bypasses session state injection (same as Python's `InstructionProvider`). That is fine, but a provider that builds its text from a template (for example loaded from an ext",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-19T16:34:22Z",
-      "keywords": [
-        "feature",
-        "request",
-        "related",
-        "specific",
-        "problem"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Expose state injection to Instruction.Provider (parity with Python)",
-          "url": "https://github.com/google/adk-java/issues/1870",
-          "createdAt": "2026-11-19T16:34:22Z"
+          "label": "[Feature] The update flags on apps / containers",
+          "url": "https://github.com/ReCasaOS/CasaOS/issues/171",
+          "createdAt": "2026-11-20T16:39:17Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Ways for the community to contribute to the Antigravity harness (partial open-source, extensibility, or roadmap)",
-          "url": "https://github.com/google-antigravity/antigravity-cli/issues/1666",
-          "createdAt": "2026-11-19T13:11:14Z"
+          "label": "[Feature] Webhook notifications for container, stack, update, security and system events",
+          "url": "https://github.com/ReCasaOS/CasaOS/issues/170",
+          "createdAt": "2026-11-20T15:43:07Z"
         }
       ]
     }
