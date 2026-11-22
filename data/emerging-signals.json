@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-21T16:08:21.890Z",
+  "generatedAt": "2026-11-22T16:16:29.884Z",
   "clusters": [
     {
       "id": "emerging-feature-request-related",
-      "title": "[Feature] Add Dark Mode toggle to open-source navigation menu",
-      "summary": "### Is your feature request related to a problem? Please describe. BuildBuddy already has a complete Dark Mode implementation in CSS (`app/root/colors.css` under `.dark`) and the backend flag `app.dark_mode_enabled` defaults to `true`. However, in the open-source application, the",
-      "score": 96,
+      "title": "Expose a per-device data timestamp to detect stale myenergi telemetry (yellow triangle)",
+      "summary": "**Is your feature request related to a problem? Please describe.** The myenergi app sometimes shows a yellow connectivity triangle for the Zappi (or other devices) even though the home internet and Wi-Fi are working. The Zappi still responds to ping and its local landing page ope",
+      "score": 77,
       "scoreComponents": {
         "base": 28,
-        "volume": 44,
-        "engagement": 24
+        "volume": 33,
+        "engagement": 16
       },
-      "requests": 5,
-      "latestSignal": "2026-11-21T15:54:05Z",
+      "requests": 3,
+      "latestSignal": "2026-11-22T15:49:44Z",
       "keywords": [
         "feature",
         "request",
@@ -25,110 +25,69 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature] Add Dark Mode toggle to open-source navigation menu",
-          "url": "https://github.com/buildbuddy-io/buildbuddy/issues/14261",
-          "createdAt": "2026-11-21T15:54:05Z"
+          "label": "Expose a per-device data timestamp to detect stale myenergi telemetry (yellow triangle)",
+          "url": "https://github.com/CJNE/ha-myenergi/issues/805",
+          "createdAt": "2026-11-22T15:49:44Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Allow apps to be rearranged in the ml4w dock (quickshell)",
-          "url": "https://github.com/mylinuxforwork/dotfiles/issues/1909",
-          "createdAt": "2026-11-21T15:32:45Z"
+          "label": "Show \"Solar-Eingang / Ausgang\" (power_out) for additional batteries under batteries:",
+          "url": "https://github.com/msucimaker3112/energy-cockpit/issues/98",
+          "createdAt": "2026-11-22T15:41:50Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Add support for Proton-Autogen",
-          "url": "https://github.com/Vysp3r/ProtonPlus/issues/1342",
-          "createdAt": "2026-11-21T01:42:46Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Import and Convert VBA .BAS Files",
-          "url": "https://github.com/storytold/gridcraft/issues/4602",
-          "createdAt": "2026-11-20T22:47:30Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Audio System Additions",
-          "url": "https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/7558",
-          "createdAt": "2026-11-20T22:35:18Z"
+          "label": "[FEATURE] Proposal for Proton-Autogen Integration into ProtonPlus",
+          "url": "https://github.com/Vysp3r/ProtonPlus/issues/1350",
+          "createdAt": "2026-11-22T14:57:04Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-add",
-      "title": "Feature request: Add calendar and upcoming widgets for android devices",
-      "summary": "### What problem would this solve? I want to check my upcoming tasks and schedule directly from my Android home screen without opening OpenTodo. The existing widgets focus on today's tasks, making it difficult to see future plans at a glance. ### What would you like to happen? I",
-      "score": 57,
+      "id": "emerging-feature-request-revu",
+      "title": "[Feature Request] in addition to my request for a batting insulation linetype I'd like to request…",
+      "summary": "in addition to my request for a batting insulation linetype I'd like to request a few more default linetypes similar to what Revu provides (i.e. Fencing, Gas, Hot Water, Zigzag, Double, Tracks, Road) **Sentiment:** 😊 **App Version:** 2026.48.2 **Attachments:** ![attachment-1](ht",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 7
+        "volume": 33,
+        "engagement": 0
       },
-      "requests": 2,
-      "latestSignal": "2026-11-21T15:35:23Z",
+      "requests": 3,
+      "latestSignal": "2026-11-22T16:14:15Z",
       "keywords": [
         "feature",
         "request",
-        "add",
-        "without",
-        "like"
+        "revu",
+        "sentiment",
+        "app"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature request: Add calendar and upcoming widgets for android devices",
-          "url": "https://github.com/OpenTodoApp/OpenTodo/issues/1718",
-          "createdAt": "2026-11-21T15:35:23Z"
+          "label": "[Feature Request] in addition to my request for a batting insulation linetype I'd like to request…",
+          "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio/issues/1223",
+          "createdAt": "2026-11-22T16:14:15Z"
         },
         {
           "source": "GitHub",
-          "label": "feature request",
-          "url": "https://github.com/yilewang/llm-for-zotero/issues/578",
-          "createdAt": "2026-11-21T04:54:02Z"
+          "label": "[Feature Request] Could we get a polygon annotation element (i.e. closed / filled version of the…",
+          "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio/issues/1222",
+          "createdAt": "2026-11-22T15:51:50Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request] Could we get the ability to copy and paste style in one keystroke rather than 2…",
+          "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio/issues/1221",
+          "createdAt": "2026-11-22T15:34:26Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-team",
-      "title": "Feature Request: Improved Checkpoint Management",
-      "summary": "Hello OSW Studio Development Team, First of all, thank you for developing OSW Studio. I really appreciate the concept of the application, especially the ability to work with projects locally without relying on GitHub for version control. I use the locally installed desktop versio",
-      "score": 57,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 7
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-21T11:07:30Z",
-      "keywords": [
-        "feature",
-        "request",
-        "team",
-        "first",
-        "all"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Improved Checkpoint Management",
-          "url": "https://github.com/o-stahl/osw-studio/issues/31",
-          "createdAt": "2026-11-21T11:07:30Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Module Consolidation & Productivity Hub Improvements",
-          "url": "https://github.com/liimalim/Poni/issues/110",
-          "createdAt": "2026-11-21T07:16:42Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-progress",
-      "title": "[Feature Request] Reader Slider: Add \"Undo Page Jump\" button and preserve page progress across chapter skips",
-      "summary": "### Describe your suggested feature ### Describe your suggested feature In reader mode, accidentally tapping the page slider immediately jumps to that position, and tapping the **Previous** (`|<`) or **Next** (`>|`) chapter buttons resets reading progress to Page 1. While minor i",
+      "id": "emerging-feature-preflight-checklist",
+      "title": "[FEATURE] Remote Control: pair devices at the host and verify signed input locally, so a Claude account takeover can't drive local sessions",
+      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement R",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -136,62 +95,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-11-21T16:07:51Z",
+      "latestSignal": "2026-11-22T16:08:14Z",
       "keywords": [
         "feature",
-        "request",
-        "progress",
-        "across",
-        "reading"
+        "preflight",
+        "checklist",
+        "searched",
+        "existing"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[Feature Request] Reader Slider: Add \"Undo Page Jump\" button and preserve page progress across chapter skips",
-          "url": "https://github.com/mihonapp/mihon/issues/4324",
-          "createdAt": "2026-11-21T16:07:51Z"
+          "label": "[FEATURE] Remote Control: pair devices at the host and verify signed input locally, so a Claude account takeover can't drive local sessions",
+          "url": "https://github.com/anthropics/claude-code/issues/111687",
+          "createdAt": "2026-11-22T16:08:14Z"
         },
         {
           "source": "GitHub",
-          "label": "Feature Request: External Progress Syncing Support",
-          "url": "https://github.com/abdeen-labs/rapid-serial-visual-presentation/issues/12",
-          "createdAt": "2026-08-16T02:34:17Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-add-all",
-      "title": "[FEATURE REQUEST] pls add triggers deadzone adjust and joystick and..",
-      "summary": "### Problem first of all im so thankfull to u and ppl who work in this type of thing so thanks again.. well my issue is controller g7 se feels slower in hooked compared to spartanport i dont mean to be rude at all, but i dont have anything more to compare with, in gamesir app i h",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-21T16:02:07Z",
-      "keywords": [
-        "feature",
-        "add",
-        "all",
-        "work",
-        "thanks"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[FEATURE REQUEST] pls add triggers deadzone adjust and joystick and..",
-          "url": "https://github.com/cuesta4/GOW3rehooked/issues/42",
-          "createdAt": "2026-11-21T16:02:07Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "feat: add Music Assistant as an audio app option in Waze",
-          "url": "https://github.com/bearinmindcat/morphe-patches/issues/233",
-          "createdAt": "2026-11-21T15:32:13Z"
+          "label": "[FEATURE] Desktop Code tab: folder picker to change an open session's working folder",
+          "url": "https://github.com/anthropics/claude-code/issues/111684",
+          "createdAt": "2026-11-22T15:40:20Z"
         }
       ]
     }
