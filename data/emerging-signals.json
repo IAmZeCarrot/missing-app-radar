@@ -1,19 +1,89 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-22T16:16:29.884Z",
+  "generatedAt": "2026-11-23T20:13:26.347Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-related",
-      "title": "Expose a per-device data timestamp to detect stale myenergi telemetry (yellow triangle)",
-      "summary": "**Is your feature request related to a problem? Please describe.** The myenergi app sometimes shows a yellow connectivity triangle for the Zappi (or other devices) even though the home internet and Wi-Fi are working. The Zappi still responds to ping and its local landing page ope",
-      "score": 77,
+      "id": "emerging-feature-request-first",
+      "title": "Feature Request: Huawei Control Center Music Player Integration",
+      "summary": "### What went wrong? First of all, Limusic on Android seems to be working really well. Thank you for your great work! I know this is long shot but i think its worth asking I have a Huawei phone, and I was wondering if it would be possible to make Limusic compatible with Huawei's",
+      "score": 61,
       "scoreComponents": {
         "base": 28,
-        "volume": 33,
-        "engagement": 16
+        "volume": 22,
+        "engagement": 11
       },
-      "requests": 3,
-      "latestSignal": "2026-11-22T15:49:44Z",
+      "requests": 2,
+      "latestSignal": "2026-11-23T19:26:15Z",
+      "keywords": [
+        "feature",
+        "request",
+        "first",
+        "all",
+        "really"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Huawei Control Center Music Player Integration",
+          "url": "https://github.com/SimoHypers/limusic-android/issues/40",
+          "createdAt": "2026-11-23T19:26:15Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "💡 Feature Request: Flexible Recurring Tasks with Custom Day Intervals and Past Start-Date Selection",
+          "url": "https://github.com/super-productivity/super-productivity/issues/11962",
+          "createdAt": "2026-11-23T18:40:16Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-first",
+      "title": "Feature Request: Allow overlay on left side",
+      "summary": "First, this is an incredible app, thank you for your work! Second, I was hoping to request an option to overlay the radar display on the left side of the screen. Two primary reasons: - In the US, traffic primarily passes on the left hand side; - Some apps (like Velorki) have menu",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-23T20:05:23Z",
+      "keywords": [
+        "feature",
+        "request",
+        "first",
+        "primary",
+        "reasons"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Allow overlay on left side",
+          "url": "https://github.com/partymola/android-bike-radar-overlay/issues/63",
+          "createdAt": "2026-11-23T20:05:23Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[Feature Request]: Position precision on Primary and Secondary channels",
+          "url": "https://github.com/meshtastic/firmware/issues/12461",
+          "createdAt": "2026-11-23T19:31:54Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-request-related",
+      "title": "[FEATURE]: Allow customizing worktree location",
+      "summary": "**Is your feature request related to a problem? Please describe.** I love that worktree support is already integrated into Azd, but the path appears to be hardcoded. It's putting them in a folder that's deep enough that I get errors when checking out a worktree due to the path be",
+      "score": 57,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 7
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-23T19:57:02Z",
       "keywords": [
         "feature",
         "request",
@@ -25,69 +95,22 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Expose a per-device data timestamp to detect stale myenergi telemetry (yellow triangle)",
-          "url": "https://github.com/CJNE/ha-myenergi/issues/805",
-          "createdAt": "2026-11-22T15:49:44Z"
+          "label": "[FEATURE]: Allow customizing worktree location",
+          "url": "https://github.com/edgafner/dorkag/issues/411",
+          "createdAt": "2026-11-23T19:57:02Z"
         },
         {
           "source": "GitHub",
-          "label": "Show \"Solar-Eingang / Ausgang\" (power_out) for additional batteries under batteries:",
-          "url": "https://github.com/msucimaker3112/energy-cockpit/issues/98",
-          "createdAt": "2026-11-22T15:41:50Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[FEATURE] Proposal for Proton-Autogen Integration into ProtonPlus",
-          "url": "https://github.com/Vysp3r/ProtonPlus/issues/1350",
-          "createdAt": "2026-11-22T14:57:04Z"
+          "label": "[Feature Request] Add CAD-like Fillet and Chamfer Tools with Direct Edge Selection",
+          "url": "https://github.com/bambulab/BambuStudio/issues/13282",
+          "createdAt": "2026-11-23T11:36:35Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-revu",
-      "title": "[Feature Request] in addition to my request for a batting insulation linetype I'd like to request…",
-      "summary": "in addition to my request for a batting insulation linetype I'd like to request a few more default linetypes similar to what Revu provides (i.e. Fencing, Gas, Hot Water, Zigzag, Double, Tracks, Road) **Sentiment:** 😊 **App Version:** 2026.48.2 **Attachments:** ![attachment-1](ht",
-      "score": 61,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 33,
-        "engagement": 0
-      },
-      "requests": 3,
-      "latestSignal": "2026-11-22T16:14:15Z",
-      "keywords": [
-        "feature",
-        "request",
-        "revu",
-        "sentiment",
-        "app"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] in addition to my request for a batting insulation linetype I'd like to request…",
-          "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio/issues/1223",
-          "createdAt": "2026-11-22T16:14:15Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Could we get a polygon annotation element (i.e. closed / filled version of the…",
-          "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio/issues/1222",
-          "createdAt": "2026-11-22T15:51:50Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "[Feature Request] Could we get the ability to copy and paste style in one keystroke rather than 2…",
-          "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio/issues/1221",
-          "createdAt": "2026-11-22T15:34:26Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-preflight-checklist",
-      "title": "[FEATURE] Remote Control: pair devices at the host and verify signed input locally, so a Claude account takeover can't drive local sessions",
-      "summary": "### Preflight Checklist - [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement R",
+      "id": "emerging-feature-request-app",
+      "title": "Feature Request: Add .EML email file indexing",
+      "summary": "I'd like to add my emails into Miyo's indexing and my email app (MailMate) keeps them in the .EML format.",
       "score": 50,
       "scoreComponents": {
         "base": 28,
@@ -95,27 +118,27 @@
         "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-11-22T16:08:14Z",
+      "latestSignal": "2026-11-23T19:47:25Z",
       "keywords": [
         "feature",
-        "preflight",
-        "checklist",
-        "searched",
-        "existing"
+        "request",
+        "app",
+        "add",
+        "eml"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE] Remote Control: pair devices at the host and verify signed input locally, so a Claude account takeover can't drive local sessions",
-          "url": "https://github.com/anthropics/claude-code/issues/111687",
-          "createdAt": "2026-11-22T16:08:14Z"
+          "label": "Feature Request: Add .EML email file indexing",
+          "url": "https://github.com/logancyang/obsidian-copilot/issues/4639",
+          "createdAt": "2026-11-23T19:47:25Z"
         },
         {
           "source": "GitHub",
-          "label": "[FEATURE] Desktop Code tab: folder picker to change an open session's working folder",
-          "url": "https://github.com/anthropics/claude-code/issues/111684",
-          "createdAt": "2026-11-22T15:40:20Z"
+          "label": "Feature request",
+          "url": "https://github.com/d3mocide/MeshRF/issues/26",
+          "createdAt": "2026-11-23T19:30:46Z"
         }
       ]
     }

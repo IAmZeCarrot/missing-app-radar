@@ -2,19 +2,6 @@
   "schemaVersion": 1,
   "snapshots": [
     {
-      "date": "2026-08-24",
-      "clusters": 1,
-      "requests": 9,
-      "sources": 1,
-      "topClusters": [
-        {
-          "id": "emerging-feature-request-problem",
-          "score": 72,
-          "requests": 9
-        }
-      ]
-    },
-    {
       "date": "2026-08-25",
       "clusters": 3,
       "requests": 14,
@@ -2201,6 +2188,34 @@
         },
         {
           "id": "emerging-feature-preflight-checklist",
+          "score": 50,
+          "requests": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "clusters": 4,
+      "requests": 8,
+      "sources": 1,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-first",
+          "score": 61,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-first",
+          "score": 57,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 57,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-app",
           "score": 50,
           "requests": 2
         }
