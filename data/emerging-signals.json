@@ -1,89 +1,136 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-23T20:13:26.347Z",
+  "generatedAt": "2026-11-24T19:29:50.627Z",
   "clusters": [
     {
-      "id": "emerging-feature-request-first",
-      "title": "Feature Request: Huawei Control Center Music Player Integration",
-      "summary": "### What went wrong? First of all, Limusic on Android seems to be working really well. Thank you for your great work! I know this is long shot but i think its worth asking I have a Huawei phone, and I was wondering if it would be possible to make Limusic compatible with Huawei's",
-      "score": 61,
+      "id": "emerging-feature-request-description",
+      "title": "[FR] Feature Request: Integrate ITDog routing rule sets into the default Russia region configuration",
+      "summary": "### Feature description <html> <body> <!--StartFragment--><h2><span>Feature request</span></h2><p><span>Hello Hiddify Team!</span></p><p><span>I would like to suggest adding the ITDog community-maintained routing rule sets to the default routing configuration when Russia is selec",
+      "score": 75,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
-        "engagement": 11
+        "volume": 33,
+        "engagement": 14
       },
-      "requests": 2,
-      "latestSignal": "2026-11-23T19:26:15Z",
+      "requests": 3,
+      "latestSignal": "2026-11-24T18:50:38Z",
       "keywords": [
         "feature",
         "request",
-        "first",
-        "all",
-        "really"
+        "description",
+        "html",
+        "body"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Huawei Control Center Music Player Integration",
-          "url": "https://github.com/SimoHypers/limusic-android/issues/40",
-          "createdAt": "2026-11-23T19:26:15Z"
+          "label": "[FR] Feature Request: Integrate ITDog routing rule sets into the default Russia region configuration",
+          "url": "https://github.com/hiddify/hiddify-app/issues/2692",
+          "createdAt": "2026-11-24T18:50:38Z"
         },
         {
           "source": "GitHub",
-          "label": "💡 Feature Request: Flexible Recurring Tasks with Custom Day Intervals and Past Start-Date Selection",
-          "url": "https://github.com/super-productivity/super-productivity/issues/11962",
-          "createdAt": "2026-11-23T18:40:16Z"
+          "label": "Feature Request: Support merging missing properties in initialContent",
+          "url": "https://github.com/Netcentric/accesscontroltool/issues/935",
+          "createdAt": "2026-11-24T14:03:36Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "Feature Request: Support updating cycling FTP and power zones",
+          "url": "https://github.com/Taxuspt/garmin_mcp/issues/524",
+          "createdAt": "2026-11-24T12:48:46Z"
         }
       ]
     },
     {
-      "id": "emerging-feature-request-first",
-      "title": "Feature Request: Allow overlay on left side",
-      "summary": "First, this is an incredible app, thank you for your work! Second, I was hoping to request an option to overlay the radar display on the left side of the screen. Two primary reasons: - In the US, traffic primarily passes on the left hand side; - Some apps (like Velorki) have menu",
-      "score": 57,
+      "id": "emerging-feature-request-option",
+      "title": "Feature request: Option drag element copies element",
+      "summary": "I have a feature request: In a lot of drawing apps option-drag ( ⌥-drag), makes a copy of the dragged object. It would be great if this could be implemented. So you can easily make a copy of a styled element. == Feek",
+      "score": 68,
       "scoreComponents": {
         "base": 28,
-        "volume": 22,
+        "volume": 33,
         "engagement": 7
       },
-      "requests": 2,
-      "latestSignal": "2026-11-23T20:05:23Z",
+      "requests": 3,
+      "latestSignal": "2026-11-24T19:18:51Z",
       "keywords": [
         "feature",
         "request",
-        "first",
-        "primary",
-        "reasons"
+        "option",
+        "apps",
+        "great"
       ],
       "reviewStatus": "automatic",
       "evidence": [
         {
           "source": "GitHub",
-          "label": "Feature Request: Allow overlay on left side",
-          "url": "https://github.com/partymola/android-bike-radar-overlay/issues/63",
-          "createdAt": "2026-11-23T20:05:23Z"
+          "label": "Feature request: Option drag element copies element",
+          "url": "https://github.com/sw33tLie/macshot/issues/531",
+          "createdAt": "2026-11-24T19:18:51Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request]: Position precision on Primary and Secondary channels",
-          "url": "https://github.com/meshtastic/firmware/issues/12461",
-          "createdAt": "2026-11-23T19:31:54Z"
+          "label": "Feature Request: Option to block external app redirects",
+          "url": "https://github.com/alexhvoyer/fir/issues/4",
+          "createdAt": "2026-11-24T18:57:41Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "feature request: more streamline options",
+          "url": "https://github.com/d70-t/gridlook/issues/273",
+          "createdAt": "2026-11-24T09:05:00Z"
+        }
+      ]
+    },
+    {
+      "id": "emerging-feature-preflight-checklist",
+      "title": "[FEATURE] Desktop: arrow-key (or j/k) navigation of the session sidebar with a key to archive the highlighted session",
+      "summary": "### Preflight Checklist - [x] I have searched existing requests and this feature hasn't been requested yet - [x] This is a single feature request (not multiple features) ### Problem Statement I run a lot of sessions in the Code tab of the desktop app, and periodically I clean out",
+      "score": 66,
+      "scoreComponents": {
+        "base": 28,
+        "volume": 22,
+        "engagement": 16
+      },
+      "requests": 2,
+      "latestSignal": "2026-11-24T19:23:07Z",
+      "keywords": [
+        "feature",
+        "preflight",
+        "checklist",
+        "searched",
+        "existing"
+      ],
+      "reviewStatus": "automatic",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Desktop: arrow-key (or j/k) navigation of the session sidebar with a key to archive the highlighted session",
+          "url": "https://github.com/anthropics/claude-code/issues/112049",
+          "createdAt": "2026-11-24T19:23:07Z"
+        },
+        {
+          "source": "GitHub",
+          "label": "[FEATURE] Shared team workspace: tasks with assignees and statuses, synced with GitHub issues/PRs and executable by Claude Code",
+          "url": "https://github.com/anthropics/claude-code/issues/112020",
+          "createdAt": "2026-11-24T16:10:49Z"
         }
       ]
     },
     {
       "id": "emerging-feature-request-related",
-      "title": "[FEATURE]: Allow customizing worktree location",
-      "summary": "**Is your feature request related to a problem? Please describe.** I love that worktree support is already integrated into Azd, but the path appears to be hardcoded. It's putting them in a folder that's deep enough that I get errors when checking out a worktree due to the path be",
-      "score": 57,
+      "title": "Search places on the incident map",
+      "summary": "**Is your feature request related to a problem? Please describe.** On `/dashboard/map`, responders find an area only by panning and zooming. When a caller names a place (\"near the Tacas chapel\", \"Baybay Sur\"), there's no quick way to jump there and see the reports around it. **De",
+      "score": 50,
       "scoreComponents": {
         "base": 28,
         "volume": 22,
-        "engagement": 7
+        "engagement": 0
       },
       "requests": 2,
-      "latestSignal": "2026-11-23T19:57:02Z",
+      "latestSignal": "2026-11-24T19:00:00Z",
       "keywords": [
         "feature",
         "request",
@@ -95,50 +142,15 @@
       "evidence": [
         {
           "source": "GitHub",
-          "label": "[FEATURE]: Allow customizing worktree location",
-          "url": "https://github.com/edgafner/dorkag/issues/411",
-          "createdAt": "2026-11-23T19:57:02Z"
+          "label": "Search places on the incident map",
+          "url": "https://github.com/sleeping-angels/cmsc128-project/issues/173",
+          "createdAt": "2026-11-24T19:00:00Z"
         },
         {
           "source": "GitHub",
-          "label": "[Feature Request] Add CAD-like Fillet and Chamfer Tools with Direct Edge Selection",
-          "url": "https://github.com/bambulab/BambuStudio/issues/13282",
-          "createdAt": "2026-11-23T11:36:35Z"
-        }
-      ]
-    },
-    {
-      "id": "emerging-feature-request-app",
-      "title": "Feature Request: Add .EML email file indexing",
-      "summary": "I'd like to add my emails into Miyo's indexing and my email app (MailMate) keeps them in the .EML format.",
-      "score": 50,
-      "scoreComponents": {
-        "base": 28,
-        "volume": 22,
-        "engagement": 0
-      },
-      "requests": 2,
-      "latestSignal": "2026-11-23T19:47:25Z",
-      "keywords": [
-        "feature",
-        "request",
-        "app",
-        "add",
-        "eml"
-      ],
-      "reviewStatus": "automatic",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "label": "Feature Request: Add .EML email file indexing",
-          "url": "https://github.com/logancyang/obsidian-copilot/issues/4639",
-          "createdAt": "2026-11-23T19:47:25Z"
-        },
-        {
-          "source": "GitHub",
-          "label": "Feature request",
-          "url": "https://github.com/d3mocide/MeshRF/issues/26",
-          "createdAt": "2026-11-23T19:30:46Z"
+          "label": "[Feature Request] Sort playlists",
+          "url": "https://github.com/dylfrancis/aurral-pocket/issues/479",
+          "createdAt": "2026-11-24T18:58:28Z"
         }
       ]
     }
