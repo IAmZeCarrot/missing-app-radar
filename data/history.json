@@ -2,29 +2,6 @@
   "schemaVersion": 1,
   "snapshots": [
     {
-      "date": "2026-08-26",
-      "clusters": 3,
-      "requests": 11,
-      "sources": 1,
-      "topClusters": [
-        {
-          "id": "emerging-feature-request-problem",
-          "score": 83,
-          "requests": 7
-        },
-        {
-          "id": "emerging-feature-request-suggest",
-          "score": 50,
-          "requests": 2
-        },
-        {
-          "id": "emerging-feature-like-request",
-          "score": 50,
-          "requests": 2
-        }
-      ]
-    },
-    {
       "date": "2026-08-27",
       "clusters": 2,
       "requests": 7,
@@ -2221,6 +2198,39 @@
         },
         {
           "id": "emerging-feature-request-related",
+          "score": 50,
+          "requests": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "clusters": 5,
+      "requests": 15,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-feature-request-app",
+          "score": 72,
+          "requests": 4
+        },
+        {
+          "id": "emerging-feature-request-related",
+          "score": 72,
+          "requests": 5
+        },
+        {
+          "id": "emerging-show-private-windows",
+          "score": 71,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-interface",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-chat-request",
           "score": 50,
           "requests": 2
         }
