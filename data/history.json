@@ -2,24 +2,6 @@
   "schemaVersion": 1,
   "snapshots": [
     {
-      "date": "2026-08-28",
-      "clusters": 2,
-      "requests": 4,
-      "sources": 2,
-      "topClusters": [
-        {
-          "id": "emerging-open-source-don",
-          "score": 78,
-          "requests": 2
-        },
-        {
-          "id": "emerging-support-github-environment",
-          "score": 50,
-          "requests": 2
-        }
-      ]
-    },
-    {
       "date": "2026-08-29",
       "clusters": 2,
       "requests": 4,
@@ -2236,6 +2218,34 @@
         },
         {
           "id": "emerging-feature-request-option",
+          "score": 50,
+          "requests": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "clusters": 4,
+      "requests": 8,
+      "sources": 2,
+      "topClusters": [
+        {
+          "id": "emerging-show-free-app",
+          "score": 68,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-first",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-multiple",
+          "score": 50,
+          "requests": 2
+        },
+        {
+          "id": "emerging-feature-request-possible",
           "score": 50,
           "requests": 2
         }
